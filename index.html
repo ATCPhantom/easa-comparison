@@ -1,7 +1,118 @@
 <!DOCTYPE html>
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
+	<div class="card">
+		<img src="res/EASA_Logo.png" class="card-img-top">
+		<div class="card-body">
+			<h1 class="card-title">Compare XML Rulesets</h1>
+			<div class="dropdown">
+		        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+		        Select ruleset
+		        </button>
+		        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+		            <a class="dropdown-item" onclick="set_ruleset('2017.373 ATM / ANS')">2017.373 ATM / ANS</a>
+		            <a class="dropdown-item" onclick="set_ruleset('923.2012 - SERA')">923.2012 - SERA</a>
+		            <a class="dropdown-item" onclick="set_ruleset('139.2014 - ADR')">139.2014 - ADR</a>
+		            <a class="dropdown-item" onclick="set_ruleset('965.2012 - Air Operations')">965.2012 - Air Operations</a>
+	        </div>
+
+	        <div class="list-group" id="listGroup">
+	        	<h4 id="list-group-title"></h4>
+	        	<div id="atm-grp" style="display:none">
+		        	<label class="list-group-item d-flex gap-2">
+		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+		        		<span>February 2023</span>
+		        	</label>
+		        	<label class="list-group-item d-flex gap-2">
+		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+		        		<span>November 2022</span>
+		        	</label>
+	        	</div>
+	        	<div id="sera-grp" style="display:none">
+		        	<label class="list-group-item d-flex gap-2">
+		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+		        		<span>March 2020</span>
+		        	</label>
+		        	<label class="list-group-item d-flex gap-2">
+		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+		        		<span>Oktober 2022</span>
+		        	</label>
+	        	</div>
+	        </div>
+	        <button id="compare-btn" style="display:none" disabled>Compare</button>
+	    </div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 	
+	<script>
+		var num_check = 0;
+
+		// setup the ruleset based on selection from dropdown menu
+		function set_ruleset(val){
+			uncheck()
+			document.getElementById('list-group-title').innerHTML = val;
+			document.getElementById('atm-grp').style.display = "none";
+			document.getElementById('sera-grp').style.display = "none";
+
+
+			switch(val){
+				case "2017.373 ATM / ANS":
+					document.getElementById('atm-grp').style.display = "block";
+					break;
+				case "923.2012 - SERA":
+					document.getElementById('sera-grp').style.display = "block";
+					break;
+				case "139.2014 - ADR":
+					break;
+				case "965.2012 - Air Operations":
+					break;
+				default:
+					console.log("error");
+			}
+
+			document.getElementById('compare-btn').style.display = "inline";
+		}
+
+		// uncheck all checkboxes
+		function uncheck(){
+			disable_btn(true) // disable 'compare' button
+			const checkboxes = document.getElementsByClassName('form-check-input')
+			for(let i = 0; i < checkboxes.length; i++){
+				checkboxes[i].checked = false
+			}
+
+		}
+
+		// monitor how many of the check boxes are checked
+		function check_boxes(e){
+
+			if(e.checked){
+				num_check+=1
+			}else{
+				num_check-=1
+			}
+
+			if (num_check === 2){
+				disable_btn(false)
+			}else{
+				disable_btn(true)
+				
+			}
+		}
+
+		// disable or enable "compare button"
+		function disable_btn(b){
+			if(b){
+				document.getElementById('compare-btn').disabled = true;
+			}else{
+				document.getElementById('compare-btn').disabled = false;
+				num_check = 0
+			}
+		}
+	</script>
 </body>
