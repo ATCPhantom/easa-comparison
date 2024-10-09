@@ -44,13 +44,13 @@
 		        	</label>
 	        	</div>
 	        </div>
-	        <button id="compare-btn" style="display:none" disabled>Compare</button>
+	        <button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare</button>
 	    </div>
 	</div>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 	
 	<script>
-		var num_check = 0;
+		let num_check = 0;
 
 		// setup the ruleset based on selection from dropdown menu
 		function set_ruleset(val){
@@ -85,7 +85,6 @@
 			for(let i = 0; i < checkboxes.length; i++){
 				checkboxes[i].checked = false
 			}
-
 		}
 
 		// monitor how many of the check boxes are checked
@@ -113,6 +112,31 @@
 				document.getElementById('compare-btn').disabled = false;
 				num_check = 0
 			}
+		}
+
+		function get_comparitors(){
+			const checkboxes = document.getElementsByClassName('form-check-input');
+			const checked = [];
+			checked.push(document.getElementById('list-group-title').innerHTML);
+
+			for(let i = 0; i < checkboxes.length; i++){
+				if(checkboxes[i].checked === true){
+					checked.push(checkboxes[i].parentElement.children[1].innerHTML);
+				}
+			}
+			return checked;
+		}
+
+		function compare(){
+			const checked = get_comparitors()
+			
+			run_python();
+		}
+
+		function run_python(){
+			var xhr = new XMLHttpRequest();
+			xhr.open("GET", "python_script.py", true);
+			xhr.send();
 		}
 	</script>
 </body>
