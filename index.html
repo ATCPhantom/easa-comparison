@@ -10,7 +10,7 @@
 		<img src="res/EASA_Logo.png" class="card-img-top">
 		<div class="card-body">
 			<h1 class="card-title">Compare XML Rulesets</h1>
-			<div class="dropdown">
+			<div class="dropdown" id="dropdown-btn">
 		        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
 		        Select ruleset
 		        </button>
@@ -44,7 +44,8 @@
 		        	</label>
 	        	</div>
 	        </div>
-	        <button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare</button>
+
+	        <button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare<a href="comparison.html"></button>
 	    </div>
 	</div>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
@@ -55,7 +56,7 @@
 		// setup the ruleset based on selection from dropdown menu
 		function set_ruleset(val){
 			uncheck()
-			document.getElementById('list-group-title').innerHTML = val;
+			chg_text('list-group-title', val);
 			document.getElementById('atm-grp').style.display = "none";
 			document.getElementById('sera-grp').style.display = "none";
 
@@ -76,6 +77,10 @@
 			}
 
 			document.getElementById('compare-btn').style.display = "inline";
+		}
+
+		function chg_text(e, txt){
+			document.getElementById(e).innerHTML = txt;
 		}
 
 		// uncheck all checkboxes
@@ -114,6 +119,12 @@
 			}
 		}
 
+		function hide_selection(){
+			document.getElementById('dropdown-btn').style.display = "none";
+			document.getElementById('listGroup').style.display = "none";
+			document.getElementById('compare-btn').style.display = "none";
+		}
+
 		function get_comparitors(){
 			const checkboxes = document.getElementsByClassName('form-check-input');
 			const checked = [];
@@ -129,14 +140,56 @@
 
 		function compare(){
 			const checked = get_comparitors()
-			
-			run_python();
-		}
+			let file_new = ""
+			let file_old = ""
+			let parser = new DOMParser();
 
-		function run_python(){
-			var xhr = new XMLHttpRequest();
-			xhr.open("GET", "python_script.py", true);
-			xhr.send();
+			switch(checked[0]){
+				case "2017.373 ATM / ANS":
+					file_new = "/xml/atm/" + checked[1] + ".xml";
+					file_old = "/xml/atm/" + checked[2] + ".xml";
+
+					xmlFiles = [file_new, file_old];
+
+					const load = (file) => new Promise((resolve) => {
+						const request = new XMLHttpRequest()
+						request.open("GET", file)
+						request.onload = function() {
+							resolve(parser.parseFromString(request.responseText, "text/xml"));
+						}
+						request.send()
+					})
+
+					Promise
+						.all(xmlFiles.map((file) => load(file)))
+						.then(function(xmlDocuments) {
+							console.log(xmlDocuments[0])
+						})
+
+					chg_text('list-group-title', "Changes:");
+					uncheck()
+					hide_selection()
+
+					/*fetch_xml(file_new, file_old)
+						.then(function(result) {
+							console.log(result);
+						})*/
+					//console.log(xml1)
+					//console.log("4: " + xml);
+					/*console.log(xml_files[0].getElementsByTagName('er:topic')[200].getAttribute('source-title'));*/
+
+					break;
+				case "923.2012 - SERA":
+					//let url_new = "/xml/atm/" + checked[1] + ".xml"
+					//let url_old = "/xml/atm/" + checked[2] + ".xml"
+					break;
+				case "139.2014 - ADR":
+					break;
+				case "965.2012 - Air Operations":
+					break;
+				default:
+					console.log("error");
+			}
 		}
 	</script>
 </body>
