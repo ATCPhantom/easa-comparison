@@ -38,3 +38,8 @@ body{
 #compare-btn{
 	margin-top: 20px;
 }
+
+#display-changes{
+	padding-top: 5px;
+	text-align: left;
+}

@@ -44,8 +44,11 @@
 		        	</label>
 	        	</div>
 	        </div>
-
-	        <button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare<a href="comparison.html"></button>
+	        <div>
+	    		<button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare></button>
+    		</div>
+			<div id="display-changes">
+			</div>
 	    </div>
 	</div>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
@@ -140,6 +143,7 @@
 
 		function compare(){
 			const checked = get_comparitors()
+			hide_selection()
 			let file_new = ""
 			let file_old = ""
 			let parser = new DOMParser();
@@ -162,13 +166,102 @@
 
 					Promise
 						.all(xmlFiles.map((file) => load(file)))
-						.then(function(xmlDocuments) {
-							console.log(xmlDocuments[0])
+						.then(function(root) {
+							const d_new = root[0]
+							const d_old = root[1]
+							e = document.getElementById("display-changes");
+							document.getElementsByClassName('card-title')[0].innerHTML = "Changes:"
+
+							/*e.appendChild(document.createTextNode(root[0].getElementsByTagName('er:topic')[200].getAttribute('source-title')));*/
+							let topics_new = []
+							let topics_old = []
+							let erules_new = []
+							let erules_old = []
+							let chg_topics = []
+							let rem_topics = []
+							let new_topics = []
+							// This array controls which regulatory subjects are included
+							let subs = ['Part-ATM/ANS.AR;', 'Part-ATM/ANS.OR;', 'Part-ATS;', 'Part-MET;', 'Part-AIS;', 'Part-DAT;', 'Part-CNS;', 'Part-ATFM;', 'Part-ASM;', 'Part-ASD;', 'Part-FDP;', 'Part-NM;', 'Part-PERS;'];
+							
+							for(let i = 0; i < d_new.getElementsByTagName('er:topic').length; i++){
+								t = d_new.getElementsByTagName('er:topic')[i];
+								if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
+									topics_new.push(t);
+									erules_new.push(t.getAttribute('ERulesId'))
+								}
+							}
+
+							for(let i = 0; i < d_old.getElementsByTagName('er:topic').length; i++){
+								t = d_old.getElementsByTagName('er:topic')[i];
+								if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
+									topics_old.push(t);
+									erules_old.push(t.getAttribute('ERulesId'))
+								}
+							}
+							
+							if(topics_new.length > topics_old.length){
+								let offset = 0
+								for(let i = 0; i < topics_new.length; i++){
+									// Check if the erule is new
+									if(erules_new[i] != erules_old[i+offset]){
+										//offset because erules old is smaller than erules new
+										if(!erules_old.includes(erules_new[i])){
+											//new content added to the last version
+											new_topics.push(topics_new[i].getAttribute('source-title'));
+										}else{
+											//the old file has the new erule later, hence an erule has been removed from the old one
+											if(!erules_new.includes(erules_old[i])){
+												rem_topics.push(topics_old[i].getAttribute('source-title'))
+											}
+										}
+
+										offset -= 1
+									}else{
+										//erules are the same, so we check for changed text
+										p_lst1 = [...topics_new[i].getElementsByTagName("para")];
+										let text1 = ""
+										p_lst1.forEach(function(d){
+											text1 += d.textContent;
+										});
+										p_lst2 = [...topics_new[i].getElementsByTagName("para")];
+										let text2 = ""
+										p_lst2.forEach(function(d){
+											text2 += d.textContent;
+										});
+
+										if(text1 != text2){
+											chg_topics.push(topics_new[i].getAttribute('source-title'))
+										}
+									}
+								}
+							}/*else if(topics_old.length > topics_new.length){
+								let offset = 0
+								for(let i = 0; i < topics_old.length; i++){
+									
+									if(erules_old[i] != erules_new[i+offset]){
+										offset -= 1
+									}
+								}
+							}*/
+							
+							console.log("new: " + new_topics)
+							console.log("changed: " + chg_topics)
+							console.log("removed: " + rem_topics)
+
+							
+							
+
+
+							/*for(let element in d_new.getElementsByTagName('er:topic')){
+								if element.get('TypeOfContent') != '' or d_new.get('source-title')[0:2] in ('AM', 'GM'){
+									console.log(element.get('TypeOfContent'))
+								}
+							}*/
 						})
 
-					chg_text('list-group-title', "Changes:");
-					uncheck()
-					hide_selection()
+					//chg_text('list-group-title', "Changes:");
+					//uncheck()
+					//hide_selection()
 
 					/*fetch_xml(file_new, file_old)
 						.then(function(result) {
