@@ -7,9 +7,11 @@
 </head>
 <body>
 	<div class="card">
-		<img src="res/EASA_Logo.png" class="card-img-top">
+		<a href="index.html">
+			<img src="res/EASA_Logo.png" class="card-img-top">
+		</a>
 		<div class="card-body">
-			<h1 class="card-title">Compare XML Rulesets</h1>
+			<h2 class="card-title">Compare XML Rulesets</h2>
 			<div class="dropdown" id="dropdown-btn">
 		        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
 		        Select ruleset
@@ -48,6 +50,12 @@
 	    		<button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare></button>
     		</div>
 			<div id="display-changes">
+				<h5 id=h-new></h5>
+				<ul id="ul-new"></ul>
+				<h5 id=h-chg></h5>
+				<ul id="ul-chg"></ul>
+				<h5 id=h-rem></h5>
+				<ul id="ul-rem"></ul>
 			</div>
 	    </div>
 	</div>
@@ -169,10 +177,20 @@
 						.then(function(root) {
 							const d_new = root[0]
 							const d_old = root[1]
+							document.getElementsByClassName('card-title')[0].innerHTML =
+								document.getElementById('list-group-title').innerHTML;
 							e = document.getElementById("display-changes");
-							document.getElementsByClassName('card-title')[0].innerHTML = "Changes:"
+							const h_new = document.getElementById("h-new");
+							const h_chg = document.getElementById("h-chg");
+							const h_rem = document.getElementById("h-rem");
+							h_new.innerHTML = "New Topics:"
+							h_chg.innerHTML = "Changed Topics:"
+							h_rem.innerHTML = "Removed Topics:"
+							
+							const ul_new = document.getElementById("ul-new");
+							const ul_chg = document.getElementById("ul-chg");
+							const ul_rem = document.getElementById("ul-rem");
 
-							/*e.appendChild(document.createTextNode(root[0].getElementsByTagName('er:topic')[200].getAttribute('source-title')));*/
 							let topics_new = []
 							let topics_old = []
 							let erules_new = []
@@ -185,7 +203,11 @@
 							
 							for(let i = 0; i < d_new.getElementsByTagName('er:topic').length; i++){
 								t = d_new.getElementsByTagName('er:topic')[i];
-								if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
+								/*if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
+									topics_new.push(t);
+									erules_new.push(t.getAttribute('ERulesId'))
+								}*/
+								if(subs.includes(t.getAttribute('RegulatorySubject'))){
 									topics_new.push(t);
 									erules_new.push(t.getAttribute('ERulesId'))
 								}
@@ -193,29 +215,33 @@
 
 							for(let i = 0; i < d_old.getElementsByTagName('er:topic').length; i++){
 								t = d_old.getElementsByTagName('er:topic')[i];
-								if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
+								/*if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
+									topics_old.push(t);
+									erules_old.push(t.getAttribute('ERulesId'))
+								}*/
+								if(subs.includes(t.getAttribute('RegulatorySubject'))){
 									topics_old.push(t);
 									erules_old.push(t.getAttribute('ERulesId'))
 								}
 							}
-							
+
 							if(topics_new.length > topics_old.length){
 								let offset = 0
 								for(let i = 0; i < topics_new.length; i++){
 									// Check if the erule is new
-									if(erules_new[i] != erules_old[i+offset]){
+									if(erules_new[i] != erules_old[i-offset]){
 										//offset because erules old is smaller than erules new
 										if(!erules_old.includes(erules_new[i])){
 											//new content added to the last version
 											new_topics.push(topics_new[i].getAttribute('source-title'));
 										}else{
 											//the old file has the new erule later, hence an erule has been removed from the old one
-											if(!erules_new.includes(erules_old[i])){
-												rem_topics.push(topics_old[i].getAttribute('source-title'))
+											if(!erules_new.includes(erules_old[i-offset])){
+												rem_topics.push(topics_old[i-offset].getAttribute('source-title'));
 											}
 										}
 
-										offset -= 1
+										offset += 1
 									}else{
 										//erules are the same, so we check for changed text
 										p_lst1 = [...topics_new[i].getElementsByTagName("para")];
@@ -223,14 +249,14 @@
 										p_lst1.forEach(function(d){
 											text1 += d.textContent;
 										});
-										p_lst2 = [...topics_new[i].getElementsByTagName("para")];
+										p_lst2 = [...topics_old[i-offset].getElementsByTagName("para")];
 										let text2 = ""
 										p_lst2.forEach(function(d){
 											text2 += d.textContent;
 										});
 
 										if(text1 != text2){
-											chg_topics.push(topics_new[i].getAttribute('source-title'))
+											chg_topics.push(topics_new[i].getAttribute('source-title'));
 										}
 									}
 								}
@@ -243,33 +269,24 @@
 									}
 								}
 							}*/
-							
-							console.log("new: " + new_topics)
-							console.log("changed: " + chg_topics)
-							console.log("removed: " + rem_topics)
 
-							
-							
-
-
-							/*for(let element in d_new.getElementsByTagName('er:topic')){
-								if element.get('TypeOfContent') != '' or d_new.get('source-title')[0:2] in ('AM', 'GM'){
-									console.log(element.get('TypeOfContent'))
-								}
-							}*/
+							// Place content in HTML element
+							for(var i = 0; i < new_topics.length; i++){
+								let li = document.createElement("li");
+								li.innerHTML = new_topics[i];
+								ul_new.appendChild(li)
+							}
+							for(var i = 0; i < chg_topics.length; i++){
+								let li = document.createElement("li");
+								li.innerHTML = chg_topics[i];
+								ul_chg.appendChild(li)
+							}
+							for(var i = 0; i < rem_topics.length; i++){
+								let li = document.createElement("li");
+								li.innerHTML = rem_topics[i];
+								ul_rem.appendChild(li)
+							}
 						})
-
-					//chg_text('list-group-title', "Changes:");
-					//uncheck()
-					//hide_selection()
-
-					/*fetch_xml(file_new, file_old)
-						.then(function(result) {
-							console.log(result);
-						})*/
-					//console.log(xml1)
-					//console.log("4: " + xml);
-					/*console.log(xml_files[0].getElementsByTagName('er:topic')[200].getAttribute('source-title'));*/
 
 					break;
 				case "923.2012 - SERA":
