@@ -47,7 +47,7 @@
 	        	</div>
 	        </div>
 	        <div>
-	    		<button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare></button>
+	    		<button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare</button>
     		</div>
 			<div id="display-changes">
 				<h5 id=h-new></h5>
@@ -203,10 +203,6 @@
 							
 							for(let i = 0; i < d_new.getElementsByTagName('er:topic').length; i++){
 								t = d_new.getElementsByTagName('er:topic')[i];
-								/*if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
-									topics_new.push(t);
-									erules_new.push(t.getAttribute('ERulesId'))
-								}*/
 								if(subs.includes(t.getAttribute('RegulatorySubject'))){
 									topics_new.push(t);
 									erules_new.push(t.getAttribute('ERulesId'))
@@ -215,60 +211,46 @@
 
 							for(let i = 0; i < d_old.getElementsByTagName('er:topic').length; i++){
 								t = d_old.getElementsByTagName('er:topic')[i];
-								/*if(t.getAttribute('TypeOfContent') != "AMC to IR (Acceptable means of compliance to implementing rule);" && subs.includes(t.getAttribute('RegulatorySubject'))){
-									topics_old.push(t);
-									erules_old.push(t.getAttribute('ERulesId'))
-								}*/
 								if(subs.includes(t.getAttribute('RegulatorySubject'))){
 									topics_old.push(t);
 									erules_old.push(t.getAttribute('ERulesId'))
 								}
 							}
 
-							if(topics_new.length > topics_old.length){
-								let offset = 0
-								for(let i = 0; i < topics_new.length; i++){
-									// Check if the erule is new
-									if(erules_new[i] != erules_old[i-offset]){
-										//offset because erules old is smaller than erules new
-										if(!erules_old.includes(erules_new[i])){
-											//new content added to the last version
-											new_topics.push(topics_new[i].getAttribute('source-title'));
-										}else{
-											//the old file has the new erule later, hence an erule has been removed from the old one
-											if(!erules_new.includes(erules_old[i-offset])){
-												rem_topics.push(topics_old[i-offset].getAttribute('source-title'));
-											}
-										}
+							let longest = Math.max(topics_new.length, topics_old.length);
+							let n_offset = 0; // tracks the offset of the new xml iterator
+							let o_offset = 0; // tracks the offset of the new xml iterator
+							for(let i = 0; i < longest; i++){
+								if(erules_new[i-n_offset] != erules_old[i-o_offset]){
+									if(!erules_old.includes(erules_new[i-n_offset])){
+									// New topic added
+										new_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+										o_offset += 1; 
+										//offset 'old' iterator to remain the same, while we check the next topic in the new xml file
+									}else if(!erules_new.includes(erules_old[i-o_offset])){
+									// Old topic removed
+										rem_topics.push(topics_old[i-o_offset].getAttribute('source-title'));
+										n_offset += 1;
+										//offset 'new' iterator to remain the same, while we check the next topic in the old xml file
+									}
+								}else{
+									//erules are the same, so we check for changed text
+									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
+									let text1 = ""
+									p_lst1.forEach(function(d){
+										text1 += d.textContent;
+									});
+									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
+									let text2 = ""
+									p_lst2.forEach(function(d){
+										text2 += d.textContent;
+									});
 
-										offset += 1
-									}else{
-										//erules are the same, so we check for changed text
-										p_lst1 = [...topics_new[i].getElementsByTagName("para")];
-										let text1 = ""
-										p_lst1.forEach(function(d){
-											text1 += d.textContent;
-										});
-										p_lst2 = [...topics_old[i-offset].getElementsByTagName("para")];
-										let text2 = ""
-										p_lst2.forEach(function(d){
-											text2 += d.textContent;
-										});
-
-										if(text1 != text2){
-											chg_topics.push(topics_new[i].getAttribute('source-title'));
-										}
+									if(text1 != text2){
+										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
 									}
 								}
-							}/*else if(topics_old.length > topics_new.length){
-								let offset = 0
-								for(let i = 0; i < topics_old.length; i++){
-									
-									if(erules_old[i] != erules_new[i+offset]){
-										offset -= 1
-									}
-								}
-							}*/
+							}
 
 							// Place content in HTML element
 							for(var i = 0; i < new_topics.length; i++){
