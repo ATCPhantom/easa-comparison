@@ -45,3 +45,18 @@
 #h-new{
 	padding-top: 10px;
 }
+
+#ul-chg li::before{
+	content: "View";
+	background: lightgray;
+	border-radius: 1ch;
+  	padding-inline: 1ch;
+  	margin-inline-end: 1ch;
+}
+
+p{
+	background: lightgray;
+	border-radius: 1ch;
+  	padding-inline: 1ch;
+  	margin-inline-end: 1ch;
+}

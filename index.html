@@ -264,13 +264,16 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
+									p_lst1.shift();
 									p_lst1.forEach(function(d){
-										text1 += "\r\n"+d.textContent;
+										text1 += "<br>"+d.textContent;
 									});
+									
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
+									p_lst2.shift();
 									p_lst2.forEach(function(d){
-										text2 += "\r\n"+d.textContent;
+										text2 += "<br>"+d.textContent;
 									});
 
 									if(text1 != text2){
@@ -284,18 +287,27 @@
 							// Place content in HTML element
 							for(var i = 0; i < new_topics.length; i++){
 								let li = document.createElement("li");
+								li.style.fontSize="15px";
 								li.innerHTML = new_topics[i];
 								ul_new.appendChild(li)
 							}
 							for(var i = 0; i < chg_topics.length; i++){
 								let li = document.createElement("li");
-								//let p = document.createElement("p");
+								let p = document.createElement("p");
+								p.style.fontSize="12px";
+								p.style.paddingTop="10px";
+								p.style.paddingBottom="10px";								
+								p.style.display = "none";
+								li.onclick = function() { if(li.firstElementChild.style.display === "none"){li.firstElementChild.style.display = "block";
+									}else{li.firstElementChild.style.display = "none";} 
+								};
 								li.innerHTML = chg_topics[i];
-								/*p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
-									+"<b>Old text:</b>"+text_changes[i][1];
-								li.appendChild(p);*/
+								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
+									+"<br><br><b>Old text:</b>"+text_changes[i][1];
+								li.appendChild(p);
 								ul_chg.appendChild(li)
 							}
+							
 							for(var i = 0; i < rem_topics.length; i++){
 								let li = document.createElement("li");
 								li.innerHTML = rem_topics[i];
@@ -350,6 +362,8 @@
 							let chg_topics = []
 							let rem_topics = []
 							let new_topics = []
+							let text_changes = []
+
 							// This array controls which regulatory subjects are included
 							let subs = ['Part-ARO;', 'Part-ORO;', 'CS-FTL.1;', 'Part-CAT;', 'Part-SPA;', 'Part-NCC;', 'Part-NCO;', 'Part-SPO;'];
 
@@ -389,30 +403,47 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
+									p_lst1.shift();
 									p_lst1.forEach(function(d){
-										text1 += "\r\n"+d.textContent;
+										text1 += "<br>"+d.textContent;
 									});
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
+									p_lst2.shift();
 									p_lst2.forEach(function(d){
-										text2 += "\r\n"+d.textContent;
+										text2 += "<br>"+d.textContent;
 									});
 
 									if(text1 != text2){
+										let txt = [text1, text2];
+										text_changes.push(txt);
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
 									}
 								}
+								console.log(chg_topics);
 							}
 
 							// Place content in HTML element
 							for(var i = 0; i < new_topics.length; i++){
 								let li = document.createElement("li");
+								li.style.fontSize="15px";
 								li.innerHTML = new_topics[i];
 								ul_new.appendChild(li)
 							}
 							for(var i = 0; i < chg_topics.length; i++){
 								let li = document.createElement("li");
+								let p = document.createElement("p");
+								p.style.fontSize="12px";
+								p.style.paddingTop="10px";
+								p.style.paddingBottom="10px";								
+								p.style.display = "none";
+								li.onclick = function() { if(li.firstElementChild.style.display === "none"){li.firstElementChild.style.display = "block";
+									}else{li.firstElementChild.style.display = "none";} 
+								};
 								li.innerHTML = chg_topics[i];
+								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
+									+"<br><br><b>Old text:</b>"+text_changes[i][1];
+								li.appendChild(p);
 								ul_chg.appendChild(li)
 							}
 							for(var i = 0; i < rem_topics.length; i++){
