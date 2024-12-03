@@ -11,13 +11,14 @@
 			<img src="res/EASA_Logo.png" class="card-img-top">
 		</a>
 		<div class="card-body">
-			<h2 class="card-title">Compare XML Rulesets</h2>
+			<!-- <h2 class="card-title">Compare XML Rulesets</h2> -->
 			<div class="dropdown" id="dropdown-btn">
 		        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
 		        Select ruleset
 		        </button>
 		        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
 		            <a class="dropdown-item" onclick="set_ruleset('2017.373 ATM / ANS')">2017.373 ATM / ANS</a>
+		            <a class="dropdown-item" onclick="set_ruleset('2023/1769 ATM / ANS EQ')">2023/1769 ATM / ANS EQ</a>
 		            <a class="dropdown-item" onclick="set_ruleset('923.2012 - SERA')">923.2012 - SERA</a>
 		            <a class="dropdown-item" onclick="set_ruleset('139.2014 - ADR')">139.2014 - ADR</a>
 		            <a class="dropdown-item" onclick="set_ruleset('965.2012 - Air Operations')">965.2012 - Air Operations</a>
@@ -33,6 +34,16 @@
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
 		        		<span>November 2022</span>
+		        	</label>
+	        	</div>
+	        	<div id="atm-eq-grp" style="display:none">
+		        	<label class="list-group-item d-flex gap-2">
+		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+		        		<span>New version</span>
+		        	</label>
+		        	<label class="list-group-item d-flex gap-2">
+		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+		        		<span>November 2024</span>
 		        	</label>
 	        	</div>
 	        	<div id="sera-grp" style="display:none">
@@ -83,12 +94,14 @@
 	
 	<script>
 		let num_check = 0;
+		let compareBtn = document.getElementById('compare-btn');
 
 		// setup the ruleset based on selection from dropdown menu
 		function set_ruleset(val){
 			uncheck()
 			chg_text('list-group-title', val);
 			document.getElementById('atm-grp').style.display = "none";
+			document.getElementById('atm-eq-grp').style.display = "none";
 			document.getElementById('sera-grp').style.display = "none";
 			document.getElementById('adr-grp').style.display = "none";
 			document.getElementById('airops-grp').style.display = "none";
@@ -97,6 +110,9 @@
 			switch(val){
 				case "2017.373 ATM / ANS":
 					document.getElementById('atm-grp').style.display = "block";
+					break;
+				case "2023/1769 ATM / ANS EQ":
+					document.getElementById('atm-eq-grp').style.display = "block";
 					break;
 				case "923.2012 - SERA":
 					document.getElementById('sera-grp').style.display = "block";
@@ -111,7 +127,7 @@
 					console.log("error");
 			}
 
-			document.getElementById('compare-btn').style.display = "inline";
+			compareBtn.style.display = "inline";
 		}
 
 		function chg_text(e, txt){
@@ -121,7 +137,8 @@
 		// uncheck all checkboxes
 		function uncheck(){
 			num_check=0;
-			disable_btn(true) // disable 'compare' button
+			chg_btn_state(compareBtn, true)
+
 			const checkboxes = document.getElementsByClassName('form-check-input')
 			for(let i = 0; i < checkboxes.length; i++){
 				checkboxes[i].checked = false
@@ -130,35 +147,31 @@
 
 		// monitor how many of the check boxes are checked
 		function check_boxes(e){
-
 			if(e.checked){
 				num_check+=1
 			}else{
 				num_check-=1
 			}
-
+			
 			if (num_check === 2){
-				disable_btn(false)
-			}else{
-				disable_btn(true)
-				
+				// disable_btn(false)
+				chg_btn_state(compareBtn, false);
+			}
+			else{
+				// disable_btn(true)
+				chg_btn_state(compareBtn, true);
 			}
 		}
 
-		// disable or enable "compare button"
-		function disable_btn(b){
-			if(b){
-				document.getElementById('compare-btn').disabled = true;
-			}else{
-				document.getElementById('compare-btn').disabled = false;
-				num_check = 0
-			}
+		function chg_btn_state(btn, bool){
+			btn.disabled = bool;
 		}
 
 		function hide_selection(){
 			document.getElementById('dropdown-btn').style.display = "none";
 			document.getElementById('listGroup').style.display = "none";
-			document.getElementById('compare-btn').style.display = "none";
+			compareBtn.style.display = "none";
+			//matrixBtn.style.display = "none";
 		}
 
 		function get_comparitors(){
@@ -202,8 +215,7 @@
 						.then(function(root) {
 							const d_new = root[0]
 							const d_old = root[1]
-							document.getElementsByClassName('card-title')[0].innerHTML =
-								document.getElementById('list-group-title').innerHTML;
+
 							e = document.getElementById("display-changes");
 							const h_new = document.getElementById("h-new");
 							const h_chg = document.getElementById("h-chg");
@@ -228,6 +240,7 @@
 							// This array controls which regulatory subjects are included
 							let subs = ['Part-ATM/ANS.AR;', 'Part-ATM/ANS.OR;', 'Part-ATS;', 'Part-MET;', 'Part-AIS;', 'Part-DAT;', 'Part-CNS;', 'Part-ATFM;', 'Part-ASM;', 'Part-ASD;', 'Part-FDP;', 'Part-NM;', 'Part-PERS;'];
 							
+							// loop over the new xml file and adding topics amd erules
 							for(let i = 0; i < d_new.getElementsByTagName('er:topic').length; i++){
 								t = d_new.getElementsByTagName('er:topic')[i];
 								if(subs.includes(t.getAttribute('RegulatorySubject'))){
@@ -236,6 +249,7 @@
 								}
 							}
 
+							// loop over the old xml file and adding topics amd erules
 							for(let i = 0; i < d_old.getElementsByTagName('er:topic').length; i++){
 								t = d_old.getElementsByTagName('er:topic')[i];
 								if(subs.includes(t.getAttribute('RegulatorySubject'))){
@@ -264,14 +278,14 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									p_lst1.shift();
+									//p_lst1.shift();
 									p_lst1.forEach(function(d){
 										text1 += "<br>"+d.textContent;
 									});
-									
+
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									p_lst2.shift();
+									//p_lst2.shift();
 									p_lst2.forEach(function(d){
 										text2 += "<br>"+d.textContent;
 									});
@@ -316,10 +330,11 @@
 						})
 
 					break;
+				case "2023/1769 ATM / ANS EQ":
+					break;
 				case "923.2012 - SERA":
 					break;
 				case "139.2014 - ADR":
-
 					break;
 				case "965.2012 - Air Operations":
 					file_new = "xml/airops/" + checked[1] + ".xml";
@@ -341,8 +356,8 @@
 						.then(function(root) {
 							const d_new = root[0]
 							const d_old = root[1]
-							document.getElementsByClassName('card-title')[0].innerHTML =
-								document.getElementById('list-group-title').innerHTML;
+							/*document.getElementsByClassName('card-title')[0].innerHTML =
+								document.getElementById('list-group-title').innerHTML;*/
 							e = document.getElementById("display-changes");
 							const h_new = document.getElementById("h-new");
 							const h_chg = document.getElementById("h-chg");
@@ -420,7 +435,6 @@
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
 									}
 								}
-								console.log(chg_topics);
 							}
 
 							// Place content in HTML element
