@@ -316,7 +316,7 @@
 									}else{li.firstElementChild.style.display = "none";} 
 								};
 								li.innerHTML = chg_topics[i];
-								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
+								p.innerHTML = "<b>New text:</b>"+text_changes[i][0];
 									+"<br><br><b>Old text:</b>"+text_changes[i][1];
 								li.appendChild(p);
 								ul_chg.appendChild(li)
@@ -454,9 +454,10 @@
 									}else{li.firstElementChild.style.display = "none";} 
 								};
 								li.innerHTML = chg_topics[i];
-								p.innerHTML = "<b>New text:</b>"+text_changes[i][0];
+								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
 									+"<br><br><b>Old text:</b>"+text_changes[i][1];
 								li.appendChild(p);
+
 								ul_chg.appendChild(li)
 							}
 							
@@ -552,13 +553,13 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									p_lst1.shift();
+									//p_lst1.shift();
 									p_lst1.forEach(function(d){
 										text1 += "<br>"+d.textContent;
 									});
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									p_lst2.shift();
+									//p_lst2.shift();
 									p_lst2.forEach(function(d){
 										text2 += "<br>"+d.textContent;
 									});
