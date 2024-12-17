@@ -26,6 +26,7 @@
 
 	        <div class="list-group" id="listGroup">
 	        	<h4 id="list-group-title"></h4>
+	        	<!-- ATM -->
 	        	<div id="atm-grp" style="display:none">
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
@@ -36,6 +37,7 @@
 		        		<span>November 2022</span>
 		        	</label>
 	        	</div>
+	        	<!-- ATM EQ -->
 	        	<div id="atm-eq-grp" style="display:none">
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
@@ -46,6 +48,7 @@
 		        		<span>November 2024</span>
 		        	</label>
 	        	</div>
+	        	<!-- SERA -->
 	        	<div id="sera-grp" style="display:none">
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
@@ -56,16 +59,18 @@
 		        		<span>February 2023</span>
 		        	</label>
 	        	</div>
+	        	<!-- ADR -->
 	        	<div id="adr-grp" style="display:none">
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>New version</span>
+		        		<span>December 2024</span>
 		        	</label>
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
 		        		<span>June 2023</span>
 		        	</label>
 	        	</div>
+	        	<!-- AIROPS -->
 	        	<div id="airops-grp" style="display:none">
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
@@ -470,6 +475,141 @@
 
 					break;
 				case "139.2014 - ADR":
+					file_new = "xml/adr/" + checked[1] + ".xml";
+					file_old = "xml/adr/" + checked[2] + ".xml";
+
+					xmlFiles = [file_new, file_old];
+
+					var load = (file) => new Promise((resolve) => {
+						const request = new XMLHttpRequest();
+						request.open("GET", file);
+						request.onload = function() {
+							resolve(parser.parseFromString(request.responseText, "text/xml"));
+						}
+						request.send()
+					})
+
+					Promise
+						.all(xmlFiles.map((file) => load(file)))
+						.then(function(root) {
+							const d_new = root[0];
+							const d_old = root[1];
+
+							e = document.getElementById("display-changes");
+							const h_new = document.getElementById("h-new");
+							const h_chg = document.getElementById("h-chg");
+							const h_rem = document.getElementById("h-rem");
+							h_new.innerHTML = "New Topics:"
+							h_chg.innerHTML = "Changed Topics:"
+							h_rem.innerHTML = "Removed Topics:"
+							
+							const ul_new = document.getElementById("ul-new");
+							const ul_chg = document.getElementById("ul-chg");
+							const ul_rem = document.getElementById("ul-rem");
+
+							let topics_new = []
+							let topics_old = []
+							let erules_new = []
+							let erules_old = []
+							let chg_topics = []
+							let rem_topics = []
+							let new_topics = []
+							let text_changes = []
+							
+							// This array controls which regulatory subjects are included
+							let subs = ['Part-ADR.AR;', 'Part-ADR.OR;', 'Part-ADR.OPS;', 'CS-ADR-DSN;', 'CS-HPT-DSN;'];
+							
+							// loop over the new xml file and adding topics amd erules
+							for(let i = 0; i < d_new.getElementsByTagName('er:topic').length; i++){
+								t = d_new.getElementsByTagName('er:topic')[i];
+								if(subs.includes(t.getAttribute('RegulatorySubject'))){
+									topics_new.push(t);
+									erules_new.push(t.getAttribute('ERulesId'))
+								}
+							}
+
+							// loop over the old xml file and adding topics amd erules
+							for(let i = 0; i < d_old.getElementsByTagName('er:topic').length; i++){
+								t = d_old.getElementsByTagName('er:topic')[i];
+								if(subs.includes(t.getAttribute('RegulatorySubject'))){
+									topics_old.push(t);
+									erules_old.push(t.getAttribute('ERulesId'))
+								}
+							}
+
+							let longest = Math.max(topics_new.length, topics_old.length);
+							let n_offset = 0; // tracks the offset of the new xml iterator
+							let o_offset = 0; // tracks the offset of the new xml iterator
+							for(let i = 0; i < longest; i++){
+								if(erules_new[i-n_offset] != erules_old[i-o_offset]){
+									if(!erules_old.includes(erules_new[i-n_offset])){
+									// New topic added
+										new_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+										o_offset += 1; 
+										//offset 'old' iterator to remain the same, while we check the next topic in the new xml file
+									}else if(!erules_new.includes(erules_old[i-o_offset])){
+									// Old topic removed
+										rem_topics.push(topics_old[i-o_offset].getAttribute('source-title'));
+										n_offset += 1;
+										//offset 'new' iterator to remain the same, while we check the next topic in the old xml file
+									}
+								}else{
+									//erules are the same, so we check for changed text
+									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
+									let text1 = ""
+									//p_lst1.shift();
+									p_lst1.forEach(function(d){
+										text1 += "<br>"+d.textContent;
+									});
+
+									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
+									let text2 = ""
+									//p_lst2.shift();
+									p_lst2.forEach(function(d){
+										text2 += "<br>"+d.textContent;
+									});
+
+									if(text1 != text2){
+										let txt = [text1, text2];
+										text_changes.push(txt);
+										
+										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+									}
+								}
+							}
+
+							// Place content in HTML element
+							for(var i = 0; i < new_topics.length; i++){
+								let li = document.createElement("li");
+								li.style.fontSize="15px";
+								li.innerHTML = new_topics[i];
+								ul_new.appendChild(li)
+							}
+							for(var i = 0; i < chg_topics.length; i++){
+								let li = document.createElement("li");
+								let p = document.createElement("p");
+								p.style.fontSize="12px";
+								p.style.paddingTop="10px";
+								p.style.paddingBottom="10px";								
+								p.style.display = "none";
+								li.onclick = function() { if(li.firstElementChild.style.display === "none"){li.firstElementChild.style.display = "block";
+									}else{li.firstElementChild.style.display = "none";} 
+								};
+								li.innerHTML = chg_topics[i];
+								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
+									+"<br><br><b>Old text:</b>"+text_changes[i][1];
+								li.appendChild(p);
+
+								ul_chg.appendChild(li)
+							}
+							
+							for(var i = 0; i < rem_topics.length; i++){
+								let li = document.createElement("li");
+								li.innerHTML = rem_topics[i];
+								ul_rem.appendChild(li)
+							}
+						})
+
 					break;
 				case "965.2012 - Air Operations":
 					file_new = "xml/airops/" + checked[1] + ".xml";
