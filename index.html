@@ -72,6 +72,10 @@
 	        	</div>
 	        	<!-- AIROPS -->
 	        	<div id="airops-grp" style="display:none">
+	        		<label class="list-group-item d-flex gap-2">
+		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+		        		<span>February 2025</span>
+		        	</label>
 		        	<label class="list-group-item d-flex gap-2">
 		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
 		        		<span>June 2023</span>
@@ -283,19 +287,19 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									//p_lst1.shift();
 									p_lst1.forEach(function(d){
 										text1 += "<br>"+d.textContent;
 									});
 
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									//p_lst2.shift();
 									p_lst2.forEach(function(d){
 										text2 += "<br>"+d.textContent;
 									});
 
-									if(text1 != text2){
+									var t1 = text1.replace(/\s+/g, '');
+									var t2 = text2.replace(/\s+/g, '');		
+									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
 										let txt = [text1, text2];
 										text_changes.push(txt);
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
@@ -420,22 +424,21 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									//p_lst1.shift();
 									p_lst1.forEach(function(d){
 										text1 += "<br>"+d.textContent;
 									});
 
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									//p_lst2.shift();
 									p_lst2.forEach(function(d){
 										text2 += "<br>"+d.textContent;
 									});
 
-									if(text1 != text2){
+									var t1 = text1.replace(/\s+/g, '');
+									var t2 = text2.replace(/\s+/g, '');		
+									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
 										let txt = [text1, text2];
 										text_changes.push(txt);
-										
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
 									}
 								}
@@ -557,22 +560,21 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									//p_lst1.shift();
 									p_lst1.forEach(function(d){
 										text1 += "<br>"+d.textContent;
 									});
 
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									//p_lst2.shift();
 									p_lst2.forEach(function(d){
 										text2 += "<br>"+d.textContent;
 									});
 
-									if(text1 != text2){
+									var t1 = text1.replace(/\s+/g, '');
+									var t2 = text2.replace(/\s+/g, '');		
+									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
 										let txt = [text1, text2];
 										text_changes.push(txt);
-										
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
 									}
 								}
@@ -676,6 +678,7 @@
 							let longest = Math.max(topics_new.length, topics_old.length);
 							let n_offset = 0; // tracks the offset of the new xml iterator
 							let o_offset = 0; // tracks the offset of the new xml iterator
+							var debug = 0;
 							for(let i = 0; i < longest; i++){
 								if(erules_new[i-n_offset] != erules_old[i-o_offset]){
 									if(!erules_old.includes(erules_new[i-n_offset])){
@@ -692,19 +695,19 @@
 								}else{
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
-									let text1 = ""
-									//p_lst1.shift();
+									var text1 = ""
 									p_lst1.forEach(function(d){
 										text1 += "<br>"+d.textContent;
 									});
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
-									let text2 = ""
-									//p_lst2.shift();
+									var text2 = ""
 									p_lst2.forEach(function(d){
 										text2 += "<br>"+d.textContent;
-									});
+									});	
 
-									if(text1 != text2){
+									var t1 = text1.replace(/\s+/g, '');
+									var t2 = text2.replace(/\s+/g, '');		
+									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
 										let txt = [text1, text2];
 										text_changes.push(txt);
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
