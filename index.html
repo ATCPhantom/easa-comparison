@@ -104,6 +104,7 @@
 	    </div>
 	</div>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/diff@5.1.0/dist/diff.min.js"></script>
 	
 	<script>
 		let num_check = 0;
@@ -248,7 +249,8 @@
 							let chg_topics = [];
 							let rem_topics = [];
 							let new_topics = [];
-							let text_changes = [];
+							let newtopics_textcontent = [];
+							let changedtopics_textcontent = [];
 							
 							// This array controls which regulatory subjects are included
 							let subs = ['Part-ATM/ANS.AR;', 'Part-ATM/ANS.OR;', 'Part-ATS;', 'Part-MET;', 'Part-AIS;', 'Part-DAT;', 'Part-CNS;', 'Part-ATFM;', 'Part-ASM;', 'Part-ASD;', 'Part-FDP;', 'Part-NM;', 'Part-PERS;'];
@@ -279,6 +281,16 @@
 									if(!erules_old.includes(erules_new[i-n_offset])){
 									// New topic added
 										new_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+										newtopic_paras = [...topics_new[i-n_offset].getElementsByTagName("para")];
+										let newtopic_text = "";
+
+										for(let x = 0; x < newtopic_paras.length; x++){
+											if(x == 0){newtopic_text += newtopic_paras[x].textContent.bold();}
+											else{
+												newtopic_text += "<br>"+newtopic_paras[x].textContent;
+											};
+										};
+										newtopics_textcontent.push(newtopic_text);
 										o_offset += 1; 
 										//offset 'old' iterator to remain the same, while we check the next topic in the new xml file
 									}else if(!erules_new.includes(erules_old[i-o_offset])){
@@ -291,22 +303,46 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									p_lst1.forEach(function(d){
-										text1 += "<br>"+d.textContent;
-									});
+
+									for(let x = 0; x < p_lst1.length; x++){
+										if(x == 0){text1 += " <br>"+p_lst1[x].textContent.bold();}
+										else{
+											text1 += " <br>"+p_lst1[x].textContent;
+										};
+									};
 
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									p_lst2.forEach(function(d){
-										text2 += "<br>"+d.textContent;
-									});
+
+									for(let x = 0; x < p_lst2.length; x++){
+										if(x == 0){text2 += " <br>"+p_lst2[x].textContent.bold();}
+										else{
+											text2 += " <br>"+p_lst2[x].textContent;
+										};
+									};
 
 									var t1 = text1.replace(/\s+/g, '');
-									var t2 = text2.replace(/\s+/g, '');		
+									var t2 = text2.replace(/\s+/g, '');
 									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
-										let txt = [text1, text2];
-										text_changes.push(txt);
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+
+										const oldWords = text2.split(' ');
+										const newWords = text1.split(' ');
+										
+										const differences = Diff.diffArrays(oldWords, newWords);
+										let highlightedString = '';
+
+										differences.forEach((part) => {
+											if(part.added) {
+												highlightedString += `<span style="background-color: lightgreen;">${part.value.join(' ')}</span> `;
+											}else if(part.removed){
+												highlightedString += `<span style="background-color: lightcoral;">${part.value.join(' ')}</span> `;
+											}
+											else{
+												highlightedString += part.value.join(' ') + ' ';
+											}
+										});
+										changedtopics_textcontent.push(highlightedString)
 									}
 								}
 							}
@@ -314,9 +350,19 @@
 							// Place content in HTML element
 							for(var i = 0; i < new_topics.length; i++){
 								let li = document.createElement("li");
+								let p = document.createElement("p");
+								p.style.fontSize="12px";
+								p.style.paddingTop="10px";
+								p.style.paddingBottom="10px";								
+								p.style.display = "none";
+								li.onclick = function() { if(li.firstElementChild.style.display === "none"){li.firstElementChild.style.display = "block";
+									}else{li.firstElementChild.style.display = "none";} 
+								};
 								li.style.fontSize="15px";
 								li.innerHTML = new_topics[i];
-								ul_new.appendChild(li)
+								p.innerHTML = newtopics_textcontent[i];
+								li.appendChild(p);
+								ul_new.appendChild(li);
 							}
 							for(var i = 0; i < chg_topics.length; i++){
 								let li = document.createElement("li");
@@ -329,10 +375,9 @@
 									}else{li.firstElementChild.style.display = "none";} 
 								};
 								li.innerHTML = chg_topics[i];
-								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
-									+"<br><br><b>Old text:</b>"+text_changes[i][1];
+								p.innerHTML = changedtopics_textcontent[i];
 								li.appendChild(p);
-								ul_chg.appendChild(li)
+								ul_chg.appendChild(li);
 							}
 							
 							for(var i = 0; i < rem_topics.length; i++){
@@ -341,7 +386,6 @@
 								ul_rem.appendChild(li)
 							}
 						})
-
 					break;
 				case "2023/1769 ATM / ANS EQ":
 					break;
@@ -385,7 +429,8 @@
 							let chg_topics = []
 							let rem_topics = []
 							let new_topics = []
-							let text_changes = []
+							let newtopics_textcontent = [];
+							let changedtopics_textcontent = [];
 							
 							// This array controls which regulatory subjects are included
 							let subs = ['Annex-Section 1: Flight over the high seas;', 'Annex-Section 2: Applicability and compliance;', 'Annex-Section 3: General rules and collision avoidance;', 'Annex-Section 3: General rules and collision avoidance;Annex-Section 5: VMC, VFR, special VFR, IFR;', 'Annex-Section 4: Flight plans;', 'Annex-Section 4: Flight plans;Annex-Section 8: Air traffic control services;', 'Annex-Section 5: VMC, VFR, special VFR, IFR;', 'Annex-Section 4: Flight plans; Annex-Section 5: VMC, VFR, special VFR, IFR;', 'Annex-Section 8: Air traffic control services;', 'Annex-Section 5: VMC, VFR, special VFR, IFR;Annex-Section 4: Flight plans;Annex-Section 8: Air traffic control services;', 'Annex-Section 5: VMC, VFR, special VFR, IFR;Annex-Section 8: Air traffic control services;', 'Annex-Section 6: Airspace classification;', 'Annex-Section 8: Air traffic control services;Annex-Section 6: Airspace classification;', 'Annex-Section 6: Airspace classification;Annex-Section 8: Air traffic control services;', 'Annex-Section 7: Air traffic services;', 'Annex-Section 9: Flight information services;', 'Annex-Section 10: Alerting service;', 'Annex-Section 11: Interference, emergency contingencies and interception;', 'Annex-Section 11: Interference, emergency contingencies and interception;Annex-Section 14: Voice communications procedures;', 'Annex-Section 1: Flight over the high seas;Annex-Section 11: Interference, emergency contingencies and interception;', 'Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;', 'Annex-Section 13: SSR Transponder;', 'Annex-Section 14: Voice communications procedures;', 'Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;', 'Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;', 'Annex-Section 3: General rules and collision avoidance;Annex-Section 4: Flight plans;Annex-Section 5: VMC, VFR, special VFR, IFR;Annex-Section 6: Airspace classification;Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;'];
@@ -416,6 +461,16 @@
 									if(!erules_old.includes(erules_new[i-n_offset])){
 									// New topic added
 										new_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+										newtopic_paras = [...topics_new[i-n_offset].getElementsByTagName("para")];
+										let newtopic_text = "";
+
+										for(let x = 0; x < newtopic_paras.length; x++){
+											if(x == 0){newtopic_text += newtopic_paras[x].textContent.bold();}
+											else{
+												newtopic_text += "<br>"+newtopic_paras[x].textContent;
+											};
+										};
+										newtopics_textcontent.push(newtopic_text);
 										o_offset += 1; 
 										//offset 'old' iterator to remain the same, while we check the next topic in the new xml file
 									}else if(!erules_new.includes(erules_old[i-o_offset])){
@@ -428,22 +483,46 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									p_lst1.forEach(function(d){
-										text1 += "<br>"+d.textContent;
-									});
+
+									for(let x = 0; x < p_lst1.length; x++){
+										if(x == 0){text1 += " <br>"+p_lst1[x].textContent.bold();}
+										else{
+											text1 += " <br>"+p_lst1[x].textContent;
+										};
+									};
 
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									p_lst2.forEach(function(d){
-										text2 += "<br>"+d.textContent;
-									});
+
+									for(let x = 0; x < p_lst2.length; x++){
+										if(x == 0){text2 += " <br>"+p_lst2[x].textContent.bold();}
+										else{
+											text2 += " <br>"+p_lst2[x].textContent;
+										};
+									};
 
 									var t1 = text1.replace(/\s+/g, '');
-									var t2 = text2.replace(/\s+/g, '');		
+									var t2 = text2.replace(/\s+/g, '');
 									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
-										let txt = [text1, text2];
-										text_changes.push(txt);
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+
+										const oldWords = text2.split(' ');
+										const newWords = text1.split(' ');
+										
+										const differences = Diff.diffArrays(oldWords, newWords);
+										let highlightedString = '';
+
+										differences.forEach((part) => {
+											if(part.added) {
+												highlightedString += `<span style="background-color: lightgreen;">${part.value.join(' ')}</span> `;
+											}else if(part.removed){
+												highlightedString += `<span style="background-color: lightcoral;">${part.value.join(' ')}</span> `;
+											}
+											else{
+												highlightedString += part.value.join(' ') + ' ';
+											}
+										});
+										changedtopics_textcontent.push(highlightedString)
 									}
 								}
 							}
@@ -451,9 +530,19 @@
 							// Place content in HTML element
 							for(var i = 0; i < new_topics.length; i++){
 								let li = document.createElement("li");
+								let p = document.createElement("p");
+								p.style.fontSize="12px";
+								p.style.paddingTop="10px";
+								p.style.paddingBottom="10px";								
+								p.style.display = "none";
+								li.onclick = function() { if(li.firstElementChild.style.display === "none"){li.firstElementChild.style.display = "block";
+									}else{li.firstElementChild.style.display = "none";} 
+								};
 								li.style.fontSize="15px";
 								li.innerHTML = new_topics[i];
-								ul_new.appendChild(li)
+								p.innerHTML = newtopics_textcontent[i];
+								li.appendChild(p);
+								ul_new.appendChild(li);
 							}
 							for(var i = 0; i < chg_topics.length; i++){
 								let li = document.createElement("li");
@@ -466,11 +555,9 @@
 									}else{li.firstElementChild.style.display = "none";} 
 								};
 								li.innerHTML = chg_topics[i];
-								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
-									+"<br><br><b>Old text:</b>"+text_changes[i][1];
+								p.innerHTML = changedtopics_textcontent[i];
 								li.appendChild(p);
-
-								ul_chg.appendChild(li)
+								ul_chg.appendChild(li);
 							}
 							
 							for(var i = 0; i < rem_topics.length; i++){
@@ -479,7 +566,6 @@
 								ul_rem.appendChild(li)
 							}
 						})
-
 					break;
 				case "139.2014 - ADR":
 					file_new = "xml/adr/" + checked[1] + ".xml";
@@ -521,7 +607,8 @@
 							let chg_topics = []
 							let rem_topics = []
 							let new_topics = []
-							let text_changes = []
+							let newtopics_textcontent = [];
+							let changedtopics_textcontent = [];
 							
 							// This array controls which regulatory subjects are included
 							let subs = ['Part-ADR.AR;', 'Part-ADR.OR;', 'Part-ADR.OPS;', 'CS-ADR-DSN;', 'CS-HPT-DSN;'];
@@ -552,6 +639,16 @@
 									if(!erules_old.includes(erules_new[i-n_offset])){
 									// New topic added
 										new_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+										newtopic_paras = [...topics_new[i-n_offset].getElementsByTagName("para")];
+										let newtopic_text = "";
+
+										for(let x = 0; x < newtopic_paras.length; x++){
+											if(x == 0){newtopic_text += newtopic_paras[x].textContent.bold();}
+											else{
+												newtopic_text += "<br>"+newtopic_paras[x].textContent;
+											};
+										};
+										newtopics_textcontent.push(newtopic_text);
 										o_offset += 1; 
 										//offset 'old' iterator to remain the same, while we check the next topic in the new xml file
 									}else if(!erules_new.includes(erules_old[i-o_offset])){
@@ -564,22 +661,46 @@
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
 									let text1 = ""
-									p_lst1.forEach(function(d){
-										text1 += "<br>"+d.textContent;
-									});
+
+									for(let x = 0; x < p_lst1.length; x++){
+										if(x == 0){text1 += " <br>"+p_lst1[x].textContent.bold();}
+										else{
+											text1 += " <br>"+p_lst1[x].textContent;
+										};
+									};
 
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
 									let text2 = ""
-									p_lst2.forEach(function(d){
-										text2 += "<br>"+d.textContent;
-									});
+
+									for(let x = 0; x < p_lst2.length; x++){
+										if(x == 0){text2 += " <br>"+p_lst2[x].textContent.bold();}
+										else{
+											text2 += " <br>"+p_lst2[x].textContent;
+										};
+									};
 
 									var t1 = text1.replace(/\s+/g, '');
-									var t2 = text2.replace(/\s+/g, '');		
+									var t2 = text2.replace(/\s+/g, '');
 									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
-										let txt = [text1, text2];
-										text_changes.push(txt);
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+
+										const oldWords = text2.split(' ');
+										const newWords = text1.split(' ');
+										
+										const differences = Diff.diffArrays(oldWords, newWords);
+										let highlightedString = '';
+
+										differences.forEach((part) => {
+											if(part.added) {
+												highlightedString += `<span style="background-color: lightgreen;">${part.value.join(' ')}</span> `;
+											}else if(part.removed){
+												highlightedString += `<span style="background-color: lightcoral;">${part.value.join(' ')}</span> `;
+											}
+											else{
+												highlightedString += part.value.join(' ') + ' ';
+											}
+										});
+										changedtopics_textcontent.push(highlightedString)
 									}
 								}
 							}
@@ -587,9 +708,19 @@
 							// Place content in HTML element
 							for(var i = 0; i < new_topics.length; i++){
 								let li = document.createElement("li");
+								let p = document.createElement("p");
+								p.style.fontSize="12px";
+								p.style.paddingTop="10px";
+								p.style.paddingBottom="10px";								
+								p.style.display = "none";
+								li.onclick = function() { if(li.firstElementChild.style.display === "none"){li.firstElementChild.style.display = "block";
+									}else{li.firstElementChild.style.display = "none";} 
+								};
 								li.style.fontSize="15px";
 								li.innerHTML = new_topics[i];
-								ul_new.appendChild(li)
+								p.innerHTML = newtopics_textcontent[i];
+								li.appendChild(p);
+								ul_new.appendChild(li);
 							}
 							for(var i = 0; i < chg_topics.length; i++){
 								let li = document.createElement("li");
@@ -602,11 +733,9 @@
 									}else{li.firstElementChild.style.display = "none";} 
 								};
 								li.innerHTML = chg_topics[i];
-								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
-									+"<br><br><b>Old text:</b>"+text_changes[i][1];
+								p.innerHTML = changedtopics_textcontent[i];
 								li.appendChild(p);
-
-								ul_chg.appendChild(li)
+								ul_chg.appendChild(li);
 							}
 							
 							for(var i = 0; i < rem_topics.length; i++){
@@ -615,7 +744,6 @@
 								ul_rem.appendChild(li)
 							}
 						})
-
 					break;
 				case "965.2012 - Air Operations":
 					file_new = "xml/airops/" + checked[1] + ".xml";
@@ -658,11 +786,13 @@
 							let chg_topics = []
 							let rem_topics = []
 							let new_topics = []
-							let text_changes = []
+							let newtopics_textcontent = [];
+							let changedtopics_textcontent = [];
 
 							// This array controls which regulatory subjects are included
 							let subs = ['Part-ARO;', 'Part-ORO;', 'CS-FTL.1;', 'Part-CAT;', 'Part-SPA;', 'Part-NCC;', 'Part-NCO;', 'Part-SPO;'];
 
+							// loop over the new xml file and adding topics amd erules
 							for(let i = 0; i < d_new.getElementsByTagName('er:topic').length; i++){
 								t = d_new.getElementsByTagName('er:topic')[i];
 								if(subs.includes(t.getAttribute('RegulatorySubject'))){
@@ -671,6 +801,7 @@
 								}
 							}
 
+							// loop over the old xml file and adding topics amd erules
 							for(let i = 0; i < d_old.getElementsByTagName('er:topic').length; i++){
 								t = d_old.getElementsByTagName('er:topic')[i];
 								if(subs.includes(t.getAttribute('RegulatorySubject'))){
@@ -682,12 +813,21 @@
 							let longest = Math.max(topics_new.length, topics_old.length);
 							let n_offset = 0; // tracks the offset of the new xml iterator
 							let o_offset = 0; // tracks the offset of the new xml iterator
-							var debug = 0;
 							for(let i = 0; i < longest; i++){
 								if(erules_new[i-n_offset] != erules_old[i-o_offset]){
 									if(!erules_old.includes(erules_new[i-n_offset])){
 									// New topic added
 										new_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+										newtopic_paras = [...topics_new[i-n_offset].getElementsByTagName("para")];
+										let newtopic_text = "";
+
+										for(let x = 0; x < newtopic_paras.length; x++){
+											if(x == 0){newtopic_text += newtopic_paras[x].textContent.bold();}
+											else{
+												newtopic_text += "<br>"+newtopic_paras[x].textContent;
+											};
+										};
+										newtopics_textcontent.push(newtopic_text);
 										o_offset += 1; 
 										//offset 'old' iterator to remain the same, while we check the next topic in the new xml file
 									}else if(!erules_new.includes(erules_old[i-o_offset])){
@@ -699,22 +839,47 @@
 								}else{
 									//erules are the same, so we check for changed text
 									p_lst1 = [...topics_new[i-n_offset].getElementsByTagName("para")];
-									var text1 = ""
-									p_lst1.forEach(function(d){
-										text1 += "<br>"+d.textContent;
-									});
+									let text1 = ""
+
+									for(let x = 0; x < p_lst1.length; x++){
+										if(x == 0){text1 += " <br>"+p_lst1[x].textContent.bold();}
+										else{
+											text1 += " <br>"+p_lst1[x].textContent;
+										};
+									};
+
 									p_lst2 = [...topics_old[i-o_offset].getElementsByTagName("para")];
-									var text2 = ""
-									p_lst2.forEach(function(d){
-										text2 += "<br>"+d.textContent;
-									});	
+									let text2 = ""
+
+									for(let x = 0; x < p_lst2.length; x++){
+										if(x == 0){text2 += " <br>"+p_lst2[x].textContent.bold();}
+										else{
+											text2 += " <br>"+p_lst2[x].textContent;
+										};
+									};
 
 									var t1 = text1.replace(/\s+/g, '');
-									var t2 = text2.replace(/\s+/g, '');		
+									var t2 = text2.replace(/\s+/g, '');
 									if(t1.toLocaleLowerCase().localeCompare(t2.toLocaleLowerCase()) != 0){
-										let txt = [text1, text2];
-										text_changes.push(txt);
 										chg_topics.push(topics_new[i-n_offset].getAttribute('source-title'));
+
+										const oldWords = text2.split(' ');
+										const newWords = text1.split(' ');
+										
+										const differences = Diff.diffArrays(oldWords, newWords);
+										let highlightedString = '';
+
+										differences.forEach((part) => {
+											if(part.added) {
+												highlightedString += `<span style="background-color: lightgreen;">${part.value.join(' ')}</span> `;
+											}else if(part.removed){
+												highlightedString += `<span style="background-color: lightcoral;">${part.value.join(' ')}</span> `;
+											}
+											else{
+												highlightedString += part.value.join(' ') + ' ';
+											}
+										});
+										changedtopics_textcontent.push(highlightedString)
 									}
 								}
 							}
@@ -722,9 +887,19 @@
 							// Place content in HTML element
 							for(var i = 0; i < new_topics.length; i++){
 								let li = document.createElement("li");
+								let p = document.createElement("p");
+								p.style.fontSize="12px";
+								p.style.paddingTop="10px";
+								p.style.paddingBottom="10px";								
+								p.style.display = "none";
+								li.onclick = function() { if(li.firstElementChild.style.display === "none"){li.firstElementChild.style.display = "block";
+									}else{li.firstElementChild.style.display = "none";} 
+								};
 								li.style.fontSize="15px";
 								li.innerHTML = new_topics[i];
-								ul_new.appendChild(li)
+								p.innerHTML = newtopics_textcontent[i];
+								li.appendChild(p);
+								ul_new.appendChild(li);
 							}
 							for(var i = 0; i < chg_topics.length; i++){
 								let li = document.createElement("li");
@@ -737,11 +912,11 @@
 									}else{li.firstElementChild.style.display = "none";} 
 								};
 								li.innerHTML = chg_topics[i];
-								p.innerHTML = "<b>New text:</b>"+text_changes[i][0]
-									+"<br><br><b>Old text:</b>"+text_changes[i][1];
+								p.innerHTML = changedtopics_textcontent[i];
 								li.appendChild(p);
-								ul_chg.appendChild(li)
+								ul_chg.appendChild(li);
 							}
+							
 							for(var i = 0; i < rem_topics.length; i++){
 								let li = document.createElement("li");
 								li.innerHTML = rem_topics[i];
