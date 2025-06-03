@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -6,107 +7,219 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<div class="card">
-		<a href="index.html">
-			<img src="res/EASA_Logo.png" class="card-img-top">
-		</a>
-		<div class="card-body">
-			<!-- <h2 class="card-title">Compare XML Rulesets</h2> -->
-			<div class="dropdown" id="dropdown-btn">
-		        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-		        Select ruleset
-		        </button>
-		        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-		            <a class="dropdown-item" onclick="set_ruleset('2017.373 ATM / ANS')">2017.373 ATM / ANS</a>
-		            <a class="dropdown-item" onclick="set_ruleset('2023/1769 ATM / ANS EQ')">2023/1769 ATM / ANS EQ</a>
-		            <a class="dropdown-item" onclick="set_ruleset('923.2012 - SERA')">923.2012 - SERA</a>
-		            <a class="dropdown-item" onclick="set_ruleset('139.2014 - ADR')">139.2014 - ADR</a>
-		            <a class="dropdown-item" onclick="set_ruleset('965.2012 - Air Operations')">965.2012 - Air Operations</a>
-	        </div>
+	<div id="login-screen">
+        <div class="login-container">
+            <div class="login-header">
+                <img src="res/logo_s.png" alt="Company Logo" class="login-logo">
+                <p class="text-muted">Sign in to access the service</p>
+            </div>
+            
+            <form id="login-form">
+                <div class="mb-3">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" class="form-control" id="username" placeholder="Enter your username" required>
+                </div>
+                
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="password" placeholder="Enter your password" required>
+                    <div id="login-error" class="error-message">
+                        Invalid username or password
+                    </div>
+                </div>
+                
+                <button type="button" id="login-btn" class="btn btn-primary btn-login">
+                    Sign In
+                </button>
+            </form>
+        </div>
+    </div>
 
-	        <div class="list-group" id="listGroup">
-	        	<h4 id="list-group-title"></h4>
-	        	<!-- ATM -->
-	        	<div id="atm-grp" style="display:none">
-	        		<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>March 2025</span>
-		        	</label>
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>February 2023</span>
-		        	</label>
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>November 2022</span>
-		        	</label>
-	        	</div>
-	        	<!-- ATM EQ -->
-	        	<div id="atm-eq-grp" style="display:none">
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>New version</span>
-		        	</label>
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>November 2024</span>
-		        	</label>
-	        	</div>
-	        	<!-- SERA -->
-	        	<div id="sera-grp" style="display:none">
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>December 2024</span>
-		        	</label>
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>February 2023</span>
-		        	</label>
-	        	</div>
-	        	<!-- ADR -->
-	        	<div id="adr-grp" style="display:none">
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>December 2024</span>
-		        	</label>
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>June 2023</span>
-		        	</label>
-	        	</div>
-	        	<!-- AIROPS -->
-	        	<div id="airops-grp" style="display:none">
-	        		<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>February 2025</span>
-		        	</label>
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>June 2023</span>
-		        	</label>
-		        	<label class="list-group-item d-flex gap-2">
-		        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
-		        		<span>November 2022</span>
-		        	</label>
-	        	</div>
-	        </div>
-	        <div>
-	    		<button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare</button>
-    		</div>
-			<div id="display-changes">
-				<h5 id=h-new></h5>
-				<ul id="ul-new"></ul>
-				<h5 id=h-chg></h5>
-				<ul id="ul-chg"></ul>
-				<h5 id=h-rem></h5>
-				<ul id="ul-rem"></ul>
-			</div>
-	    </div>
+	<div id="app-content" style="display: none;">
+		<div class="card">
+			<a href="index.html">
+				<img src="res/logo_s.png" class="card-img-top">
+			</a>
+			<div class="card-body">
+				<!-- <h2 class="card-title">Compare XML Rulesets</h2> -->
+				<div class="dropdown" id="dropdown-btn">
+			        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+			        Select ruleset
+			        </button>
+			        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+			            <a class="dropdown-item" onclick="set_ruleset('2017.373 ATM / ANS')">2017.373 ATM / ANS</a>
+			            <a class="dropdown-item" onclick="set_ruleset('2023/1769 ATM / ANS EQ')">2023/1769 ATM / ANS EQ</a>
+			            <a class="dropdown-item" onclick="set_ruleset('923.2012 - SERA')">923.2012 - SERA</a>
+			            <a class="dropdown-item" onclick="set_ruleset('139.2014 - ADR')">139.2014 - ADR</a>
+			            <a class="dropdown-item" onclick="set_ruleset('965.2012 - Air Operations')">965.2012 - Air Operations</a>
+		        </div>
+
+		        <div class="list-group" id="listGroup">
+		        	<h4 id="list-group-title"></h4>
+		        	<!-- ATM -->
+		        	<div id="atm-grp" style="display:none">
+		        		<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>March 2025</span>
+			        	</label>
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>February 2023</span>
+			        	</label>
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>November 2022</span>
+			        	</label>
+		        	</div>
+		        	<!-- ATM EQ -->
+		        	<div id="atm-eq-grp" style="display:none">
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>New version</span>
+			        	</label>
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>November 2024</span>
+			        	</label>
+		        	</div>
+		        	<!-- SERA -->
+		        	<div id="sera-grp" style="display:none">
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>December 2024</span>
+			        	</label>
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>February 2023</span>
+			        	</label>
+		        	</div>
+		        	<!-- ADR -->
+		        	<div id="adr-grp" style="display:none">
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>December 2024</span>
+			        	</label>
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>June 2023</span>
+			        	</label>
+		        	</div>
+		        	<!-- AIROPS -->
+		        	<div id="airops-grp" style="display:none">
+		        		<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>February 2025</span>
+			        	</label>
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>June 2023</span>
+			        	</label>
+			        	<label class="list-group-item d-flex gap-2">
+			        		<input class="form-check-input flex-shrink-0" onclick="check_boxes(this)" type="checkbox" value>
+			        		<span>November 2022</span>
+			        	</label>
+		        	</div>
+		        </div>
+		        <div>
+		    		<button id="compare-btn" onclick="compare()" style="display:none" disabled>Compare</button>
+	    		</div>
+				<div id="display-changes">
+					<h5 id=h-new></h5>
+					<ul id="ul-new"></ul>
+					<h5 id=h-chg></h5>
+					<ul id="ul-chg"></ul>
+					<h5 id=h-rem></h5>
+					<ul id="ul-rem"></ul>
+				</div>
+		    </div>
+		</div>
 	</div>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/diff@5.1.0/dist/diff.min.js"></script>
 	
 	<script>
+		// Predefined users (passwords are SHA-256 hashed for basic security)
+		const USERS = {
+		    "demo": {
+		        password: "2a97516c354b68848cdbd8f54a226a0a55b21ed138e207ad6c5cbb9c00aa5aea", // Hashed "demo"
+		        role: "user"
+		    },
+		    "srp": {
+		        password: "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3", // Hashed "123"
+		        role: "user"
+		    },
+		    "admin": {
+		        password: "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918", // Hashed "admin"
+		        role: "admin"
+		    }
+		};
+
+		// Helper function to hash passwords (uses Web Crypto API)
+		async function hashPassword(password) {
+		    const encoder = new TextEncoder();
+		    const data = encoder.encode(password);
+		    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+		    const hashArray = Array.from(new Uint8Array(hashBuffer));
+		    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+		}
+
+		// Login function
+		async function handleLogin() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            const errorElement = document.getElementById('login-error');
+            
+            if (!username || !password) {
+                errorElement.textContent = "Please enter both username and password";
+                errorElement.style.display = 'block';
+                return;
+            }
+            
+            try {
+                const hashedPassword = await hashPassword(password);
+                
+                if (USERS[username] && USERS[username].password === hashedPassword) {
+                    localStorage.setItem('isLoggedIn', 'true');
+                    localStorage.setItem('currentUser', username);
+                    document.getElementById('login-screen').style.display = 'none';
+                    document.getElementById('app-content').style.display = 'block';
+                } else {
+                    errorElement.textContent = "Invalid username or password";
+                    errorElement.style.display = 'block';
+                }
+            } catch (error) {
+                errorElement.textContent = "An error occurred during login";
+                errorElement.style.display = 'block';
+                console.error("Login error:", error);
+            }
+        }
+
+		// Check if already logged in
+		function checkAuth() {
+		    const isLoggedIn = localStorage.getItem('isLoggedIn');
+		    if (isLoggedIn) {
+		        document.getElementById('login-screen').style.display = 'none';
+		        document.getElementById('app-content').style.display = 'block';
+		    }
+		}
+
+		// Initialize
+		document.addEventListener('DOMContentLoaded', function() {
+		    checkAuth();
+		    
+		    document.getElementById('login-btn').addEventListener('click', handleLogin);
+		    
+		    // Also allow login on Enter key
+		    document.getElementById('password').addEventListener('keyup', function(e) {
+		    	document.getElementById('login-error').style.display = 'none';
+		        if (e.key === 'Enter') handleLogin();
+		    });
+		    
+		    document.getElementById('username').addEventListener('keyup', function() {
+                document.getElementById('login-error').style.display = 'none';
+            });
+		});
+
 		let num_check = 0;
 		let compareBtn = document.getElementById('compare-btn');
 
