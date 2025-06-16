@@ -14,6 +14,7 @@ const titleOverrides = {
 const typeColorMap = {
   "AMC to IR (Acceptable means of compliance to implementing rule);": "#fbbc39",
   "IR (Implementing rule);": "#007fc2",
+  "DR (Delegated rule);": "#007fc2",
   "GM to IR (Guidance material to implementing rule);": "#16cc7f",
   "GM to CS (Guidance material to certification specification);" : "#16cc7f"
 };

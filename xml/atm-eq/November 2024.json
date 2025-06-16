@@ -103,7 +103,7 @@
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "Unless otherwise specified , you can re-use the legal documents published in EUR-Lex for commercial or non-commercial purposes […] ('© European Union, , 1998-2024') .",
+        "text": "Unless otherwise specified , you can re-use the legal documents published in EUR-Lex for commercial or non-commercial purposes […] ('© European Union, http://eur-lex.europa.eu , 1998-2024') .",
         "pStyle": "FootnoteText"
       }
     ]
@@ -203,7 +203,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to ."
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu ."
       }
     ]
   },
@@ -396,1078 +396,1078 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "",
+        "text": "EASA eRules 3",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "",
+        "text": "D isclaimer 4",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "",
+        "text": "List of revisions 5",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "",
+        "text": "Note from the editor 6",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "",
+        "text": "Incorporated amendments 7",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "",
+        "text": "Table of contents 8",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "",
+        "text": "Implementing Regulation (EU) 2023/1769 13",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "",
+        "text": "Cover Regulation to Implementing Regulation (EU) 2023/1769 13",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "",
+        "text": "Powers and recitals 13",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "",
+        "text": "Article 1 - Subject matter 15",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "",
+        "text": "Article 2 - Definitions 15",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "",
+        "text": "Article 3 - Competent authority requirements 16",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "",
+        "text": "Article 4 - Organisations involved in the design, or production of ATM/ANS equipment 16",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "",
+        "text": "Article 5 - Amendments to Implementing Regulation (EU) 2023/203 ( ) 16",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "",
+        "text": "Article 6 - Entry into force 17",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "",
+        "text": "Signature 17",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "",
+        "text": "ANNEX I - REQUIREMENTS FOR THE AGENCY - (Part-DPO.AR) 17",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "",
+        "text": "SUBPART A - GENERAL REQUIREMENTS (DPO.AR.A) 17",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.A.001 Scope 17",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.A.010 Immediate reaction to a safety, security and interoperability problem 17",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.A.015 Immediate reaction to an information security incident or vulnerability with an impact on aviation safety 18",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 23,
         "level": -1,
-        "text": "",
+        "text": "SUBPART B - MANAGEMENT (DPO.AR.B) 18",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 24,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.B.001 Management system 18",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 25,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.B. 010 Changes in the management system 19",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.B.015 Record-keeping 19",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 27,
         "level": -1,
-        "text": "",
+        "text": "SUBPART C - CERTIFICATION, OVERSIGHT, AND ENFORCEMENT (DPO.AR.C) 21",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 28,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.C.001 Issue of approvals to organisations involved in the design or production of ATM/ANS equipment 21",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 29,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.C.005 Oversight programme 21",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 30,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.C.010 Changes to the information security management system 22",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 31,
         "level": -1,
-        "text": "",
+        "text": "DPO.AR.C. 015 Findings, corrective actions, and enforcement measures 23",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 32,
         "level": -1,
-        "text": "",
+        "text": "Appendix 1 - SPECIFICATIONS OF THE APPROVAL OF AN ORGANISATION INVOLVED IN THE DESIGN OR PRODUCTION OF ATM/ANS EQUIPMENT 25",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 33,
         "level": -1,
-        "text": "",
+        "text": "ANNEX II - REQUIREMENTS FOR ORGANISATIONS INVOLVED IN THE DESIGN OR PRODUCTION OF ATM/ANS EQUIPMENT - (Part-DPO.OR) 25",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 34,
         "level": -1,
-        "text": "",
+        "text": "SUBPART A - GENERAL REQUIREMENTS (DPO.OR.A) 25",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 35,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.001 Scope 25",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 36,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.005 Eligibility 25",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 37,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.010 Application for a design or production organisation approval and demonstration of capability 26",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 38,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.A.010(a) Application for a design or production organisation approval and demonstration of capability 26",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 39,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.015 Organisation exposition 26",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 40,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.025 Duration, continued validity and privileges of an organisation approval 27",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 41,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.030 Facilitation and cooperation 28",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 42,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.035 Findings and corrective actions 28",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 43,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.040 Immediate reaction to a safety, security and interoperability problem 28",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 44,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.045 Failures, malfunctions, and defects 28",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 45,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.A.045(a)(1) Failures, malfunctions , and defects 29",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 46,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.A.045(a)(1) Failures, malfunctions , and defects 29",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 47,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.A.045(c) Failures, malfunctions , and defects 29",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 48,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.A.045(c);(d) Failures, malfunctions and defects 30",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 49,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.A.045(e) Failures, malfunctions and defects 30",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 50,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.A.050 Approval transferability 31",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 51,
         "level": -1,
-        "text": "",
+        "text": "SUBPART B - MANAGEMENT (DPO.OR.B) 31",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 52,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.B.001 Management system 31",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 53,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.B.001 Management system 33",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 54,
         "level": -1,
-        "text": "",
+        "text": "GM 1 DPO.OR.B.001(a) Management system 33",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 55,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.B.001(c) Management system 33",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 56,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.B.005 Change management 33",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 57,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.B.005(b) Change management 34",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 58,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.B.005(b) Change management 35",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 59,
         "level": -1,
-        "text": "",
+        "text": "GM2 DPO.OR.B.005(b) Change management 36",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 60,
         "level": -1,
-        "text": "",
+        "text": "GM 3 DPO.OR.B.005(b) Change Management 36",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 61,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.B.010 Facility requirements 36",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 62,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.B.015 Contracted activities 36",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 63,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.B.015 Contracted activities 37",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 64,
         "level": -1,
-        "text": "",
+        "text": "AMC2 DPO.OR.B.015 Contracted activities 37",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 65,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.B.015 Contracted activities 37",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 66,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.B.020 Personnel requirements 38",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 67,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.B.025 Record-keeping 38",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 68,
         "level": -1,
-        "text": "",
+        "text": "SUBPART C - TECHNICAL REQUIREMENTS (DPO.OR.C) 38",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 69,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.C.001 Organisations involved in the design or production of ATM/ANS equipment 38",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 70,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.C.001(b) Organisations involved in the design or production of ATM/ANS equipment 39",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 71,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.C.001(c) Organisations involved in the design or production of ATM/ANS equipment 40",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 72,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.C.001(c) Organisations involved in the design or production of ATM/ANS equipment 40",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 73,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.C.001(d) Organisations involved in the design or production of ATM/ANS equipment 40",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 74,
         "level": -1,
-        "text": "",
+        "text": "GM1 DPO.OR.C. 001(d) Organisations involved in the design or production of ATM/ANS equipment 41",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 75,
         "level": -1,
-        "text": "",
+        "text": "AMC1 DPO.OR.C.001(e) Organisations involved in the design or production of ATM/ANS equipment 41",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 76,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.C.005 Coordination 42",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 77,
         "level": -1,
-        "text": "",
+        "text": "DPO.OR.C.010 ATM/ANS equipment directives 43",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 78,
         "level": -1,
-        "text": "",
+        "text": "Delegated Regulation (EU) 2023/1768 44",
         "pStyle": "TOC1"
       },
       {
         "type": "paragraph",
         "index": 79,
         "level": -1,
-        "text": "",
+        "text": "Cover Regulation to Delegated Regulation (EU) 2023/1768 44",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 80,
         "level": -1,
-        "text": "",
+        "text": "Powers and recitals 44",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 81,
         "level": -1,
-        "text": "",
+        "text": "Article 1 — Subject matter and scope 46",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 82,
         "level": -1,
-        "text": "",
+        "text": "Article 2 — Definitions 47",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 83,
         "level": -1,
-        "text": "",
+        "text": "Article 3 — Competent authority 47",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 84,
         "level": -1,
-        "text": "",
+        "text": "AMC1 Article 3(2) Competent authority; Article 6(1) Statement of compliance 48",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 85,
         "level": -1,
-        "text": "",
+        "text": "GM1 Article 3(2) Competent authority; Article 6(1) Statement of compliance 48",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 86,
         "level": -1,
-        "text": "",
+        "text": "Article 4 — Certification of ATM/ANS equipment 48",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 87,
         "level": -1,
-        "text": "",
+        "text": "GM1 Article 4 Certification of ATM/ANS equipment; Article 5 Declaration of design compliance of the ATM/ANS equipment; Article 6 Statement of compliance 49",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 88,
         "level": -1,
-        "text": "",
+        "text": "GM1 Article 4 Certification of ATM/ANS equipment 50",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 89,
         "level": -1,
-        "text": "",
+        "text": "Article 5 — Declaration of design compliance of the ATM/ANS equipment 52",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 90,
         "level": -1,
-        "text": "",
+        "text": "GM1 Article 5 Declaration of design compliance of the ATM/ANS equipment 53",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 91,
         "level": -1,
-        "text": "",
+        "text": "Article 6 — Statement of compliance 55",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 92,
         "level": -1,
-        "text": "",
+        "text": "AMC1 Article 6 Statement of compliance 55",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 93,
         "level": -1,
-        "text": "",
+        "text": "GM1 Article 6 Statement of compliance 56",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 94,
         "level": -1,
-        "text": "",
+        "text": "AMC2 Article 6(1) Statement of compliance 59",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 95,
         "level": -1,
-        "text": "",
+        "text": "AMC3 Article 6(1) Statement of compliance 60",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 96,
         "level": -1,
-        "text": "",
+        "text": "AMC4 Article 6(1) Statement of compliance 60",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 97,
         "level": -1,
-        "text": "",
+        "text": "GM1 Article 6(1) Statement of compliance 61",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 98,
         "level": -1,
-        "text": "",
+        "text": "GM 2 Article 6(1) Statement of compliance 61",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 99,
         "level": -1,
-        "text": "",
+        "text": "GM 3 Article 6(1) Statement of compliance 62",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 100,
         "level": -1,
-        "text": "",
+        "text": "AMC1 Article 6 (2) Statement of compliance 62",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 101,
         "level": -1,
-        "text": "",
+        "text": "Article 7 — Transitional provisions 62",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 102,
         "level": -1,
-        "text": "",
+        "text": "AMC1 Article 7(2) Transitional provisions 63",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 103,
         "level": -1,
-        "text": "",
+        "text": "GM1 Article 7(2) Transitional provisions 64",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 104,
         "level": -1,
-        "text": "",
+        "text": "GM2 Article 7(2) Transitional provisions 64",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 105,
         "level": -1,
-        "text": "",
+        "text": "AMC1 Article 7(3) Transitional provisions 64",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 106,
         "level": -1,
-        "text": "",
+        "text": "Article 8 — Entry into force 65",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 107,
         "level": -1,
-        "text": "",
+        "text": "Signature 65",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 108,
         "level": -1,
-        "text": "",
+        "text": "ANNEX I — REQUIREMENTS FOR THE AGENCY (Part-ATM/ANS.EQMT.AR) 65",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 109,
         "level": -1,
-        "text": "",
+        "text": "SUBPART A — GENERAL REQUIREMENTS (ATM/ANS.EQMT.AR.A) 65",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 110,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.A.001 Scope 65",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 111,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.A.020 Allocation of tasks to qualified entities 65",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 112,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.A.030 ATM/ANS equipment directives 66",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 113,
         "level": -1,
-        "text": "",
+        "text": "GM1 ATM/ANS.EQMT.AR.A. 030 ATM/ANS equipment directives 66",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 114,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.A.035 Detailed specifications for the equipment design compliance 68",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 115,
         "level": -1,
-        "text": "",
+        "text": "SUBPART B — CERTIFICATION, OVERSIGHT, AND ENFORCEMENT (ATM/ANS.EQMT.AR.B) 68",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 116,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.B.001 ATM/ANS equipment certification basis 68",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 117,
         "level": -1,
-        "text": "",
+        "text": "GM1 ATM/ANS.EQMT.AR.B.001(a)(1) ATM/ANS equipment certification basis 69",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 118,
         "level": -1,
-        "text": "",
+        "text": "AMC1 ATM/ANS.EQMT.AR. B .001(b) ATM/ANS equipment certification basis 69",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 119,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.B.005 Special conditions 69",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 120,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.B.010 Level of involvement 70",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 121,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.B.015 Issue of an ATM/ANS equipment certificate 70",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 122,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.B.020 Initial oversight investigation of declaration of design compliance of ATM/ANS equipment 71",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 123,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.B.025 Registration of a declaration of design compliance of ATM/ANS equipment 71",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 124,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.AR.B.030 Changes to declarations 71",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 125,
         "level": -1,
-        "text": "",
+        "text": "ANNEX II — ATM/ANS EQUIPMENT CERTIFICATES (Part-ATM/ANS.EQMT.CERT) 72",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 126,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.001 Scope 72",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 127,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.005 Eligibility 72",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 128,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.010 Demonstration of capability 72",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 129,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.015 Application for an ATM/ANS equipment certificate 72",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 130,
         "level": -1,
-        "text": "",
+        "text": "GM1 ATM/ANS.EQMT.CERT.015(b)(2) Application for an ATM/ANS equipment certificate 73",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 131,
         "level": -1,
-        "text": "",
+        "text": "GM2 ATM/ANS.EQMT.CERT.015(b)(2) Application for an ATM/ANS equipment certificate 74",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 132,
         "level": -1,
-        "text": "",
+        "text": "Appendix 1 to GM2 ATM/ANS.EQMT.CERT.015(b)(2) Application for an ATM/ANS equipment certificate 76",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 133,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.020 Changes that require the issue of a new ATM/ANS equipment certificate 76",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 134,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.025 Demonstration of compliance with the ATM/ANS equipment certification basis 76",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 135,
         "level": -1,
-        "text": "",
+        "text": "GM1 ATM/ANS.EQMT.CERT.025(e) Demonstration of compliance with the ATM/ANS equipment certification basis 77",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 136,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.030 Means of compliance 78",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 137,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.035 ATM/ANS equipment design 78",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 138,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.040 Inspection and testing 78",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 139,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.045 Record-keeping 79",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 140,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.050 Manuals 79",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 141,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.055 Maintenance instructions 79",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 142,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.060 Changes to the ATM/ANS equipment certification basis 80",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 143,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.065 ATM/ANS equipment directives 80",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 144,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.CERT.070 Inspections performed by the Agency 80",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 145,
         "level": -1,
-        "text": "",
+        "text": "ANNEX III — DECLARATION OF DESIGN COMPLIANCE OF THE ATM/ANS EQUIPMENT (Part-ATM/ANS.EQMT.DEC) 81",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 146,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.001 Scope 81",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 147,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.005 Eligibility and demonstration of compliance 81",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 148,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.010 Declaration of design compliance of the ATM/ANS equipment 81",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 149,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.015 Means of compliance 81",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 150,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.020 Changes to the declaration of ATM/ANS equipment design 82",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 151,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.025 Record-keeping 82",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 152,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.030 Manuals 82",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 153,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.035 Maintenance instructions 82",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 154,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.040 ATM/ANS equipment directives 83",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 155,
         "level": -1,
-        "text": "",
+        "text": "ATM/ANS.EQMT.DEC.045 Inspections performed by the Agency 83",
         "pStyle": "TOC3"
       }
     ]
@@ -1677,7 +1677,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "This Regulation lays down technical requirements and administrative procedures for the approval of organisations involved in the design or production of ATM/ANS systems and ATM/ANS constituents subject to certification in accordance with of Delegated Regulation (EU) 2023/1768 or declaration of design compliance in accordance with of that Regulation."
+        "text": "This Regulation lays down technical requirements and administrative procedures for the approval of organisations involved in the design or production of ATM/ANS systems and ATM/ANS constituents subject to certification in accordance with Article 4 of Delegated Regulation (EU) 2023/1768 or declaration of design compliance in accordance with Article 5 of that Regulation."
       }
     ]
   },
@@ -1749,7 +1749,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The Agency shall fulfil the detailed requirements laid down in (Part-DPO.AR) when conducting certification, investigations, inspections, audits and other monitoring activities necessary to ensure the effective oversight of organisations involved in the design or production of ATM/ANS equipment subject to this Regulation. The Agency may seek administrative support from national competent authorities for the performance of its tasks related to certification, oversight and enforcement when executing its functions under this Regulation.",
+        "text": "The Agency shall fulfil the detailed requirements laid down in Annex I (Part-DPO.AR) when conducting certification, investigations, inspections, audits and other monitoring activities necessary to ensure the effective oversight of organisations involved in the design or production of ATM/ANS equipment subject to this Regulation. The Agency may seek administrative support from national competent authorities for the performance of its tasks related to certification, oversight and enforcement when executing its functions under this Regulation.",
         "marker": "2.",
         "pStyle": "ListLevel0"
       }
@@ -1775,7 +1775,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "An organisation involved in the design or production of ATM/ANS equipment subject to certification in accordance with of Delegated Regulation (EU) 2023/1768 or declaration of design compliance in accordance with of that Regulation shall demonstrate its capability as a design or production organisation for ATM/ANS equipment in accordance with (Part-DPO.OR).",
+        "text": "An organisation involved in the design or production of ATM/ANS equipment subject to certification in accordance with Article 4 of Delegated Regulation (EU) 2023/1768 or declaration of design compliance in accordance with Article 5 of that Regulation shall demonstrate its capability as a design or production organisation for ATM/ANS equipment in accordance with Annex II (Part-DPO.OR).",
         "marker": "1.",
         "pStyle": "ListLevel0"
       },
@@ -1783,7 +1783,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Organisations involved in the design or production of the ATM/ANS equipment of the European Geostationary Navigation Overlay Service (EGNOS) shall be deemed to comply with the requirements of to this Regulation by demonstrating their compliance with Regulation (EU) 2021/696 and with the management, design and quality standards applicable to EGNOS under that Regulation. Such organisations shall not be required to be approved by the Agency.",
+        "text": "Organisations involved in the design or production of the ATM/ANS equipment of the European Geostationary Navigation Overlay Service (EGNOS) shall be deemed to comply with the requirements of Annex II to this Regulation by demonstrating their compliance with Regulation (EU) 2021/696 and with the management, design and quality standards applicable to EGNOS under that Regulation. Such organisations shall not be required to be approved by the Agency.",
         "marker": "2.",
         "pStyle": "ListLevel0"
       },
@@ -1791,7 +1791,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The European Union Agency for the Space Programme shall ensure in its role of a design or production organisation that the other organisations involved in the design or production of the equipment of EGNOS follow design and production processes resulting in the level of safety and interoperability equivalent to (Part-DPO.OR)."
+        "text": "The European Union Agency for the Space Programme shall ensure in its role of a design or production organisation that the other organisations involved in the design or production of the equipment of EGNOS follow design and production processes resulting in the level of safety and interoperability equivalent to Annex II (Part-DPO.OR)."
       }
     ]
   },
@@ -1973,7 +1973,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Upon receiving the information referred to in point (a), the Agency shall take appropriate measures to address any identified safety, security, or interoperability problem, including the issuing of ATM/ANS equipment directives in accordance with point of to Delegated Regulation (EU) 2023/1768.",
+        "text": "Upon receiving the information referred to in point (a), the Agency shall take appropriate measures to address any identified safety, security, or interoperability problem, including the issuing of ATM/ANS equipment directives in accordance with point ATM/ANS.EQMT.AR.A.030 of Annex I to Delegated Regulation (EU) 2023/1768.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1981,7 +1981,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "The measures taken under point (b) shall immediately be notified to the organisation concerned, who is obliged to comply with them, in accordance with point . The competent authorities of the ATM/ANS providers concerned shall also be notified.",
+        "text": "The measures taken under point (b) shall immediately be notified to the organisation concerned, who is obliged to comply with them, in accordance with point DPO.OR.A.035 . The competent authorities of the ATM/ANS providers concerned shall also be notified.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -2197,7 +2197,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "the training, qualifications, and authorisation of personnel as required by point (a)(3);",
+        "text": "the training, qualifications, and authorisation of personnel as required by point DPO.AR.B.001 (a)(3);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -2205,7 +2205,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "the allocation of tasks, covering the elements required by point of to Delegated Regulation (EU) 2023/1768, as well as the details of the allocated tasks;",
+        "text": "the allocation of tasks, covering the elements required by point ATM/ANS.EQMT.AR.A.020 of Annex I to Delegated Regulation (EU) 2023/1768, as well as the details of the allocated tasks;",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -2367,7 +2367,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Upon receiving an application for the issue of an approval to an organisation involved in the design or production of ATM/ANS equipment, the Agency shall verify the organisation’s compliance with the requirements laid down in and of Delegated Regulation (EU) 2023/1768 and in to this Regulation.",
+        "text": "Upon receiving an application for the issue of an approval to an organisation involved in the design or production of ATM/ANS equipment, the Agency shall verify the organisation’s compliance with the requirements laid down in Annexes II and III of Delegated Regulation (EU) 2023/1768 and in Annex II to this Regulation.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2375,7 +2375,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The Agency may request any audits, inspections or assessments it finds necessary before issuing the approval with all the relevant information set out in to this Annex.",
+        "text": "The Agency may request any audits, inspections or assessments it finds necessary before issuing the approval with all the relevant information set out in Appendix 1 to this Annex.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -2407,7 +2407,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "The approval shall not be issued where a level 1 finding referred to in remains open. In exceptional circumstances, finding(s) other than level 1 shall be assessed and mitigated as necessary by the organisation and a corrective action plan for closing the finding(s) shall be approved by the Agency prior to the issue of the approval.",
+        "text": "The approval shall not be issued where a level 1 finding referred to in DPO.AR.C.015 remains open. In exceptional circumstances, finding(s) other than level 1 shall be assessed and mitigated as necessary by the organisation and a corrective action plan for closing the finding(s) shall be approved by the Agency prior to the issue of the approval.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -2503,7 +2503,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 2,
-        "text": "the organisation has continuously demonstrated compliance with the change management requirements under point ;",
+        "text": "the organisation has continuously demonstrated compliance with the change management requirements under point DPO.OR.B.005 ;",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -2511,7 +2511,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 2,
-        "text": "no level 1 findings referred to in have been issued;",
+        "text": "no level 1 findings referred to in DPO.AR.C. 015 have been issued;",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -2519,7 +2519,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 2,
-        "text": "all corrective actions referred to in have been implemented within the time period accepted or extended by the Agency as defined in point .",
+        "text": "all corrective actions referred to in DPO.AR.C.015 have been implemented within the time period accepted or extended by the Agency as defined in point DPO.AR.C.015 .",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -2534,7 +2534,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 1,
-        "text": "ensure the follow-up of the implementation of corrective actions referred to in ;",
+        "text": "ensure the follow-up of the implementation of corrective actions referred to in DPO.AR.C. 015 ;",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -2574,7 +2574,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 0,
-        "text": "Audit observations and findings issued in accordance with point shall be documented.",
+        "text": "Audit observations and findings issued in accordance with point DPO.AR.C. 015 shall be documented.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -2616,7 +2616,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "For changes managed and notified to the Agency in accordance with the procedure set out in point IS.I.OR.255(a) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203, the Agency shall include the review of such changes in its continuing oversight programme in accordance with the principles laid down in point of this Annex. If any non-compliance is found, the Agency shall notify the organisation thereof, request further changes and act in accordance with point of this Annex.",
+        "text": "For changes managed and notified to the Agency in accordance with the procedure set out in point IS.I.OR.255(a) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203, the Agency shall include the review of such changes in its continuing oversight programme in accordance with the principles laid down in point DPO.AR.C.005 of this Annex. If any non-compliance is found, the Agency shall notify the organisation thereof, request further changes and act in accordance with point DPO.AR.C.015 of this Annex.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2714,7 +2714,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "A level 1 finding shall be raised by the Agency when it identifies any significant non-compliance with the ATM/ANS certification basis as per point of to Delegated Regulation (EU) 2023/1768 that may lead to uncontrolled non-compliance and to a potential unwanted condition.",
+        "text": "A level 1 finding shall be raised by the Agency when it identifies any significant non-compliance with the ATM/ANS certification basis as per point ATM/ANS.EQMT.AR.B.001 of Annex I to Delegated Regulation (EU) 2023/1768 that may lead to uncontrolled non-compliance and to a potential unwanted condition.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -2873,7 +2873,7 @@
         "type": "paragraph",
         "index": 27,
         "level": 1,
-        "text": "issue an ATM/ANS equipment directive under the conditions of point of to Delegated Regulation (EU) 2023/1768;",
+        "text": "issue an ATM/ANS equipment directive under the conditions of point ATM/ANS.EQMT.AR.A.030 of Annex I to Delegated Regulation (EU) 2023/1768;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -3059,7 +3059,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Any natural or legal person who has demonstrated, or is set to demonstrate, their capability to design or produce ATM/ANS equipment in accordance with point , may apply for a design or production organisation approval under the conditions laid down in this Annex."
+        "text": "Any natural or legal person who has demonstrated, or is set to demonstrate, their capability to design or produce ATM/ANS equipment in accordance with point DPO.OR.A.010 , may apply for a design or production organisation approval under the conditions laid down in this Annex."
       }
     ]
   },
@@ -3164,7 +3164,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "the title(s) and name(s) of the key manager(s) as referred to in point ;",
+        "text": "the title(s) and name(s) of the key manager(s) as referred to in point DPO.OR.B.020 ;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -3252,7 +3252,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 1,
-        "text": "a description, direct or by cross reference, of the contractors’ management and procedure(s) of supervision referred to in point of this Annex.",
+        "text": "a description, direct or by cross reference, of the contractors’ management and procedure(s) of supervision referred to in point DPO.OR . B.015 of this Annex.",
         "marker": "(13)",
         "pStyle": "ListLevel1"
       },
@@ -3268,7 +3268,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 0,
-        "text": "An application for a change approval referred to in point of this Annex shall be based on the submission of the proposed changes to the organisation exposition.",
+        "text": "An application for a change approval referred to in point DPO.OR.B.005 of this Annex shall be based on the submission of the proposed changes to the organisation exposition.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -3358,7 +3358,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "to issue declarations of design compliance of ATM/ANS equipment pursuant to of Delegated Regulation (EU) 2023/1768; and",
+        "text": "to issue declarations of design compliance of ATM/ANS equipment pursuant to Article 5 of Delegated Regulation (EU) 2023/1768; and",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -3366,7 +3366,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "to issue statements of compliance of ATM/ANS equipment pursuant to of Delegated Regulation (EU) 2023/1768.",
+        "text": "to issue statements of compliance of ATM/ANS equipment pursuant to Article 6 of Delegated Regulation (EU) 2023/1768.",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       }
@@ -3448,7 +3448,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "demonstrate the implementation of the corrective action to the satisfaction of the Agency within the time period proposed and approved by the Agency, as defined in point (e)(2) of point .",
+        "text": "demonstrate the implementation of the corrective action to the satisfaction of the Agency within the time period proposed and approved by the Agency, as defined in point (e)(2) of point DPO.AR.C.015 .",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -3474,7 +3474,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "An organisation involved in the design or production of ATM/ANS equipment shall implement any safety and security measures, including ATM/ANS equipment directives, taken by the Agency in accordance with points and ."
+        "text": "An organisation involved in the design or production of ATM/ANS equipment shall implement any safety and security measures, including ATM/ANS equipment directives, taken by the Agency in accordance with points DPO.AR.A.010 and DPO.AR.A.015 ."
       }
     ]
   },
@@ -3979,7 +3979,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 2,
-        "text": "the verification of the acceptability of the elements of the ATM/ANS equipment designed, or the tasks performed, by the contracted organisations referred to in point ;",
+        "text": "the verification of the acceptability of the elements of the ATM/ANS equipment designed, or the tasks performed, by the contracted organisations referred to in point DPO.OR.B.015 ;",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -4019,7 +4019,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 2,
-        "text": "assessment audits and the control of contracted organisations referred to in point ;",
+        "text": "assessment audits and the control of contracted organisations referred to in point DPO.OR.B.015 ;",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -4358,7 +4358,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "A procedure should be established for the classification and approval of design changes to the ATM/ANS equipment. The procedure should define criteria for classifying a change as minor or major, taking into account points and of Delegated Regulation (EU) 2023/1768 , and the following key aspects:",
+        "text": "A procedure should be established for the classification and approval of design changes to the ATM/ANS equipment. The procedure should define criteria for classifying a change as minor or major, taking into account points ATM/ANS.EQMT.CERT.020 and ATM/ANS.EQMT.DEC.020 of Delegated Regulation (EU) 2023/1768 , and the following key aspects:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -4540,7 +4540,7 @@
         "type": "paragraph",
         "index": 26,
         "level": 1,
-        "text": "a n application for the issue of a new certificate , in accordance with point of Implementing Regulation (EU) 2023/1768 , for ATM/ANS equipment subject to of that Regulation; or",
+        "text": "a n application for the issue of a new certificate , in accordance with point ATM/ANS.EQMT.CERT.020 of Implementing Regulation (EU) 2023/1768 , for ATM/ANS equipment subject to Article 4 of that Regulation; or",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -4548,7 +4548,7 @@
         "type": "paragraph",
         "index": 27,
         "level": 1,
-        "text": "a new declaration of design compliance , in accordance with point (b) of Implementing Regulation (EU) 2023/1768 , for ATM/ANS equipment subject to of that Regulation.",
+        "text": "a new declaration of design compliance , in accordance with point ATM/ANS.EQMT.DEC.020 (b) of Implementing Regulation (EU) 2023/1768 , for ATM/ANS equipment subject to Article 5 of that Regulation.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       }
@@ -4966,7 +4966,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "An organisation involved in the design or production of ATM/ANS equipment shall establish a record-keeping system that allows for the adequate storage of records and the reliable traceability of all its activities, covering in particular all the elements indicated in point .",
+        "text": "An organisation involved in the design or production of ATM/ANS equipment shall establish a record-keeping system that allows for the adequate storage of records and the reliable traceability of all its activities, covering in particular all the elements indicated in point DPO.OR.B.001 .",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5360,7 +5360,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "Each organisation involved in the production of ATM/ANS equipment subject to conformity assessment under this Regulation should issue a statement of conformity regarding its production, using an EASA release form (see). This statement should be signed by an authorised person involved in the production of the ATM/ANS equipment.",
+        "text": "Each organisation involved in the production of ATM/ANS equipment subject to conformity assessment under this Regulation should issue a statement of conformity regarding its production, using an EASA release form (see AMC1 DPO.OR.C.001(e) ). This statement should be signed by an authorised person involved in the production of the ATM/ANS equipment.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -5376,7 +5376,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "the finished (ready to be delivered) ATM/ANS equipment conforms to the approved design data of the ATM/ANS equipment subject to certification or declaration in accordance with or of Delegated Regulation (EU) 2023/1768 respectively;",
+        "text": "the finished (ready to be delivered) ATM/ANS equipment conforms to the approved design data of the ATM/ANS equipment subject to certification or declaration in accordance with Article 4 or Article 5 of Delegated Regulation (EU) 2023/1768 respectively;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5656,7 +5656,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "When the Agency issues an ATM/ANS equipment directive, pursuant to point of to Delegated Regulation (EU) 2023/1768, the organisation involved in the design or production of ATM/ANS equipment shall:"
+        "text": "When the Agency issues an ATM/ANS equipment directive, pursuant to point ATM/ANS.EQMT.CERT.065 of Annex II to Delegated Regulation (EU) 2023/1768, the organisation involved in the design or production of ATM/ANS equipment shall:"
       },
       {
         "type": "paragraph",
@@ -6009,7 +6009,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "The competent authority responsible for issuing certificates for ATM/ANS equipment in accordance with , for accepting declarations of design compliance of ATM/ANS equipment issued in accordance with , and for the oversight of certificate and declarations, shall be the Agency. For that purpose, the Agency shall comply with the requirements laid down in Annex I .",
+        "text": "The competent authority responsible for issuing certificates for ATM/ANS equipment in accordance with Article 4 , for accepting declarations of design compliance of ATM/ANS equipment issued in accordance with Article 5 , and for the oversight of certificate and declarations, shall be the Agency. For that purpose, the Agency shall comply with the requirements laid down in Annex I .",
         "marker": "1.",
         "pStyle": "ListLevel0"
       },
@@ -6017,7 +6017,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The competent authority responsible for the oversight of the statement of compliance issued by an ATM/ANS provider in accordance with shall be the same competent authority as the authority responsible for the certification and oversight of that ATM/ANS provider.",
+        "text": "The competent authority responsible for the oversight of the statement of compliance issued by an ATM/ANS provider in accordance with Article 6 shall be the same competent authority as the authority responsible for the certification and oversight of that ATM/ANS provider.",
         "marker": "2.",
         "pStyle": "ListLevel0"
       }
@@ -6161,7 +6161,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "the ATM/ANS equipment no longer complies with its certification basis in accordance with point of Annex II ; or",
+        "text": "the ATM/ANS equipment no longer complies with its certification basis in accordance with point ATM/ANS.EQMT.CERT.025 of Annex II ; or",
         "marker": "(c)",
         "pStyle": "ListLevel1"
       },
@@ -6184,7 +6184,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 0,
-        "text": "By way of derogation from paragraph 1, ATM/ANS equipment that is solely being used in a limited part of airspace outside of the ICAO EUR region with low traffic volume, and where that part of the airspace borders only with airspace under the responsibility of a third country, shall not be required to be issued with a certificate. In such a case, the ATM/ANS equipment shall be issued with a statement of compliance in accordance with .",
+        "text": "By way of derogation from paragraph 1, ATM/ANS equipment that is solely being used in a limited part of airspace outside of the ICAO EUR region with low traffic volume, and where that part of the airspace borders only with airspace under the responsibility of a third country, shall not be required to be issued with a certificate. In such a case, the ATM/ANS equipment shall be issued with a statement of compliance in accordance with Article 6 .",
         "marker": "4.",
         "pStyle": "ListLevel0"
       }
@@ -6358,7 +6358,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "For ATM/ANS equipment subject to certification in accordance with of this Regulation, the approved DPO, following the acceptance of the certification programme by EASA, demonstrate s compliance with the ATM/ANS equipment certification basis before a certificate against the design is issued. The DPO produces ATM/ANS equipment against the design data and issues an EASA release form to be provided to the ATM/ANS provider. Figure 1 shows the interactions between the regulated parties when the ATM/ANS equipment is subject to certification."
+        "text": "For ATM/ANS equipment subject to certification in accordance with Article 4 of this Regulation, the approved DPO, following the acceptance of the certification programme by EASA, demonstrate s compliance with the ATM/ANS equipment certification basis before a certificate against the design is issued. The DPO produces ATM/ANS equipment against the design data and issues an EASA release form to be provided to the ATM/ANS provider. Figure 1 shows the interactions between the regulated parties when the ATM/ANS equipment is subject to certification."
       },
       {
         "type": "paragraph",
@@ -6460,7 +6460,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "By way of derogation from paragraph 1, ATM/ANS equipment that is solely being used in a limited part of airspace outside of the ICAO EUR region with low traffic volume, and where that part of the airspace borders only with airspace under the responsibility of a third country, shall not be required to be issued with a declaration of design compliance. In such a case, the ATM/ANS equipment shall be issued with a statement of compliance in accordance with .",
+        "text": "By way of derogation from paragraph 1, ATM/ANS equipment that is solely being used in a limited part of airspace outside of the ICAO EUR region with low traffic volume, and where that part of the airspace borders only with airspace under the responsibility of a third country, shall not be required to be issued with a declaration of design compliance. In such a case, the ATM/ANS equipment shall be issued with a statement of compliance in accordance with Article 6 .",
         "marker": "4.",
         "pStyle": "ListLevel0"
       },
@@ -6476,7 +6476,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "Points and of Annex III shall not be applicable to EUSPA. EUSPA shall ensure that the Agency is given access to evidence from the different entities involved in the design and production of the ATM/ANS equipment of the EGNOS system, in order to determine continued compliance with the applicable technical specifications against which the ATM/ANS equipment declaration was made in accordance with Annex III.",
+        "text": "Points ATM/ANS.EQMT.DEC.005 and ATM/ANS.EQMT.DEC.045 of Annex III shall not be applicable to EUSPA. EUSPA shall ensure that the Agency is given access to evidence from the different entities involved in the design and production of the ATM/ANS equipment of the EGNOS system, in order to determine continued compliance with the applicable technical specifications against which the ATM/ANS equipment declaration was made in accordance with Annex III.",
         "marker": "6.",
         "pStyle": "ListLevel0"
       }
@@ -6547,7 +6547,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "equipment that is neither subject to certification in accordance with Article 4 nor to a declaration of compliance in accordance with ; and",
+        "text": "equipment that is neither subject to certification in accordance with Article 4 nor to a declaration of compliance in accordance with Article 5 ; and",
         "marker": "(a)",
         "pStyle": "ListLevel1"
       },
@@ -6739,7 +6739,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 0,
-        "text": "For major changes, the ATM/ANS provider should apply of this Regulation and reissue a SoC.",
+        "text": "For major changes, the ATM/ANS provider should apply Article 6 of this Regulation and reissue a SoC.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -6918,7 +6918,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 0,
-        "text": "The SoC should be accompanied by all documents that form the basis for the issuance of it and, when issued by an approved DPO, an EASA release form issued in accordance with (d) of Commission Implementing Regulation (EU) 2023/1769 by the same DPO.",
+        "text": "The SoC should be accompanied by all documents that form the basis for the issuance of it and, when issued by an approved DPO, an EASA release form issued in accordance with DPO.OR.C.001 (d) of Commission Implementing Regulation (EU) 2023/1769 by the same DPO.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -7265,7 +7265,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that requires certification in accordance with shall be deemed to have been issued with a certificate in accordance with unless the Agency determines, following the evaluation referred to in paragraph 2, that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation;",
+        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that requires certification in accordance with Article 4 shall be deemed to have been issued with a certificate in accordance with Article 4 unless the Agency determines, following the evaluation referred to in paragraph 2, that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation;",
         "marker": "(a)",
         "pStyle": "ListLevel1"
       },
@@ -7273,7 +7273,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that is required to be declared in accordance with shall be deemed to have been issued with a declaration of design compliance in accordance with unless the Agency determines, following the evaluation referred to in paragraph 2, that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation;",
+        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that is required to be declared in accordance with Article 5 shall be deemed to have been issued with a declaration of design compliance in accordance with Article 5 unless the Agency determines, following the evaluation referred to in paragraph 2, that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation;",
         "marker": "(b)",
         "pStyle": "ListLevel1"
       },
@@ -7281,7 +7281,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "as regards ATM/ANS equipment which is subject to a statement of compliance in accordance with , the EC declarations of verification of systems that have been issued or recognised in accordance with Article 6 of Regulation (EC) No 552/2004 shall continue to be valid for an unlimited duration and shall be deemed to have a statement of compliance pursuant to .",
+        "text": "as regards ATM/ANS equipment which is subject to a statement of compliance in accordance with Article 6 , the EC declarations of verification of systems that have been issued or recognised in accordance with Article 6 of Regulation (EC) No 552/2004 shall continue to be valid for an unlimited duration and shall be deemed to have a statement of compliance pursuant to Article 6 .",
         "marker": "(c)",
         "pStyle": "ListLevel1"
       },
@@ -7297,7 +7297,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "ATM/ANS equipment that is subject to certification in accordance with or a declaration in accordance with may be put into operation from the date of entry into force of this Regulation until 12 September 2028 on the basis of a statement of compliance made in accordance with . As from 13 September 2028, the following provisions shall apply to such ATM/ANS equipment:",
+        "text": "ATM/ANS equipment that is subject to certification in accordance with Article 4 or a declaration in accordance with Article 5 may be put into operation from the date of entry into force of this Regulation until 12 September 2028 on the basis of a statement of compliance made in accordance with Article 6 . As from 13 September 2028, the following provisions shall apply to such ATM/ANS equipment:",
         "marker": "3.",
         "pStyle": "ListLevel0"
       },
@@ -7305,7 +7305,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that requires certification in accordance with and for which a statement of compliance was issued by the ATM/ANS provider shall be deemed to have been issued with a certificate in accordance with unless the Agency determines, following the evaluation referred to in paragraph 4, that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation;",
+        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that requires certification in accordance with Article 4 and for which a statement of compliance was issued by the ATM/ANS provider shall be deemed to have been issued with a certificate in accordance with Article 4 unless the Agency determines, following the evaluation referred to in paragraph 4, that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation;",
         "marker": "(a)",
         "pStyle": "ListLevel1"
       },
@@ -7313,7 +7313,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that requires a declaration of design compliance in accordance with and for which a statement of compliance was issued by the ATM/ANS provider shall be deemed to have been issued with a declaration of design compliance in accordance with Article 5 unless the Agency determines, following the evaluation referred to in paragraph 4 that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation.",
+        "text": "ATM/ANS equipment which falls within the category of ATM/ANS equipment that requires a declaration of design compliance in accordance with Article 5 and for which a statement of compliance was issued by the ATM/ANS provider shall be deemed to have been issued with a declaration of design compliance in accordance with Article 5 unless the Agency determines, following the evaluation referred to in paragraph 4 that such ATM/ANS equipment does not ensure a level of safety, security, performance and interoperability equivalent to that required by Regulation (EU) 2018/1139 and this Regulation.",
         "marker": "(b)",
         "pStyle": "ListLevel1"
       },
@@ -7354,13 +7354,13 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "For the purpose of the evaluation referred to in (2), the competent authorities responsible for the certification and oversight of the ATM/ANS providers referred to in Article 4(1) of Implementing Regulation (EU) 2017/373 should provide the following information to EASA upon request:"
+        "text": "For the purpose of the evaluation referred to in Article 7 (2), the competent authorities responsible for the certification and oversight of the ATM/ANS providers referred to in Article 4(1) of Implementing Regulation (EU) 2017/373 should provide the following information to EASA upon request:"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "ATM/ANS provider’s name: the name of the ATM/ANS provider(s) that has deployed the ATM/ANS equipment subject to or of this Regulation and has issued the declaration of verification (DoV) in accordance with Article 6 of Regulation (EC) No 552/2004."
+        "text": "ATM/ANS provider’s name: the name of the ATM/ANS provider(s) that has deployed the ATM/ANS equipment subject to Articles 4 or 5 of this Regulation and has issued the declaration of verification (DoV) in accordance with Article 6 of Regulation (EC) No 552/2004."
       },
       {
         "type": "paragraph",
@@ -7478,7 +7478,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "For the purpose of the evaluation referred to in (2), the competent authorities responsible for the certification and oversight of the ATM/ANS providers referred to in Article 4(1) of Implementing Regulation (EU) 2017/373 may provide EASA with any certificate, approval, licence, authorisation, attestation, technical file or other document issued as a result of a process attesting compliance of the ATM/ANS equipment with the applicable essential requirements laid down in Regulation (EC) No 552/2004."
+        "text": "For the purpose of the evaluation referred to in Article 7 (2), the competent authorities responsible for the certification and oversight of the ATM/ANS providers referred to in Article 4(1) of Implementing Regulation (EU) 2017/373 may provide EASA with any certificate, approval, licence, authorisation, attestation, technical file or other document issued as a result of a process attesting compliance of the ATM/ANS equipment with the applicable essential requirements laid down in Regulation (EC) No 552/2004."
       }
     ]
   },
@@ -7509,7 +7509,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "In order to issue a SoC for ATM/ANS equipment that is subject to certification in accordance with or a declaration in accordance with of Regulation (EU) 2023/1768, the ATM/ANS providers or the organisations involved in the design or production of ATM/ANS equipment (DPOs) acting on their behalf, should demonstrate compliance of ATM/ANS equipment with:",
+        "text": "In order to issue a SoC for ATM/ANS equipment that is subject to certification in accordance with Article 4 or a declaration in accordance with Article 5 of Regulation (EU) 2023/1768, the ATM/ANS providers or the organisations involved in the design or production of ATM/ANS equipment (DPOs) acting on their behalf, should demonstrate compliance of ATM/ANS equipment with:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -7708,7 +7708,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "The Agency shall ensure that the internal audit process and the safety risk management process required by point (a)(5) of Implementing Regulation (EU) 2023/1769 cover all the tasks performed on its behalf by the qualified entity(ies).",
+        "text": "The Agency shall ensure that the internal audit process and the safety risk management process required by point DPO.AR.B.001 (a)(5) of Implementing Regulation (EU) 2023/1769 cover all the tasks performed on its behalf by the qualified entity(ies).",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -7716,7 +7716,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "With regard to the approval and oversight of the organisation’s compliance with point (d) of Implementing Regulation (EU) 2023/1769, the Agency may allocate tasks to qualified entities in accordance with point (a), or to any relevant authority responsible for information security or cybersecurity within the Union. When allocating tasks, the Agency shall ensure that:",
+        "text": "With regard to the approval and oversight of the organisation’s compliance with point DPO.OR.B.001 (d) of Implementing Regulation (EU) 2023/1769, the Agency may allocate tasks to qualified entities in accordance with point (a), or to any relevant authority responsible for information security or cybersecurity within the Union. When allocating tasks, the Agency shall ensure that:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -7740,7 +7740,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "its own information security management system established in accordance with point (d) of Implementing Regulation (EU) 2023/1769 covers all the certification and continuing oversight tasks performed on its behalf.",
+        "text": "its own information security management system established in accordance with point DPO.AR.B.001 (d) of Implementing Regulation (EU) 2023/1769 covers all the certification and continuing oversight tasks performed on its behalf.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       }
@@ -7862,7 +7862,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Certificates of ATM/ANS equipment issued in accordance with and d eclarations of design compliance of ATM/ANS equipment issued in accordance with lose their validity in case the holder of the certificate/issuer of the declaration of design compliance is no longer compliant with Implementing Regulation (EU) 2023/1769 ."
+        "text": "Certificates of ATM/ANS equipment issued in accordance with Article 4 and d eclarations of design compliance of ATM/ANS equipment issued in accordance with Article 5 lose their validity in case the holder of the certificate/issuer of the declaration of design compliance is no longer compliant with Implementing Regulation (EU) 2023/1769 ."
       },
       {
         "type": "paragraph",
@@ -8000,7 +8000,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "apply for the certification of ATM/ANS equipment in accordance with ;",
+        "text": "apply for the certification of ATM/ANS equipment in accordance with Article 4 ;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -8008,7 +8008,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "declare design compliance of ATM/ANS equipment in accordance with ;",
+        "text": "declare design compliance of ATM/ANS equipment in accordance with Article 5 ;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -8016,7 +8016,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "make a statement of compliance in accordance with .",
+        "text": "make a statement of compliance in accordance with Article 6 .",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -8058,7 +8058,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "detailed certification specifications issued by the Agency in accordance with point that are applicable to the ATM/ANS equipment on the date of submission of the application for that certificate, unless:",
+        "text": "detailed certification specifications issued by the Agency in accordance with point ATM/ANS.EQMT.AR.A.035 that are applicable to the ATM/ANS equipment on the date of submission of the application for that certificate, unless:",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -8066,7 +8066,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 2,
-        "text": "the applicant chooses to comply, or is required to comply in accordance with point (e), with detailed certification specifications that became applicable after the date of the submission of the application, in which case the Agency shall include in the ATM/ANS equipment certification basis any other certification specifications that are directly related; or",
+        "text": "the applicant chooses to comply, or is required to comply in accordance with point ATM/ANS.EQMT.CERT.015 (e), with detailed certification specifications that became applicable after the date of the submission of the application, in which case the Agency shall include in the ATM/ANS equipment certification basis any other certification specifications that are directly related; or",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -8082,7 +8082,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "any special conditions prescribed by the Agency in accordance with point .",
+        "text": "any special conditions prescribed by the Agency in accordance with point ATM/ANS.EQMT.AR.B. 005 .",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -8129,7 +8129,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The validity period of an application for the issue of an ATM/ANS equipment certificate may be extended, as per point (e)(2) . In such a case, t he certification basis is then revised accordingly."
+        "text": "The validity period of an application for the issue of an ATM/ANS equipment certificate may be extended, as per point ATM/ANS.EQMT.CERT.015 (e)(2) . In such a case, t he certification basis is then revised accordingly."
       },
       {
         "type": "paragraph",
@@ -8171,7 +8171,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Additional features, characteristics or functions not specified into the applicable detailed specifications should be addressed through demonstration to provide assurance that their inclusion in the certification basis do es not detrimentally interfere with th os e specified in the applicable detailed specification s , as per point (f) , when demonstrating the suitability of the ATM/ANS equipment for its intended use .",
+        "text": "Additional features, characteristics or functions not specified into the applicable detailed specifications should be addressed through demonstration to provide assurance that their inclusion in the certification basis do es not detrimentally interfere with th os e specified in the applicable detailed specification s , as per point ATM/ANS.EQMT.CERT.025 (f) , when demonstrating the suitability of the ATM/ANS equipment for its intended use .",
         "pStyle": "Normal0"
       }
     ]
@@ -8366,7 +8366,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "the applicant has demonstrated compliance with point ;",
+        "text": "the applicant has demonstrated compliance with point ATM/ANS.EQMT.CERT.015 ;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -8374,7 +8374,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "the Agency has not identified any non-compliance with the ATM/ANS equipment certification basis through the verification of the compliance-demonstration activities determined in accordance with point ;",
+        "text": "the Agency has not identified any non-compliance with the ATM/ANS equipment certification basis through the verification of the compliance-demonstration activities determined in accordance with point ATM/ANS.EQMT.AR.B.010 ;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -8424,7 +8424,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "the declarant has the privilege to declare design compliance in accordance with point ;",
+        "text": "the declarant has the privilege to declare design compliance in accordance with point ATM/ANS.EQMT.DEC.005 ;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -8432,7 +8432,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "the declaration contains all the information listed in point ;",
+        "text": "the declaration contains all the information listed in point ATM/ANS.EQMT.DEC.010 ;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -8496,7 +8496,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "the declarant has declared compliance of the ATM/ANS equipment design in accordance with point ;",
+        "text": "the declarant has declared compliance of the ATM/ANS equipment design in accordance with point ATM/ANS.EQMT.DEC.010 ;",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -8512,7 +8512,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "there are no unresolved issues in accordance with point .",
+        "text": "there are no unresolved issues in accordance with point ATM/ANS.EQMT.AR.B.020 .",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -8538,7 +8538,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Upon receiving a notification of changes in accordance with point , the Agency shall verify the completeness of the notification in accordance with point .",
+        "text": "Upon receiving a notification of changes in accordance with point ATM/ANS.EQMT.DEC.020 , the Agency shall verify the completeness of the notification in accordance with point ATM/ANS.EQMT.AR.B.020 .",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -8546,7 +8546,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "When the change(s) affects (affect) any aspect of the declaration that is registered in accordance with point , the Agency shall update the register.",
+        "text": "When the change(s) affects (affect) any aspect of the declaration that is registered in accordance with point ATM/ANS.EQMT.AR.B.025 , the Agency shall update the register.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -8580,7 +8580,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "This Annex establishes the procedures for the issue of certificates for ATM/ANS equipment in accordance with , and the rights and obligations of the applicant for, and holder of, those certificates."
+        "text": "This Annex establishes the procedures for the issue of certificates for ATM/ANS equipment in accordance with Article 4 , and the rights and obligations of the applicant for, and holder of, those certificates."
       }
     ]
   },
@@ -8604,7 +8604,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Any natural or legal person who has demonstrated, or is in the process of demonstrating, their design capability in accordance with point , may apply for the issue of an ATM/ANS equipment certificate under the conditions laid down in this Annex."
+        "text": "Any natural or legal person who has demonstrated, or is in the process of demonstrating, their design capability in accordance with point ATM/ANS.EQMT.CERT.010 , may apply for the issue of an ATM/ANS equipment certificate under the conditions laid down in this Annex."
       }
     ]
   },
@@ -8676,7 +8676,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "a certification programme for the demonstration of compliance in accordance with point , consisting of the following:",
+        "text": "a certification programme for the demonstration of compliance in accordance with point ATM/ANS.EQMT.CERT.025 , consisting of the following:",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -8708,7 +8708,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 2,
-        "text": "a proposal for the initial certification basis, including applicable detailed certification specifications, proposed special conditions, proposed equivalent safety findings, as well as a proposed means of compliance and proposed deviations, as applicable, prepared in accordance with the requirements and options set out in point ;",
+        "text": "a proposal for the initial certification basis, including applicable detailed certification specifications, proposed special conditions, proposed equivalent safety findings, as well as a proposed means of compliance and proposed deviations, as applicable, prepared in accordance with the requirements and options set out in point ATM/ANS.EQMT.AR.B.001 ;",
         "marker": "(iv)",
         "pStyle": "ListLevel2"
       },
@@ -8724,7 +8724,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 2,
-        "text": "a proposal for the assessment of the subjective groups of compliance-demonstration activities and data, addressing the likelihood of an unidentified non-compliance with the certification-basis requirements and the potential impact of that non-compliance on the ATM/ANS equipment; the proposed assessment shall take into account at least the elements set out in points (a)(2)(i) to (iv) of point ; based on this assessment, the application shall include a proposal for the Agency’s level of involvement in the verification of the compliance-demonstration activities and data;",
+        "text": "a proposal for the assessment of the subjective groups of compliance-demonstration activities and data, addressing the likelihood of an unidentified non-compliance with the certification-basis requirements and the potential impact of that non-compliance on the ATM/ANS equipment; the proposed assessment shall take into account at least the elements set out in points (a)(2)(i) to (iv) of point ATM/ANS.EQMT.AR.B.010 ; based on this assessment, the application shall include a proposal for the Agency’s level of involvement in the verification of the compliance-demonstration activities and data;",
         "marker": "(vi)",
         "pStyle": "ListLevel2"
       },
@@ -8764,7 +8764,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 1,
-        "text": "submit a new application and comply with the requirements for certificationbasis, as established and notified by the Agency in accordance with point for the date of submission of the new application; or",
+        "text": "submit a new application and comply with the requirements for certificationbasis, as established and notified by the Agency in accordance with point ATM/ANS.EQMT.AR.B.001 for the date of submission of the new application; or",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -8772,7 +8772,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 1,
-        "text": "apply for an extension of the time limit provided for in point (d) and propose a new date for the issue of the certificate; in that case, the applicant shall comply with the requirements for certification basis, as established and notified by the Agency in accordance with point for a date to be selected by the applicant; however, that date shall not precede the new date proposed by the applicant for the issue of the certificate by more than 5 years for an application for the issue of an ATM/ANS equipment certificate.",
+        "text": "apply for an extension of the time limit provided for in point (d) and propose a new date for the issue of the certificate; in that case, the applicant shall comply with the requirements for certification basis, as established and notified by the Agency in accordance with point ATM/ANS.EQMT.AR.B.001 for a date to be selected by the applicant; however, that date shall not precede the new date proposed by the applicant for the issue of the certificate by more than 5 years for an application for the issue of an ATM/ANS equipment certificate.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       }
@@ -9199,7 +9199,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "An applicant shall, following the acceptance of the certification programme by the Agency, demonstrate compliance with the ATM/ANS equipment certification basis as established and notified to the applicant by the Agency in accordance with point , and shall provide the Agency with the means by which such compliance has been demonstrated.",
+        "text": "An applicant shall, following the acceptance of the certification programme by the Agency, demonstrate compliance with the ATM/ANS equipment certification basis as established and notified to the applicant by the Agency in accordance with point ATM/ANS.EQMT.AR.B.001 , and shall provide the Agency with the means by which such compliance has been demonstrated.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9207,7 +9207,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "An applicant for an ATM/ANS equipment certificate shall update the certification programme with the updated certification basis in case the Agency identifies the need for the applicant to do so following the initial submission established in accordance with point .",
+        "text": "An applicant for an ATM/ANS equipment certificate shall update the certification programme with the updated certification basis in case the Agency identifies the need for the applicant to do so following the initial submission established in accordance with point ATM/ANS.EQMT.CERT.015 .",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -9215,7 +9215,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "An applicant shall report to the Agency any difficulty or event encountered during the process of demonstration of compliance that may have an appreciable effect on the assessment under point (b)(2)(vi) or on the certification programme or may otherwise require a change to the level of involvement of the Agency previously notified to the applicant in accordance with point (b).",
+        "text": "An applicant shall report to the Agency any difficulty or event encountered during the process of demonstration of compliance that may have an appreciable effect on the assessment under point ATM/ANS.EQMT.CERT.015 (b)(2)(vi) or on the certification programme or may otherwise require a change to the level of involvement of the Agency previously notified to the applicant in accordance with point ATM/ANS.EQMT.AR.B.010 (b).",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -9231,7 +9231,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Upon completion of all compliance-demonstration activities in accordance with the certification programme, including any inspections and tests carried out in accordance with point , an applicant shall declare and submit in a form and manner established by the Agency that:",
+        "text": "Upon completion of all compliance-demonstration activities in accordance with the certification programme, including any inspections and tests carried out in accordance with point ATM/ANS.EQMT.CERT.040 , an applicant shall declare and submit in a form and manner established by the Agency that:",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -9475,7 +9475,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Before each test is undertaken during the demonstration of compliance required by point , the applicant shall have verified:",
+        "text": "Before each test is undertaken during the demonstration of compliance required by point ATM/ANS.EQMT.CERT.025 , the applicant shall have verified:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9679,7 +9679,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "All changes shall be approved by the Agency once the certificate holder demonstrates that the changes, and the areas affected by the changes, comply with the certification basis as established by the Agency in accordance with point .",
+        "text": "All changes shall be approved by the Agency once the certificate holder demonstrates that the changes, and the areas affected by the changes, comply with the certification basis as established by the Agency in accordance with point ATM/ANS.EQMT.AR.B.001 .",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9703,7 +9703,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The changes shall be issued with a statement in accordance with point (b)(2) of point of the Annex II (Part-DPO.OR) to Implementing Regulation (EU) 2023/1769.",
+        "text": "The changes shall be issued with a statement in accordance with point (b)(2) of point DPO.OR.C.001 of the Annex II (Part-DPO.OR) to Implementing Regulation (EU) 2023/1769.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -9729,7 +9729,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "When an ATM/ANS equipment directive is issued to correct the condition referred to in point (b) of , the holder of the ATM/ANS equipment certificate, unless otherwise determined by the Agency in case urgent action is needed, shall:"
+        "text": "When an ATM/ANS equipment directive is issued to correct the condition referred to in point (b) of ATM/ANS.EQMT.AR. A.030 , the holder of the ATM/ANS equipment certificate, unless otherwise determined by the Agency in case urgent action is needed, shall:"
       },
       {
         "type": "paragraph",
@@ -9979,7 +9979,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Any change to the design that is within the scope of the approved organisation’s privileges and that is extensive enough to require a complete investigation in accordance with point to determine its compliance shall require the assignment of a new model designation to the equipment.",
+        "text": "Any change to the design that is within the scope of the approved organisation’s privileges and that is extensive enough to require a complete investigation in accordance with point ATM/ANS.EQMT.AR.B.020 to determine its compliance shall require the assignment of a new model designation to the equipment.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -10087,7 +10087,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "When an ATM/ANS equipment directive is issued to correct the condition referred to in point (b) of , the declarant of the design compliance of the ATM/ANS equipment shall, unless otherwise determined by the Agency in case urgent action is needed, shall:"
+        "text": "When an ATM/ANS equipment directive is issued to correct the condition referred to in point (b) of ATM/ANS.EQMT.AR. A.030 , the declarant of the design compliance of the ATM/ANS equipment shall, unless otherwise determined by the Agency in case urgent action is needed, shall:"
       },
       {
         "type": "paragraph",
