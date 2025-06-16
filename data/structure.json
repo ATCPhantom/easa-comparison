@@ -1,0 +1,27 @@
+{
+  "adr": [
+    "December 2024.json",
+    "June 2023.json"
+  ],
+  "airops": [
+    "February 2025.json",
+    "June 2023.json",
+    "November 2022.json",
+    "September 2023.json"
+  ],
+  "atm": [
+    "February 2023.json",
+    "March 2025.json",
+    "November 2022.json"
+  ],
+  "atm-eq": [
+    "November 2024.json"
+  ],
+  "part-is": [
+    "Juni 2024.json"
+  ],
+  "sera": [
+    "December 2024.json",
+    "February 2023.json"
+  ]
+}
