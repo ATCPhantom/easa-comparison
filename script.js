@@ -19,7 +19,41 @@ const typeColorMap = {
   "GM to CS (Guidance material to certification specification);" : "#16cc7f"
 };
 
+// https://www.base64encode.org/
+const USERS = {
+  "YWRtaW4=": "YWRtaW4=",
+  "c3Jw": "c3Rva2tlbg==",
+  "ZGVtbw==": "MTIz"
+};
+
+function handleLogin() {
+  const userInput = document.getElementById("username").value;
+  const passInput = document.getElementById("password").value;
+
+  const encodedUser = btoa(userInput); // encode input to base64
+  const encodedPass = btoa(passInput);
+
+  if (USERS[encodedUser] && USERS[encodedUser] === encodedPass) {
+    localStorage.setItem("isLoggedIn", "true");
+    showApp()
+  } else {
+    document.getElementById("login-error").classList.remove("d-none");
+  }
+}
+
+function showApp() {
+  document.getElementById("login-screen").classList.add("d-none");
+  document.getElementById("app").classList.remove("d-none");
+}
+
 document.addEventListener('DOMContentLoaded', () => {
+  if (localStorage.getItem("isLoggedIn") === "true") {
+    showApp();
+  } else {
+    // Hide app until login is successful
+    document.getElementById("app").classList.add("d-none");
+  }
+  
   fetch('data/structure.json')
     .then(res => res.json())
     .then(data => {
@@ -253,6 +287,10 @@ function renderContent(contentArray, titleText, highlightAdded) {
   }
 
   return filtered.map(p => {
+    if (p.type === 'table') {
+      return renderTable(p.rows || []);
+    }
+    
     let level = p.level;
 
     // If pStyle matches "NormalN", override level
@@ -271,6 +309,48 @@ function renderContent(contentArray, titleText, highlightAdded) {
     const boldClass = p.pRStyle === 'Bold' ? 'bold-text' : '';
     return `<p class="paragraph ${levelClass} ${changeClass} ${orgClass} ${boldClass}">${marker}<span class="paragraph-text">${p.text}</span></p>`;
   }).join('');
+}
+
+function renderTable(rows) {
+  function twipsToPx(twips) {
+    return Math.round(parseInt(twips, 10) * 0.06);
+  }
+
+  return `
+    <div class="table-responsive">
+      <table class="table table-bordered table-sm table-smaller">
+        <tbody>
+          ${rows.map(row => `
+            <tr>
+              ${row.map(cell => {
+                // Compose cell content from array of {text, style} objects
+                const cellText = Array.isArray(cell.content)
+                  ? cell.content.map(part => {
+                      if (part.style === "GeneralAviation") {
+                        return `<span class="added-source">${part.text}</span>`;
+                      } else if (part.style === "Bold") {
+                        return `<strong>${part.text}</strong>`;
+                      } else {
+                        return part.text;
+                      }
+                    }).join(' ')
+                  : '';
+
+                const colspan = cell.colspan ? ` colspan="${cell.colspan}"` : '';
+                const rowspan = (cell.vMerge && cell.vMerge === 'restart') ? '' : ' rowspan="1"';
+                const widthPx = cell.width ? twipsToPx(cell.width) : null;
+                const widthStyle = widthPx
+                  ? ` style="min-width:${widthPx}px; max-width:${widthPx + 20}px;"`
+                  : '';
+
+                return `<td${colspan}${rowspan}${widthStyle}>${cellText}</td>`;
+              }).join('')}
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </div>
+  `;
 }
 
 function toggleContent(idx, erulesId) {
