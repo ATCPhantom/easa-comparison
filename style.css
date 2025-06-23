@@ -45,6 +45,7 @@ body {
   border-radius: 1rem;
   margin-bottom: 1rem;
   object-fit: cover;
+  cursor: pointer;
 }
 
 .regulation-box {
@@ -130,7 +131,11 @@ body {
 .added-source {
   background-color: #ead9f2;
   border-left: 4px solid #a272cb;
-  margin-left: 1rem;
+  /*margin-left: 1rem;*/
+}
+
+.added-source-table {
+  background-color: #ead9f2;
 }
 
 .subject-header {
@@ -203,4 +208,28 @@ table.table td {
   vertical-align: top;
   word-break: break-word;
   padding: 4px;
+}
+
+.hover-all:hover {
+  background-color: #000000 !important;
+  color: white !important;
+  border-color: #000000 !important;
+}
+
+.hover-ir:hover {
+  background-color: #007fc2 !important;
+  color: white !important;
+  border-color: #007fc2 !important;
+}
+
+.hover-amc:hover {
+  background-color: #fbbc39 !important;
+  color: white !important;
+  border-color: #fbbc39 !important;
+}
+
+.hover-gm:hover {
+  background-color: #16cc7f !important;
+  color: white !important;
+  border-color: #16cc7f !important;
 }

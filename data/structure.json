@@ -9,6 +9,9 @@
     "November 2022.json",
     "September 2023.json"
   ],
+  "atco": [
+    "June 2024.json"
+  ],
   "atm": [
     "February 2023.json",
     "March 2025.json",
@@ -17,11 +20,20 @@
   "atm-eq": [
     "November 2024.json"
   ],
+  "basic regulation": [
+    "January 2023.json"
+  ],
+  "occurrence reporting": [
+    "December 2022.json"
+  ],
   "part-is": [
-    "Juni 2024.json"
+    "June 2024.json"
   ],
   "sera": [
     "December 2024.json",
     "February 2023.json"
+  ],
+  "third country operators": [
+    "April 2023.json"
   ]
 }

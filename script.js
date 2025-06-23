@@ -1,6 +1,9 @@
 let selectedVersions = [];
 let versionMap = {};
 let currentRegulation = null;
+let globalNewTopics = [];
+let globalChangedTopics = [];
+let globalRemovedTopics = [];
 
 const titleOverrides = {
   "ERULES-1963177438-9854": "Appendix 1 Signals",
@@ -12,9 +15,11 @@ const titleOverrides = {
 };
 
 const typeColorMap = {
-  "AMC to IR (Acceptable means of compliance to implementing rule);": "#fbbc39",
   "IR (Implementing rule);": "#007fc2",
+  "CS (Certification specification);": "#222f64",
   "DR (Delegated rule);": "#007fc2",
+  "AMC to IR (Acceptable means of compliance to implementing rule);": "#fbbc39",
+  "AMC to CS (Acceptable means of compliance to certification specification);": "#fbbc39",
   "GM to IR (Guidance material to implementing rule);": "#16cc7f",
   "GM to CS (Guidance material to certification specification);" : "#16cc7f"
 };
@@ -35,7 +40,7 @@ function handleLogin() {
 
   if (USERS[encodedUser] && USERS[encodedUser] === encodedPass) {
     localStorage.setItem("isLoggedIn", "true");
-    showApp()
+    showApp();
   } else {
     document.getElementById("login-error").classList.remove("d-none");
   }
@@ -51,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
     showApp();
   } else {
     // Hide app until login is successful
-    document.getElementById("app").classList.add("d-none");
+    document.getElementById("action-screen").classList.add("d-none");
   }
   
   fetch('data/structure.json')
@@ -60,6 +65,51 @@ document.addEventListener('DOMContentLoaded', () => {
       versionMap = data;
       renderRegulations(data);
     });
+
+  const colorByType = {
+    ALL: "#000000",      // black
+    IR: "#007fc2",       // blue
+    AMC: "#fbbc39",      // orange
+    GM: "#16cc7f"        // green
+  };
+
+  ["all", "ir", "amc", "gm"].forEach(t => {
+    const btn = document.getElementById(`select-${t}`);
+    const color = colorByType[t.toUpperCase()];
+
+    if (btn && color) {
+      btn.style.borderColor = color;
+      btn.style.color = color;
+      btn.style.backgroundColor = "transparent";
+
+      // Add hover effect using a custom class
+      btn.classList.add(`hover-${t}`);
+    }
+  });
+});
+
+document.getElementById('exportModal').addEventListener('show.bs.modal', () => {
+  ["ALL", "IR", "AMC", "GM"].forEach(type => {
+    const btn = document.getElementById(`select-${type.toLowerCase()}`);
+    if (btn) btn.textContent = `Select ${type}`;
+  });
+});
+document.addEventListener('DOMContentLoaded', () => {
+  const exportModalEl = document.getElementById('exportModal');
+
+  if (exportModalEl) {
+    exportModalEl.addEventListener('hide.bs.modal', () => {
+      // Delay focus just slightly to ensure modal closes first
+      setTimeout(() => {
+        const exportBtn = document.getElementById('export-trigger');
+        if (exportBtn) {
+          exportBtn.focus();
+        } else {
+          document.body.focus();
+        }
+      }, 10); // 10ms delay resolves timing with Bootstrap's aria-hidden
+    });
+  }
 });
 
 function renderRegulations(structure) {
@@ -108,13 +158,40 @@ function toggleVersion(btn) {
     btn.classList.add('active');
   }
 
-  document.getElementById('compare-btn').disabled = selectedVersions.length !== 2;
+  document.getElementById('compare-btn').disabled = ![1, 2].includes(selectedVersions.length);
+}
+
+async function checkSelection(){
+  if(selectedVersions.length == 1){
+    displaySingle()
+  }else{
+    compareVersions()
+  }
+}
+
+async function displaySingle(){
+  const file = `json/${currentRegulation}/${selectedVersions}`;
+  const data = await fetch(file).then(res => res.json());
+  
+  const map = Object.fromEntries(data.map(t => [t.erulesId, t]));
+  
+  const changedTopics = [];
+
+  for (const erulesId in map) {
+    if (map[erulesId].content?.some(p => p.change === 'added')) {
+      changedTopics.push(map[erulesId]);
+    }
+  }
+
+  globalChangedTopics = changedTopics;
+
+  renderResults(false, selectedVersions[0].replace('.json', ''), [], changedTopics, []);
 }
 
 async function compareVersions() {
   const [v1, v2] = [...selectedVersions].sort(sortVersionsByDate);
-  const fileOld = `xml/${currentRegulation}/${v1}`;
-  const fileNew = `xml/${currentRegulation}/${v2}`;
+  const fileOld = `json/${currentRegulation}/${v1}`;
+  const fileNew = `json/${currentRegulation}/${v2}`;
 
   const [oldData, newData] = await Promise.all([
     fetch(fileOld).then(res => res.json()),
@@ -142,7 +219,11 @@ async function compareVersions() {
     }
   }
 
-  renderResults(v1.replace('.json', ''), v2.replace('.json', ''), newTopics, changedTopics, removedTopics);
+  globalNewTopics = newTopics;
+  globalChangedTopics = changedTopics;
+  globalRemovedTopics = removedTopics;
+
+  renderResults(true, [v1.replace('.json', ''), v2.replace('.json', '')], newTopics, changedTopics, removedTopics);
 }
 
 function darkenColor(hex, amount = 20) {
@@ -160,28 +241,75 @@ function darkenColor(hex, amount = 20) {
   return '#' + (r << 16 | g << 8 | b).toString(16).padStart(6, '0');
 }
 
-function renderResults(oldLabel, newLabel, newTopics, changedTopics, removedTopics) {
+//function renderResults(oldLabel, newLabel, newTopics=[], changedTopics=[], removedTopics=[]) {
+function renderResults(comparison=false, labels, newTopics=[], changedTopics=[], removedTopics=[]) {
   const card = document.querySelector('.selector-card');
   card.classList.add('wide');
 
-  card.innerHTML = `
-    <div class="mb-3 text-center">
-      <img src="res/logo_xs.png" class="logo" onclick="location.reload()" />
-    </div>
-    <h4 class="text-center mb-3 text-dark">Comparison: ${oldLabel} → ${newLabel}</h4>
+  if (comparison) {
+    card.innerHTML = `
+      <div class="mb-3 text-center">
+        <img src="res/logo_xs.png" class="logo" onclick="location.reload()" />
+      </div>
+      <h4 class="text-center mb-3 text-dark">Comparison: ${labels[0]} → ${labels[1]}</h4>
 
-    <div class="mb-3 small text-muted">
-      <span style="background:#fbbc39; color:white; padding:2px 6px; border-radius:4px;">AMC to IR</span>
-      <span style="background:#007fc2; color:white; padding:2px 6px; border-radius:4px;">IR</span>
-      <span style="background:#16cc7f; color:white; padding:2px 6px; border-radius:4px;">GM to IR</span>
-    </div>
+      <div class="mb-3 small text-muted">
+        <span style="background:#007fc2; color:white; padding:2px 6px; border-radius:4px;">IR / DR</span>
+        <span style="background:#222f64; color:white; padding:2px 6px; border-radius:4px;">CS</span>
+        <span style="background:#fbbc39; color:white; padding:2px 6px; border-radius:4px;">AMC</span>
+        <span style="background:#16cc7f; color:white; padding:2px 6px; border-radius:4px;">GM</span>
+        <span style="background:#b3b3cc; color:white; padding:2px 6px; border-radius:4px;">Misc.</span>
+      </div>
 
-    <div class="scroll-box mb-4">
-      ${renderTopicGroup('🟢 New Topics', newTopics, 'success')}
-      ${renderTopicGroup('🟡 Changed Topics', changedTopics, 'warning')}
-      ${renderTopicGroup('🔴 Removed Topics', removedTopics, 'danger')}
-    </div>
-  `;
+      <div class="text-center mb-2">
+        <button id="export-trigger" class="btn btn-success btn-sm" onclick="exportToExcel()" title="Export Compliance Matrix">
+          Export to Excel <i class="bi bi-file-earmark-excel ms-1"></i>
+        </button>
+      </div>
+
+      <div class="scroll-box mb-4">
+        ${renderTopicGroup('🟢 New Topics', newTopics, 'success')}
+        ${renderTopicGroup('🟡 Changed Topics', changedTopics, 'warning')}
+        ${renderTopicGroup('🔴 Removed Topics', removedTopics, 'danger')}
+      </div>
+    `;
+  } else {
+    const hasChanges = changedTopics.length > 0;
+    const content = hasChanges
+      ? `
+        <div class="scroll-box mb-4">
+          ${renderTopicGroup('🟡 Changed Topics', changedTopics, 'warning')}
+        </div>`
+      : `
+        <div class="alert alert-info text-center mt-4">
+          No changes were found in this version.
+        </div>`;
+
+    card.innerHTML = `
+      <div class="mb-3 text-center">
+        <img src="res/logo_xs.png" class="logo" onclick="location.reload()" />
+      </div>
+
+      <h4 class="text-center mb-3 text-dark">
+        <span class="text-uppercase">${currentRegulation}</span> - ${labels}:
+      </h4>
+
+      <div class="mb-3 small text-muted">
+        <span style="background:#007fc2; color:white; padding:2px 6px; border-radius:4px;">IR / DR</span>
+        <span style="background:#222f64; color:white; padding:2px 6px; border-radius:4px;">CS</span>
+        <span style="background:#fbbc39; color:white; padding:2px 6px; border-radius:4px;">AMC</span>
+        <span style="background:#16cc7f; color:white; padding:2px 6px; border-radius:4px;">GM</span>
+        <span style="background:#b3b3cc; color:white; padding:2px 6px; border-radius:4px;">Misc.</span>
+      </div>
+
+      <div class="text-center mb-2">
+        <button id="export-trigger" class="btn btn-success btn-sm" onclick="exportToExcel()" title="Export Compliance Matrix">
+          Export to Excel <i class="bi bi-file-earmark-excel ms-1"></i>
+        </button>
+      </div>
+      ${content}
+    `;
+  }
 }
 
 function renderTopicGroup(title, items, colorClass) {
@@ -301,7 +429,6 @@ function renderContent(contentArray, titleText, highlightAdded) {
 
     const levelClass = level === -1 ? 'paragraph-level--1' : `paragraph-level-${level}`;
 
-    /*const levelClass = p.level === -1 ? 'paragraph-level--1' : `paragraph-level-${p.level}`;*/
     const marker = p.marker ? `<span class="indent-marker">${p.marker}</span>` : '';
     const changeClass = highlightAdded && p.change === 'added' ? 'added-source' : '';
     const isOrgHeading = /^Heading[1-9]OrgManual$/.test(p.pStyle || '');
@@ -327,7 +454,7 @@ function renderTable(rows) {
                 const cellText = Array.isArray(cell.content)
                   ? cell.content.map(part => {
                       if (part.style === "GeneralAviation") {
-                        return `<span class="added-source">${part.text}</span>`;
+                        return `<span class="added-source-table">${part.text}</span>`;
                       } else if (part.style === "Bold") {
                         return `<strong>${part.text}</strong>`;
                       } else {
@@ -380,6 +507,533 @@ function toggleSubject(subjectId) {
       arrow.textContent = container.classList.contains('d-none') ? '▸' : '▾';
     }
   }
+}
+
+function exportToExcel() {
+
+  const allTopics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
+  const subjectGroups = {};
+
+  for (const topic of allTopics) {
+    let subject = topic.subject?.trim() || 'Uncategorized';
+    if (subject.includes(';')) {
+      subject = subject.split(';')[0].trim();
+    }
+
+    const title = (titleOverrides[topic.erulesId] || topic.title || '').trim();
+    const type = topic.type?.trim();
+    const isAppendixIR = title.startsWith("Appendix") && type === "IR (Implementing rule);";
+    const isAppendixGM = /^GM\d+\s+to\s+Appendix/i.test(title) && type === "GM to IR (Guidance material to implementing rule);";
+
+    if (isAppendixIR || isAppendixGM) subject = "Appendix";
+    else if (subject.startsWith("Annex-")) subject = subject.substring(6).trim();
+
+    if (!subjectGroups[subject]) subjectGroups[subject] = [];
+    subjectGroups[subject].push(topic);
+  }
+
+  let html = '';
+
+  Object.entries(subjectGroups).forEach(([subject, topics], index) => {
+    const subjectId = `subject-${index}`;
+    html += `
+      <div class="mb-3">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="${subjectId}-check" onclick="toggleSubjectCheckbox('${subjectId}')">
+          <label class="form-check-label fw-bold" for="${subjectId}-check">${subject}</label>
+        </div>
+        <div id="${subjectId}-topics" class="ms-3">
+          ${topics.map((t, i) => {
+            const id = `${subjectId}-topic-${i}`;
+            const title = titleOverrides[t.erulesId] || t.title || '[Untitled]';
+            return `
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="${id}" data-erulesid="${t.erulesId}">
+                <label class="form-check-label" for="${id}">${title}</label>
+              </div>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  });
+
+  document.getElementById('exportModalBody').innerHTML = html;
+
+  // Show modal
+  const modal = new bootstrap.Modal(document.getElementById('exportModal'));
+  modal.show();
+}
+
+function toggleSubjectCheckbox(subjectId) {
+  const groupChecked = document.getElementById(`${subjectId}-check`).checked;
+  const checkboxes = document.querySelectorAll(`#${subjectId}-topics input[type="checkbox"]`);
+  checkboxes.forEach(cb => cb.checked = groupChecked);
+}
+
+function handleExportSelection(button) {
+  const type = button.dataset.type; // "IR", "AMC", "GM", or "ALL"
+  const allCheckboxes = document.querySelectorAll('#exportModalBody input[type="checkbox"][data-erulesid]');
+
+  // Match rules based on full type string
+  const matchesType = (topicType) => {
+    if (type === "ALL") return true;
+    if (type === "IR") return (
+      topicType === "IR (Implementing rule);" ||
+      topicType === "DR (Delegated rule);" ||
+      topicType === "CS (Certification specification);"
+    );
+    if (type === "AMC") return topicType.startsWith("AMC to ");
+    if (type === "GM") return topicType.startsWith("GM to ");
+    return false;
+  };
+
+  const checkboxesToToggle = Array.from(allCheckboxes).filter(cb => {
+    const erulesId = cb.dataset.erulesid;
+    const topic = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics]
+      .find(t => t.erulesId === erulesId);
+
+    return topic && matchesType(topic.type || "");
+  });
+
+  const allChecked = checkboxesToToggle.length > 0 && checkboxesToToggle.every(cb => cb.checked);
+
+  // Toggle
+  checkboxesToToggle.forEach(cb => cb.checked = !allChecked);
+
+  // Update button label
+  const labelBase = type === "ALL" ? "All" : type;
+  button.textContent = (allChecked ? "Select " : "Deselect ") + labelBase;
+}
+
+async function exportExcelJS() {
+  const selectedIds = Array.from(document.querySelectorAll('#exportModalBody input[type="checkbox"]:checked'))
+    .filter(cb => cb.dataset.erulesid)
+    .map(cb => cb.dataset.erulesid);
+
+  const allTopics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
+  const selectedTopics = allTopics.filter(t => selectedIds.includes(t.erulesId));
+
+  /*selectedTopics.sort((a, b) => {
+    const sa = (a.subject || '').split(';')[0].trim();
+    const sb = (b.subject || '').split(';')[0].trim();
+    return sa.localeCompare(sb);
+  });*/
+
+  const workbook = new ExcelJS.Workbook();
+  const sheet = workbook.addWorksheet("Compliance Matrix");
+
+  sheet.columns = [
+    { header: "Reulatory Content", key: 'a', width: 5 },
+    { key: 'b', width: 5 },
+    { key: 'c', width: 5 },
+    { key: 'd', width: 5 },
+    { key: 'e', width: 5 },
+    { key: 'f', width: 20 },
+    { key: 'g', width: 20 },
+    { key: 'h', width: 20 },
+    { key: 'i', width: 20 },
+    { key: 'j', width: 20 },
+    { key: 'k', width: 20 },
+    { header: "Compliance", key: "l", width: 12 },
+    { header: "Compliance Method", key: "m", width: 50 },
+    { header: "Comments", key: "n", width: 40 }
+  ];
+  sheet.mergeCells(`A1:K1`);
+
+  // Style header row
+  const headerRow = sheet.getRow(1);
+  headerRow.eachCell(cell => {
+    cell.font = { bold: true, size: 12, color: { argb: 'FFFFFFFF' } };
+    cell.fill = {
+      type: 'pattern',
+      pattern: 'solid',
+      fgColor: { argb: '538dd5' }
+    };
+    cell.alignment = { horizontal: 'center', vertical: 'middle' };
+  });
+
+  // Group topics by subject (with Appendices override)
+  const subjectGroups = {};
+
+  for (const topic of selectedTopics) {
+    let subject = topic.subject?.split(';')[0]?.trim() || 'Uncategorized';
+    const title = (titleOverrides[topic.erulesId] || topic.title || '').trim();
+    const type = topic.type?.trim();
+
+    const isAppendixIR = title.startsWith("Appendix") && type === "IR (Implementing rule);";
+    const isAppendixGM = /^GM\d+\s+to\s+Appendix/i.test(title) && type === "GM to IR (Guidance material to implementing rule);";
+
+    if (isAppendixIR || isAppendixGM) {
+      subject = "Appendices";
+    } else if (subject.startsWith("Annex-")) {
+      subject = subject.substring(6).trim();
+    }
+
+    if (!subjectGroups[subject]) subjectGroups[subject] = [];
+    subjectGroups[subject].push(topic);
+  }
+
+  // Ensure "Appendices" is last
+  const sortedSubjects = Object.keys(subjectGroups).filter(s => s !== 'Appendices');
+  if (subjectGroups['Appendices']) sortedSubjects.push('Appendices');
+
+  let currentSubject = '';
+  let rowIndex = 2;
+
+  for (const subject of sortedSubjects) {
+    const topics = subjectGroups[subject];
+
+    for (const topic of topics) {
+    const title = titleOverrides[topic.erulesId] || topic.title || '[Untitled]';
+    const contentLines = flattenContent(topic.content || []);
+
+    // Add subject row if changed
+    if (subject !== currentSubject) {
+      sheet.mergeCells(`A${rowIndex}:N${rowIndex}`);
+      const subjectCell = sheet.getCell(`A${rowIndex}`);
+      subjectCell.value = `Subject: ${subject}`;
+      subjectCell.font = { bold: true, size: 14 };
+      subjectCell.fill = {
+        type: 'pattern',
+        pattern: 'solid',
+        fgColor: { argb: 'D9D9D9' }
+      };
+      subjectCell.border = { bottom: { style: 'thick' } };
+      subjectCell.alignment = { vertical: 'middle', horizontal: 'center' };
+      currentSubject = subject;
+      rowIndex++;
+    }
+
+      // Merge topic title
+      sheet.mergeCells(`A${rowIndex}:N${rowIndex}`);
+      const topicCell = sheet.getCell(`A${rowIndex}`);
+      topicCell.value = title;
+
+      // Determine the type for color from the subject string
+      // Find first key in typeColorMap that matches start of subject
+      const topicType = topic.type?.trim();
+      const color = typeColorMap[topicType];
+
+      if (color) {
+        topicCell.fill = {
+          type: 'pattern',
+          pattern: 'solid',
+          fgColor: { argb: color.replace('#', '') }
+        };
+        topicCell.font = { bold: true, size: 12, color: { argb: 'FFFFFFFF' } }; // white text
+      } else {
+        topicCell.font = { bold: true, size: 12 };
+      }
+
+      topicCell.alignment = { vertical: 'middle', horizontal: 'left' };
+
+      sheet.getRow(rowIndex).commit();
+      rowIndex++;
+      
+      // Add content rows
+      for (const line of contentLines) {
+        const row = sheet.getRow(rowIndex);
+
+        if (line.type === 'table') {
+          rowIndex++; // empty row before table
+
+          const rows = line.rows;
+          console.log(rows)
+
+          const numCols = rows[0]?.length || 1;
+          let visualCols;
+
+          if (numCols === 1) {
+            visualCols = [
+              { start: 2, end: 7 },  // B–G
+            ];
+          } else if (numCols === 2) {
+            visualCols = [
+              { start: 2, end: 6 },  // B–F
+              { start: 7, end: 8 }  // G–H
+            ];
+          } else if (numCols === 3) {
+            visualCols = [
+              { start: 2, end: 6 },  // B–F
+              { start: 7, end: 8 },  // G–H
+              { start: 9, end: 10 }   // I–J
+            ];
+          } else if (numCols === 5) {
+            visualCols = [
+              { start: 2, end: 5 },  // B–E
+              { start: 6, end: 7 },  // F–G
+              { start: 8, end: 9 },   // H–I
+              { start: 10, end: 11 } // J–K
+            ];
+         } else {
+            // default: 7 columns, fixed blocks
+            visualCols = [
+              { start: 2, end: 5 },  // B–E
+              { start: 6, end: 6 },  // F
+              { start: 7, end: 7 },  // G
+              { start: 8, end: 8 },  // H
+              { start: 9, end: 9 },  // I
+              { start: 10, end: 10 },// J
+              { start: 11, end: 11 } // K
+            ];
+          }
+
+          const tableCols = Math.min(numCols, visualCols.length);
+
+          rows.forEach((rowCells, tableRowIndex) => {
+            const row = sheet.getRow(rowIndex);
+            // *********************************************************************** //
+            let maxHeight = 20; // min height fallback
+            // *********************************************************************** //
+
+            for (let i = 0; i < tableCols; i++) {
+              const cellParts = rowCells[i]?.content || [];
+              const colSpec = visualCols[i];
+
+              sheet.mergeCells(rowIndex, colSpec.start, rowIndex, colSpec.end);
+              const cell = sheet.getCell(rowIndex, colSpec.start);
+
+              // Compose rich text
+              if (cellParts.length === 1) {
+                const part = cellParts[0];
+                cell.value = part.text;
+                if (part.style === 'GeneralAviation') {
+                  cell.font = {
+                    color: { argb: '800080' }, // Purple text
+                    size: 11
+                  };
+                }
+              } else {
+                cell.value = {
+                  richText: cellParts.map(part => ({
+                    text: part.text + ' ',
+                    font: {
+                      color: part.style === 'GeneralAviation' ? { argb: '800080' } : undefined,
+                      bold: part.style === 'Bold',
+                    }
+                  }))
+                };
+              }
+
+              cell.alignment = { wrapText: true, vertical: 'top', horizontal: 'left' };
+
+              if (tableRowIndex === 0) {
+                cell.font = { ...(cell.font || {}), bold: true };
+              }
+
+              cell.fill = {
+                type: 'pattern',
+                pattern: 'solid',
+                fgColor: { argb: (rowIndex % 2 === 0 ? 'FFF2F2F2' : 'FFFFFFFF') }
+              };
+
+              cell.border = {
+                top: { style: 'thin', color: { argb: 'FFD9D9D9' } },
+                bottom: { style: 'thin', color: { argb: 'FFD9D9D9' } },
+                left: { style: 'thin', color: { argb: 'FFD9D9D9' } },
+                right: { style: 'thin', color: { argb: 'FFD9D9D9' } },
+              };
+
+              // *********************************************************************** //
+              // Calculate cell text length for height estimate:
+              let cellText = '';
+              if (cellParts.length === 1) {
+                cellText = cellParts[0].text;
+              } else {
+                cellText = cellParts.map(part => part.text).join(' ');
+              }
+
+              // Approximate column width in chars (like you do in estimateRowHeight)
+              let colWidth = 0;
+              for (let c = colSpec.start; c <= colSpec.end; c++) {
+                colWidth += sheet.getColumn(c).width || 10;
+              }
+
+              const estHeight = estimateRowHeight(cellText, colWidth, 11);
+
+              if (estHeight > maxHeight) maxHeight = estHeight;
+              // *********************************************************************** //
+            }
+
+            row.height = maxHeight;
+            row.commit();
+            rowIndex++;
+          });
+
+          // Add empty row after the table
+          rowIndex++;
+
+          continue;
+        }
+
+        // Existing marker-based paragraph rendering (leave untouched)
+        const indentLevel = Math.min(line.level || 0, 4);
+        const markerCol = indentLevel + 1;
+
+        if (line.marker) {
+          const markerCell = row.getCell(markerCol);
+          markerCell.value = line.marker.toString();
+          markerCell.font = { bold: true, size: 10 };
+          markerCell.alignment = { vertical: 'top', horizontal: 'center' };
+          if (line.color) markerCell.font.color = { argb: line.color };
+          markerCell.fill = {
+            type: 'pattern',
+            pattern: 'solid',
+            fgColor: { argb: 'FFFFFFFF' }
+          };
+          markerCell.border = {
+            top: { style: 'thin', color: { argb: 'FFD9D9D9' } },
+            bottom: { style: 'thin', color: { argb: 'FFD9D9D9' } }
+          };
+
+          const textStart = markerCol + 1;
+          const textEnd = 11;
+          if (textStart <= textEnd) {
+            sheet.mergeCells(rowIndex, textStart, rowIndex, textEnd);
+            const textCell = sheet.getCell(rowIndex, textStart);
+            textCell.value = line.text;
+            textCell.alignment = { wrapText: true, vertical: 'top', horizontal: 'left' };
+            textCell.font = {
+              bold: line.bold || false,
+              italic: line.italic || false,
+              underline: line.underline ? 'single' : false
+            };
+            if (line.color) textCell.font.color = { argb: line.color };
+
+            const colWidth = (textEnd - textStart) * sheet.getColumn(textStart).width + 120;
+            const estimatedHeight = estimateRowHeight(line.text, colWidth, 11);
+            sheet.getRow(rowIndex).height = estimatedHeight;
+          }
+        } else {
+          const startCol = markerCol;
+          const endCol = 11;
+          if (startCol <= endCol) {
+            sheet.mergeCells(rowIndex, startCol, rowIndex, endCol);
+            const textCell = sheet.getCell(rowIndex, startCol);
+            textCell.value = line.text;
+            textCell.alignment = { wrapText: true, vertical: 'top', horizontal: 'left' };
+            textCell.font = {
+              bold: line.bold || false,
+              italic: line.italic || false,
+              underline: line.underline ? 'single' : false
+            };
+            if (line.color) textCell.font.color = { argb: line.color };
+
+            const colWidth = (endCol - startCol) * sheet.getColumn(startCol).width + 120;
+            const estimatedHeight = estimateRowHeight(line.text, colWidth, 11);
+            sheet.getRow(rowIndex).height = estimatedHeight;
+          }
+        }
+
+        row.commit();
+        rowIndex++;
+      }
+    }
+  }
+
+  for (let r = 2; r < rowIndex; r++) {  // adjust row range as needed
+    const row = sheet.getRow(r);
+    for (let c = 1; c <= 11; c++) { // Columns A(1) to K(11)
+      const cell = row.getCell(c);
+      if (!cell.value) {
+        cell.fill = {
+          type: 'pattern',
+          pattern: 'solid',
+          fgColor: { argb: 'FFFFFFFF' }  // white
+        };
+      }
+    }
+  }
+  // Export workbook to download
+  const buffer = await workbook.xlsx.writeBuffer();
+  const blob = new Blob([buffer], {
+    type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  });
+  saveAs(blob, `Compliance_Matrix_${currentRegulation}.xlsx`);
+}
+
+function flattenContent(contentArray, title = '') {
+  const output = [];
+  const headingPattern = /^Heading\d+(IR|AMC|GM)$/;
+  const normalizedTitle = title.trim().toLowerCase();
+  const filtered = [...contentArray];
+
+  if (
+    filtered.length &&
+    filtered[0].type === 'paragraph' &&
+    (
+      (filtered[0].text?.trim().toLowerCase() === normalizedTitle) ||
+      headingPattern.test(filtered[0].pStyle || '')
+    )
+  ) {
+    filtered.shift();
+  }
+
+  filtered.forEach(p => {
+    if (p.type === 'table') {
+      const rows = p.rows.map(row =>
+        row.map(cell => {
+          const content = Array.isArray(cell?.content)
+            ? cell.content.map(part => ({
+                text: part.text || '',
+                style: part.style || null
+              }))
+            : [];
+          return { content };
+        })
+      );
+
+      output.push({
+        type: 'table',
+        rows,
+        columnCount: Math.max(...rows.map(r => r.length))
+      });
+    } else {
+      const text = p.text || '';
+      const pRStyle = (p.pRStyle || '').toLowerCase();
+      const pStyle = p.pStyle || '';
+      const bold = pRStyle.includes('bold') || pStyle.startsWith('Heading');
+      const italic = pRStyle.includes('italic');
+      const underline = pRStyle.includes('underline');
+      const color = p.change === 'added' ? '800080' : null;
+
+      let level = typeof p.level === 'number' ? p.level : 0;
+      const normalMatch = /^Normal(\d+)$/.exec(p.pStyle || '');
+      if (normalMatch) level = parseInt(normalMatch[1]);
+      if (isNaN(level) || level < 0) level = 0;
+
+      output.push({ text, bold, italic, underline, color, level, marker: p.marker || null });
+    }
+  });
+
+  return output;
+}
+
+function estimateRowHeight(text, colWidth, fontSize = 11) {
+  
+  if (!text) return 16; // default minimum height
+
+  // Approximate max chars per line based on column width (rough estimate)
+  // 1 Excel column width unit ~ 7 pixels, 1 char ~ 7 pixels wide (variable font, but close enough)
+  const approxCharPerLine = colWidth * 7 / 7; // simplify to colWidth in chars
+  const heightMultipler = 1
+
+  // Split text by line breaks
+  const lines = text.split('\n');
+
+  // Calculate total number of wrapped lines
+  let wrappedLines = 0;
+  for (const line of lines) {
+    wrappedLines += Math.ceil(line.length / approxCharPerLine);
+  }
+
+  const lineHeight = fontSize + 4
+
+  const height = wrappedLines * lineHeight;
+
+  // Minimum height to avoid too small rows
+  return Math.max(height, 16);
 }
 
 function sortVersionsByDate(v1, v2) {

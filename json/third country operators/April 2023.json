@@ -1,0 +1,4778 @@
+[
+  {
+    "sdtId": "-472809007",
+    "erulesId": "ERULES-1963177438-15032",
+    "title": "Disclaimer",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "subject": "",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Disclaimer",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This document is issued by the European Union Aviation Safety Agency ( referred to as both ‘ EASA ’ and ‘the Agency’ ) to provide its stakeholders with an updated , consolidated, and easy-to-read publication. It has been prepared by putting together the officially published EU regulations with the related EASA acceptable means of compliance (AMC) and guidance material (GM), as well as with the EASA Management Board d ecisions on the ‘TCO Authorisation Procedure’ (including the ir amendments) adopted so far. However, this document is not an official publication , and EASA accepts no liability for damage of any kind resulting from the risks inherent in its use."
+      }
+    ]
+  },
+  {
+    "sdtId": "-241092837",
+    "erulesId": "ERULES-1963177438-15033",
+    "title": "Note from the editor",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "subject": "",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Note from the editor",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The content of this document is arranged as follows: the cover regulation (recitals and articles) of the implementing rule (IR) appear s first, then the IR annex points, followed by the related acceptable means of compliance (AMC) and guidance material (GM) . The EASA MB d ecision s on the ‘TCO Authorisation Procedure’ come last.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "All elements (i.e. articles , IRs, AMC , GM , and MB d ecision ) are colour-coded and can be identified according to the illustration below. The EU regulat ion , EASA Executive Director (ED) decision , or EASA MB decision through which the article , IR, AMC, GM , or MB d ecision was introduced or last amended is indicated below the article , IR, AMC, GM , or MB d ecision title in italics .",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Cover regulation article EU regulation Implementing rule annex EU regulation Acceptable means of compliance ED decision Guidance material ED decision Management Board d ecision MB decision"
+                }
+              ],
+              "width": "9019"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "This document will be updated regularly to incorporate further amendments.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "pStyle": "Normal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1454116529",
+    "erulesId": "ERULES-1963177438-15035",
+    "title": "Incorporated amendments",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "subject": "",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Incorporated amendments",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Implementing Rules (IRs) ( EU regulations )",
+        "pStyle": "NoTocHeading2"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Incorporated Commission Regulation"
+                }
+              ],
+              "width": "2828"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Affected Part"
+                }
+              ],
+              "width": "1850"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Regulation amendment"
+                }
+              ],
+              "width": "2643"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Applicability date"
+                }
+              ],
+              "width": "1750"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "Regulation (EU) No 452/2014"
+                }
+              ],
+              "vMerge": "restart",
+              "width": "2828"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex 1 (Part-TCO)"
+                }
+              ],
+              "width": "1850"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Initial issue"
+                }
+              ],
+              "vMerge": "restart",
+              "width": "2643"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "26/5/ 2014"
+                }
+              ],
+              "vMerge": "restart",
+              "width": "1750"
+            }
+          ],
+          [
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "2828"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex 2 (Part-ART)"
+                }
+              ],
+              "width": "1850"
+            },
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "2643"
+            },
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "1750"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "Regulation (EU) 2016/1158"
+                }
+              ],
+              "width": "2828"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex 2 (Part-ART)"
+                }
+              ],
+              "width": "1850"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "First amending regulation"
+                }
+              ],
+              "width": "2643"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "5 /8/ 2016"
+                }
+              ],
+              "width": "1750"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "Regulation (EU) 2023/659"
+                }
+              ],
+              "vMerge": "restart",
+              "width": "2828"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Cover Regulation"
+                }
+              ],
+              "width": "1850"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Second amending regulation"
+                }
+              ],
+              "vMerge": "restart",
+              "width": "2643"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "11 / 4 /20 23"
+                }
+              ],
+              "vMerge": "restart",
+              "width": "1750"
+            }
+          ],
+          [
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "2828"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex 1 (Part-TCO)"
+                }
+              ],
+              "width": "1850"
+            },
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "2643"
+            },
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "1750"
+            }
+          ],
+          [
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "2828"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex 2 (Part-ART)"
+                }
+              ],
+              "width": "1850"
+            },
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "2643"
+            },
+            {
+              "content": [],
+              "vMerge": "",
+              "width": "1750"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": -1,
+        "text": "AMC/GM to IR s ( ED decisions )",
+        "pStyle": "NoTocHeading2"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Incorporated ED Decision"
+                }
+              ],
+              "width": "2863"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "AMC/GM Issue No, Amendment No"
+                }
+              ],
+              "width": "4111"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Applicability date"
+                }
+              ],
+              "width": "2126"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "ED Decision 2014/023/R"
+                }
+              ],
+              "width": "2863"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Initial issue to Annex 1 (Part-TCO)"
+                }
+              ],
+              "width": "4111"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "7/5/2014"
+                }
+              ],
+              "width": "2126"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "ED Decision 2023/006/R"
+                }
+              ],
+              "width": "2863"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "First amending Decision to Annex 1 (Part-TCO)"
+                }
+              ],
+              "width": "4111"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "21 / 4 /20 23"
+                }
+              ],
+              "width": "2126"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 32,
+        "level": -1,
+        "text": "MB decisions",
+        "pStyle": "NoTocHeading2"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Incorporated MB Decision"
+                }
+              ],
+              "width": "2863"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Issue"
+                }
+              ],
+              "width": "4111"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Applicability date"
+                }
+              ],
+              "width": "2126"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "MB Decision No 01-2014"
+                }
+              ],
+              "width": "2863"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "First issue"
+                }
+              ],
+              "width": "4111"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "11/3/2014"
+                }
+              ],
+              "width": "2126"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "MB Decision No 01-2023"
+                }
+              ],
+              "width": "2863"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Second issue"
+                }
+              ],
+              "width": "4111"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "21 / 4 /20 23"
+                }
+              ],
+              "width": "2126"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 42,
+        "level": -1,
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
+        "pRStyle": "Italic"
+      }
+    ]
+  },
+  {
+    "sdtId": "-219988151",
+    "erulesId": "ERULES-1963177438-15034",
+    "title": "",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "subject": "",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Table of contents",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Disclaimer 4",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Note from the editor 5",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Cover regulation article 5",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "Implementing rule annex 5",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Acceptable means of compliance 5",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "Guidance material 5",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "Incorporated amendments 6",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "Table of contents 7",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "Cover Regulation 10",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "Article 1 – Subject matter and scope 11",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "Article 2 – Definitions 11",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "Article 3 – Authorisations 11",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "Article 4 – Entry into force 11",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "Commission Delegated Regulation (EU) 2023/659 of 2 December 2022 12",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "Signature 12",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "ANNEX 1 – THIRD COUNTRY OPERATORS (Part-TCO) 13",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "Section I – General requirements 13",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "TCO.100 Scope 13",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "GM1 TCO.100 Scope 13",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": -1,
+        "text": "TCO.115 Access 14",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": -1,
+        "text": "Section II – Air operations 14",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": -1,
+        "text": "TCO.200 General requirements 14",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 24,
+        "level": -1,
+        "text": "GM1 TCO.200(a) General requirements 15",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 25,
+        "level": -1,
+        "text": "AMC1 TCO.200(b) General requirements 15",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 26,
+        "level": -1,
+        "text": "GM1 TCO.200(b) General requirements 15",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 27,
+        "level": -1,
+        "text": "TCO.205 Navigation, communication and surveillance equipment 16",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 28,
+        "level": -1,
+        "text": "TCO.210 Documents, manuals and records to be carried 16",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 29,
+        "level": -1,
+        "text": "AMC1 TCO.210 Documents, manuals and records to be carried 16",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 30,
+        "level": -1,
+        "text": "GM1 TCO.210 Documents, manuals and records to be carried 16",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 31,
+        "level": -1,
+        "text": "TCO.215 Production of documentation, manuals and records 16",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 32,
+        "level": -1,
+        "text": "Section III – Authorisation of third country operators 16",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 33,
+        "level": -1,
+        "text": "TCO.300 Application for an authorisation 16",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 34,
+        "level": -1,
+        "text": "GM1 TCO.300(a) Application for an authorisation 17",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 35,
+        "level": -1,
+        "text": "GM1 TCO.300(b) Application for an authorisation 17",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 36,
+        "level": -1,
+        "text": "GM1 TCO.300(d) Application for an authorisation 18",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 37,
+        "level": -1,
+        "text": "GM1 TCO.300(e)(1) Application for an authorisation 18",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 38,
+        "level": -1,
+        "text": "GM1 TCO.300(e)(2) Application for an authorisation 18",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 39,
+        "level": -1,
+        "text": "TCO.305 O ne-off notification f lights 18",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 40,
+        "level": -1,
+        "text": "AMC1 TCO.305 One-off notification flights 19",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 41,
+        "level": -1,
+        "text": "TCO.310 Privileges of an authorisation holder 19",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 42,
+        "level": -1,
+        "text": "TCO.315 Changes 19",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 43,
+        "level": -1,
+        "text": "GM1 TCO.315 Changes 20",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 44,
+        "level": -1,
+        "text": "TCO.320 Continued validity 20",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 45,
+        "level": -1,
+        "text": "TCO.325 Findings 21",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 46,
+        "level": -1,
+        "text": "AMC1 TCO.325 Findings 21",
+        "pStyle": "TOC4"
+      },
+      {
+        "type": "paragraph",
+        "index": 47,
+        "level": -1,
+        "text": "ANNEX 2 – AUTHORITY REQUIREMENTS REGARDNG THE AUTHORISATION OF THIRD COUNTRY OPERATORS (Part-ART) 22",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 48,
+        "level": -1,
+        "text": "Section I – General 22",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 49,
+        "level": -1,
+        "text": "ART.100 Scope 22",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 50,
+        "level": -1,
+        "text": "ART.110 Exchange of information 22",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 51,
+        "level": -1,
+        "text": "ART.115 Record-keeping 22",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 52,
+        "level": -1,
+        "text": "Section II – Authorisation, monitoring and enforcement 23",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 53,
+        "level": -1,
+        "text": "ART.200 Initial evaluation procedure – general 23",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 54,
+        "level": -1,
+        "text": "ART.205 Initial evaluation procedure – third country operators subject to an operating ban 24",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 55,
+        "level": -1,
+        "text": "ART.210 Issue of an authorisation 24",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 56,
+        "level": -1,
+        "text": "ART.215 Monitoring 25",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 57,
+        "level": -1,
+        "text": "ART.220 Monitoring programme 26",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 58,
+        "level": -1,
+        "text": "ART.225 Changes 27",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 59,
+        "level": -1,
+        "text": "ART.230 Findings and corrective actions 27",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 60,
+        "level": -1,
+        "text": "ART.235 Limitation, suspension and revocation of authorisations 28",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 61,
+        "level": -1,
+        "text": "ART.240 Validity of the authorisation 29",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 62,
+        "level": -1,
+        "text": "ART.245 One-off notification flights 29",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 63,
+        "level": -1,
+        "text": "EASA Management Board Decision No 01-2023 30",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 64,
+        "level": -1,
+        "text": "Section 1 – Basic Principles 31",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 65,
+        "level": -1,
+        "text": "Article 1 – Objectives and Applicability 31",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 66,
+        "level": -1,
+        "text": "Article 2 – Coordination process with the EU Safety List pursuant to Reg. (EC) No 2111/2005 31",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 67,
+        "level": -1,
+        "text": "Article 3 – Risk-based approach (TCO model) 31",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 68,
+        "level": -1,
+        "text": "Article 4 – Exemptions 31",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 69,
+        "level": -1,
+        "text": "Article 5 – Exceptional measures imposed by a Member State 32",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 70,
+        "level": -1,
+        "text": "Section 2 – Authorisation Procedure 32",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 71,
+        "level": -1,
+        "text": "Article 6 – Receipt and eligibility of the application 32",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 72,
+        "level": -1,
+        "text": "Article 7 – Assessment 32",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 73,
+        "level": -1,
+        "text": "Article 8 – Authorisation document and changes 33",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 74,
+        "level": -1,
+        "text": "Article 9 – Monitoring plan and reaction to safety concerns 33",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 75,
+        "level": -1,
+        "text": "Article 10 – Industry Standards 33",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 76,
+        "level": -1,
+        "text": "Article 11 – Findings 33",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 77,
+        "level": -1,
+        "text": "Article 12 – Authorisation Panel Decisions 34",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 78,
+        "level": -1,
+        "text": "Article 13 – Termination of an initial evaluation 34",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 79,
+        "level": -1,
+        "text": "Article 14 – Web-based TCO Software Application 34",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 80,
+        "level": -1,
+        "text": "Section 3 – Final Provisions 35",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 81,
+        "level": -1,
+        "text": "Article 15 – Enforcement 35",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 82,
+        "level": -1,
+        "text": "Article 16 – Resolution of Disagreements 36",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 83,
+        "level": -1,
+        "text": "Article 17 – Entry into Force 36",
+        "pStyle": "TOC3"
+      }
+    ]
+  },
+  {
+    "sdtId": "946071660",
+    "erulesId": "ERULES-1963177438-20412",
+    "title": "",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "COMMISSION REGULATION (EU) No 452/2014 of 29 April 2014 laying down technical requirements and administrative procedures related to air operations of third country operators pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council",
+        "pStyle": "Formaltitle"
+      }
+    ]
+  },
+  {
+    "sdtId": "550255353",
+    "erulesId": "ERULES-1963177438-14390",
+    "title": "Powers and recitals",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Regulation (EU) No 452/2014",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "THE EUROPEAN COMMISSION,"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Having regard to the Treaty on the functioning of the European Union,"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Having regard to Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC, and in particular Article 9(4) thereof,"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "Whereas:"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "According to Regulation (EC) No 216/2008, third country operators involved in commercial air transport operations of aircraft have to comply with the relevant standards of the International Civil Aviation Organisation (ICAO).",
+        "marker": "(1)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Regulation (EC) No 216/2008 does not apply to third country operators flying over the territory subject to the provisions of the Treaty.",
+        "marker": "(2)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Regulation (EC) No 216/2008 requires that to the extent that there are no relevant ICAO standards, third country operators have to comply with the relevant essential requirements set out in Annexes I, III, IV and, if applicable, Annex Vb to Regulation (EC) No 216/2008, provided that these requirements are not in conflict with the rights of third countries under international conventions.",
+        "marker": "(3)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "Regulation (EC) 216/2008 requires that a European Aviation Safety Agency (hereafter referred to as ‘the Agency’) issues authorisations and continuously monitors authorisations that it has issued. The authorisation is one prerequisite in the process of obtaining an operating permit or equivalent document from the respective EU Member State under existing Air Service Agreements between EU Member States and third countries.",
+        "marker": "(4)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "For the purpose of initial authorisations and continuous monitoring, the Agency is to conduct assessments and is to take any measure to prevent the continuation of an infringement.",
+        "marker": "(5)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "The process of authorisation of third country operators should be simple, proportionate, cost effective, efficient and take account of the results of the ICAO Universal Safety Oversight Audit Programme, ramp inspections and other recognised information on safety aspects with regard to third country operators.",
+        "marker": "(6)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "Assessments of third country operators subject to an operating ban pursuant to Regulation (EC)No 2111/2005 may include an audit on-site the operator’s premises. For the purpose of lifting a suspension of an authorisation, the Agency may consider conducting an audit of the third country operator.",
+        "marker": "(7)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "In order to ensure a smooth transition and a high level of civil aviation safety in the European Union, implementing measures should take into consideration the recommended practices and guidance documents agreed under the auspices of ICAO.",
+        "marker": "(8)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "It is necessary to provide sufficient time for the aeronautical industry and the Agency’s administration to adapt to the new regulatory framework and to recognise under certain conditions operating permits or equivalent documents issued by a Member State to operate into, within or out of its territory.",
+        "marker": "(9)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "The European Aviation Safety Agency prepared draft implementing rules and submitted them as an opinion to the Commission in accordance with Article 19(1) of Regulation (EC) No 216/2008.",
+        "marker": "(10)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 0,
+        "text": "The measures provided for in this Regulation are compatible with the opinion of the Committee established by Article 65 of Regulation (EC) No 216/2008,",
+        "marker": "(11)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "HAS ADOPTED THIS REGULATION:"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2046866796",
+    "erulesId": "ERULES-1963177438-14392",
+    "title": "Article 1 – Subject matter and scope",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Article 1 – Subject matter and scope",
+        "pStyle": "Heading2CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This Regulation lays down detailed rules for third country operators of aircraft referred to in Article 2(1), point (c), of Regulation (EU) 2018/1139 of the European Parliament and of the Council who are engaged in commercial air transport operations into, within or out of the territory subject to the provisions of the Treaties, including conditions for issuing, maintaining, amending, limiting, suspending or revoking their authorisations, the privileges and responsibilities of the holders of authorisations as well as conditions under which operations shall be prohibited, limited or subject to certain conditions in the interest of safety."
+      }
+    ]
+  },
+  {
+    "sdtId": "42210484",
+    "erulesId": "ERULES-1963177438-14394",
+    "title": "Article 2 – Definitions",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Article 2 – Definitions",
+        "pStyle": "Heading2CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "For the purposes of this Regulation , the following definitions apply :"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "‘ f light’ means a departure from a specified aerodrome towards a specified destination aerodrome ;",
+        "marker": "(1)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "‘ t hird country operator’ means any operator in respect of which the functions and duties of the State of the operator are not carried out by a Member State or the Agency .",
+        "marker": "(2)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1494209395",
+    "erulesId": "ERULES-1963177438-14396",
+    "title": "Article 3 – Authorisations",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Article 3 – Authorisations",
+        "pStyle": "Heading2CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Third country operators shall only engage in commercial air transport operations into, within, or out of the territory subject to the provisions of the Treaties if they comply with the requirements of Annex 1 and hold an authorisation issued by the Agency in accordance with Annex 2 to this Regulation."
+      }
+    ]
+  },
+  {
+    "sdtId": "260081014",
+    "erulesId": "ERULES-1963177438-14398",
+    "title": "Article 4 – Entry into force",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Article 4 – Entry into force",
+        "pStyle": "Heading2CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "It shall apply from the 20th day following that of its publication in the Official Journal of the European Union.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "By way of derogation from the second subparagraph of paragraph 1, Member States that at the date of entry into force of this Regulation are issuing operating permits or equivalent documents to third country operators in accordance with their national law shall continue to do so. The third country operators shall comply with the scope and privileges defined in the permit or equivalent document granted by the Member State until the Agency has taken a decision in accordance with Annex 2 of this Regulation. Member States shall inform the Agency of the issue of such operating permits or equivalent documents.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "After the date the Agency has taken a decision for the relevant third country operator, or after a maximum period of 30 months after entry into force of this Regulation, whichever comes sooner, the Member State shall no longer perform a safety assessment of that third country operator in accordance with their national law when issuing operating permits.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Third country operators that at the date of entry into force hold an operating permit or equivalent document, shall submit an application for an authorisation to the Agency no later than 6 months after entry into force of this Regulation. The application shall contain information about any operating permits granted by a Member State.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Upon receiving an application, the Agency shall assess the third country operator’s compliance with the applicable requirements. The assessment shall be completed no later than 30 months after entry into force of this Regulation.",
+        "marker": "4.",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-822064392",
+    "erulesId": "ERULES-1963177438-20411",
+    "title": "Commission Delegated Regulation (EU) 2023/659of 2 December 2022",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Commission Delegated Regulation (EU) 2023/659 of 2 December 2022",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union ."
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "This Regulation shall be binding in its entirety and directly applicable in all Member States."
+      }
+    ]
+  },
+  {
+    "sdtId": "1735419655",
+    "erulesId": "ERULES-1963177438-20410",
+    "title": "Signature",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Cover regulation;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Signature",
+        "pStyle": "Heading2CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This Regulation shall be binding in its entirety and directly applicable in all Member States."
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Done at Brussels, 29 April 2014."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "For the Commission",
+        "pStyle": "AlignRight",
+        "pRStyle": "Italic"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The President",
+        "pStyle": "AlignRight",
+        "pRStyle": "Italic"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "José Manuel BARROSO",
+        "pStyle": "AlignRight",
+        "pRStyle": "Italic"
+      }
+    ]
+  },
+  {
+    "sdtId": "1503703485",
+    "erulesId": "ERULES-1963177438-14400",
+    "title": "TCO.100 Scope",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.100 Scope",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This Annex (‘ Part-TCO ’) establishes requirements to be followed by a third country operator engaged in commercial air transport operations into, within or out of the territory subject to the provisions of the Treaties."
+      }
+    ]
+  },
+  {
+    "sdtId": "2110299389",
+    "erulesId": "ERULES-1963177438-20215",
+    "title": "GM1 TCO.100 Scope",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.100 Scope",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "TECHNICAL LANDING",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The intended use of an aerodrome located in the territory subject to the provisions of the Treaties as a technical stop (e.g. for the purpose of refueling or crew change) as part of a CAT operation falls within the scope of TCO.100 and requires a TCO authorisation.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "ALTERNATE AERODROMES",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The selection and use of an aerodrome located in the territory subject to the provisions of the Treaties as an alternate aerodrome for the case of an in-flight diversion does not fall within the scope of TCO.100 and does not require a TCO authorisation.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "CODE-SHARE AGREEMENTS",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "An aircraft used by a third country operator under a so-called code-share agreement with a Member State operator only falls within the scope of TCO.100 and is required to hold a TCO authorisation if the aircraft is used to perform commercial air transport to the territory subject to the provisions of the Treaties.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "WET-LEASE AGREEMENTS",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "A third country operator that leases out aircraft under a wet-lease agreement falls within the scope of TCO.100 and is required to hold a TCO authorisation for aircraft under its air operator certificate (AOC) that are used to fly to the territory subject to the provisions of the Treaties.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "Third country operators currently not holding a valid TCO authorisation may wet-lease-in aircraft from other authorised third country operators or from Member State operators for the purpose of flights to the territory subject to the provisions of the Treaties.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "DRY-LEASE AGREEMENTS",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "A third country operator that leases out aircraft under a dry-lease agreement does not fall within the scope of TCO.100 and does not need a TCO authorisation. The requirement to hold a TCO authorisation for aircraft used to fly to the territory subject to the provisions of the Treaties rests with the operator that has dry-leased-in the aircraft and is responsible for the operation and airworthiness under its AOC.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "OTHER TYPES OF OPERATION",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "The following types of operations do not fall within the scope of TCO.100 and do not require a TCO authorisation:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "Operations conducted by third country operators that are excluded from the scope of Regulation (EU) 2018/1139 , such as flights referred to in Article 2(3)(a) of that Regulation (e.g. military, customs, police, search and rescue, firefighting),",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 0,
+        "text": "General Aviation operations,",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": 0,
+        "text": "Flights arranged by means of diplomatic clearances,",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": 0,
+        "text": "Any other type of operations that do not fall under the definition of commercial air transport (e.g. ferry flights to a maintenance basis or delivery flights).",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "Specialised operations (e.g. hoist, photographic or surveillance operations) do not fall within the scope of TCO.100 and do not require a TCO authorisation but may require an approval from the Member State(s) concerned.",
+        "pStyle": "Normal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1714483085",
+    "erulesId": "ERULES-1963177438-14412",
+    "title": "TCO.115 Access",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.115 Access",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The third country operator shall ensure that any person authorised by the Agency or the Member State in whose territory one of its aircraft has landed will be permitted to board such aircraft, at any time, with or without prior notice to:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "inspect the documents and manuals to be carried on board and to perform inspections to ensure compliance with Part-TCO ; or",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "carry out a ramp ins pection as referred to in Annex II t o Commission Regulation (EU) No 965/2012 of 5 October 2012.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The third country operator shall ensure that any person authorised by the Agency is granted access to any of its facilities or documents related to its activities, including any subcontracted activities, to determine compliance with Part-TCO .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-480354704",
+    "erulesId": "ERULES-1963177438-14414",
+    "title": "TCO.200 General requirements",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.200 General requirements",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The third country operator shall comply with:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "the applicable standards contained in the Annexes to the Convention on International Civil Aviation, in particular Annexes 1 (Personnel licensing), 2 (Rules of the Air), 6 (Operation of Aircraft), as applicable, 8 (Airworthiness of Aircraft), 18 (Dangerous Goods), and 19 (Safety Management) ;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "the applicable safety directives issued by the Agency in accordance with Article 76(6) of Regulation (EU) 2018/1139 ;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "the relevant requirements of Part-TCO ; and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "the applicable requirements of Regulation (EU) No 923/2012 .",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "The third country operator shall ensure that an aircraft operated into, within or out of the territory subject to the provisions of the Treaties is operated in accordance with:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "its air operator certificate (AOC) and associated operations specifications in accordance with ICAO Annex 6; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "the TCO authorisation issued in accordance with this Regulation and the scope and privileges contained therein.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "The third country operator shall ensure that an aircraft operated into, within or out of the territory subject to the provisions of the Treaties has a certificate of airworthiness (CofA) issued or validated in accordance with ICAO Annex 8 by:",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "the State of registry; or",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "the State of the third country operator, provided that the State of the third country operator and the State of registry have entered into an agreement under Article 83bis of the Convention on International Civil Aviation that transfers the responsibility for the issue of the CofA .",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "The third country operator shall, upon request, provide the Agency with any information relevant for verifying compliance with Part-TCO .",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "Without prejudice to Regulation (EU) No 996/2010 of the European Parliament and of the Council , the third country operator shall without undue delay report to the Agency any accident as defined in ICAO Annex 13, involving aircraft used under its AOC, including those aircraft that are not intended to be flown into, within or out of the territory subject to the provisions of the Treaties .",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "974553930",
+    "erulesId": "ERULES-1963177438-20216",
+    "title": "GM1 TCO.200(a) General requirements",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.200(a) General requirements",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "When the State of the operator or the State of registry have notified differences to ICAO standards, the exemptions referred to in Article 76(4) of Regulation (EU) 2018/1139 (the EASA Basic Regulation) may be used to grant an authorisation, provided that the conditions and criteria established therein are met."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1887909199",
+    "erulesId": "ERULES-1963177438-14416",
+    "title": "AMC1 TCO.200(b) General requirements",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 TCO.200(b) General requirements",
+        "pStyle": "Heading4AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "DIFFERENCE BETWEEN OPERATIONS SPECIFICATIONS AND TCO AUTHORISATION",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Whenever there is a difference between the operations specifications associated with the a ir o perator c ertificate (AOC) and the scope and privileges granted in the TCO authorisation, the more limiting one should apply."
+      }
+    ]
+  },
+  {
+    "sdtId": "2030736534",
+    "erulesId": "ERULES-1963177438-14418",
+    "title": "GM1 TCO.200(b) General requirements",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.200(b) General requirements",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The scope and the privileges contained in the TCO authorisation include the list of aircraft that can be used under the TCO authorisation as well as any limitation to the TCO authorisation."
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "SPECIAL AUTHORISATION",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The operator may benefit from all approvals granted by its competent authority unless the Agency has imposed a limitation."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "Those approvals may include, but are not limited to, the carriage of dangerous goods, low-visibility o perations (LVO), r educed v ertical s eparation m inima (RVSM), e xtended d iversion t ime o perations (EDTO), AR navigation specifications for p erformance- b ased n avigation ( e.g. RNP-AR ), and use of electronic flight bag (EFB) ."
+      }
+    ]
+  },
+  {
+    "sdtId": "1147980044",
+    "erulesId": "ERULES-1963177438-14423",
+    "title": "TCO.205 Navigation, communication and surveillance equipment",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.205 Navigation, communication and surveillance equipment",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "When undertaking operations within the airspace above the territory to which the Treat ies appl y the third country operator shall equip its aircraft with and operate such navigation, communication and surveillance equipment as required in that airspace ."
+      }
+    ]
+  },
+  {
+    "sdtId": "101123417",
+    "erulesId": "ERULES-1963177438-14424",
+    "title": "TCO.210 Documents, manuals and records to be carried",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.210 Documents, manuals and records to be carried",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The third country operator shall ensure that all documents, manuals and records that are required to be carried on board are valid and-up-to-date."
+      }
+    ]
+  },
+  {
+    "sdtId": "-176166612",
+    "erulesId": "ERULES-1963177438-14425",
+    "title": "AMC1 TCO.210 Documents, manuals and records to be carried",
+    "applicabilityDate": "7 May, 2014",
+    "entryIntoForceDate": "7 May, 2014",
+    "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 TCO.210 Documents, manuals and records to be carried",
+        "pStyle": "Heading4AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "GENERAL",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The documents, manuals and information may be available in a form other than on printed paper. Accessibility, usability and reliability should be assured."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1276793632",
+    "erulesId": "ERULES-1963177438-14426",
+    "title": "GM1 TCO.210 Documents, manuals and records to be carried",
+    "applicabilityDate": "7 May, 2014",
+    "entryIntoForceDate": "7 May, 2014",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.210 Documents, manuals and records to be carried",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "GENERAL",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The third country operator is not required to carry the TCO authorisation on board its aircraft."
+      }
+    ]
+  },
+  {
+    "sdtId": "1000464930",
+    "erulesId": "ERULES-1963177438-14427",
+    "title": "TCO.215 Production of documentation, manuals and records",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.215 Production of documentation, manuals and records",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Upon request by a person authorised by the Agency or the competent authority of the Member State where the aircraft operated by a third country operator has landed, the pilot-in-command of that aircraft shall, without undue delay, present any documentation, manuals or records required to be carried on board."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1726548445",
+    "erulesId": "ERULES-1963177438-14428",
+    "title": "TCO.300 Application for an authorisation",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.300 Application for an authorisation",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "Prior to engaging in commercial air transportoperations under Part-TCO the third country operator shall apply for and obtain an authorisation issued by the Agency.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "An application for an authorisation shall be:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "submitted at least 30 days before the intended starting date of operation; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "made in a form and manner established by the Agency.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Without prejudice to applicable bilateral agreements, the applicant shall provide the Agency with any information needed to assess whether the intended operation will be conducted in accordance with the applicable requirements of TCO.200(a) . Such information shall include:",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "the duly completed application;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "the official name, business name, address, and mailing address of the applicant;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "a copy of the applicant’s AOC and associated operations specifications, or equivalent document, that attests the capability of the holder to conduct the intended operations, issued by the State of the operator;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "the applicant’s current certificate of incorporation or business registration or similar document issued by the Registrar of Companies in the country of the principal place of business;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "the proposed start date, type and geographic areas of operation.",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "When necessary, the Agency may request any other additional relevant documentation, manuals, or specific approvals issued or approved by the State of the operator or State of registry.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "For those aircraft not registered in the State of the operator the Agency may request:",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "details of the lease agreement for each aircraft so operated; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 1,
+        "text": "if applicable, a copy of the agreement between the State of the operator and the State of registry pursuant to Article 83bis of the Convention on International Civil Aviation that covers the aircraft.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "911576098",
+    "erulesId": "ERULES-1963177438-14429",
+    "title": "GM1 TCO.300(a) Application for an authorisation",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.300(a) Application for an authorisation",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "DEMONSTRATION OF INTENTION TO OPERATE",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The intention to operate is sufficiently substantiated when an operator can demonstrate a credible intention to conduct commercial operations into , within or out of the territory subject to the provisions of the Treat ies . The operator may substantiate its intention by submitting its planned schedule for commercial air transport operations where this is possible or, by having aircraft available for intended flights in the case of unscheduled commercial air transport operations, or Europe being a geographical part of the operations specifications, or a statement from senior management that operations to the European Union are planned. However, other means of demonstrating a credible intention may be used."
+      }
+    ]
+  },
+  {
+    "sdtId": "96603754",
+    "erulesId": "ERULES-1963177438-14430",
+    "title": "GM1 TCO.300(b) Application for an authorisation",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.300(b) Application for an authorisation",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "SUBMISSION OF APPLICATION FOR AN AUTHORISATION",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "When the third country operator submits an application for an authorisation, the Agency will follow the process established in ART.200 to ART.210 . The first step of the process is for EASA to evaluate the eligibility of the operator and verify the completeness of the information received. The operator should be aware that, in accordance with ART.200(b) , the application is only considered to be submitted, and the timeframe for EASA’s assessment will only start, once the complete set of information required under TCO.300(c) has been received."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Once the application is considered submitted, EASA will register the operator in its dedicated TCO web-application and will request the operator to fill in an electronic questionnaire. EASA will complete its assessment within the timeframes stipulated in ART.200(b) ."
+      }
+    ]
+  },
+  {
+    "sdtId": "52159338",
+    "erulesId": "ERULES-1963177438-20217",
+    "title": "GM1 TCO.300(d) Application for an authorisation",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.300(d) Application for an authorisation",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "TRANSLATION OF DOCUMENTS",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The Agency may request a courtesy translation of certain (parts of) documents that are written in a language other than English."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Operators should preferably submit documents in a format that is electronically searchable and translatable by use of online tools."
+      }
+    ]
+  },
+  {
+    "sdtId": "1736042532",
+    "erulesId": "ERULES-1963177438-14431",
+    "title": "GM1 TCO.300(e)(1) Application for an authorisation",
+    "applicabilityDate": "7 May, 2014",
+    "entryIntoForceDate": "7 May, 2014",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.300(e)(1) Application for an authorisation",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "LEASE-IN OF AIRCRAFT NOT REGISTERED IN THE STATE OF THE OPERATOR",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "In the case of aircraft not registered in the State of the operator, the Agency may request the following information on the lease agreement:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "the aircraft type, registration markings and serial number;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "the name and address of the registered owner;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "a copy of the valid certificate of airworthiness;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "a copy of the lease agreement or description of the lease provisions, except financial arrangements; and",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "duration of the lease.",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "921070188",
+    "erulesId": "ERULES-1963177438-14432",
+    "title": "GM1 TCO.300(e)(2) Application for an authorisation",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.300(e)(2) Application for an authorisation",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "DOCUMENTS FOR AIRCRAFT NOT REGISTERED IN THE STATE OF THE OPERATOR",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Any agreement on the transfer of certain functions and duties between the State of registry and the State of operator that relieves the State of registry of responsibility in respect of the functions and duties transferred, should be made available upon request."
+      }
+    ]
+  },
+  {
+    "sdtId": "876625772",
+    "erulesId": "ERULES-1963177438-14433",
+    "title": "TCO.305 One-off notification flights",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.305 O ne-off notification f lights",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "By way of derogation from point TCO.300(a) , the third country operator may carry out the following flights into, within or out of the territory subject to the provisions of the Treaties without first obtaining an authorisation :",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "flights that are performed in the public interest, to address an urgent need, such as humanitarian missions and disaster relief operations ;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "air ambulance flights that are performed to move sick or injured patients between healthcare facilities or deliver patient medical care .",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The provisions of point (a) shall only apply if the third country operator:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "notifie d the Agency prior to the intended date of the first flight in a form and manner established by the Agency;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "is not subject to an operating ban pursuant to Regulation (EC) No 2111/2005 ;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "is not subject to a suspension or revocation pursuant to point ART.235 of Annex 2 ;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "has not been subject to rejection of an application for TCO authorisation pursuant to point ART.200(e)(1) of Annex 2 ; and",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "applies for an authorisation pursuant to point TCO.300 within 14 days after the date of notification to the Agency pursuant to point (b)(1) above .",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "The flight(s) specified in the notification prescribed in point (a) may be performed for the period requested by the third country operator, but no longer than for a maximum of 12 consecutive weeks after the date of notification or until the Agency has taken a decision on the application in accordance with point ART.200 of Part-ART , whichever comes sooner.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "A notification may be filed only once every 24 months by the third country operator.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-61653431",
+    "erulesId": "ERULES-1963177438-20218",
+    "title": "AMC1 TCO.305 One-off notification flights",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 TCO.305 One-off notification flights",
+        "pStyle": "Heading4AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "DOCUMENTS TO BE PROVIDED WHEN NOTIFYING EASA OF THE INTENTION TO PERFORM FLIGHTS IN ACCORDANCE WITH TCO.305",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The application for a one-off notification flight should include:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "a valid AOC and the associated operations specifications;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "a valid CofA for the aircraft intended to be operated;",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "information about the character and purpose of the operation; and",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "information about planned destinations.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1394164734",
+    "erulesId": "ERULES-1963177438-14434",
+    "title": "TCO.310 Privileges of an authorisation holder",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.310 Privileges of an authorisation holder",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The privileges of the third country operator shall be listed in the authorisation and not exceed the privileges granted by the State of the third country operator ."
+      }
+    ]
+  },
+  {
+    "sdtId": "160036350",
+    "erulesId": "ERULES-1963177438-14388",
+    "title": "TCO.315 Changes",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.315 Changes",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "Any change, other than those agreed under point ART.210(c) of Annex 2, affecting the terms of an authorisation shall require prior approval by the Agency .",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The third country operator shall submit the application for prior approval by the Agency at least 30 days before the date of implementation of the intended change .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The third country operator shall provide the Agency with the information referred to in point TCO.300 , restricted to the extent of the change.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "After submission of an application for a change, the third country operator shall operate under the conditions prescribed by the Agency pursuant to point ART.225(b) of Annex 2 .",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "All changes not requiring prior approval, as agreed in accordance with point ART.210(c) of Annex 2, shall be notified to the Agency before the change takes place .",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1305275902",
+    "erulesId": "ERULES-1963177438-14389",
+    "title": "GM1 TCO.315 Changes",
+    "applicabilityDate": "21 April, 2023",
+    "entryIntoForceDate": "21 April, 2023",
+    "type": "GM to IR (Guidance material to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 TCO.315 Changes",
+        "pStyle": "Heading4GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "CHANGES REQUIRING PRIOR APPROVAL",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Typical examples of changes that require a prior approval by the Agency pursuant to TCO.315(b) are:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "the addition of a new type of aircraft (defined as an aircraft with different ICAO type designator) to the TCO authorisation, unless agreed otherwise under ART.210(c) ;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "the operator’s principal place of business, when the operator relocates to a different State; and",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "any takeover, merger, consolidation or other structural change to the operator’s organisation that could result in a change to the conditions and approvals as defined in the AOC or equivalent.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "CHANGES NOT REQUIRING PRIOR APPROVAL",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "Typical examples of changes that do not require a prior approval, but which have to be notified to the Agency pursuant to TCO.315(c) are:"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "temporary or permanent cessation of operations;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "the name of the operator;",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "the operator’s principal place of business within the same State ;",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "the number of the AOC or that of the equivalent document;",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "enforcement measures imposed by a civil aviation authority, including limitations and suspension; and",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "the operator’s scope of activities, e.g. extensions of privileges granted or restrictions imposed in the operations specifications to the AOC.",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1799475131",
+    "erulesId": "ERULES-1963177438-14391",
+    "title": "TCO.320 Continued validity",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.320 Continued validity",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The authorisation shall remain valid subject to:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "the third country operator remaining in compliance with the relevant requirements of Part-TCO . The provisions related to the handling of findings, as specified under TCO.325 , shall also be taken into account;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "the validity of the AOC or equivalent document issued by the State of the operator and the related operations specifications, if applicable;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "the Agency being granted access to the third country operator as specified in TCO.115 ;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "the third country operator not being subject to an operating ban pursuant to Regulation (EC) No 2111/2005 ;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "the authorisation not being surrendered, suspended or revoked;",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "the third country operator being able to substantiate, upon request by the Agency, its intention to continue to conduct operations under its TCO authorisation;",
+        "marker": "(6)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "the third country operator operating at least one aircraft under its TCO authorisation.",
+        "marker": "(7)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "If the authorisation has become invalid, the third country operator shall obtain a new authorisation from the Agency, prior to recommencing operations into, within or out of the territory subject to the provisions of the Treaties. The third country operator shall apply for the new authorisation in a form and manner established by the Agency and shall provide any document necessary to determine that the reasons for the authorisation to become invalid are no longer present, and that the third country operator complies with the requirements to obtain the authorisation under Part-TCO .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "146190710",
+    "erulesId": "ERULES-1963177438-14395",
+    "title": "TCO.325 Findings",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "TCO.325 Findings",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "After receipt of a notification of findings pursuant to ART.230 raised by the Agency, the third country operator shall:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "identify the root cause of the non-compliance;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "establish a corrective action plan to address the root cause of the non-compliance within an acceptable time frame and submit it to the Agency;",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "demonstrate corrective action implementation to the satisfaction of the Agency within the period agreed with the Agency as defined in ART.230(e)(1) .",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-57133768",
+    "erulesId": "ERULES-1963177438-14397",
+    "title": "AMC1 TCO.325 Findings",
+    "applicabilityDate": "7 May, 2014",
+    "entryIntoForceDate": "7 May, 2014",
+    "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 TCO.325 Findings",
+        "pStyle": "Heading4AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "GENERAL",
+        "pStyle": "Heading5OrgManual"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Operators should identify and review the root cause(s) of the non-compliances for each confirmed finding and should ensure that the corrective action(s) taken are adequate to correct the non-compliance and to prevent re-occurrence. A corrective action plan lists the action(s) to eliminate or mitigate the root cause(s) and to prevent recurrence of an existing detected non-compliance or other undesirable condition or situation. Proper determination of the root cause is crucial for defining effective corrective actions to prevent reoccurrence."
+      }
+    ]
+  },
+  {
+    "sdtId": "1928288713",
+    "erulesId": "ERULES-1963177438-14399",
+    "title": "ART.100 Scope",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.100 Scope",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This Annex ( ‘ Part-ART ’ ) establishes administrative requirements to be followed by Member States and the Agency, specifically regarding:"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "the issuance, maintenance, change, limitation, suspension or revocation of authorisations of third country operators engaging in commercial air transport operations; and",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The Agency shall inform the Member States about the notifications it has received in accordance with point TCO.305 of Annex 1 without any undue delay.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-694160335",
+    "erulesId": "ERULES-1963177438-14403",
+    "title": "ART.110 Exchange of information",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.110 Exchange of information",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The Agency shall inform the Commission and the Member States when it:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "rejects an application for an authorisation;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "imposes a limitation due to safety concerns, suspends or revokes an authorisation.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The Agency shall inform the Member States about the notifications it has received in accordance with point TCO.305 of Annex 1 without any undue delay .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The Agency shall regularly make available to the Member States an updated list containing the authorisations it has issued, limited, changed, suspended or revoked.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Member States shall inform the Agency when they intend to tak e a measure pursuant to Article 6(1) of Regulation (EC) No 2111/2005 .",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1958887492",
+    "erulesId": "ERULES-1963177438-14405",
+    "title": "ART.115 Record-keeping",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.115 Record-keeping",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The Agency shall establish a system of record-keeping providing for adequate storage, accessibility and reliable traceability of:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "training, qualification and authorisation of its personnel;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "third country operator authorisations issued or notifications received;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "authorisation processes and continuing monitoring of authorised third country operators;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "findings, agreed corrective actions and date of action closure;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "enforcement measures taken, including fines requested by the Agency in accordance with Regulation (EU) 2018/1139 ;",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "the implementation of corrective actions mandated by the Agency in accordance with Article 76(6) of Regulation (EU) 2018/1139 ; and",
+        "marker": "(6)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "the use of flexibility provisions in accordance with Article 71 of Regulation (EU) 2018/1139 .",
+        "marker": "(7)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "All records shall be kept for a minimum period of 5 years, subject to applicable data protection law.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "305603071",
+    "erulesId": "ERULES-1963177438-14407",
+    "title": "ART.200 Initial evaluation procedure – general",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.200 Initial evaluation procedure – general",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "Upon receiving an application for an authorisation in accordance with TCO.300 , the Agency shall assess the third country operator's compliance with applicable requirements in Part-TCO .",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The Agency shall complete the initial assessment within 30 days after receipt of all required documents pursuant to point TCO.300(c) and (d) of Annex 1 .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "When the initial assessment requires a further assessment or an audit, the assessment period shall be extended for the duration of the further assessment or the audit, as appropriate .",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The initial assessment shall be based on:",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "documentation and data provided by the third country operator;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "relevant information on the safety performance of the third country operator, including ramp inspection reports, information reported in accordance with ARO.RAMP.145(c) , recognised industry standards, accidents records and enforcement measures taken by a third country;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "relevant information on the oversight capabilities of the State of the operator or State of registry, as applicable, including the outcome of audits carried out under international conventions or State safety assessment programmes; and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "decisions, investigations pursuant to Regulation (EC) No 2111/2005 or joint consultations pursuant to Regulation (EC) No 473/2006 .",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "When the third country operator does not provide the information required for the assessment in accordance with point TCO.300(c) and (d) of Annex 1 within the timeline established by the Agency, the Agency may decide to suspend the assessment of the application until the information is provided. In this case, the Agency shall inform the third country operator of its decision.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "When the Agency cannot establish a sufficient level of confidence in the third country operator and/or the State of the operator during the initial assessment, it shall:",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "reject the application when the outcome of the assessment indicates that further assessment will not result in the issue of an authorisation; or",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "conduct further assessments to the extent necessary to establish that the intended operation will be conducted in compliance with the applicable requirements of Part-TCO .",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "When an application from a third country operator was previously rejected or authorisation revoked, the Agency may decide to wait 9 months from the date of revocation or rejection before starting to process the new application.",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1638114374",
+    "erulesId": "ERULES-1963177438-14409",
+    "title": "ART.205 Initial evaluation procedure – third country operators subject to an operating ban",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.205 Initial evaluation procedure – third country operators subject to an operating ban",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "Upon receiving an application for an authorisation from the third country operator subject to an operating ban or an operational restriction pursuant to Regulation (EC) No 2111/2005 , the Agency shall take into account the scope of the ban in order to define the relevant assessment procedure, as described in point ART.200 . When the third country operator is subject to an operating ban covering the entire scope of its operations, the assessment shall include an audit of the third country operator.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "When the operator is subject to an operating ban due to the State of the operator not performing adequate oversight, the Agency shall inform the Commission for further assessment of the operator and the State of Operator under Regulation (EC) No 2111/2005 .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The Agency shall perform an audit only if :",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "the third country operator agrees to be audited;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "the outcome of the initial evaluation procedure referred to in point ART.200 indicates that there is a possibility that the audit will have a positive result; and",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "the audit can be performed at the third country operator’s facilities without the risk of compromising the safety and security of the Agency’s personnel.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "The audit of the third country operator may include an assessment of the oversight conducted by the State of the operator when there is evidence of major deficiencies in the oversight of the applicant.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "The Agency shall inform the Commission of the results of the audit.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-403985996",
+    "erulesId": "ERULES-1963177438-14411",
+    "title": "ART.210 Issue of an authorisation",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.210 Issue of an authorisation",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The Agency shall issue the authorisation, when:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "it is satisfied that the third country operator holds a valid AOC or equivalent document and associated operations specifications issued by the State of the operator;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "it is satisfied that the third country operator is authorised by the State of the operator to conduct operations into the EU;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "it is satisfied that the third country operator has established:",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 2,
+        "text": "compliance with the applicable requirements of Part-TCO ;",
+        "marker": "(i)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 2,
+        "text": "transparent, adequate and timely communication in response to a further assessment and/or an audit of the Agency, if applicable; and",
+        "marker": "(ii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 2,
+        "text": "a timely and successful corrective action submitted in response to an identified non-compliance, if any;",
+        "marker": "(iii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "there is no evidence of major deficiencies in the ability of the State of the third country operator or the State of registry, as applicable, to certify and oversee the third country operator and/or aircraft in accordance with the applicable ICAO standards;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "the applicant is not subject to an operating ban pursuant to Regulation (EC) No 2111/2005 ; and",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "any non-compliance finding raised during the assessment has been closed.",
+        "marker": "(6)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "The authorisation shall be issued for an unlimited duration.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "The Agency shall specify the privileges and the scope of the activities that the third country operator is authorised to conduct.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "The Agency shall agree with the third country operator the scope of changes to the third country operator obligations not requiring any prior approval taking into consideration the size, type and complexity of the operation.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "778697614",
+    "erulesId": "ERULES-1963177438-14413",
+    "title": "ART.215 Monitoring",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.215 Monitoring",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The Agency shall assess:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "continued compliance of third country operators it has authorised with the applicable requirements of Part-TCO ;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "if applicable, the implementation of corrective actions mandated by the Agency in accordance with Article 76(6) of Regulation (EU) 2018/1139 .",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "This assessment shall:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "take into account safety relevant documentation and data provided by the third country operator;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "take into account relevant information on the safety performance of the third country operator, including ramp inspection reports, information reported in accordance with ARO.RAMP.145(c), recognised industry standards, accidents records and enforcement measures taken by a third country;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "take into account relevant information on the oversight capabilities of the State of the operator or State of registry, as applicable, including the outcome of audits carried out under international conventions or State safety assessment programmes;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "take into account decisions and investigations pursuant to Regulation (EC) No 2111/2005 or joint consultations pursuant Regulation (EC) No 473/2006 ;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "take into account previous assessments or audits, if carried out; and",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "provide the Agency with the evidence needed in case further action is required, including the measures foreseen by ART.235 .",
+        "marker": "(6)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "The scope of monitoring defined in (a) and (b) shall be determined on the basis of the results of past authorisation and/or monitoring activities.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "Where, based on available information, the safety performance of the third country operator and/or the oversight capabilities of the State of the operator or the State of Registry are suspected to have decreased below the applicable standards contained in the Annexes to the Convention on International Civil Aviation, the Agency shall submit the affected third country operator to intensified surveillance. The Agency shall take any necessary measures to ensure that the third country operator’s intended operation will be conducted in compliance with the applicable requirements of Part-TCO . These measures may include:",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "an audit of the third country operator in accordance with point ART.205(d) ;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 1,
+        "text": "a requirement for the third country operator to submit reports or tailored technical information to the Agency at regular intervals;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 1,
+        "text": "a temporary limitation of the operation to the third country operator’s current fleet and/or scope of commercial air transport operations into, within or out of the territory subject to the provisions of the Treaties.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": 0,
+        "text": "The Agency shall collect and process any safety information deemed relevant for monitoring.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2111208920",
+    "erulesId": "ERULES-1963177438-14415",
+    "title": "ART.220 Monitoring programme",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.220 Monitoring programme",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The Agency shall establish and maintain a monitoring programme covering the activities required by ART.215 and, if applicable, by Subpart ARO.RAMP.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The monitoring programme shall be developed taking into account the results of past authorisation and/or monitoring activities.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The Agency shall perform a review of third country operators at intervals not exceeding 24 months.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The interval may be reduced if there are indications that the safety performance of the third country operator and/or the oversight capabilities of the State of the operator may have decreased below the applicable standards contained in the Annexes to the Convention on International Civil Aviation.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "The Agency may extend the interval to a maximum of 48 months if it has established that, during the previous monitoring period:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "there are no indications that the overseeing authority of the State of the operator fails to perform effective oversight on operators under its oversight responsibility;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "the third country operator has continuously and timely reported changes referred to in TCO.315 ;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "no level 1 findings, referred to in ART.230(b) , have been issued; and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "all corrective actions have been implemented within the time period accepted or extended by the Agency as defined in ART.230(e)(1) .",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "The monitoring programme shall include records of the dates of monitoring activities, including meetings.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "When determining the review interval, the Agency shall take into consideration the size, type and complexity of the operation, available information on the number of flights performed under the TCO authorisation, and the relevant elements referred to in point ART.200(c) .",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1228452430",
+    "erulesId": "ERULES-1963177438-14417",
+    "title": "ART.225 Changes",
+    "applicabilityDate": "26 May, 2014",
+    "entryIntoForceDate": "26 May, 2014",
+    "type": "IR (Implementing rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.225 Changes",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "Upon receiving an application for a change that requires prior authorisation, the Agency shall apply the relevant procedure as described in ART.200 , restricted to the extent of the change.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The Agency shall prescribe the conditions under which the third country operator may operate within the scope of its authorisation during the change, unless the Agency determines that the authorisation needs to be suspended.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "For changes not requiring prior authorisation, the Agency shall assess the information provided in the notification sent by the third country operator in accordance with TCO.315 to verify compliance with the applicable requirements. In case of any non-compliance, the Agency shall:",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "notify the third country operator about the non-compliance and request a revised proposal to achieve compliance; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "in case of level 1 or level 2 findings, act in accordance with ART.230 and ART.235 , as appropriate.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2141807696",
+    "erulesId": "ERULES-1963177438-14419",
+    "title": "ART.230 Findings and corrective actions",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.230 Findings and corrective actions",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The Agency shall have a system to analyse findings for their safety significance.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "A level 1 finding shall be issued by the Agency when any significant non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and Part-TCO , or with the terms of the authorisation that lowers safety or seriously hazards flight safety .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The level 1 findings shall include, but are not limited to:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "failure to give the Agency access to the third country operator’s facilities as defined in point TCO.115(b) of Annex 1 during normal operating hours and after a written request;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "implementing changes requiring prior approval without having received an approval as defined in point ART.210 ;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "obtaining or maintaining the validity of the authorisation by falsification of documentary evidence;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "evidence of malpractice or fraudulent use of the authorisation.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "presence of multiple level 2 findings raised during an assessment, indicating a systemic weakness that lowers safety or seriously hazards flight safety.",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "A level 2 finding shall be issued by the Agency when any non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and Part-TCO , or with the terms of the authorisation which could lower safety or hazard flight safety.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "When a finding is detected during monitoring, the Agency shall, without prejudice to any additional action required by Regulation (EU) 2018/1139 and its delegated and implementing acts, communicate the finding to the third country operator in writing and request corrective action to eliminate or mitigate the root cause in order to prevent recurrence of the non compliance(s) identified .",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "In the case of level 2 findings, the Agency shall:",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "grant the third country operator a corrective action implementation period appropriate to the nature of the finding. At the end of the period, and subject to the nature of the finding, the Agency may extend the period subject to a second satisfactory corrective action plan agreed by the Agency; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "assess the corrective action and implementation plan proposed by the third country operator. If the assessment concludes that it contains root cause(s) analysis and course(s) of action to effectively eliminate or mitigate the root cause(s) to prevent recurrence of the non-compliance(s), the corrective action and implementation plan shall be accepted .",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "If the third country operator fails to submit an acceptable corrective action plan, as referred to in (e)(1) , or to perform the corrective action within the time period accepted or extended by the Agency, the finding shall be raised to a level 1 finding and action shall be taken as laid down in point ART.235(a) .",
+        "pStyle": "Normal2"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 0,
+        "text": "The Agency shall record and notify the State of the operator or the State of registry, as applicable, of all findings it has raised.",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1745991386",
+    "erulesId": "ERULES-1963177438-14421",
+    "title": "ART.235 Limitation, suspension and revocation of authorisations",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.235 Limitation, suspension and revocation of authorisations",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "Without prejudice to any additional enforcement measures, the Agency shall take action to limit or suspend the authorisation in case of:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "a level 1 finding;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "verifiable evidence that the State of operator or State of registry, as applicable, is not capable to certify and oversee the operator and/or aircraft in accordance with the applicable ICAO standard; or",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "the third country operator being subject to a measure pursuant to Article 6(1)(2) of Regulation (EC) No 2111/2005 .",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The limitation or suspension shall be lifted when the Agency is satisfied that successful corrective action has been taken by the third country operator and/or the State of the operator or State of registry, as applicable .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "In considering the lifting of a suspension, the Agency shall consider conducting an audit of the third country operator when the conditions in point ART.205(c) are met. In case the suspension is due to major deficiencies in the oversight of the applicant by the State of the operator or State of registry, as applicable, the audit may include an assessment with the aim of verifying whether these oversight deficiencies have been corrected .",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "The Agency may revoke the authorisation when, following a suspension, the third country operator and/or the State of the operator or State of registry, as applicable, have not taken successful corrective action within a maximum period of 12 months.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "The Agency shall revoke the authorisation when the third country operator becomes subject to an operating ban pursuant to Regulation (EC) No 2111/2005 .",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "511863005",
+    "erulesId": "ERULES-1963177438-20213",
+    "title": "ART.240 Validity of the authorisation",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.240 Validity of the authorisation",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "When the holder of a TCO authorisation no longer complies with the requirements for continued validity of point TCO.320 of Annex 1, the Agency shall inform the third country operator and the Member States that the TCO authorisation has lost its validity.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Upon receiving an application for a new authori z ation after the previous authorisation had become invalid, the Agency shall perform an assessment as necessary to ensure that the intended operation will be conducted in compliance with the applicable requirements of Part-TCO .",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1006062237",
+    "erulesId": "ERULES-1963177438-20214",
+    "title": "ART.245 One-off notification flights",
+    "applicabilityDate": "11 April, 2023",
+    "entryIntoForceDate": "11 April, 2023",
+    "type": "DR (Delegated rule);",
+    "subject": "Part-ART;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "ART.245 One-off notification flights",
+        "pStyle": "Heading3IR"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Upon receiving a notification from the third country operator pursuant to point TCO.305 of Annex 1, the Agency shall, without undue delay, assess whether the conditions established in point TCO.305 of Annex 1 are met."
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "When the Agency finds that the conditions established in point TCO.305 of Annex 1 are not met, the Agency shall inform the third country operator and the affected Member State(s) thereof."
+      }
+    ]
+  },
+  {
+    "sdtId": "3818136",
+    "erulesId": "ERULES-1963177438-15027",
+    "title": "",
+    "applicabilityDate": "20 April, 2023",
+    "entryIntoForceDate": "20 April, 2023",
+    "type": "",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Management Board Decision No 01-2023 of 13 April 2023 concerning the G eneral P rinciples related to A uthorisation P rocedures to be applied by the Agency for issuing A uthorisations for Third Country O perators ( ‘ TCO A uthorisation P rocedure ’ )",
+        "pStyle": "Additionalinformation"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "THE MANAGEMENT BOARD OF THE EUROPEAN UNION AVIATION SAFETY AGENCY,"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Having regard to Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005 , (EC) No 1008/2008 , (EU) No 996/2010 , (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (the ‘ Basic Regulation ’ ), and in particular Article 82 thereof,"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Having regard to Commission Regulation (EU) No 452/2014 laying down technical requirements and administrative procedures related to air operations of third country operators pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "WHEREAS:"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Whereas the European Parliament and the Council of the European Union, by adopting Regulation (EU) 2018/1139 (hereinafter the Basic Regulation), has established the European Union Aviation Safety Agency (hereinafter the Agency);",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Whereas Article 82 of the Basic Regulation requiring a system in respect of the authorisation of third country operators (hereinafter TCO);",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Considering the Commission Implementing Regulation laying down technical requirements and administrative procedures related to air operations of third country operators pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council (Implementing Regulation Third Country Operators – hereinafter Part-TCO); and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "Whereas Article 98 of the Basic Regulation which requires the Management Board to establish transparent procedures the Executive Director shall follow for taking individual decisions.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "Has decided"
+      }
+    ]
+  },
+  {
+    "sdtId": "1216841831",
+    "erulesId": "ERULES-1963177438-20415",
+    "title": "",
+    "applicabilityDate": "20 April, 2023",
+    "entryIntoForceDate": "20 April, 2023",
+    "type": "",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Article 1 – Objectives and Applicability",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The objective of this Decision is to establish transparent procedures to be followed by the Agency when carrying out the authorisation of third country operators, including the monitoring of these operators, pursuant to Part-TCO .",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The Agency shall establish and maintain a process to ensure fair, standardised and proportionate treatment of all TCO applicants and authorisation holders (operators) .",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Holders of an AOC issued by a Member State or by the Agency itself will not be subject to TCO authorisation.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Article 2 – Coordination process with the EU Safety List pursuant to Reg. (EC) No 2111/2005",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "In cooperation with the Commission, the Agency shall engage in establishing and maintaining a coordination process between the EU Safety List and Part-TCO , ensuring the integrity of both Regulations."
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "Article 3 – Risk-based approach (TCO model)",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "The Agency shall use a risk-based approach to help determine the Agency’s level of confidence in the AOC ’ s issued to third country operators. The Agency shall adequately allocate its resources and strengthen the assessment of TCOs for which it has a limited level of confidence. When deciding on the appropriate deployment of the Agency’s resources, consideration shall also be given to the third country operator’s exposure for the European citizens.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "The Agency shall establish and maintain a TCO model to process data obtained from specified, trustworthy internal and external sources. Results of the TCO model are indicative and shall not be decisive for authorisation decisions. The use of TCO model results shall normally be restricted to internal use. Any request to the Agency for information by a Member State at any stage of the assessment or monitoring process should be justifiable and would normally be made on an exceptional basis and shared on a confidential basis. An example being that upon justifiable request by a Member State, the Agency may share with Member States on a confidential basis detailed information about its assessment, including TCO model results, if a negative authorisation decision was issued against an applicant exercising traffic rights in the territory of that Member State during the TCO transition period.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "The TCO model shall consist of clearly specified parameters for both the State of operator and the operator and allow for continuous comparison of the safety performance of third country operators applying for or holding a TCO Authorisation.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "Article 4 – Exemptions",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "Upon request from the TCO Authorisation holder, the Agency may grant exemptions from specific requirements of Part-TCO , following the conditions laid down in Article 76(4) of the Basic Regulation."
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "Article 5 – Exceptional measures imposed by a Member State",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "The Agency shall work with Member States towards establishing and maintaining a process that ensures timely information from Member States to the Agency in case that a Member State intends to take a measure pursuant to Article 6 of Regulation (EC) No 2111/2005 ."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1942925346",
+    "erulesId": "ERULES-1963177438-20414",
+    "title": "",
+    "applicabilityDate": "20 April, 2023",
+    "entryIntoForceDate": "20 April, 2023",
+    "type": "",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Article 6 – Receipt and eligibility of the application",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Upon receipt of an application, the Agency shall perform an eligibility check according to Part TCO and inform the applicant when its application is accepted for further processing. In case of refusal of the application for reasons of non-eligibility, the Agency shall reject the application in writing and justify its decision to the applicant.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The Agency shall determine how to proceed with each eligible application. When receiving an application from a TCO subject to an operating ban due to the State of the operator not performing adequate oversight, due account shall be taken of the need for coordination with the Commission in order to ensure a consistent approach with Regulation (EC) No 2111/2005 and the requirements of Part TCO .",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "When receiving an application from an applicant that is currently not possessing an air operator certificate and associated operations specifications that entitle the operator to operate to territories, where the Treaties apply, then the Agency shall not accept the application. The Agency may however give the operator access to the Agency’s web-based software application for the purpose of information sharing, under the condition that the applicant provides evidence from its competent authority that certification activity has been initiated which will lead to the eligibility of the operator to apply for a TCO authorisation. The Agency shall only accept the formal application after the TCO has obtained the necessary approvals from its competent authority.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Article 7 – Assessment",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Results of the TCO model shall be used to determine the appropriate assessment methodology of each applicant or authorisation holder.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "In the absence of relevant safety concerns, and when the TCO model indicates confidence into the State of Operator and the operator itself, the Agency shall abstain from further assessment pursuant to ART.200(e)(2) or ART.215(d) , as applicable.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "Subject to efficiency and resource considerations, the Agency may accept on request of the operator to carry out parts of further assessment outside of EASA premises in compliance with Agency procedures applicable to ensure absence of conflicts of interest, staff health and security, and travel policy. In this case, the applicable fees and charges for an on-site audit shall apply in accordance with the Commission Implementing Regulation on the fees and charges levied by EASA.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "Where an assessment of the State oversight capabilities is required in accordance with ART.200 , ART.210 or ART.235 , the Agency shall coordinate such assessment with the European Commission and agree on the most efficient and effective methodology giving regard to the European Commission’s responsibility for the EU Safety List Regulation (EC) No 2111/2005 .",
+        "marker": "4.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "Article 8 – Authorisation document and changes",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "The TCO Authorisation shall specify the conditions for continued validity and include the necessary conditions or limitations, as the case may be. This can be done in an electronic format.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "The Agency shall specify the manner of requesting changes by TCO Authorisation holders that require prior approval by the Agency. The Agency may decide to apply a simplified process for the addition of new aircraft to the TCO Authorisation that are used for non-scheduled operations in the business aviation sector.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "Article 9 – Monitoring plan and reaction to safety concerns",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "The Agency shall establish a monitoring plan for each TCO Authorisation holder. This plan shall be established at the beginning of each monitoring interval and modified in case the level of confidence changes.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 0,
+        "text": "The Agency shall establish and maintain a process to react appropriately and timely to aviation safety concerns that may adversely affect the safe operation of TCO Authorisation holders.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "Article 10 – Industry Standards",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": 0,
+        "text": "Conformity with industry standards should not be considered in isolation from other assessment elements.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": 0,
+        "text": "When considering any audits performed as part of certification or registration in accordance with industry standards, the following requirements should be assessed by the Agency:",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": 1,
+        "text": "The demonstration of conformity is based on a certification/registration audit scheme which provides for systematic verification, absence of conflict of interest, comprehensive programme description, defined standards and protocols;",
+        "marker": "a.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": 1,
+        "text": "The certification/registration audit scheme is managed by an organisation with a documented management system and internal quality assurance programme and is performed by auditors/assessors who demonstrate to meet specific and relevant qualification criteria;",
+        "marker": "b.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": 1,
+        "text": "Certification/registration audits are relevant to applicable Annexes to the Chicago Convention and should cover at least the scope defined in TCO.200(a)(1) of Part TCO . If the industry standard does not fully cover the scope defined in TCO.200(a)(1) then the shortfall should be accounted for separately;",
+        "marker": "c.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": 1,
+        "text": "It can be demonstrated that such certification/registration audits can easily be mapped against the requirements of Part TCO ; and",
+        "marker": "d.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 24,
+        "level": 1,
+        "text": "Audit/assessment results are accessible to the Agency and may be used for the purpose of determining compliance with Part TCO .",
+        "marker": "e.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 25,
+        "level": 0,
+        "text": "The certification/registration audit scheme referenced in paragraph 2 should ensure that the Agency is notified about relevant changes to the operator, such as conditions that could affect the certification/registration, and suspension or removal of certification/registration in accordance with the industry standards.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 26,
+        "level": -1,
+        "text": "Article 11 – Findings",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 27,
+        "level": 0,
+        "text": "In case of a level 1 finding, the Agency shall not issue an initial TCO Authorisation and shall initiate the refusal of the application.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 28,
+        "level": 0,
+        "text": "For an operator that already holds a TCO Authorisation and is subject to a level 1 finding, the Agency shall decide on a suitable measure, e.g., limitation to address the finding or on the suspension of the TCO authorisation.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 29,
+        "level": -1,
+        "text": "Furthermore, the Agency shall decide on the conditions for de-escalation of the level 1 finding to level 2.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 30,
+        "level": 0,
+        "text": "The Agency may only approve a change when the level 1 finding is permanently rectified by the operator and closed by the Agency or when the finding has been de-escalated to level 2 and is appropriately controlled.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 31,
+        "level": 0,
+        "text": "In case of level 2 findings, the Agency shall not issue an initial TCO Authorisation until such time when the finding is permanently rectified by the applicant and closed by the Agency.",
+        "marker": "4.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 32,
+        "level": 0,
+        "text": "The Agency may continue a TCO Authorisation and may approve a change, provided that all level 2 findings are appropriately controlled in accordance with ART.230 .",
+        "marker": "5.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 33,
+        "level": 0,
+        "text": "The Agency shall establish and maintain a process to decide about the escalation of level 2 findings to level 1 findings in cases when several level 2 findings indicate systemic non compliances. In addition to the number of findings raised, the process shall take into consideration the areas of non-compliance and their interdependence and the possibility for organisational or managerial shortcomings.",
+        "marker": "6.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 34,
+        "level": -1,
+        "text": "Article 12 – Authorisation Panel Decisions",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 35,
+        "level": 0,
+        "text": "A TCO Authorisation Panel shall be established in the Agency in accordance with appropriate Terms of Reference that outline its composition and its processes.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 36,
+        "level": 0,
+        "text": "The TCO Authorisation Panel shall decide about the classification of non-compliance findings, recommendations pertaining to authorisation decisions, and the proposition of enforcement actions. Decisions of the panel shall be recorded.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 37,
+        "level": 0,
+        "text": "The Agency shall establish and maintain a process to ensure the electronic publication of its authorisation decisions.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 38,
+        "level": -1,
+        "text": "Article 13 – Termination of an initial evaluation",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 39,
+        "level": 0,
+        "text": "The Agency may terminate an initial evaluation procedure when the applicant is unable or unwilling to demonstrate compliance with Part TCO as demonstrated by:",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 40,
+        "level": 1,
+        "text": "a lack of transparency or adequate and timely communication on the part of the applicant; or",
+        "marker": "a.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 41,
+        "level": 1,
+        "text": "an inappropriate or insufficient corrective action plan presented in response to findings.",
+        "marker": "b.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 42,
+        "level": 0,
+        "text": "If during an initial evaluation procedure the Agency determines that the number and/or nature of non-compliance findings of an applicant is such that permanent rectification of all level 1 findings within 3 months after their initial notification is unlikely or unrealistic, the Agency may decide to reject the application on grounds of significant systemic non-compliance with Part TCO in accordance with ART.200(e)(1) .",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 43,
+        "level": -1,
+        "text": "Article 14 – Web-based TCO Software Application",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 44,
+        "level": -1,
+        "text": "The Agency shall deploy and maintain a secure software application for receiving the necessary information from the applicant during the initial assessment and during the continuous monitoring of third country operators. The application shall facilitate processing the information received and managing authorisations in line with Part-TCO. The software application shall also support the timely exchange of information related to TCO Authorisations between the Commission, Member States, applicants and TCO Authorisation holders in accordance with ART.110 . The application shall also provide foreign competent authorities with a possibility to review information pertaining to operators in their competence."
+      }
+    ]
+  },
+  {
+    "sdtId": "1008465391",
+    "erulesId": "ERULES-1963177438-20413",
+    "title": "",
+    "applicabilityDate": "20 April, 2023",
+    "entryIntoForceDate": "20 April, 2023",
+    "type": "",
+    "subject": "Part-TCO;",
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Article 15 – Enforcement",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "In accordance with ART.235 , to the extent not already otherwise established by equivalent policies and procedures, the Agency shall establish and maintain procedures for taking enforcement action in respect of TCO Authorisation holders.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The TCO Authorisation Panel shall decide on the requirement for intensified surveillance pursuant to ART.215(d) . When taking the decision, the authorisation panel shall decide on the appropriate measures, taking into consideration the nature of the safety concerns, the presence of non-compliance findings, the confidence into the State oversight capabilities, the size and complexity of the operation and the exposure to the European citizen. The Agency shall inform the operator about the measures taken under the umbrella of intensified surveillance and shall notify the State of the Operator and the State of Registry as applicable. Furthermore, the Agency shall inform the operator under which circumstances the intensified surveillance can be terminated.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "When a TCO Authorisation shall be limited, suspended, or revoked, the Agency shall notify by letter the TCO Authorisation holder of its decision and the reasons therefore. This letter shall refer to the possibility for appeal as specified in Articles 108 to 114 of the Basic Regulation.",
+        "marker": "3.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The Agency shall determine if and when a suspended authorisation shall be revoked. When taking the decision, the Agency shall take into consideration the time that is necessary to take corrective action on non-compliance findings, the efforts made by the operator to rectify the non-compliance. Where the TCO Authorisation holder has not taken the necessary corrective actions, or there is no obvious interest on the part of the operator to have a suspension lifted, the Agency may decide to refrain from revoking the authorisation.",
+        "marker": "4.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "When considering lifting a suspension, the Agency shall take at least the following into consideration when determining the appropriate methodology to verify that the operator has taken successful corrective action on the findings raised:",
+        "marker": "5.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "the number and nature of the open findings,",
+        "marker": "a.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "their suitability for desktop review,",
+        "marker": "b.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "the feasibility of teleconferencing to replace an on-site audit.",
+        "marker": "c.",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "The Agency may not lift a suspension before closure of all level 1 findings. In case that additional level 2 findings are present, the Agency may decide to lift the suspension, provided that these findings are controlled with a corrective action plan that has been accepted by the Agency. When taking the decision whether to lift a suspension in the presence of open level 2 findings due regard shall be giving to the number of the findings, their nature, their effect on the safety of the operation and to the expected time that is necessary for finding closure.",
+        "marker": "6.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "Article 16 – Resolution of Disagreements",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "Every effort shall be made to resolve all disagreements between the applicant or the authorisation holder and the Agency at the lowest possible level.",
+        "marker": "1.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "In case the applicant or TCO Authorisation holder continues to disagree with a decision of the Agency, it may lodge a formal appeal under the Agency’s appeal process.",
+        "marker": "2.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "Article 17 – Entry into Force",
+        "pStyle": "Heading3CR"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "This Decision enters into force in its entirety on the day of its publication in the Official Publication of the Agency."
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "Done in Warsaw, 13 April 2023"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "(signed)"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "Piotr Samson",
+        "pStyle": "AlignRight"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "Chair of the Management Board",
+        "pStyle": "AlignRight"
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 import os
 import json
 
-BASE_DIR = 'xml'  # Your regulation folders live here
+BASE_DIR = 'json'  # Your regulation folders live here
 OUTPUT_FILE = 'data/structure.json'  # Output destination
 
 def generate_structure():
