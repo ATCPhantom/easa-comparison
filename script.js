@@ -739,9 +739,14 @@ async function exportExcelJS() {
           rowIndex++; // empty row before table
 
           const rows = line.rows;
-          console.log(rows)
 
-          const numCols = rows[0]?.length || 1;
+          //const numCols = rows[0]?.length || 1;
+          const numCols = Math.max(
+            ...rows.map(row =>
+              row.reduce((sum, cell) => sum + (parseInt(cell.colspan) || 1), 0)
+            )
+          );
+          
           let visualCols;
 
           if (numCols === 1) {
@@ -764,7 +769,8 @@ async function exportExcelJS() {
               { start: 2, end: 5 },  // B–E
               { start: 6, end: 7 },  // F–G
               { start: 8, end: 9 },   // H–I
-              { start: 10, end: 11 } // J–K
+              { start: 10, end: 10 }, // J
+              { start: 11, end: 11 } // K
             ];
          } else {
             // default: 7 columns, fixed blocks
@@ -783,16 +789,26 @@ async function exportExcelJS() {
 
           rows.forEach((rowCells, tableRowIndex) => {
             const row = sheet.getRow(rowIndex);
-            // *********************************************************************** //
+
             let maxHeight = 20; // min height fallback
-            // *********************************************************************** //
 
-            for (let i = 0; i < tableCols; i++) {
-              const cellParts = rowCells[i]?.content || [];
-              const colSpec = visualCols[i];
+            let colIndex = 0; // Index for visualCols
+            for (let i = 0; i < rowCells.length && colIndex < visualCols.length; i++) {
+              const cellData = rowCells[i] || {};
+              const cellParts = cellData.content || [];
+              const colspan = parseInt(cellData.colspan) || 1;
 
-              sheet.mergeCells(rowIndex, colSpec.start, rowIndex, colSpec.end);
-              const cell = sheet.getCell(rowIndex, colSpec.start);
+              // Determine merge range based on visualCols
+              const mergeStart = visualCols[colIndex].start;
+              const mergeEnd = visualCols
+                .slice(colIndex, colIndex + colspan)
+                .at(-1)?.end || visualCols[colIndex].end;
+
+              if (mergeEnd > mergeStart) {
+                sheet.mergeCells(rowIndex, mergeStart, rowIndex, mergeEnd);
+              }
+
+              const cell = sheet.getCell(rowIndex, mergeStart);
 
               // Compose rich text
               if (cellParts.length === 1) {
@@ -800,7 +816,7 @@ async function exportExcelJS() {
                 cell.value = part.text;
                 if (part.style === 'GeneralAviation') {
                   cell.font = {
-                    color: { argb: '800080' }, // Purple text
+                    color: { argb: '800080' },
                     size: 11
                   };
                 }
@@ -816,7 +832,7 @@ async function exportExcelJS() {
                 };
               }
 
-              cell.alignment = { wrapText: true, vertical: 'top', horizontal: 'left' };
+              cell.alignment = { wrapText: true, vertical: 'top', horizontal: colspan > 1 ? 'center' : 'left' };
 
               if (tableRowIndex === 0) {
                 cell.font = { ...(cell.font || {}), bold: true };
@@ -835,25 +851,17 @@ async function exportExcelJS() {
                 right: { style: 'thin', color: { argb: 'FFD9D9D9' } },
               };
 
-              // *********************************************************************** //
-              // Calculate cell text length for height estimate:
-              let cellText = '';
-              if (cellParts.length === 1) {
-                cellText = cellParts[0].text;
-              } else {
-                cellText = cellParts.map(part => part.text).join(' ');
-              }
-
-              // Approximate column width in chars (like you do in estimateRowHeight)
+              // Estimate height
+              const cellText = cellParts.map(part => part.text).join(' ');
               let colWidth = 0;
-              for (let c = colSpec.start; c <= colSpec.end; c++) {
+              for (let c = mergeStart; c <= mergeEnd; c++) {
                 colWidth += sheet.getColumn(c).width || 10;
               }
 
               const estHeight = estimateRowHeight(cellText, colWidth, 11);
-
               if (estHeight > maxHeight) maxHeight = estHeight;
-              // *********************************************************************** //
+
+              colIndex += colspan; // move forward by colspan visualCols
             }
 
             row.height = maxHeight;
@@ -919,6 +927,10 @@ async function exportExcelJS() {
               underline: line.underline ? 'single' : false
             };
             if (line.color) textCell.font.color = { argb: line.color };
+            textCell.border = {
+              top: { style: 'thin', color: { argb: 'FFD9D9D9' } },
+              bottom: { style: 'thin', color: { argb: 'FFD9D9D9' } }
+            };
 
             const colWidth = (endCol - startCol) * sheet.getColumn(startCol).width + 120;
             const estimatedHeight = estimateRowHeight(line.text, colWidth, 11);
@@ -980,7 +992,7 @@ function flattenContent(contentArray, title = '') {
                 style: part.style || null
               }))
             : [];
-          return { content };
+          return { ...cell, content };
         })
       );
 
