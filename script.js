@@ -1,9 +1,11 @@
 let selectedVersions = [];
 let versionMap = {};
+let currentCategory = null;
 let currentRegulation = null;
 let globalNewTopics = [];
 let globalChangedTopics = [];
 let globalRemovedTopics = [];
+let currentMode = 'view' // or 'export'
 
 const titleOverrides = {
   "ERULES-1963177438-9854": "Appendix 1 Signals",
@@ -40,10 +42,37 @@ function handleLogin() {
 
   if (USERS[encodedUser] && USERS[encodedUser] === encodedPass) {
     localStorage.setItem("isLoggedIn", "true");
-    showApp();
+    showActionScreen();
   } else {
     document.getElementById("login-error").classList.remove("d-none");
   }
+}
+
+function showActionScreen() {
+  document.getElementById("login-screen").classList.add("d-none");
+  document.getElementById("action-screen").classList.remove("d-none");
+}
+
+function enterViewChanges() {
+  currentMode = 'view';
+  document.getElementById("action-screen").classList.add("d-none");
+  document.getElementById("app").classList.remove("d-none");
+
+  // Reset buttons
+  document.getElementById("compare-btn").classList.remove("d-none");
+  document.getElementById("export-matrix-btn").classList.add("d-none");
+  document.getElementById("compare-btn").disabled = true;
+}
+
+function enterExportMode() {
+  currentMode = 'export';
+  document.getElementById("action-screen").classList.add("d-none");
+  document.getElementById("app").classList.remove("d-none");
+
+  // Reset buttons
+  document.getElementById("compare-btn").classList.add("d-none");
+  document.getElementById("export-matrix-btn").classList.remove("d-none");
+  document.getElementById("export-matrix-btn").disabled = true;
 }
 
 function showApp() {
@@ -51,9 +80,26 @@ function showApp() {
   document.getElementById("app").classList.remove("d-none");
 }
 
+function resetPage() {
+  // Hide all screens
+  document.getElementById("login-screen")?.classList.add("d-none");
+  document.getElementById("app")?.classList.add("d-none");
+  document.getElementById("action-screen")?.classList.remove("d-none");
+
+  // Optionally reset selection state
+  selectedVersions = [];
+  currentRegulation = null;
+
+  const versionButtons = document.getElementById('version-buttons');
+  if (versionButtons) versionButtons.innerHTML = '';
+
+  const versionSection = document.getElementById('version-selection');
+  if (versionSection) versionSection.classList.add('d-none');
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   if (localStorage.getItem("isLoggedIn") === "true") {
-    showApp();
+    showActionScreen();
   } else {
     // Hide app until login is successful
     document.getElementById("action-screen").classList.add("d-none");
@@ -94,6 +140,7 @@ document.getElementById('exportModal').addEventListener('show.bs.modal', () => {
     if (btn) btn.textContent = `Select ${type}`;
   });
 });
+
 document.addEventListener('DOMContentLoaded', () => {
   const exportModalEl = document.getElementById('exportModal');
 
@@ -116,23 +163,90 @@ function renderRegulations(structure) {
   const container = document.getElementById('regulation-selection');
   container.innerHTML = '';
 
-  Object.keys(structure).forEach(reg => {
-    const box = document.createElement('div');
-    box.className = 'regulation-box';
-    box.innerText = reg.toUpperCase();
-    box.onclick = () => selectRegulation(reg);
-    container.appendChild(box);
+  // Create tab headers
+  const tabHeader = document.createElement('ul');
+  tabHeader.className = 'nav nav-tabs mb-3';
+  tabHeader.id = 'category-tabs';
+
+  const tabContent = document.createElement('div');
+  tabContent.className = 'tab-content';
+  tabContent.id = 'category-tab-content';
+
+  let tabIndex = 0;
+  Object.entries(structure).forEach(([category, regs], tabIndex) => {
+    const isActive = tabIndex === 0 ? 'active' : '';
+    const tabId = `tab-${tabIndex}`;
+    const tabClass = `tab-${tabIndex}`; // Add a unique class
+
+    // Tab header
+    const li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = `
+      <button class="nav-link ${isActive} ${tabClass}" data-bs-toggle="tab" data-bs-target="#${tabId}" type="button">
+        ${category}
+      </button>
+    `;
+
+    const button = li.querySelector('button');
+    button.addEventListener('shown.bs.tab', () => {
+      document.getElementById('version-selection').classList.add('d-none');
+      // Also clear version buttons:
+      document.getElementById('version-buttons').innerHTML = '';
+      // Reset currentRegulation & currentCategory if needed
+      currentRegulation = null;
+      currentCategory = null;
+    });
+
+    tabHeader.appendChild(li);
+
+    // Tab content: buttons for sub-regulations
+    const content = document.createElement('div');
+    content.className = `tab-pane fade ${isActive ? 'show active' : ''}`;
+    content.id = tabId;
+
+    if (Object.keys(regs).length > 0) {
+      const grid = document.createElement('div');
+      grid.className = 'regulations-grid';
+
+      Object.entries(regs).forEach(([key, versions]) => {
+        const button = document.createElement('button');
+        //button.className = 'btn btn-outline-primary';
+        button.textContent = key.toUpperCase();
+        button.onclick = () => selectRegulation(key);
+        grid.appendChild(button);
+      });
+
+      content.appendChild(grid);
+    } else {
+      content.innerHTML = `<div class="text-muted">No available regulations.</div>`;
+    }
+
+    tabContent.appendChild(content);
+    tabIndex++;
   });
+
+  container.appendChild(tabHeader);
+  container.appendChild(tabContent);
 }
 
-function selectRegulation(name) {
-  currentRegulation = name;
+function selectRegulation(subfolderKey) {
   selectedVersions = [];
+  currentRegulation = subfolderKey;
+  currentCategory = null;
 
   const versionButtons = document.getElementById('version-buttons');
   versionButtons.innerHTML = '';
 
-  const versions = versionMap[name] || [];
+  let versions = [];
+
+  for (const category in versionMap) {
+    if (versionMap[category][subfolderKey]) {
+      versions = versionMap[category][subfolderKey];
+      currentCategory = category;
+      break;
+    }
+  }
+
   versions.forEach(filename => {
     const btn = document.createElement('button');
     btn.className = 'btn btn-outline-secondary version-btn';
@@ -142,7 +256,13 @@ function selectRegulation(name) {
     versionButtons.appendChild(btn);
   });
 
+  const titleEl = document.getElementById('version-selection-title');
+  if (titleEl) {
+    titleEl.textContent = currentMode === 'export' ? 'Select Regulation' : 'Choose Version(s)';
+  }
+
   document.getElementById('compare-btn').disabled = true;
+  document.getElementById('export-matrix-btn').disabled = true;
   document.getElementById('version-selection').classList.remove('d-none');
 }
 
@@ -158,7 +278,11 @@ function toggleVersion(btn) {
     btn.classList.add('active');
   }
 
-  document.getElementById('compare-btn').disabled = ![1, 2].includes(selectedVersions.length);
+  const exportBtn = document.getElementById('export-matrix-btn');
+  const compareBtn = document.getElementById('compare-btn');
+
+  compareBtn.disabled = !(currentMode === 'view' && [1, 2].includes(selectedVersions.length));
+  exportBtn.disabled = !(currentMode === 'export' && selectedVersions.length === 1);
 }
 
 async function checkSelection(){
@@ -170,7 +294,7 @@ async function checkSelection(){
 }
 
 async function displaySingle(){
-  const file = `json/${currentRegulation}/${selectedVersions}`;
+  const file = `json/${currentCategory}/${currentRegulation}/${selectedVersions[0]}`;
   const data = await fetch(file).then(res => res.json());
   
   const map = Object.fromEntries(data.map(t => [t.erulesId, t]));
@@ -190,8 +314,8 @@ async function displaySingle(){
 
 async function compareVersions() {
   const [v1, v2] = [...selectedVersions].sort(sortVersionsByDate);
-  const fileOld = `json/${currentRegulation}/${v1}`;
-  const fileNew = `json/${currentRegulation}/${v2}`;
+  const fileOld = `json/${currentCategory}/${currentRegulation}/${v1}`;
+  const fileNew = `json/${currentCategory}/${currentRegulation}/${v2}`;
 
   const [oldData, newData] = await Promise.all([
     fetch(fileOld).then(res => res.json()),
@@ -224,6 +348,24 @@ async function compareVersions() {
   globalRemovedTopics = removedTopics;
 
   renderResults(true, [v1.replace('.json', ''), v2.replace('.json', '')], newTopics, changedTopics, removedTopics);
+}
+
+async function startExportMatrix() {
+  if (selectedVersions.length !== 1) return;
+
+  const file = `json/${currentCategory}/${currentRegulation}/${selectedVersions[0]}`;
+  const data = await fetch(file).then(res => res.json());
+
+  const topics = [];
+  const map = Object.fromEntries(data.map(t => [t.erulesId, t]));
+
+  for (const erulesId in map) {
+    const topic = map[erulesId];
+    topics.push(topic);
+  }
+
+  globalNewTopics = topics;
+  exportToExcel(); // shows the modal and preps selections
 }
 
 function darkenColor(hex, amount = 20) {
@@ -614,17 +756,11 @@ async function exportExcelJS() {
   const allTopics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
   const selectedTopics = allTopics.filter(t => selectedIds.includes(t.erulesId));
 
-  /*selectedTopics.sort((a, b) => {
-    const sa = (a.subject || '').split(';')[0].trim();
-    const sb = (b.subject || '').split(';')[0].trim();
-    return sa.localeCompare(sb);
-  });*/
-
   const workbook = new ExcelJS.Workbook();
   const sheet = workbook.addWorksheet("Compliance Matrix");
 
   sheet.columns = [
-    { header: "Reulatory Content", key: 'a', width: 5 },
+    { header: "Regulatory Content", key: 'a', width: 5 },
     { key: 'b', width: 5 },
     { key: 'c', width: 5 },
     { key: 'd', width: 5 },
@@ -635,9 +771,9 @@ async function exportExcelJS() {
     { key: 'i', width: 20 },
     { key: 'j', width: 20 },
     { key: 'k', width: 20 },
-    { header: "Compliance", key: "l", width: 12 },
-    { header: "Compliance Method", key: "m", width: 50 },
-    { header: "Comments", key: "n", width: 40 }
+    { header: "Compliance", key: "l", width: 15 },
+    { header: "Reference", key: "m", width: 70 },
+    { header: "Comment", key: "n", width: 40 }
   ];
   sheet.mergeCells(`A1:K1`);
 

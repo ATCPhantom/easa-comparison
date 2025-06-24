@@ -1,18 +1,27 @@
 import os
 import json
 
-BASE_DIR = 'json'  # Your regulation folders live here
-OUTPUT_FILE = 'data/structure.json'  # Output destination
+BASE_DIR = 'json'  # json/category/subfolder/file.json
+OUTPUT_FILE = 'data/structure.json'
 
 def generate_structure():
     structure = {}
 
-    for folder in os.listdir(BASE_DIR):
-        folder_path = os.path.join(BASE_DIR, folder)
-        if os.path.isdir(folder_path):
-            json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+    for category in os.listdir(BASE_DIR):
+        category_path = os.path.join(BASE_DIR, category)
+        if not os.path.isdir(category_path):
+            continue
+
+        structure[category] = {}
+
+        for subfolder in os.listdir(category_path):
+            subfolder_path = os.path.join(category_path, subfolder)
+            if not os.path.isdir(subfolder_path):
+                continue
+
+            json_files = [f for f in os.listdir(subfolder_path) if f.endswith('.json')]
             if json_files:
-                structure[folder] = sorted(json_files)
+                structure[category][subfolder] = sorted(json_files)
 
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 

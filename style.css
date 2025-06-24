@@ -48,7 +48,33 @@ body {
   cursor: pointer;
 }
 
-.regulation-box {
+/* Action Screen Buttons */
+.custom-btn-view {
+  color: #222f64; /* BLUE */
+  border: 2px solid #222f64;
+  background-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.custom-btn-view:hover {
+  color: #fff;
+  background-color: #222f64;
+}
+
+.custom-btn-export {
+  color: #1c6c3f; /* GREEN */
+  border: 2px solid #1c6c3f;
+  background-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.custom-btn-export:hover {
+  color: #fff;
+  background-color: #1c6c3f;
+}
+/* End Action Screen Buttons */
+
+/*.regulation-box {
   padding: 1rem 2rem;
   background-color: #ffffff;
   border: 2px solid #dee2e6;
@@ -58,11 +84,104 @@ body {
   font-weight: 500;
   min-width: 120px;
   text-align: center;
-}
+}*/
 
 .regulation-box:hover {
   background-color: #e2e6ea;
   border-color: #adb5bd;
+}
+
+/* TAB SECTION START*/
+.nav-tabs {
+  border-bottom: 2px solid #dee2e6;
+  justify-content: center;
+  gap: 5px;
+}
+
+/* Base tab style override */
+.nav-tabs .nav-link {
+  transition: background-color 0.2s ease;
+  border: 2px solid #dee2e6;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,0.1);
+}
+
+/* Custom background per tab */
+.tab-0 { background-color: #a8d9ff; }   /* Aerodrome - slightly stronger blue */
+.tab-1 { background-color: #ffd99c; }   /* Air Ops - slightly stronger orange */
+.tab-2 { background-color: #9ff0cc; }   /* ATM - slightly stronger green */
+.tab-3 { background-color: #c9a9ff; }   /* Aircraft - slightly stronger purple */
+.tab-4 { background-color: #ffabc7; }   /* Aircrew - slightly stronger pink */
+.tab-5 { background-color: #a6e3ff; }   /* Drones - slightly stronger cyan */
+.tab-6 { background-color: #fff09e; }   /* General - slightly stronger yellow */
+
+/* Hover and active effect */
+.nav-tabs .nav-link:hover {
+  background-color: #dee2e6;
+}
+
+.nav-tabs .nav-link.active {
+  font-weight: 600;
+  color: #0d6efd;
+}
+
+/* Sub-regulation button grid */
+.tab-pane .btn-outline-primary {
+  border-width: 2px;
+  font-weight: 500;
+  padding: 0.5rem 1.25rem;
+  min-width: 100px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.2s ease;
+}
+
+.tab-pane .btn-outline-primary:hover {
+  background-color: #0d6efd;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .nav-tabs {
+    flex-wrap: wrap;
+  }
+
+  .tab-pane .btn-outline-primary {
+    min-width: 80px;
+    font-size: 0.875rem;
+    padding: 0.4rem 0.9rem;
+  }
+}
+/* TAB SECTION END*/
+
+.regulations-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem; /* equal to gap-3 */
+}
+
+.regulations-grid button {
+  /* replicate btn btn-outline-primary styles */
+  border: 1px solid #0d6efd;
+  background-color: transparent;
+  color: #0d6efd;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out;
+}
+
+.regulations-grid button:hover {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.regulations-grid button:focus {
+  outline: none;
+  color: white;
+  background-color: #0d6efd;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.5);
 }
 
 .scroll-box {

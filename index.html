@@ -22,6 +22,17 @@
 	    <div id="login-error" class="text-danger mt-2 d-none">Invalid credentials</div>
 	  </div>
 	</div>
+	<!-- action selection screen -->
+	<div id="action-screen" class="d-none">
+	  <div class="card p-4 shadow rounded text-center">
+	    <img src="res/logo_s.png" alt="Logo" class="logo mb-4" />
+	    <h4 class="mb-3">Choose Action</h4>
+	    <div class="d-grid gap-3">
+	      <button class="btn custom-btn-view" onclick="enterViewChanges()">View Regulatory Changes</button>
+	      <button class="btn custom-btn-export" onclick="enterExportMode()">Export Full Matrix</button>
+	    </div>
+	  </div>
+	</div>
 	<!-- App screen -->
 	<div id="app" class="d-none">
 		<div class="card p-4 shadow-sm rounded-4 text-center selector-card">
@@ -29,16 +40,17 @@
 				<img src="res/logo_s.png" alt="Logo" id="logo" class="logo" onclick="resetPage()" />
 			</div>
 
-			<h3 class="mb-3">Select a Regulation</h3>
+			<h3 class="mb-3">Select Category</h3>
 
 			<div id="regulation-selection" class="d-flex flex-wrap justify-content-center gap-3 mb-4"></div>
 
 			<div id="version-selection" class="d-none">
-				<h5 class="mb-3">Choose Version(s)</h5>
+				<h5 id="version-selection-title" class="mb-3">Select Regulation</h5>
 				<div id="version-buttons" class="d-flex justify-content-center gap-3 flex-wrap mb-3">
 				<!-- Buttons inserted dynamically -->
 				</div>
 				<button id="compare-btn" class="btn btn-primary w-100" onclick="checkSelection()" disabled>View Changes</button>
+				<button id="export-matrix-btn" class="btn btn-success w-100" onclick="startExportMatrix()" disabled>Export as Matrix</button>
 			</div>
 		</div>
 	</div>

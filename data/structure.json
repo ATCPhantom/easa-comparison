@@ -1,39 +1,50 @@
 {
-  "adr": [
-    "December 2024.json",
-    "June 2023.json"
-  ],
-  "airops": [
-    "February 2025.json",
-    "June 2023.json",
-    "November 2022.json",
-    "September 2023.json"
-  ],
-  "atco": [
-    "June 2024.json"
-  ],
-  "atm": [
-    "February 2023.json",
-    "March 2025.json",
-    "November 2022.json"
-  ],
-  "atm-eq": [
-    "November 2024.json"
-  ],
-  "basic regulation": [
-    "January 2023.json"
-  ],
-  "occurrence reporting": [
-    "December 2022.json"
-  ],
-  "part-is": [
-    "June 2024.json"
-  ],
-  "sera": [
-    "December 2024.json",
-    "February 2023.json"
-  ],
-  "third country operators": [
-    "April 2023.json"
-  ]
+  "Aerodrome": {
+    "adr": [
+      "December 2024.json",
+      "June 2023.json"
+    ]
+  },
+  "Air Operations": {
+    "airops": [
+      "February 2025.json",
+      "June 2023.json",
+      "November 2022.json",
+      "September 2023.json"
+    ]
+  },
+  "Air Traffic Management": {
+    "atco": [
+      "June 2024.json"
+    ],
+    "atm": [
+      "February 2023.json",
+      "March 2025.json",
+      "November 2022.json"
+    ],
+    "atm-eq": [
+      "November 2024.json"
+    ],
+    "sera": [
+      "December 2024.json",
+      "February 2023.json"
+    ]
+  },
+  "Aircraft and Products": {},
+  "Aircrew and Medical": {},
+  "Drones and Air Mobility": {},
+  "General Regulations": {
+    "basic regulation": [
+      "January 2023.json"
+    ],
+    "occurrence reporting": [
+      "December 2022.json"
+    ],
+    "part-is": [
+      "June 2024.json"
+    ],
+    "third country operators": [
+      "April 2023.json"
+    ]
+  }
 }
