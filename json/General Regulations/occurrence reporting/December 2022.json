@@ -6,7 +6,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -30,7 +30,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -100,7 +100,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -419,7 +419,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -1412,7 +1412,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -1430,7 +1432,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -1887,7 +1891,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -1952,7 +1958,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2136,7 +2144,9 @@
     "applicabilityDate": "11 September, 2018",
     "entryIntoForceDate": "11 September, 2018",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2232,7 +2242,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2561,7 +2573,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2737,7 +2751,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2894,7 +2910,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3054,7 +3072,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3104,7 +3124,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3208,7 +3230,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3286,7 +3310,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3445,7 +3471,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3486,7 +3514,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3730,7 +3760,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3794,7 +3826,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3890,7 +3924,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4093,7 +4129,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4147,7 +4185,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4205,7 +4245,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4239,7 +4281,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4273,7 +4317,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4297,7 +4343,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May. 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4327,7 +4375,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4351,7 +4401,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4445,7 +4497,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4973,7 +5028,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5111,7 +5169,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "14 May, 2014",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Regulation (EU) No 376/2014"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5270,7 +5331,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5288,7 +5351,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5368,7 +5433,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5392,7 +5459,9 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5452,7 +5521,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6189,7 +6261,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6412,7 +6487,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6732,7 +6810,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7247,7 +7328,10 @@
     "applicabilityDate": "15 November, 2015",
     "entryIntoForceDate": "20 July, 2015",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEXES",
+      "Commission Implementing Regulation (EU) 2015/1018"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7939,7 +8023,9 @@
     "applicabilityDate": "1 January, 2021",
     "entryIntoForceDate": "31 December, 2020",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Delegated Regulation (EU) 2020/2034"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7957,7 +8043,9 @@
     "applicabilityDate": "1 January, 2021",
     "entryIntoForceDate": "31 December, 2020",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Delegated Regulation (EU) 2020/2034"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8038,7 +8126,9 @@
     "applicabilityDate": "1 January, 2021",
     "entryIntoForceDate": "31 December, 2020",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Delegated Regulation (EU) 2020/2034"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8062,7 +8152,9 @@
     "applicabilityDate": "1 January, 2021",
     "entryIntoForceDate": "31 December, 2020",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Delegated Regulation (EU) 2020/2034"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8134,7 +8226,9 @@
     "applicabilityDate": "1 January, 2021",
     "entryIntoForceDate": "31 December, 2020",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Delegated Regulation (EU) 2020/2034"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8192,7 +8286,9 @@
     "applicabilityDate": "1 January, 2021",
     "entryIntoForceDate": "31 December, 2020",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Commission Delegated Regulation (EU) 2020/2034"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8259,7 +8355,10 @@
     "applicabilityDate": "1 January, 2021",
     "entryIntoForceDate": "31 December, 2020",
     "type": "DR (Delegated rule);",
-    "subject": "",
+    "sections": [
+      "ANNEX",
+      "Commission Delegated Regulation (EU) 2020/2034"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12550,7 +12649,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12568,7 +12667,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12689,7 +12788,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12713,7 +12812,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12799,7 +12898,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12833,7 +12932,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12867,7 +12966,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12901,7 +13000,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12925,7 +13024,7 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -12970,7 +13069,9 @@
     "applicabilityDate": "1 January, 2023",
     "entryIntoForceDate": "1 January, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "",
+    "sections": [
+      "ANNEX"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13397,7 +13498,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -13422,7 +13523,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13507,7 +13610,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13562,7 +13667,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13605,7 +13712,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13654,7 +13763,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13741,7 +13852,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13880,7 +13993,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13963,7 +14078,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 1 — INTRODUCTION"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -14044,7 +14161,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -14075,7 +14194,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -14658,7 +14779,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15337,7 +15460,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15424,7 +15549,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15498,7 +15625,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15557,7 +15686,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15654,7 +15785,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15752,7 +15885,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15801,7 +15936,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15838,7 +15975,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15895,7 +16034,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16018,7 +16159,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16508,7 +16651,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 2 — AVIATION PROFESSIONALS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16539,7 +16684,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16582,7 +16729,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16645,7 +16794,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16780,7 +16931,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16847,7 +17000,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16888,7 +17043,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16973,7 +17130,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17255,7 +17414,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17342,7 +17503,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17439,7 +17602,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17521,7 +17686,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17558,7 +17725,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17687,7 +17856,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17766,7 +17937,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17849,7 +18022,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17938,7 +18113,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18191,7 +18368,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 3 — ORGANISATIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18222,7 +18401,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18253,7 +18434,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18312,7 +18495,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18465,7 +18650,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18550,7 +18737,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18693,7 +18882,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18776,7 +18967,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19065,7 +19258,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19136,7 +19331,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 4 — COMPETENT AUTHORITIES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19254,7 +19451,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19291,7 +19490,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19332,7 +19533,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19451,7 +19654,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19498,7 +19703,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19533,7 +19740,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19574,7 +19783,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19605,7 +19816,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19652,7 +19865,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19903,7 +20118,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 5 — PRIVATE PILOTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19928,7 +20145,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",

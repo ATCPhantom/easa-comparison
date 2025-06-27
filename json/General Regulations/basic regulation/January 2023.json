@@ -6,7 +6,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -31,7 +31,7 @@
     "applicabilityDate": "25 July, 2021",
     "entryIntoForceDate": "25 July, 2021",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -148,7 +148,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -1454,7 +1454,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -1479,7 +1479,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -2269,7 +2269,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER I – PRINCIPLES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2463,7 +2465,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER I – PRINCIPLES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2956,7 +2960,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER I – PRINCIPLES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3252,7 +3258,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER I – PRINCIPLES"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3406,7 +3414,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER II – AVIATION SAFETY MANAGEMENT"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3447,7 +3457,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER II – AVIATION SAFETY MANAGEMENT"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3489,7 +3501,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER II – AVIATION SAFETY MANAGEMENT"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3531,7 +3545,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER II – AVIATION SAFETY MANAGEMENT"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3565,7 +3581,10 @@
     "applicabilityDate": "25 July, 2021",
     "entryIntoForceDate": "25 July, 2021",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3613,7 +3632,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3647,7 +3669,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3695,7 +3720,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3737,7 +3765,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3773,7 +3804,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3814,7 +3848,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3902,7 +3939,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3951,7 +3991,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4056,7 +4099,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4136,7 +4182,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Airworthiness and environmental protection",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4341,7 +4390,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4365,7 +4417,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4438,7 +4493,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4504,7 +4562,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4646,7 +4707,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4712,7 +4776,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4770,7 +4837,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4835,7 +4905,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4900,7 +4973,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Aircrew",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4934,7 +5010,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Air operations",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4958,7 +5037,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Air operations",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5096,7 +5178,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Air operations",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5193,7 +5278,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Air operations",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5243,7 +5331,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Aerodromes",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5267,7 +5358,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Aerodromes",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5365,7 +5459,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Aerodromes",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5431,7 +5528,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Aerodromes",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5536,7 +5636,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Aerodromes",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5577,7 +5680,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Aerodromes",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5619,7 +5725,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Aerodromes",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5693,7 +5802,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5727,7 +5839,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5854,7 +5969,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5920,7 +6038,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6017,7 +6138,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6082,7 +6206,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6130,7 +6257,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6154,7 +6284,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION V – ATM/ANS",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6236,7 +6369,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VI – Air traffic controllers",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6260,7 +6396,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VI – Air traffic controllers",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6318,7 +6457,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VI – Air traffic controllers",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6391,7 +6533,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VI – Air traffic controllers",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6441,7 +6586,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VI – Air traffic controllers",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6491,7 +6639,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VI – Air traffic controllers",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6548,7 +6699,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VI – Air traffic controllers",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6572,7 +6726,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VII – Unmanned aircraft",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6596,7 +6753,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VII – Unmanned aircraft",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6678,7 +6838,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VII – Unmanned aircraft",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6756,7 +6919,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VII – Unmanned aircraft",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6830,7 +6996,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VIII – Aircraft used by a third-country operator into, within or out of the Union",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6882,7 +7051,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VIII – Aircraft used by a third-country operator into, within or out of the Union",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6952,7 +7124,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION VIII – Aircraft used by a third-country operator into, within or out of the Union",
+      "CHAPTER III – SUBSTANTIVE REQUIREMENTS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7090,7 +7265,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7513,7 +7690,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7631,7 +7810,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7762,7 +7943,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7856,7 +8039,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7959,7 +8144,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8023,7 +8210,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8089,7 +8278,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8168,7 +8359,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8270,7 +8463,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8372,7 +8567,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8477,7 +8674,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8557,7 +8756,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER IV – JOINT CERTIFICATION, OVERSIGHT AND ENFORCEMENT SYSTEM"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8899,7 +9100,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9013,7 +9217,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9138,7 +9345,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9260,7 +9470,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9310,7 +9523,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9358,7 +9574,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9448,7 +9667,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9472,7 +9694,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9514,7 +9739,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9610,7 +9838,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9723,7 +9954,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9880,7 +10114,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9945,7 +10182,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10016,7 +10256,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10081,7 +10324,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10123,7 +10369,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10219,7 +10468,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10253,7 +10505,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10287,7 +10542,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION I – Tasks",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10335,7 +10593,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10393,7 +10654,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10427,7 +10691,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10451,7 +10718,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10509,7 +10779,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10766,7 +11039,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10824,7 +11100,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10858,7 +11137,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10924,7 +11206,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10974,7 +11259,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11070,7 +11358,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11296,7 +11587,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11330,7 +11624,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11396,7 +11693,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11446,7 +11746,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11488,7 +11791,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11512,7 +11818,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11536,7 +11845,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11570,7 +11882,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11604,7 +11919,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11628,7 +11946,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION II – Internal structure",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11677,7 +11998,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Working methods",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11743,7 +12067,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Working methods",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11816,7 +12143,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Working methods",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11873,7 +12203,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Working methods",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11907,7 +12240,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION III – Working methods",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11973,7 +12309,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Financial requirements",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12149,7 +12488,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Financial requirements",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12247,7 +12589,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Financial requirements",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12305,7 +12650,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Financial requirements",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12329,7 +12677,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Financial requirements",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12371,7 +12722,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Financial requirements",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12395,7 +12749,10 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION IV – Financial requirements",
+      "CHAPTER V – THE EUROPEAN UNION AVIATION SAFETY AGENCY"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12476,7 +12833,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12526,7 +12885,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12592,7 +12953,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12622,7 +12985,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12656,7 +13021,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12680,7 +13047,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12714,7 +13083,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12761,7 +13132,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12881,7 +13254,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12965,7 +13340,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13018,7 +13395,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13065,7 +13444,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13112,7 +13493,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13162,7 +13545,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13260,7 +13645,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "CHAPTER VI – FINAL PROVISIONS"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13361,7 +13748,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -13729,7 +14116,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -14189,7 +14576,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -14294,7 +14681,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -15253,7 +15640,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -15992,7 +16379,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -16104,7 +16491,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -16897,7 +17284,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -18069,7 +18456,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -18458,7 +18845,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",

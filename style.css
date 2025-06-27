@@ -74,18 +74,6 @@ body {
 }
 /* End Action Screen Buttons */
 
-/*.regulation-box {
-  padding: 1rem 2rem;
-  background-color: #ffffff;
-  border: 2px solid #dee2e6;
-  border-radius: 1rem;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-  font-weight: 500;
-  min-width: 120px;
-  text-align: center;
-}*/
-
 .regulation-box:hover {
   background-color: #e2e6ea;
   border-color: #adb5bd;
@@ -106,13 +94,13 @@ body {
 }
 
 /* Custom background per tab */
-.tab-0 { background-color: #a8d9ff; }   /* Aerodrome - slightly stronger blue */
-.tab-1 { background-color: #ffd99c; }   /* Air Ops - slightly stronger orange */
-.tab-2 { background-color: #9ff0cc; }   /* ATM - slightly stronger green */
-.tab-3 { background-color: #c9a9ff; }   /* Aircraft - slightly stronger purple */
-.tab-4 { background-color: #ffabc7; }   /* Aircrew - slightly stronger pink */
-.tab-5 { background-color: #a6e3ff; }   /* Drones - slightly stronger cyan */
-.tab-6 { background-color: #fff09e; }   /* General - slightly stronger yellow */
+.tab-0 { background-color: #a8d9ff; }   /* Aerodrome - blue */
+.tab-1 { background-color: #ffd99c; }   /* Air Ops - orange */
+.tab-2 { background-color: #9ff0cc; }   /* ATM - green */
+.tab-3 { background-color: #c9a9ff; }   /* Aircraft - purple */
+.tab-4 { background-color: #ffabc7; }   /* Aircrew - pink */
+.tab-5 { background-color: #a6e3ff; }   /* Drones - cyan */
+.tab-6 { background-color: #fff09e; }   /* General - yellow */
 
 /* Hover and active effect */
 .nav-tabs .nav-link:hover {
@@ -250,7 +238,6 @@ body {
 .added-source {
   background-color: #ead9f2;
   border-left: 4px solid #a272cb;
-  /*margin-left: 1rem;*/
 }
 
 .added-source-table {
@@ -258,15 +245,18 @@ body {
 }
 
 .subject-header {
-  font-size: 18px;
-  font-weight: 520;
+  cursor: pointer;
+  padding: 8px 12px;
   background-color: #9299a0;
   border: 1px solid #dee2e6;
-  border-radius: 0.5rem;
-  padding: 8px 12px;
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
-  cursor: pointer;
+  border-radius: 0.375rem;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.subject-header span.arrow {
+  font-size: 2rem;
+  color: #333;
 }
 
 .subject-topic-list.d-none {
@@ -351,4 +341,9 @@ table.table td {
   background-color: #16cc7f !important;
   color: white !important;
   border-color: #16cc7f !important;
+}
+
+.form-check-input {
+  border: 1px solid #333 !important;  /* Darker border */
+  box-shadow: none;                   /* Remove default glow */
 }

@@ -6,7 +6,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -115,7 +115,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -140,7 +140,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "Easy access rules;",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -303,7 +303,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -382,7 +382,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -953,7 +953,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -3729,7 +3729,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -3761,7 +3761,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -3933,7 +3933,7 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -3999,7 +3999,7 @@
     "applicabilityDate": "1 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -5767,7 +5767,7 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -5821,7 +5821,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -5852,7 +5852,7 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -5990,7 +5990,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6031,7 +6031,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6062,7 +6062,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6093,7 +6093,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6134,7 +6134,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6165,7 +6165,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6196,7 +6196,7 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6244,7 +6244,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6275,7 +6275,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6306,7 +6306,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6337,7 +6337,7 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6368,7 +6368,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6399,7 +6399,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6430,7 +6430,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6471,7 +6471,7 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6518,7 +6518,7 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6617,7 +6617,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6648,7 +6648,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6679,7 +6679,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6710,7 +6710,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6741,7 +6741,7 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6772,7 +6772,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6803,7 +6803,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6844,7 +6844,7 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -6891,7 +6891,7 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7004,7 +7004,7 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7068,7 +7068,7 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7099,7 +7099,7 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "23 April, 2020",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7133,7 +7133,7 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;Supplement to the Annex 'ICAO differences';",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7190,7 +7190,7 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7283,7 +7283,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7324,7 +7324,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7365,7 +7365,7 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;Annex-Section 5: VMC, VFR, special VFR, IFR;Annex-Section 6: Airspace classification;Annex-Section 8: Air traffic control services;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7432,7 +7432,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7463,7 +7463,7 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7507,7 +7507,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7733,7 +7733,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7788,7 +7788,7 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -7827,7 +7827,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 1: Flight over the high seas;",
+    "sections": [
+      "SECTION 1 Flight over the high seas",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7868,7 +7871,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 2: Applicability and compliance;",
+    "sections": [
+      "SECTION 2 Applicability and compliance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7908,7 +7914,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 2: Applicability and compliance;",
+    "sections": [
+      "SECTION 2 Applicability and compliance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7955,7 +7964,10 @@
     "applicabilityDate": "3 July, 2020",
     "entryIntoForceDate": "3 July, 2020",
     "type": "Easy access rules;",
-    "subject": "",
+    "sections": [
+      "SECTION 2 Applicability and compliance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7992,7 +8004,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 2: Applicability and compliance;",
+    "sections": [
+      "SECTION 2 Applicability and compliance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8030,7 +8045,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 2: Applicability and compliance;",
+    "sections": [
+      "SECTION 2 Applicability and compliance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8113,7 +8131,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 2: Applicability and compliance;",
+    "sections": [
+      "SECTION 2 Applicability and compliance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8144,7 +8165,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 2: Applicability and compliance;",
+    "sections": [
+      "SECTION 2 Applicability and compliance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8175,7 +8199,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8206,7 +8234,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8237,7 +8269,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8275,7 +8311,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8313,7 +8353,11 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8356,7 +8400,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8403,7 +8451,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8450,7 +8502,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8497,7 +8553,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8544,7 +8604,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8591,7 +8655,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8654,7 +8722,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8685,7 +8757,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 1 Protection of persons and property",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8716,7 +8792,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8747,7 +8827,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8785,7 +8869,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8816,7 +8904,11 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "23 April, 2020",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9113,7 +9205,11 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9180,7 +9276,11 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9218,7 +9318,11 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9355,7 +9459,11 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "12 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9500,7 +9608,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9538,7 +9650,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9576,7 +9692,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9614,7 +9734,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9661,7 +9785,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9709,7 +9837,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9772,7 +9904,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9845,7 +9981,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9883,7 +10023,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "CHAPTER 2 Avoidance of collisions",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9921,7 +10065,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "Chapter 3 Signals",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9994,7 +10142,11 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "Chapter 4 Time",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10059,7 +10211,11 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "Chapter 4 Time",
+      "SECTION 3 General rules and collision avoidance",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10097,7 +10253,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10291,7 +10450,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10339,7 +10501,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10370,7 +10535,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10550,7 +10718,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10588,7 +10759,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10626,7 +10800,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10668,7 +10845,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10734,7 +10914,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10856,7 +11039,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10963,7 +11149,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11076,7 +11265,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "SECTION 4 Flight plans",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11114,7 +11306,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11402,7 +11597,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11728,7 +11926,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11814,7 +12015,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans; Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11852,7 +12056,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11922,7 +12129,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12080,7 +12290,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12111,7 +12324,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12142,7 +12358,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12180,7 +12399,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12303,7 +12525,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12366,7 +12591,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12462,7 +12690,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12500,7 +12731,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12531,7 +12765,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12572,7 +12809,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;Annex-Section 4: Flight plans;Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12642,7 +12882,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12680,7 +12923,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 5 Visual meteorological conditions, visual flight rules, special VFR and instrument flight rules",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12718,7 +12964,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12823,7 +13072,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12861,7 +13113,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12933,7 +13188,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -12971,7 +13229,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13051,7 +13312,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13099,7 +13363,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13213,7 +13480,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13256,7 +13526,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13299,7 +13572,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13344,7 +13620,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13382,7 +13661,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13445,7 +13727,10 @@
     "applicabilityDate": "26 January, 2023",
     "entryIntoForceDate": "13 May, 2021",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13525,7 +13810,10 @@
     "applicabilityDate": "26 January, 2023",
     "entryIntoForceDate": "21 December, 2022",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -13621,7 +13909,10 @@
     "applicabilityDate": "26 January, 2023",
     "entryIntoForceDate": "21 December, 2022",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15900,7 +16191,10 @@
     "applicabilityDate": "26 January, 2023",
     "entryIntoForceDate": "21 December, 2022",
     "type": "",
-    "subject": "",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16121,7 +16415,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 6 Airspace classification",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16164,7 +16461,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16235,7 +16535,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16273,7 +16576,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16315,7 +16621,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16395,7 +16704,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to AMC (Guidance material to acceptable means of compliance);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16426,7 +16738,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to AMC (Guidance material to acceptable means of compliance);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16457,7 +16772,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16511,7 +16829,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16542,7 +16863,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16573,7 +16897,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16604,7 +16931,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16645,7 +16975,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 7: Air traffic services;",
+    "sections": [
+      "SECTION 7 Air traffic services",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16683,7 +17016,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16746,7 +17082,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "23 April, 2020",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16915,7 +17254,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16946,7 +17288,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16984,7 +17329,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17025,7 +17373,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17074,7 +17425,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17155,7 +17509,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to AMC (Guidance material to acceptable means of compliance);",
-    "subject": "",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17186,7 +17543,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17217,7 +17577,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17282,7 +17645,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17320,7 +17686,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "23 April, 2020",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17378,7 +17747,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17460,7 +17832,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18203,7 +18578,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 6: Airspace classification;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18256,7 +18634,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18301,7 +18682,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18345,7 +18729,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18388,7 +18775,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18430,7 +18820,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18507,7 +18900,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18550,7 +18946,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18595,7 +18994,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18633,7 +19035,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18664,7 +19069,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18702,7 +19110,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18773,7 +19184,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18811,7 +19225,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18859,7 +19276,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19186,7 +19606,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19241,7 +19664,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19401,7 +19827,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19456,7 +19885,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19494,7 +19926,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19525,7 +19960,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19593,7 +20031,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19641,7 +20082,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19679,7 +20123,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;",
+    "sections": [
+      "SECTION 8 Air traffic control service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19727,7 +20174,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 9: Flight information services;",
+    "sections": [
+      "SECTION 9 Flight information service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19792,7 +20242,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 9: Flight information services;",
+    "sections": [
+      "SECTION 9 Flight information service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19972,7 +20425,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 9 Flight information service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20003,7 +20459,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 9: Flight information services;",
+    "sections": [
+      "SECTION 9 Flight information service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20041,7 +20500,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 9: Flight information services;",
+    "sections": [
+      "SECTION 9 Flight information service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20079,7 +20541,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 9: Flight information services;",
+    "sections": [
+      "SECTION 9 Flight information service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20786,7 +21251,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 10: Alerting service;",
+    "sections": [
+      "SECTION 10 Alerting service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20852,7 +21320,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 10: Alerting service;",
+    "sections": [
+      "SECTION 10 Alerting service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20896,7 +21367,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 10: Alerting service;",
+    "sections": [
+      "SECTION 10 Alerting service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20927,7 +21401,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 10: Alerting service;",
+    "sections": [
+      "SECTION 10 Alerting service",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20968,7 +21445,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21025,7 +21505,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21342,7 +21825,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21426,7 +21912,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21602,7 +22091,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to AMC (Guidance material to acceptable means of compliance);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21633,7 +22125,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21720,7 +22215,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21889,7 +22387,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21937,7 +22438,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22014,7 +22518,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22045,7 +22552,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22253,7 +22763,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22353,7 +22866,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22391,7 +22907,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22528,7 +23047,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22559,7 +23081,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22590,7 +23115,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22621,7 +23149,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22652,7 +23183,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22683,7 +23217,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22714,7 +23251,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22745,7 +23285,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24139,7 +24682,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24571,7 +25117,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24667,7 +25216,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 1: Flight over the high seas;Annex-Section 11: Interference, emergency contingencies and interception;",
+    "sections": [
+      "SECTION 11 Interference, emergency contingencies and interception",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24705,7 +25257,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24754,7 +25309,10 @@
     "applicabilityDate": "11 August, 2020",
     "entryIntoForceDate": "11 August, 2020",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24891,7 +25449,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24922,7 +25483,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24953,7 +25517,10 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24987,7 +25554,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25121,7 +25691,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25159,7 +25732,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25190,7 +25766,10 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;",
+    "sections": [
+      "SECTION 12 Services related to meteorology — Aircraft observations and reports by voice communications",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25228,7 +25807,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25277,7 +25859,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25308,7 +25893,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25339,7 +25927,10 @@
     "applicabilityDate": "12 October, 2012",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25452,7 +26043,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25483,7 +26077,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25538,7 +26135,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "23 April, 2020",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25572,7 +26172,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25645,7 +26248,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25676,7 +26282,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25827,7 +26436,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25912,7 +26524,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26005,7 +26620,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26048,7 +26666,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September. 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26093,7 +26714,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26136,7 +26760,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26178,7 +26805,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26243,7 +26873,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26281,7 +26914,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 13: SSR Transponder;",
+    "sections": [
+      "SECTION 13 SSR Transponder and ADS-B transmitters",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26319,7 +26955,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26350,7 +26989,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -26381,7 +27023,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74013,7 +74658,10 @@
     "applicabilityDate": "1 December, 2022",
     "entryIntoForceDate": "26 November, 2021",
     "type": "GM to AMC (Guidance material to acceptable means of compliance);",
-    "subject": "",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74043,7 +74691,10 @@
     "applicabilityDate": "1 December, 2022",
     "entryIntoForceDate": "26 November, 2021",
     "type": "GM to AMC (Guidance material to acceptable means of compliance);",
-    "subject": "",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74079,7 +74730,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74110,7 +74764,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74141,7 +74798,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74347,7 +75007,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74410,7 +75073,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74459,7 +75125,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74536,7 +75205,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74584,7 +75256,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -74615,7 +75290,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -75588,7 +76266,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -75669,7 +76350,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -75731,7 +76415,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -75762,7 +76449,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -75793,7 +76483,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -75824,7 +76517,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -75980,7 +76676,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -76478,7 +77177,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "13 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -76576,7 +77278,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -76699,7 +77404,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -76822,7 +77530,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -76931,7 +77642,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -77054,7 +77768,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -77157,7 +77874,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -77260,7 +77980,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -77363,7 +78086,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -77466,7 +78192,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -77659,7 +78388,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78047,7 +78779,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78765,7 +79500,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78803,7 +79541,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78841,7 +79582,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78879,7 +79623,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78917,7 +79664,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78955,7 +79705,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -78993,7 +79746,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79031,7 +79787,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79069,7 +79828,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79172,7 +79934,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79214,7 +79979,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79252,7 +80020,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79441,7 +80212,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79530,7 +80304,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79815,7 +80592,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79846,7 +80626,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -79887,7 +80670,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80110,7 +80896,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80262,7 +81051,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80374,7 +81166,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80412,7 +81207,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80477,7 +81275,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80515,7 +81316,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80880,7 +81684,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80922,7 +81729,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -80965,7 +81775,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81028,7 +81841,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81071,7 +81887,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81114,7 +81933,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81157,7 +81979,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81313,7 +82138,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81356,7 +82184,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81399,7 +82230,10 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81464,7 +82298,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81507,7 +82344,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May,2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81580,7 +82420,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81829,7 +82672,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81872,7 +82718,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -81914,7 +82763,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -82309,7 +83161,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -82702,7 +83557,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "23 April, 2020",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83382,7 +84240,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83478,7 +84339,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83516,7 +84380,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83564,7 +84431,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83595,7 +84465,10 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83633,7 +84506,10 @@
     "applicabilityDate": "27 January, 2022",
     "entryIntoForceDate": "3 July, 2020",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83664,7 +84540,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83791,7 +84670,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83834,7 +84716,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83877,7 +84762,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83920,7 +84808,10 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "06 September, 2024",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "SECTION 14 Voice communication procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -83963,7 +84854,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84013,7 +84907,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84055,7 +84952,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84097,7 +84997,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84203,7 +85106,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84237,7 +85143,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84287,7 +85196,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84353,7 +85265,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84387,7 +85302,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84421,7 +85339,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84445,7 +85366,10 @@
     "applicabilityDate": "05 October, 2023",
     "entryIntoForceDate": "05 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 15: Controller-pilot data link communication (CPDLC) procedures;",
+    "sections": [
+      "SECTION 15 Controller-pilot data link communication (CPDLC) procedures",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -84469,7 +85393,9 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -86336,7 +87262,9 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -86408,7 +87336,9 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -86446,7 +87376,9 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -86484,7 +87416,9 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -87102,7 +88036,9 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -87140,7 +88076,9 @@
     "applicabilityDate": "4 December, 2012",
     "entryIntoForceDate": "2 November, 2012",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 5: VMC, VFR, special VFR, IFR;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -89738,7 +90676,9 @@
     "applicabilityDate": "12 October, 2017",
     "entryIntoForceDate": "10 August, 2016",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -90817,7 +91757,9 @@
     "applicabilityDate": "17 July, 2013",
     "entryIntoForceDate": "17 July, 2013",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 6: Airspace classification;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -90855,7 +91797,9 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -93415,7 +94359,9 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -93459,7 +94405,9 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -93503,7 +94451,9 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -93541,7 +94491,9 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -93585,7 +94537,9 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -93629,7 +94583,9 @@
     "applicabilityDate": "14 October, 2016",
     "entryIntoForceDate": "14 October, 2016",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -93725,7 +94681,10 @@
     "applicabilityDate": "01 May, 2024",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 4: Flight plans;",
+    "sections": [
+      "Appendix 6 Completion of a flight plan",
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -96004,7 +96963,9 @@
     "applicabilityDate": "01 May, 2025",
     "entryIntoForceDate": "01 May, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Annex-Section 3: General rules and collision avoidance;Annex-Section 4: Flight plans;Annex-Section 5: VMC, VFR, special VFR, IFR;Annex-Section 6: Airspace classification;Annex-Section 8: Air traffic control services;Annex-Section 12: Services related to meteorology, aircraft observations and reports by voice communications;Annex-Section 14: Voice communications procedures;",
+    "sections": [
+      "ANNEX: Rules of the Air"
+    ],
     "content": [
       {
         "type": "paragraph",

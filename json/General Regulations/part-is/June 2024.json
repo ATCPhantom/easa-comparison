@@ -6,7 +6,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "Disclaimer;",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -30,7 +30,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "List of revisions;",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -197,7 +197,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "Note from the editor;",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -240,7 +240,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "Incorporated amendments;",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -562,7 +562,7 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "Table of contents;",
-    "subject": "",
+    "sections": [],
     "content": [
       {
         "type": "paragraph",
@@ -2883,7 +2883,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -2915,7 +2917,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3100,7 +3104,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3148,7 +3154,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3172,7 +3180,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "5 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3350,7 +3360,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3422,7 +3434,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3851,7 +3865,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "12 June, 2024",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3885,7 +3901,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -3935,7 +3953,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "5 October, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4041,7 +4061,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4065,7 +4087,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4089,7 +4113,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4113,7 +4139,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4137,7 +4165,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4161,7 +4191,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4185,7 +4217,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4209,7 +4243,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4233,7 +4269,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4257,7 +4295,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4293,7 +4333,9 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4338,7 +4380,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4368,7 +4413,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4506,7 +4554,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -4944,7 +4995,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5060,7 +5114,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5124,7 +5181,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5155,7 +5215,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5206,7 +5269,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5230,7 +5296,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5254,7 +5323,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5342,7 +5414,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5430,7 +5505,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5515,7 +5593,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5650,7 +5731,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5686,7 +5770,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5716,7 +5803,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5813,7 +5903,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5849,7 +5942,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5959,7 +6055,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -5990,7 +6089,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6106,7 +6208,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6589,7 +6694,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6629,7 +6737,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6754,7 +6865,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6922,7 +7036,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -6994,7 +7111,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7090,7 +7210,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7156,7 +7279,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7254,7 +7380,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7298,7 +7427,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7370,7 +7502,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7429,7 +7564,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7591,7 +7729,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7633,7 +7774,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7689,7 +7833,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7763,7 +7910,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7811,7 +7961,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7835,7 +7988,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -7980,7 +8136,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8034,7 +8193,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8068,7 +8230,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8492,7 +8657,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8598,7 +8766,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8650,7 +8821,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8736,7 +8910,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8776,7 +8953,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8800,7 +8980,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8824,7 +9007,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8879,7 +9065,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8916,7 +9105,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -8997,7 +9189,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9058,7 +9253,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9095,7 +9293,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9126,7 +9327,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9163,7 +9367,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9290,7 +9497,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9420,7 +9630,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9444,7 +9657,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9492,7 +9708,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9534,7 +9753,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9590,7 +9812,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9646,7 +9871,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9680,7 +9908,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9756,7 +9987,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -9946,7 +10180,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10104,7 +10341,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10526,7 +10766,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10620,7 +10863,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -10706,7 +10952,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -11698,7 +11947,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15036,7 +15288,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.AR;",
+    "sections": [
+      "ANNEX I — INFORMATION SECURITY — AUTHORITY REQUIREMENTS [PART-IS.AR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15406,7 +15661,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15430,7 +15688,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -15599,7 +15860,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16027,7 +16291,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16143,7 +16410,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16207,7 +16477,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16238,7 +16511,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16289,7 +16565,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16313,7 +16592,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16401,7 +16683,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16489,7 +16774,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16599,7 +16887,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16636,7 +16927,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16693,7 +16987,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16829,7 +17126,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16865,7 +17165,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16895,7 +17198,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -16992,7 +17298,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17030,7 +17339,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17140,7 +17452,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17171,7 +17486,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17287,7 +17605,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17956,7 +18277,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -17996,7 +18320,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18121,7 +18448,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18289,7 +18619,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18338,7 +18671,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18387,7 +18723,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18459,7 +18798,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18560,7 +18902,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18626,7 +18971,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18716,7 +19064,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18758,7 +19109,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18789,7 +19143,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18826,7 +19183,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18857,7 +19217,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18907,7 +19270,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -18937,7 +19303,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19035,7 +19404,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19079,7 +19451,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19151,7 +19526,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19210,7 +19588,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19369,7 +19750,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19411,7 +19795,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19467,7 +19854,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19540,7 +19930,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19588,7 +19981,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19646,7 +20042,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19670,7 +20069,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19694,7 +20096,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19790,7 +20195,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19864,7 +20272,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -19918,7 +20329,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20012,7 +20426,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20036,7 +20453,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20066,7 +20486,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20100,7 +20523,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20154,7 +20580,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20188,7 +20617,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20705,7 +21137,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20848,7 +21283,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -20954,7 +21392,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21006,7 +21447,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21036,7 +21480,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21078,7 +21525,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21199,7 +21649,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21239,7 +21692,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21270,7 +21726,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21301,7 +21760,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21332,7 +21794,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21387,7 +21852,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21411,7 +21879,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21435,7 +21906,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21466,7 +21940,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21529,7 +22006,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21572,7 +22052,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21627,7 +22110,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21664,7 +22150,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21745,7 +22234,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21800,7 +22292,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21837,7 +22332,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21868,7 +22366,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -21905,7 +22406,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22032,7 +22536,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22188,7 +22695,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22218,7 +22728,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22266,7 +22779,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22308,7 +22824,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22364,7 +22883,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22420,7 +22942,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22574,7 +23099,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22610,7 +23138,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22683,7 +23214,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22747,7 +23281,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -22789,7 +23326,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -23004,7 +23544,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "22 February, 2023",
     "type": "IR (Implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -23038,7 +23581,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -23114,7 +23660,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -23303,7 +23852,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -23461,7 +24013,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -23857,7 +24412,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to IR (Acceptable means of compliance to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -23951,7 +24509,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -24037,7 +24598,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -25022,7 +25586,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29501,7 +30068,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Part-IS.I.OR;",
+    "sections": [
+      "ANNEX II — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.I.OR]",
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29871,7 +30441,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29888,7 +30460,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29905,7 +30479,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29922,7 +30498,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29939,7 +30517,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29956,7 +30536,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29973,7 +30555,9 @@
     "applicabilityDate": "",
     "entryIntoForceDate": "",
     "type": "",
-    "subject": "",
+    "sections": [
+      "Implementing Regulation (EU) 2023/203"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -29990,7 +30574,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30074,7 +30661,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30106,7 +30696,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30275,7 +30868,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30306,7 +30902,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30330,7 +30929,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30387,7 +30989,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30466,7 +31071,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to IR (Guidance material to implementing rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30895,7 +31503,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -30944,7 +31555,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31001,7 +31615,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31032,7 +31649,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31063,7 +31683,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31100,7 +31723,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Cover regulation;",
+    "sections": [
+      "Cover Regulation to Delegated Regulation (EU) 2022/1645",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31154,7 +31780,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31186,7 +31815,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31363,7 +31995,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31800,7 +32435,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31916,7 +32554,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -31980,7 +32621,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32011,7 +32655,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32062,7 +32709,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32086,7 +32736,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32174,7 +32827,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32262,7 +32918,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32372,7 +33031,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32409,7 +33071,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32445,7 +33110,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32581,7 +33249,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32617,7 +33288,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32647,7 +33321,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32744,7 +33421,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32782,7 +33462,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32892,7 +33575,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -32923,7 +33609,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -33039,7 +33728,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -33519,7 +34211,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -33559,7 +34254,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -33684,7 +34382,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -33852,7 +34553,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -33932,7 +34636,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34033,7 +34740,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34099,7 +34809,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34197,7 +34910,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34239,7 +34955,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34270,7 +34989,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34307,7 +35029,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34338,7 +35063,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34388,7 +35116,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34418,7 +35149,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34524,7 +35258,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34568,7 +35305,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34640,7 +35380,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34699,7 +35442,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34860,7 +35606,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34902,7 +35651,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -34958,7 +35710,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35032,7 +35787,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35080,7 +35838,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35146,7 +35907,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35170,7 +35934,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35194,7 +35961,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35298,7 +36068,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35372,7 +36145,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35426,7 +36202,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35520,7 +36299,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35544,7 +36326,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35574,7 +36359,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35616,7 +36404,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35670,7 +36461,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -35704,7 +36498,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36220,7 +37017,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36326,7 +37126,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36468,7 +37271,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36520,7 +37326,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36550,7 +37359,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36592,7 +37404,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36721,7 +37536,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36761,7 +37579,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36792,7 +37613,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36823,7 +37647,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36854,7 +37681,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36909,7 +37739,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36933,7 +37766,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36957,7 +37793,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -36988,7 +37827,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37051,7 +37893,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37094,7 +37939,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37149,7 +37997,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37186,7 +38037,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37267,7 +38121,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37322,7 +38179,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37359,7 +38219,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37390,7 +38253,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37427,7 +38293,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37554,7 +38423,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37715,7 +38587,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37745,7 +38620,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37793,7 +38671,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37835,7 +38716,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37891,7 +38775,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -37947,7 +38834,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38109,7 +38999,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38145,7 +39038,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38226,7 +39122,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38290,7 +39189,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38332,7 +39234,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38547,7 +39452,10 @@
     "applicabilityDate": "16 October 2025",
     "entryIntoForceDate": "16 October 2022",
     "type": "DR (Delegated rule);",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38589,7 +39497,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38665,7 +39576,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -38855,7 +39769,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -39013,7 +39930,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -39410,7 +40330,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "AMC to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -39504,7 +40427,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -39590,7 +40516,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -40574,7 +41503,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",
@@ -45040,7 +45972,10 @@
     "applicabilityDate": "22 February, 2026",
     "entryIntoForceDate": "14 July, 2023",
     "type": "GM to DR;",
-    "subject": "Part-IS.D.OR;",
+    "sections": [
+      "ANNEX — INFORMATION SECURITY — ORGANISATION REQUIREMENTS [PART-IS.D.OR]",
+      "Delegated Regulation (EU) 2022/1645"
+    ],
     "content": [
       {
         "type": "paragraph",

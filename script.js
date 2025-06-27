@@ -13,7 +13,9 @@ const titleOverrides = {
   "ERULES-1963177438-9865": "Appendix 3 Table of cruising levels",
   "ERULES-1963177438-9866": "Appendix 4 ATS airspace classes — services provided and flight requirements",
   "ERULES-1963177438-9875": "Appendix 5 Technical specifications related to aircraft observations and reports by voice communications",
-  "ERULES-1963177438-9879": "Supplement to the ANNEX"
+  "ERULES-1963177438-9879": "Supplement to the ANNEX",
+  "ERULES-1963177438-10422": "Table of Contents",
+  "ERULES-1963177438-10418": "Commission Implementing Regulation (EU) No 923/2012"
 };
 
 const typeColorMap = {
@@ -26,7 +28,6 @@ const typeColorMap = {
   "GM to CS (Guidance material to certification specification);" : "#16cc7f"
 };
 
-// https://www.base64encode.org/
 const USERS = {
   "YWRtaW4=": "YWRtaW4=",
   "c3Jw": "c3Rva2tlbg==",
@@ -75,10 +76,10 @@ function enterExportMode() {
   document.getElementById("export-matrix-btn").disabled = true;
 }
 
-function showApp() {
+/*function showApp() {
   document.getElementById("login-screen").classList.add("d-none");
   document.getElementById("app").classList.remove("d-none");
-}
+}*/
 
 function resetPage() {
   // Hide all screens
@@ -98,6 +99,8 @@ function resetPage() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+  const exportModalEl = document.getElementById('exportModal');
+
   if (localStorage.getItem("isLoggedIn") === "true") {
     showActionScreen();
   } else {
@@ -113,10 +116,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
   const colorByType = {
-    ALL: "#000000",      // black
-    IR: "#007fc2",       // blue
-    AMC: "#fbbc39",      // orange
-    GM: "#16cc7f"        // green
+    ALL: "#000000",     // black
+    IR: "#007fc2",      // blue
+    AMC: "#fbbc39",     // orange
+    GM: "#16cc7f"       // green
   };
 
   ["all", "ir", "amc", "gm"].forEach(t => {
@@ -132,17 +135,6 @@ document.addEventListener('DOMContentLoaded', () => {
       btn.classList.add(`hover-${t}`);
     }
   });
-});
-
-document.getElementById('exportModal').addEventListener('show.bs.modal', () => {
-  ["ALL", "IR", "AMC", "GM"].forEach(type => {
-    const btn = document.getElementById(`select-${type.toLowerCase()}`);
-    if (btn) btn.textContent = `Select ${type}`;
-  });
-});
-
-document.addEventListener('DOMContentLoaded', () => {
-  const exportModalEl = document.getElementById('exportModal');
 
   if (exportModalEl) {
     exportModalEl.addEventListener('hide.bs.modal', () => {
@@ -157,6 +149,14 @@ document.addEventListener('DOMContentLoaded', () => {
       }, 10); // 10ms delay resolves timing with Bootstrap's aria-hidden
     });
   }
+});
+
+
+document.getElementById('exportModal').addEventListener('show.bs.modal', () => {
+  ["ALL", "IR", "AMC", "GM"].forEach(type => {
+    const btn = document.getElementById(`select-${type.toLowerCase()}`);
+    if (btn) btn.textContent = `Select ${type}`;
+  });
 });
 
 function renderRegulations(structure) {
@@ -190,9 +190,8 @@ function renderRegulations(structure) {
     const button = li.querySelector('button');
     button.addEventListener('shown.bs.tab', () => {
       document.getElementById('version-selection').classList.add('d-none');
-      // Also clear version buttons:
       document.getElementById('version-buttons').innerHTML = '';
-      // Reset currentRegulation & currentCategory if needed
+      // Reset currentRegulation & currentCategory
       currentRegulation = null;
       currentCategory = null;
     });
@@ -210,7 +209,6 @@ function renderRegulations(structure) {
 
       Object.entries(regs).forEach(([key, versions]) => {
         const button = document.createElement('button');
-        //button.className = 'btn btn-outline-primary';
         button.textContent = key.toUpperCase();
         button.onclick = () => selectRegulation(key);
         grid.appendChild(button);
@@ -230,6 +228,9 @@ function renderRegulations(structure) {
 }
 
 function selectRegulation(subfolderKey) {
+  globalNewTopics = [];
+  globalChangedTopics = [];
+  globalRemovedTopics = [];
   selectedVersions = [];
   currentRegulation = subfolderKey;
   currentCategory = null;
@@ -307,7 +308,9 @@ async function displaySingle(){
     }
   }
 
+  globalNewTopics = [];
   globalChangedTopics = changedTopics;
+  globalRemovedTopics = [];
 
   renderResults(false, selectedVersions[0].replace('.json', ''), [], changedTopics, []);
 }
@@ -351,21 +354,16 @@ async function compareVersions() {
 }
 
 async function startExportMatrix() {
-  if (selectedVersions.length !== 1) return;
+  if (currentMode === "export"){
+    if (!selectedVersions.length) return;
 
-  const file = `json/${currentCategory}/${currentRegulation}/${selectedVersions[0]}`;
-  const data = await fetch(file).then(res => res.json());
+    const file = `json/${currentCategory}/${currentRegulation}/${selectedVersions[0]}`;
+    const topics = await fetch(file).then(res => res.json());
 
-  const topics = [];
-  const map = Object.fromEntries(data.map(t => [t.erulesId, t]));
-
-  for (const erulesId in map) {
-    const topic = map[erulesId];
-    topics.push(topic);
+    // In full matrix export, we treat everything as selected
+    globalNewTopics = topics;
   }
-
-  globalNewTopics = topics;
-  exportToExcel(); // shows the modal and preps selections
+  exportToExcel();
 }
 
 function darkenColor(hex, amount = 20) {
@@ -383,7 +381,6 @@ function darkenColor(hex, amount = 20) {
   return '#' + (r << 16 | g << 8 | b).toString(16).padStart(6, '0');
 }
 
-//function renderResults(oldLabel, newLabel, newTopics=[], changedTopics=[], removedTopics=[]) {
 function renderResults(comparison=false, labels, newTopics=[], changedTopics=[], removedTopics=[]) {
   const card = document.querySelector('.selector-card');
   card.classList.add('wide');
@@ -401,12 +398,6 @@ function renderResults(comparison=false, labels, newTopics=[], changedTopics=[],
         <span style="background:#fbbc39; color:white; padding:2px 6px; border-radius:4px;">AMC</span>
         <span style="background:#16cc7f; color:white; padding:2px 6px; border-radius:4px;">GM</span>
         <span style="background:#b3b3cc; color:white; padding:2px 6px; border-radius:4px;">Misc.</span>
-      </div>
-
-      <div class="text-center mb-2">
-        <button id="export-trigger" class="btn btn-success btn-sm" onclick="exportToExcel()" title="Export Compliance Matrix">
-          Export to Excel <i class="bi bi-file-earmark-excel ms-1"></i>
-        </button>
       </div>
 
       <div class="scroll-box mb-4">
@@ -445,7 +436,7 @@ function renderResults(comparison=false, labels, newTopics=[], changedTopics=[],
       </div>
 
       <div class="text-center mb-2">
-        <button id="export-trigger" class="btn btn-success btn-sm" onclick="exportToExcel()" title="Export Compliance Matrix">
+        <button id="export-trigger" class="btn btn-success btn-sm" onclick="startExportMatrix()" title="Export Compliance Matrix">
           Export to Excel <i class="bi bi-file-earmark-excel ms-1"></i>
         </button>
       </div>
@@ -457,54 +448,46 @@ function renderResults(comparison=false, labels, newTopics=[], changedTopics=[],
 function renderTopicGroup(title, items, colorClass) {
   if (!items?.length) return '';
 
-  // Group items by subject
-  const subjectGroups = {};
+  const sectionGroups = {};
+
   items.forEach(item => {
-    let subject = item.subject?.trim() || 'Uncategorized';
-
-    // Use only the first subject if multiple are listed
-    if (subject.includes(';')) {
-      subject = subject.split(';')[0].trim();
+    const sections = item.sections?.length ? item.sections : ['Uncategorized'];
+    const key = JSON.stringify(sections); // preserves order
+    if (!sectionGroups[key]) {
+      sectionGroups[key] = { items: [], sections };
     }
-
-    // Normalize the title for appendix check
-    const title = (titleOverrides[item.erulesId] || item.title || '').trim();
-    const type = item.type?.trim();
-
-    const isAppendixIR =
-      title.startsWith("Appendix") &&
-      type === "IR (Implementing rule);";
-
-    const isAppendixGM =
-      /^GM\d+\s+to\s+Appendix/i.test(title) &&
-      type === "GM to IR (Guidance material to implementing rule);";
-
-    if (isAppendixIR || isAppendixGM) {
-      subject = "Appendix";
-    } else if (subject.startsWith("Annex-")) {
-      subject = subject.substring(6).trim();
-    }
-
-    if (!subjectGroups[subject]) {
-      subjectGroups[subject] = [];
-    }
-
-    subjectGroups[subject].push(item);
+    sectionGroups[key].items.push(item);
   });
 
   let html = `<div class="category-header category-${colorClass}">${title} (${items.length})</div>`;
 
-  Object.entries(subjectGroups).forEach(([subject, groupItems], subjectIdx) => {
-    const subjectId = `subject-${subjectIdx}`;
+  Object.entries(sectionGroups).forEach(([key, group], idx) => {
+    //const sectionId = `section-${idx}`;
+    const sectionId = getSectionId(idx, 'view')
+    const sectionLines = [...group.sections].reverse().map((sec, i) => {
+      // i == 0 → least specific
+      // i == group.sections.length - 1 → most specific
+
+      const isMostSpecific = i === group.sections.length - 1;
+      const fontWeight = isMostSpecific ? 700 : 600;
+      const fontSize = isMostSpecific ? '1.05rem' : '0.9rem';
+      const marginLeft = isMostSpecific ? '0px' : `${(group.sections.length - 1 - i) * 16}px`;
+
+      return `<div style="margin-left: ${marginLeft}; font-weight: ${fontWeight}; font-size: ${fontSize};">${sec}</div>`;
+    }).join('');
+
     html += `
       <div class="subject-group">
-        <div class="subject-header" onclick="toggleSubject('${subjectId}')">
-          <strong>${subject}</strong> <span id="${subjectId}-arrow">▾</span>
+        <div class="subject-header d-flex justify-content-between align-items-center" onclick="toggleSection(event, '${sectionId}')">
+          <div class="flex-grow-1 text-center">
+            ${sectionLines}
+          </div>
+          <span id="${sectionId}-arrow">▾</span>
         </div>
-        <div id="${subjectId}" class="subject-topic-list">
+        <div id="${sectionId}" class="subject-topic-list">
           <div class="subject-line">
             <ul class="list-group mb-3">
-              ${groupItems
+              ${group.items
                 .map((item, idx) => {
                   const erulesId = item.erulesId;
                   const titleText = titleOverrides[erulesId] || item.title || '[Untitled]';
@@ -623,6 +606,7 @@ function renderTable(rows) {
 }
 
 function toggleContent(idx, erulesId) {
+  console.log("toggleContent")
   const contentEl = document.getElementById(`topic-${erulesId}-${idx}`);
   const headerEl = document.getElementById(`topic-header-${erulesId}-${idx}`);
 
@@ -640,61 +624,81 @@ function toggleContent(idx, erulesId) {
   }
 }
 
-function toggleSubject(subjectId) {
-  const container = document.getElementById(subjectId);
-  const arrow = document.getElementById(`${subjectId}-arrow`);
+function toggleSection(event, sectionId) {
+  // Ignore toggle if clicking on checkbox or label inside the header
+  const clickedElement = event.target;
+  if (clickedElement.closest('input[type="checkbox"]') || clickedElement.closest('label')) {
+    return; // Do nothing — let checkbox handle it
+  }
+
+  const container = document.getElementById(sectionId);
+  const arrow = document.getElementById(`${sectionId}-arrow`);
   if (container) {
-    container.classList.toggle('d-none');
+    const isHidden = container.classList.toggle('d-none');
     if (arrow) {
-      arrow.textContent = container.classList.contains('d-none') ? '▸' : '▾';
+      arrow.textContent = isHidden ? '▸' : '▾';
     }
   }
 }
 
-function exportToExcel() {
+function showExportModal(topics) {
+  document.getElementById('exportModalBody').innerHTML = '';
+  const sectionGroups = {};
 
-  const allTopics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
-  const subjectGroups = {};
-
-  for (const topic of allTopics) {
-    let subject = topic.subject?.trim() || 'Uncategorized';
-    if (subject.includes(';')) {
-      subject = subject.split(';')[0].trim();
+  for (const topic of topics) {
+    const sections = topic.sections?.length ? topic.sections : ['Uncategorized'];
+    const key = JSON.stringify(sections);
+    if (!sectionGroups[key]) {
+      sectionGroups[key] = { sections, topics: [] };
     }
-
-    const title = (titleOverrides[topic.erulesId] || topic.title || '').trim();
-    const type = topic.type?.trim();
-    const isAppendixIR = title.startsWith("Appendix") && type === "IR (Implementing rule);";
-    const isAppendixGM = /^GM\d+\s+to\s+Appendix/i.test(title) && type === "GM to IR (Guidance material to implementing rule);";
-
-    if (isAppendixIR || isAppendixGM) subject = "Appendix";
-    else if (subject.startsWith("Annex-")) subject = subject.substring(6).trim();
-
-    if (!subjectGroups[subject]) subjectGroups[subject] = [];
-    subjectGroups[subject].push(topic);
+    sectionGroups[key].topics.push(topic);
   }
 
   let html = '';
 
-  Object.entries(subjectGroups).forEach(([subject, topics], index) => {
-    const subjectId = `subject-${index}`;
+  Object.entries(sectionGroups).forEach(([key, group], groupIndex) => {
+    //const sectionId = `export-section-${groupIndex}`;
+    const sectionId = getSectionId(groupIndex, 'export')
+    const sectionLines = [...group.sections].reverse().map((sec, i, arr) => {
+      const isMostSpecific = i === arr.length - 1;
+      const fontWeight = isMostSpecific ? 700 : 600;
+      const fontSize = isMostSpecific ? '1.05rem' : '0.9rem';
+
+      if (isMostSpecific) {
+        return `
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="${sectionId}-check" onclick="toggleSectionCheckbox('${sectionId}')">
+            <label class="form-check-label fw-bold" for="${sectionId}-check" style="font-weight: ${fontWeight}; font-size: ${fontSize};">
+              ${sec}
+            </label>
+          </div>
+        `;
+      } else {
+        return `<div style="font-weight: ${fontWeight}; font-size: ${fontSize};">${sec}</div>`;
+      }
+    }).join('');
+
     html += `
       <div class="mb-3">
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" id="${subjectId}-check" onclick="toggleSubjectCheckbox('${subjectId}')">
-          <label class="form-check-label fw-bold" for="${subjectId}-check">${subject}</label>
-        </div>
-        <div id="${subjectId}-topics" class="ms-3">
-          ${topics.map((t, i) => {
-            const id = `${subjectId}-topic-${i}`;
-            const title = titleOverrides[t.erulesId] || t.title || '[Untitled]';
-            return `
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="${id}" data-erulesid="${t.erulesId}">
-                <label class="form-check-label" for="${id}">${title}</label>
-              </div>
-            `;
-          }).join('')}
+        <div class="export-section-group">
+          <div class="subject-header d-flex justify-content-between align-items-center" onclick="toggleSection(event, '${sectionId}')">
+            <div>
+              ${sectionLines}
+            </div>
+            <span id="${sectionId}-arrow">▾</span>
+          </div>
+          <div id="${sectionId}" class="ms-3">
+            ${group.topics.map((t, i) => {
+              const id = `${sectionId}-topic-${i}`;
+              const title = titleOverrides[t.erulesId] || t.title || '[Untitled]';
+              return `
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" style="border: 2px solid #333;" id="${id}" data-erulesid="${t.erulesId}">
+                  <label class="form-check-label" for="${id}">${title}</label>
+                </div>
+              `;
+            }).join('')}
+          </div>
         </div>
       </div>
     `;
@@ -702,15 +706,24 @@ function exportToExcel() {
 
   document.getElementById('exportModalBody').innerHTML = html;
 
-  // Show modal
   const modal = new bootstrap.Modal(document.getElementById('exportModal'));
   modal.show();
 }
 
-function toggleSubjectCheckbox(subjectId) {
-  const groupChecked = document.getElementById(`${subjectId}-check`).checked;
-  const checkboxes = document.querySelectorAll(`#${subjectId}-topics input[type="checkbox"]`);
+function exportToExcel() {
+  const topics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
+  showExportModal(topics);
+}
+
+function toggleSectionCheckbox(sectionId) {
+  const groupChecked = document.getElementById(`${sectionId}-check`)?.checked;
+  //const checkboxes = document.querySelectorAll(`#${sectionId}-topics input[type="checkbox"]`);
+  const checkboxes = document.querySelectorAll(`#${sectionId} input[type="checkbox"]`)
   checkboxes.forEach(cb => cb.checked = groupChecked);
+}
+
+function getSectionId(index, mode = 'view') {
+  return mode === 'export' ? `export-section-${index}` : `section-${index}`;
 }
 
 function handleExportSelection(button) {
@@ -756,6 +769,11 @@ async function exportExcelJS() {
   const allTopics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
   const selectedTopics = allTopics.filter(t => selectedIds.includes(t.erulesId));
 
+  if (!selectedTopics.length) {
+    alert("Please select at least one topic to export.");
+    return;
+  }
+
   const workbook = new ExcelJS.Workbook();
   const sheet = workbook.addWorksheet("Compliance Matrix");
 
@@ -789,57 +807,48 @@ async function exportExcelJS() {
     cell.alignment = { horizontal: 'center', vertical: 'middle' };
   });
 
-  // Group topics by subject (with Appendices override)
-  const subjectGroups = {};
-
+  // Group by full sections array
+  const sectionGroups = {};
   for (const topic of selectedTopics) {
-    let subject = topic.subject?.split(';')[0]?.trim() || 'Uncategorized';
-    const title = (titleOverrides[topic.erulesId] || topic.title || '').trim();
-    const type = topic.type?.trim();
-
-    const isAppendixIR = title.startsWith("Appendix") && type === "IR (Implementing rule);";
-    const isAppendixGM = /^GM\d+\s+to\s+Appendix/i.test(title) && type === "GM to IR (Guidance material to implementing rule);";
-
-    if (isAppendixIR || isAppendixGM) {
-      subject = "Appendices";
-    } else if (subject.startsWith("Annex-")) {
-      subject = subject.substring(6).trim();
+    const key = JSON.stringify(topic.sections || ['Uncategorized']);
+    if (!sectionGroups[key]) {
+      sectionGroups[key] = {
+        sections: topic.sections || ['Uncategorized'],
+        topics: []
+      };
     }
-
-    if (!subjectGroups[subject]) subjectGroups[subject] = [];
-    subjectGroups[subject].push(topic);
+    sectionGroups[key].topics.push(topic);
   }
 
-  // Ensure "Appendices" is last
-  const sortedSubjects = Object.keys(subjectGroups).filter(s => s !== 'Appendices');
-  if (subjectGroups['Appendices']) sortedSubjects.push('Appendices');
+  const sortedGroups = Object.entries(sectionGroups);
 
-  let currentSubject = '';
   let rowIndex = 2;
 
-  for (const subject of sortedSubjects) {
-    const topics = subjectGroups[subject];
+  for (const [key, group]  of sortedGroups) {
+    // Combine all sections into one line
+    const combinedSections = group.sections.slice().reverse().join('  |  ');
 
-    for (const topic of topics) {
-    const title = titleOverrides[topic.erulesId] || topic.title || '[Untitled]';
-    const contentLines = flattenContent(topic.content || []);
+    // Merge and style section header row
+    sheet.mergeCells(`A${rowIndex}:N${rowIndex}`);
+    const sectionCell = sheet.getCell(`A${rowIndex}`);
+    sectionCell.value = `Section: ${combinedSections}`;
+    sectionCell.font = { bold: true, size: 12 };
+    sectionCell.fill = {
+      type: 'pattern',
+      pattern: 'solid',
+      fgColor: { argb: 'D9D9D9' }
+    };
+    sectionCell.border = { 
+      top: { style: 'thin', color: { argb: 'FF000000' } }, 
+      bottom: { style: 'thick', color: { argb: 'FF000000' } }
+    };
+    sectionCell.alignment = { vertical: 'middle', horizontal: 'center', wrapText: true };
+    sheet.getRow(rowIndex).height = 32;
+    rowIndex++;
 
-    // Add subject row if changed
-    if (subject !== currentSubject) {
-      sheet.mergeCells(`A${rowIndex}:N${rowIndex}`);
-      const subjectCell = sheet.getCell(`A${rowIndex}`);
-      subjectCell.value = `Subject: ${subject}`;
-      subjectCell.font = { bold: true, size: 14 };
-      subjectCell.fill = {
-        type: 'pattern',
-        pattern: 'solid',
-        fgColor: { argb: 'D9D9D9' }
-      };
-      subjectCell.border = { bottom: { style: 'thick' } };
-      subjectCell.alignment = { vertical: 'middle', horizontal: 'center' };
-      currentSubject = subject;
-      rowIndex++;
-    }
+    for (const topic of group.topics) {
+      const title = titleOverrides[topic.erulesId] || topic.title || '[Untitled]';
+      const contentLines = flattenContent(topic.content || []);
 
       // Merge topic title
       sheet.mergeCells(`A${rowIndex}:N${rowIndex}`);
@@ -852,11 +861,7 @@ async function exportExcelJS() {
       const color = typeColorMap[topicType];
 
       if (color) {
-        topicCell.fill = {
-          type: 'pattern',
-          pattern: 'solid',
-          fgColor: { argb: color.replace('#', '') }
-        };
+        topicCell.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: color.replace('#', '') }};
         topicCell.font = { bold: true, size: 12, color: { argb: 'FFFFFFFF' } }; // white text
       } else {
         topicCell.font = { bold: true, size: 12 };
@@ -1201,3 +1206,5 @@ function parseVersionDate(versionName) {
   const y = parseInt(year);
   return new Date(y, m - 1);
 }
+
+// https://www.base64encode.org/
