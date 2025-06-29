@@ -1,0 +1,5015 @@
+[
+  {
+    "sdtId": "1178783637",
+    "erulesId": "ERULES-1963177438-4643",
+    "title": "Disclaimer",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Disclaimer",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This version is issued by the European Aviation Safety Agency (EASA) in order to provide its stakeholders with an updated and easy-to-read publication. It has been prepared by putting together the certification specifications with the related acceptable means of compliance. However, this is not an official publication and EASA accepts no liability for damage of any kind resulting from the risks inherent in the use of this document."
+      }
+    ]
+  },
+  {
+    "sdtId": "214061135",
+    "erulesId": "ERULES-1963177438-4646",
+    "title": "Note from the editor",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Note from the editor",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The content of this document is arranged as follows: the certification specifications (CS) are followed by the related acceptable means of compliance (AMC) paragraph(s).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "All elem ents (i.e. CS and AMC ) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Certification specification ED decision Acceptable means of compliance ED d ecision"
+                }
+              ],
+              "width": "9052"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "pStyle": "Normal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "626294352",
+    "erulesId": "ERULES-1963177438-4647",
+    "title": "Incorporated amendments",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "I ncorporated a mendments",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "CS/AMC ( ED decisions )",
+        "pStyle": "NoTocHeading2"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Incorporated ED Decision"
+                }
+              ],
+              "width": "3161"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS/AMC Issue No, Amendment No"
+                }
+              ],
+              "width": "2791"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Applicability date"
+                }
+              ],
+              "width": "3162"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "ED Decision 2013/011/R"
+                }
+              ],
+              "width": "3161"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS-31 T GB/ Initial i ssue"
+                }
+              ],
+              "width": "2791"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1/7/2013"
+                }
+              ],
+              "width": "3162"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "pRStyle": "Italic"
+      }
+    ]
+  },
+  {
+    "sdtId": "1644955360",
+    "erulesId": "ERULES-1963177438-4242",
+    "title": "",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Disclaimer 3",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Note from the editor 4",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Certification specification 5",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Acceptable means of compliance 5",
+        "pStyle": "TOC5"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "I ncorporated a mendments 6",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "SUBPART A — GENERAL 9",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "CS 31TGB.1 Applicability 10",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "CS 31TGB.2 Definitions 11",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "AMC1 31TGB.2 Definitions 11",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "SUBPART B — FLIGHT 13",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "CS 31TGB.12 Proof of compliance 14",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "CS 31TGB.14 Mass limits 15",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "AMC1 31TGB.14 Mass limits 15",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "CS 31TGB.20 Controllability 16",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "AMC1 31TGB.20(b) Controllability 16",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "SUBPART C — STRUCTURE 17",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "CS 31TGB.21 Loads 18",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "CS 31TGB.22 In-Service load cases 19",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "AMC1 31TGB.22 In-Service load cases 19",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "CS 31TGB.23 Load factors 20",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": -1,
+        "text": "AMC1 31TGB.23(b) Ascent load factors 20",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": -1,
+        "text": "AMC1 31TGB.23(c) Gust load factor 20",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": -1,
+        "text": "CS 31TGB.25 Factors of safety 21",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 24,
+        "level": -1,
+        "text": "AMC1 31TGB.25(b) Factors of safety 21",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 25,
+        "level": -1,
+        "text": "CS 31TGB.27 Strength and proof of strength 22",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 26,
+        "level": -1,
+        "text": "AMC1 31TGB.27(c) Strength and proof of strength 22",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 27,
+        "level": -1,
+        "text": "AMC1 31TGB.27(e) Strength and proof of strength 22",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 28,
+        "level": -1,
+        "text": "SUBPART D — DESIGN AND CONSTRUCTION 23",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 29,
+        "level": -1,
+        "text": "CS 31TGB.31 General 24",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 30,
+        "level": -1,
+        "text": "CS 31TGB.33 Materials 25",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 31,
+        "level": -1,
+        "text": "AMC1 31TGB.33(b) Materials 25",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 32,
+        "level": -1,
+        "text": "CS 31TGB.35 Fabrication methods 26",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 33,
+        "level": -1,
+        "text": "AMC1 31TGB.35 Fabrication methods 26",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 34,
+        "level": -1,
+        "text": "CS 31TGB.36 Stress concentrations 27",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 35,
+        "level": -1,
+        "text": "CS 31TGB.37 Fasteners 28",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 36,
+        "level": -1,
+        "text": "AMC1 31TGB.37(a) Fasteners 28",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 37,
+        "level": -1,
+        "text": "CS 31TGB.39 Protection of parts 29",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 38,
+        "level": -1,
+        "text": "AMC1 31TGB.39 Protection of parts 29",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 39,
+        "level": -1,
+        "text": "CS 31TGB.41 Inspection provisions 30",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 40,
+        "level": -1,
+        "text": "CS 31TGB.43 Balloon system controls 31",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 41,
+        "level": -1,
+        "text": "CS 31TGB.45 Protect ion of envelope against tearing 32",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 42,
+        "level": -1,
+        "text": "AMC1 31TGB.45 Protection of envelope against tearing 32",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 43,
+        "level": -1,
+        "text": "CS 31TGB.47 Precautions against loss of lifting gas 34",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 44,
+        "level": -1,
+        "text": "CS 31TGB.49 Limiting the operating pressure 35",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 45,
+        "level": -1,
+        "text": "AMC1 31TGB.49 Limiting of operating pressure 35",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 46,
+        "level": -1,
+        "text": "CS 31TGB.51 Rapid deflation means 36",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 47,
+        "level": -1,
+        "text": "AMC1 31TGB.51 Rapid deflation means 36",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 48,
+        "level": -1,
+        "text": "CS 31TGB.53 Tether system 37",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 49,
+        "level": -1,
+        "text": "AMC1 31TGB.53(a) Tether system 37",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 50,
+        "level": -1,
+        "text": "AMC1 31TGB.53(c) Tether system 37",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 51,
+        "level": -1,
+        "text": "CS 31TGB.59 Gondola 38",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 52,
+        "level": -1,
+        "text": "AMC1 31TGB.59 Gondola 38",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 53,
+        "level": -1,
+        "text": "AMC1 31TGB.59(c) Gondola 38",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 54,
+        "level": -1,
+        "text": "AMC1 31TGB.59(d) Gondola 38",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 55,
+        "level": -1,
+        "text": "CS 31TGB.65 Night lighting 39",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 56,
+        "level": -1,
+        "text": "AMC1 31TGB.65(a) Night lighting 39",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 57,
+        "level": -1,
+        "text": "AMC1 31TGB.65(b) Night lighting 39",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 58,
+        "level": -1,
+        "text": "AMC1 31TGB.65(c) Night lighting 40",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 59,
+        "level": -1,
+        "text": "CS 31TGB.67 On-board power units 41",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 60,
+        "level": -1,
+        "text": "AMC1 31TGB.67 On-board power units 41",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 61,
+        "level": -1,
+        "text": "CS 31TGB.68 Master switch arrangement 44",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 62,
+        "level": -1,
+        "text": "CS 31TGB.69 Electric cables and equipment 45",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 63,
+        "level": -1,
+        "text": "AMC1 31TGB.69(c) Electric cables and equipment 45",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 64,
+        "level": -1,
+        "text": "(SUBPART E — NOT APPLICABLE) 46",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 65,
+        "level": -1,
+        "text": "SUBPART F — SYSTEMS AND EQUIPMENT 47",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 66,
+        "level": -1,
+        "text": "CS 31TGB.71 Function and installation 48",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 67,
+        "level": -1,
+        "text": "AMC1 31TGB.71(c) Function and installation 48",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 68,
+        "level": -1,
+        "text": "AMC1 31TGB.71(d) Function and installation 48",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 69,
+        "level": -1,
+        "text": "CS 31TGB.73 Instrument marking 49",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 70,
+        "level": -1,
+        "text": "CS 31TGB.75 Warning, caution, and advisory lights 50",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 71,
+        "level": -1,
+        "text": "SUBPART G — OPERATING LIMITS AND DETAILS 51",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 72,
+        "level": -1,
+        "text": "CS 31TGB.81 Flight manual 52",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 73,
+        "level": -1,
+        "text": "AMC1 31TGB.81(b)(5) Flight Manual 52",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 74,
+        "level": -1,
+        "text": "CS 31TGB.82 Instructions for continued airworthiness 53",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 75,
+        "level": -1,
+        "text": "AMC1 31TGB.82 Instructions for continued airworthiness 53",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 76,
+        "level": -1,
+        "text": "CS 31TGB.83 Crew training and training information 55",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 77,
+        "level": -1,
+        "text": "AMC1 31TGB.83 Crew training and training information 55",
+        "pStyle": "TOC3"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1218876506",
+    "erulesId": "ERULES-1963177438-4243",
+    "title": "CS 31TGB.1 Applicability",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.1 Applicability",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "These Certification Specifications (CSs) are applicable to non-free flying manned tethered gas balloons that operate up to a maximum altitude of 500 m above the surface, and that derive their lift from non-flammable gas being lighter than air."
+      }
+    ]
+  },
+  {
+    "sdtId": "321938147",
+    "erulesId": "ERULES-1963177438-4254",
+    "title": "CS 31TGB.2 Definitions",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.2 Definitions",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Definition of terms and principles used:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "A tethered gas balloon consists of a balloon system (envelope, suspension system and gondola) and a tether system that continuously anchors it during operation.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The tether system (winch, pulley, cable and swivel point) includes all components affected by forces resulting from tethering up to and including interface parts with the foundation or counterweight.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The mooring system includes all components affected by forces resulting from the applicable types of mooring (e.g. high and/or low mooring).",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "The suspension system includes all components suspending the gondola to the envelope (if applicable including the net).",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "A gondola is a basket or other device (e.g. container, trapeze, harness, seat or platform) suspended beneath the envelope to accommodates the balloon occupants.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "The envelope contains the lifting gas.",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "The swivel point is the connection between the tether system and balloon system allowing rotation of the balloon independent from the tether cable.",
+        "marker": "(g)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "Ascent/descent system is the part of the tether system raising and lowering the balloon.",
+        "marker": "(h)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "The maximum lift is the sum of the maximum static lift from the lifting gas volume and the maximum dynamic lift, at sea level in International Standard Atmosphere conditions.",
+        "marker": "(i)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "The maximum dynamic lift is the highest lift force at the chosen maximum operating wind condition at sea level in International Standard Atmosphere conditions.",
+        "marker": "(j)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1504699295",
+    "erulesId": "ERULES-1963177438-4271",
+    "title": "AMC1 31TGB.2 Definitions",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.2 Definitions",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The illustration below shows a typical example of the various systems, parts and forces of the tethered gas balloon in order to distinct their function as provided in the definitions."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Note: Lift* Dynamic is disregarded for load case s of spherical envelope shapes."
+      }
+    ]
+  },
+  {
+    "sdtId": "1565560618",
+    "erulesId": "ERULES-1963177438-4265",
+    "title": "CS 31TGB.12 Proof of compliance",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B — FLIGHT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.12 Proof of compliance",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Each requirement of this Subpart is met at each mass and lift combination within the operating conditions for which certification is requested. This is shown by:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Tests upon a balloon of the type for which certification is requested or by calculations based on, and equal in accuracy to, the results of testing; and",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Systematic investigation of each mass and lift combination if co mpliance cannot be reasonably inferred from the masses investigated.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1977793838",
+    "erulesId": "ERULES-1963177438-4276",
+    "title": "CS 31TGB.14 Mass limits",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B — FLIGHT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.14 Mass limits",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The range of masses over which the balloon may be safely operated is established and at least consists of:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Maximum mass.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The maximum mass is the highest mass at which compliance with each applicable requirement of CS-31TGB is shown. The maximum mass is established so that it is not more than the least of:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "the maximum mass selected for the product; or",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "the design maximum mass, which is the highest mass at which each structural loading condition is shown.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Minimum mass:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "The minimum mass is the lowest mass at which compliance with the structural loading requirement is shown for the tether system.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "Mass limitation information related to safe operation of the balloon are included in the Flight Manual. (See CS 31TGB.81(b)(2) )",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "242543405",
+    "erulesId": "ERULES-1963177438-4272",
+    "title": "AMC1 31TGB.14 Mass limits",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART B — FLIGHT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.14 Mass limits",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Maximum mass",
+        "pRStyle": "Underline"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The maximum mass results in a weight force that is equal or lower to the maximum static lift force. The lift-producing medium is not part of the maximum mass."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "For each structural loading case the maximum mass is established. The maximum mass consists of the balloon and the length of the tether cable, which weight force acts upon the balloon in the specific load case."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "The m aximum design mass of the product is the least of the maximum masses established for the load cases or a lower maximum mass if so selected by the applicant."
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "Minimum mass",
+        "pRStyle": "Underline"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "The minimum mass is the mass that results in the highest loading in the tether system under the following conditions for which compliance to the structural requirements is shown:"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "Maximum deceleration during ascent",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "Maximum static lift",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "Maximal permissible wind speed of operation",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "Since the mass increases with the extension of the tether cab le, the critical case for the minimum mass is reached at the beginning of the ascent."
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "Mass limitations and information, e.g. pay load are established from the maximum and minimum masses and provided in the Flight Manual."
+      }
+    ]
+  },
+  {
+    "sdtId": "-654776625",
+    "erulesId": "ERULES-1963177438-4287",
+    "title": "CS 31TGB.20 Controllability",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B — FLIGHT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.20 Controllability",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The balloon is safely controllable and manoeuvrable without requiring exceptional skill. Associated operational limitations are established and include d in the Flight Manual. (See CS 31TGB.81(b)(2) )",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The continuing controllability of the balloon or other mitigations are provided to give each occupant every reasonable chance of escaping serious injury in the following emergency c onditions :",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "Potential or unintended free flight.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "Terminating operation in wind conditions exceeding the operating limitations by 50 %.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "Tether system failure that prevents descent from the maximum operating height or any other height if considered more c ritical.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "109210157",
+    "erulesId": "ERULES-1963177438-4273",
+    "title": "AMC1 31TGB.20(b) Controllability",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART B — FLIGHT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.20(b) Controllability",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "It is established by analysis that the hazards from the specified emergency conditions are mitigated by design or procedures. Failure modes that can result in an unintended free flight of the balloon with occupants are included in this analysis."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "A suitable device (e.g. electronic altitude pressure switch combined with an ascent velocity detector) ensuring that the envelope does not burst and a lifting gas valve is operated such that a descent occurs in a manageable manner is regarded as acceptable."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "A suitable procedure describes all necessary measures to be taken for the recovery."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "If procedures for these emergency conditions are not covered by the normal operating procedures they are included in the Flight Manual."
+      }
+    ]
+  },
+  {
+    "sdtId": "708715128",
+    "erulesId": "ERULES-1963177438-4296",
+    "title": "CS 31TGB.21 Loads",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.21 Loads",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Strength requirements are specified in terms of:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "limit loads that are the maximum loads to be expected in service, taking into account the load factors of CS 31TGB.23 ; and",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "ultimate loads that are limit loads multiplied by factors of safety defined in CS 31TGB.25 .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1540104385",
+    "erulesId": "ERULES-1963177438-4304",
+    "title": "CS 31TGB.22 In-Service load cases",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.22 In-Service load cases",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The strength requirements include consideration of the applicable in-service load cases such as:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "inflation;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "flight; and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "mooring .",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "The loads are determined and the parts and components under particular stress designed in accordance with their designated use and dimensioned such as not to fail under recurrent loads."
+      }
+    ]
+  },
+  {
+    "sdtId": "575381880",
+    "erulesId": "ERULES-1963177438-4274",
+    "title": "AMC1 31TGB.22 In-Service load cases",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.22 In-Service load cases",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Inflation/mooring",
+        "pRStyle": "Underline"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The ‘inflation and mooring cases’ referred to in this requirement cover assembly, disassembly, inflation, deflation and mooring load cases. Mooring load cases cover both low and high mooring, if applicable."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "When the balloon is moored in the parking position (low mooring) the maximum gas pressure in the envelope is normally identical to the ‘maximum gas pressur e’ established for any of the flight conditions. If the low mooring operation, however, allows for a precautionary increased pressure of the gas in the envelope this load case is also considered."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Flight",
+        "pRStyle": "Underline"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "Flight load cases cover the operation within the esta blished limitations (temperature, wind speed, mass, and ascent/descent speed limitations). A dynamic lift component is considered in the load cases for the sudden deceleration of the ascent/descent unit and when the envelope shape is not spherical and gene rates lift in wind conditions. When a dynamic lift component is applicable, gust loads are considered as well as potential oscillation behaviour of the balloon and the tether caused by airflow and from variations in the lift component and its centre of pre ssure."
+      }
+    ]
+  },
+  {
+    "sdtId": "1287283526",
+    "erulesId": "ERULES-1963177438-4306",
+    "title": "CS 31TGB.23 Load factors",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.23 Load factors",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Flight load factor. In determining limit load, the flight load factor is at least 1·4, except for (b).",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Ascent load factor. In determining limit load on the tether system, the ascent load factor appropriate for the type of operation is established and applied to the static l oad cases on the tether system.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Gust load factor. In determining limit load, the gust load factor is established for the effect of gusts as defined in the operating limitations.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2118672783",
+    "erulesId": "ERULES-1963177438-4275",
+    "title": "AMC1 31TGB.23(b) Ascent load factors",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.23(b) Ascent load factors",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The ascent load factor is applied to the static tether system load to cover dynamic loads to the tether system resulting from decelerations during the ascent. The maximum deceleration typically occurs when an emergency stop is made during maximum ascent speed. The highest loads are typically experienced when this occurs at maximum static lift and minimum balloon weight and minimum deceleration travel. Minimum balloon weight and minimum deceleration travel coincide at low tether cable length when the mass of the tether cable is the lowest and the elongation or slack of the tether cable are the lowest."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "For an ascent speed below 1 m/sec, an ascent load factor of 2 is acceptable."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1153950281",
+    "erulesId": "ERULES-1963177438-4277",
+    "title": "AMC1 31TGB.23(c) Gust load factor",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.23(c) Gust load factor",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "A gust load factor is applicable to balloons that due to the shape of the envelope generate aerodynamic lift forces in gust conditions. The gust load for spherical balloons is, therefore, 1 and is considered to have no influence on the loads."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1633967644",
+    "erulesId": "ERULES-1963177438-4307",
+    "title": "CS 31TGB.25 Factors of safety",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.25 Factors of safety",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "A factor of safety is used in the balloon system design as provided in the table.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [],
+              "width": "6831"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Safety factor"
+                }
+              ],
+              "width": "1708"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Envelope"
+                }
+              ],
+              "width": "6831"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "5·00"
+                }
+              ],
+              "width": "1708"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Suspension and tethering components (fibrous or non-metallic)"
+                }
+              ],
+              "width": "6831"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3·50"
+                }
+              ],
+              "width": "1708"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Suspension and tethering components (metallic)"
+                }
+              ],
+              "width": "6831"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "2·50"
+                }
+              ],
+              "width": "1708"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Other (This includes mooring components not used for suspension or tethering)"
+                }
+              ],
+              "width": "6831"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1·50"
+                }
+              ],
+              "width": "1708"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "Regardless of the materials used, the load-bearing components of the suspension and tethering system is designed so that failure of any single component will not jeopardise safety of flight, and that total failure is extremely remote. Account is taken of any reasonably foreseeable dynamic or asymmetric loading affects associated with the initi al element's failure.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "Where no provision is made for duplication in the suspension or tether system, the factor of safety is to be multiplied by a factor of 1·5.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "For design purposes, an occupant mass of at least 77 kg is assumed.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2090813390",
+    "erulesId": "ERULES-1963177438-4278",
+    "title": "AMC1 31TGB.25(b) Factors of safety",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.25(b) Factors of safety",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The dynamic loads on a balloon system are difficult to evaluate because metal or textile parts behave quite different."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "In absence of a more suitable method or as replacement of a load test, the failure of the load bearing component shall be shown by the following method:"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "Multiply the limit load in the failing load path by two and distribute it as a static load among the remaining load paths."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "For conventional designs, this is an appropriate method which is based on good service experience."
+      }
+    ]
+  },
+  {
+    "sdtId": "1844915351",
+    "erulesId": "ERULES-1963177438-4244",
+    "title": "CS 31TGB.27 Strength and proof of strength",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.27 Strength and proof of strength",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The structure is able to support limit loads without permanent deformation or other detrimental effects.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The structure is able to withstand ultimate loads for at least 3 seconds without failure.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Proof of strength of the envelope material and other critical d esign features are tested.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The gondola is of a generally robust design and provides the occupants adequate protection during a hard landing.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "The design and strength of components also considers the effects of recurrent and other loads experienced during transportation, ground handling, and mooring.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "The effect of temperature and other environmental conditions that may affect strength of the balloon is accounted for.",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-109664924",
+    "erulesId": "ERULES-1963177438-4279",
+    "title": "AMC1 31TGB.27(c) Strength and proof of strength",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.27(c) Strength and proof of strength",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The envelope tests may be performed on representative portions of the envelope provided the dimensions of these portions are sufficiently large to include critical design features and details such as critical seams, joints, load-attachment points, net mesh, etc. Also refer to CS 31TGB.45 for specific tear propagation requirements."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1128325932",
+    "erulesId": "ERULES-1963177438-4280",
+    "title": "AMC1 31TGB.27(e) Strength and proof of strength",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART C — STRUCTURE"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.27(e) Strength and proof of strength",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The strength requirements need to include consideration of loads during transport, ground handling and rigging. The loads need to be determined and the parts and components need to be designed in accordance with their designated use and dimensioned such as not to fail under recurrent loads."
+      }
+    ]
+  },
+  {
+    "sdtId": "1891931037",
+    "erulesId": "ERULES-1963177438-4245",
+    "title": "CS 31TGB.31 General",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.31 General",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The suitability of each design detail or part that bears on safety is established by tests or analysis."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1414148721",
+    "erulesId": "ERULES-1963177438-4246",
+    "title": "CS 31TGB.33 Materials",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.33 Materials",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The suitability and durability of materials used for parts, the failure of which could adversely affect safety:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "are established by experience or tests; and",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "meet approved specifications that ensure that the materials have the strength and other propert ies assumed in the design data.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-30270182",
+    "erulesId": "ERULES-1963177438-4281",
+    "title": "AMC1 31TGB.33(b) Materials",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.33(b) Materials",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Approved specifications here are taken as being those produced by the applicant or those meeting internationally recognised standards as defined applicable in the type design data. Material specifications are those contained in documents accepted either specifically by the Agency or by having been prepared by an organisation or person which the Agency accepts has the necessary capabilities. In defining design properties, these material specification values are modified and/or extended as necessary by the constructor to take account of manufacturing practices (for example method of construction, forming, machining and subsequent heat treatment). Also the effects of environmental conditions, such as temperature and humidity expected in service, are taken into account."
+      }
+    ]
+  },
+  {
+    "sdtId": "-323015791",
+    "erulesId": "ERULES-1963177438-4247",
+    "title": "CS 31TGB.35 Fabrication methods",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.35 Fabrication methods",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The methods of fabrication used produces a consistently sound structure. If a fabrication process requires close control to reach this objective, the process is performed in accordance with an approved process specification."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1034917437",
+    "erulesId": "ERULES-1963177438-4282",
+    "title": "AMC1 31TGB.35 Fabrication methods",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.35 Fabrication methods",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Approved fabrication methods here are taken as being those produced by the applicant or those meeting internationally recognised standards as defined in the applicable type design data. Fabrication methods are those contained in documents accepted either specifically by the Agency or by having been prepared by an organisation or person which the Agency accepts has the necessary capabilities."
+      }
+    ]
+  },
+  {
+    "sdtId": "489350969",
+    "erulesId": "ERULES-1963177438-4248",
+    "title": "CS 31TGB.36 Stress concentrations",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.36 Stress concentrations",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The structure is designed to avoid, as far as practicable, points of stress concentration and variable stresses that would cause fatigue to occur in normal operation."
+      }
+    ]
+  },
+  {
+    "sdtId": "1739896260",
+    "erulesId": "ERULES-1963177438-4249",
+    "title": "CS 31TGB.37 Fasteners",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.37 Fasteners",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Fasteners (e.g. bolts, pins, screws, karabiners) used in the structure confo rm to approved specifications.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Locking methods are established and documented.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Unless a joint is free from relative movement, secondary locking means are used.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Self-locking nuts are not used on bolts that are subject to rotation in service.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-775173761",
+    "erulesId": "ERULES-1963177438-4283",
+    "title": "AMC1 31TGB.37(a) Fasteners",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.37(a) Fasteners",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC1 31TGB.33(b) ."
+      }
+    ]
+  },
+  {
+    "sdtId": "117210618",
+    "erulesId": "ERULES-1963177438-4250",
+    "title": "CS 31TGB.39 Protection of parts",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.39 Protection of parts",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Parts, the failure of which could adversely affect safety, are suitably protected against deterioration or loss of strength in service due to weathering, corrosion, heat, abrasion, ground handling, ground transport, flight conditions or other causes."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1255359237",
+    "erulesId": "ERULES-1963177438-4284",
+    "title": "AMC1 31TGB.39 Protection of parts",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.39 Protection of parts",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Suspension system cables and components manufactured from stainless steels (corrosion resistant steels) are considered compliant with this requirement."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "To ensure the protection of parts, it is permissible to rely on recommended inspections (details in the Maintenance Manual)."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "In cases where deterioration or loss of strength is unavoidable during the life of the product, details of appropriate mandatory replacement lives or in-service testing are provided in the maintenance programme ( CS 31TGB.82 )."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1622979925",
+    "erulesId": "ERULES-1963177438-4251",
+    "title": "CS 31TGB.41 Inspection provisions",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.41 Inspection provisions",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "There are means to allow close examination of each part that requires repeated inspection and adjustment."
+      }
+    ]
+  },
+  {
+    "sdtId": "733132499",
+    "erulesId": "ERULES-1963177438-4252",
+    "title": "CS 31TGB.43 Balloon system controls",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.43 Balloon system controls",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Each control can be operated easily, smoothly, and positively to allow proper performance of its functions. Controls are arranged and identified to prevent confusion or inadvertent operations.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Each control system and operating device is designed and installed in a manner that will prevent jamming, chafing, or unintended interference from passengers or loose items of equipment. The elements of the control system have design features or are distinctly and permanently marked to minimise the possibility of incorrect assembly that could result in failure of the control system.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Control cords",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "General",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 2,
+        "text": "All control cords used for flight control are designed and installed to preclude entanglement and inadvertent operation.",
+        "marker": "(i)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 2,
+        "text": "The maximum force required for their operation does not exceed 340 N.",
+        "marker": "(ii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 2,
+        "text": "All control cords used for flight control are long enough to allow an increase of at least 10 % in the vertical dimension of the envelope.",
+        "marker": "(iii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 2,
+        "text": "Arming cords. If an arming device is employed to prevent inadvertent operation of an irreversible control, the part of the device to be handled by the operator is coloured with yellow and black bands.",
+        "marker": "(iv)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "Venting cords",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 2,
+        "text": "If a venting cord is used to allow controlled release of the lifting gas and the vent can be resealed in flight, the part of the cord to be handled by the operator is coloured with red and white bands.",
+        "marker": "(i)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 2,
+        "text": "If a further cord is required to re-seal any vent, the part of the cord handled by the operator is coloured white.",
+        "marker": "(ii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "Rapid or emergency deflation cords.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 2,
+        "text": "If a cord is used for rapid or emergency deflation of the envelope and the device cannot be resealed in flight, the part of the cord to be handled by the operator is coloured red.",
+        "marker": "(i)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 2,
+        "text": "In addition to subparagraph CS 31TGB.43(c)(1)(ii) the force required to operate the emergency deflation cord is not less than 110 N.",
+        "marker": "(ii)",
+        "pStyle": "ListLevel2"
+      }
+    ]
+  },
+  {
+    "sdtId": "262441113",
+    "erulesId": "ERULES-1963177438-4253",
+    "title": "CS 31TGB.45 Protection of envelope against tearing",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.45 Protect ion of envelope against tearing",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The design of the envelope is such that, while supporting limit load, local damage will not grow to an extent that results in an uncontrolled landing."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1332805586",
+    "erulesId": "ERULES-1963177438-4285",
+    "title": "AMC1 31TGB.45 Protection of envelope against tearing",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.45 Protection of envelope against tearing",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Demonstration of sufficient rip-stopping capability of the envelope material."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The objective of this demonstration is to show that the envelope material is sufficiently damage resistant. It therefore needs to be determined that the envelope material would not continue to tear under the maximum tension and conditions (temperature) experienced in normal operation."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "In order to establish that the determined damage resistance is sufficient, the critical damage should be reviewed in relation to local damage foreseeable in normal operation."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "The local damages to be considered are:"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "existing damage that may be undetected during pre-flight inspection, and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "limited damage, inflicted during flight where the size of the damage in itself would not result in a catastrophic failure.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "The resistance of envelope fabric to damage propagation is determined by test."
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "It is shown by test that a crosswise slit of at least 5 cm in the most unfavourable direction to the envelope fabric at the maximum tension experienced in service does not propagate. Test results from tests on similar fabric at the equal or higher tension and damage equal or larger than 5 cm are considered compliant."
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "A typical test set-up is provided below."
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "The tension in the test area of the specimen of the fabric should be equal to the maximum tension experienced in service and the test method should not create unacceptable tension re-distributions in the test area when the test is conducted."
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "If the balloon is equipped with a net to distribute and reduce the loads in the envelope, the net is regarded as a tear-prevention device."
+      }
+    ]
+  },
+  {
+    "sdtId": "323470552",
+    "erulesId": "ERULES-1963177438-4255",
+    "title": "CS 31TGB.47 Precautions against loss of lifting gas",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.47 Precautions against loss of lifting gas",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The envelope is designed to exclude the possibility of loss of lifting gas likely to adversely affect safe operation taking into account dynamic pressure, temperature and fluctuations in air pressure over the permissible operating range."
+      }
+    ]
+  },
+  {
+    "sdtId": "623307094",
+    "erulesId": "ERULES-1963177438-4256",
+    "title": "CS 31TGB.49 Limiting the operating pressure",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.49 Limiting the operating pressure",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The balloon is equipped with an automatic and/or manual lifting gas release device. The response pressure of an automatic pressure release device is established. The quantity of gas to be released by the pressure release device is large enough to prevent a further increase in pressure. Opening of a pressure relief device is unambiguously indicated to the operator."
+      }
+    ]
+  },
+  {
+    "sdtId": "-691259356",
+    "erulesId": "ERULES-1963177438-4286",
+    "title": "AMC1 31TGB.49 Limiting of operating pressure",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.49 Limiting of operating pressure",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The envelope pressure is limited to prevent the envelope from bursting. However, the definition of the envelope's maximum operating pressure depends on the design of the tethered gas balloon system. For inflated balloon systems the operating conditions are not limited to flight but also include the parking conditions if the balloon system stays inflated for a prolonged period between the flight operations. Thus, different cases need to be considered:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Balloon systems staying inflated above maximum wind speed for flight operation",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "These balloon systems ensure envelope tautness by a ballonet or other means of feeding/discharging gas into the envelope when moored on the ground in parking position to withstand the dynamic pressure of considerably high wind speeds. Here the maximum operating pressure is the maximum pressure established by the designer for high wind speeds whilst moored in parking condition to the ground. Under this con dition the safety factors in CS 31TGB.25 are applicable. The ascent factor in CS 31TGB.23(b) is however not applicable in the parking position. The response pressure of the automatic lifting gas release valve usually is higher than the maximum operating pressure to prevent the envelope from getting pumped out below dynamic pressure of the wind by unexpected gusts. A factor of not less than 1·4 times the maximum operating pressure during mooring has been shown by practical experience to be applicable.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Balloon systems other than described in (a)",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "These balloon systems are usually smaller and ensure envelope tautness by means other than described under (a), i.e. by flexible parts in the envelope. They are designed for maximum wind speed during flight operation and will normally be deflated during high wind speed weather conditions. Here the maximum operating pressure is the pressure for flight operation established by the designer. The response pressure of the automatic lifting gas release device is not less than 1·15 times the maximum operating pressure.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "For clarification, it should be noted that in a strict sense the automatic pressure release device can only prevent the further rise of pressure for the very moment. After release the device should close again in order to minimise the loss of lifting gas. If after a while the pressure increases again for any reason, the device will also open again. This behaviour is intended and does not impair safety.",
+        "pStyle": "Normal1"
+      }
+    ]
+  },
+  {
+    "sdtId": "1948895577",
+    "erulesId": "ERULES-1963177438-4257",
+    "title": "CS 31TGB.51 Rapid deflation means",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.51 Rapid deflation means",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The envelope has a means allowing rapid deflation of the balloon."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1126832303",
+    "erulesId": "ERULES-1963177438-4288",
+    "title": "AMC1 31TGB.51 Rapid deflation means",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.51 Rapid deflation means",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Rapid deflation means are used to deflate the envelope in cases like e.g. when:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "wind speeds increase above the wind speed limitations for low mooring;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "required during inflation before attachment of the tether cable; or",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "included in emergency procedures for unintended free flight.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "Note: The rapid deflation means for low mooring acts automatically when the balloon is not being monitored by an operator."
+      }
+    ]
+  },
+  {
+    "sdtId": "49713123",
+    "erulesId": "ERULES-1963177438-4258",
+    "title": "CS 31TGB.53 Tether system",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.53 Tether system",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The suitability, durability, and reliability of the tether system is establish ed for all phases of operating.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "In operation and mooring the balloon is securely and reliably anchored to the ground.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Precautions are to be taken to mitigate the risks due to the effect of wind exceeding the maximum wind speed stated in the Flight Manual on the ballo on when moored to the ground.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "417333811",
+    "erulesId": "ERULES-1963177438-4289",
+    "title": "AMC1 31TGB.53(a) Tether system",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.53(a) Tether system",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The suitability, durability, and reliability of the tether system, including the tether control systems, is determined by a Failure Mode Effect Analyses (FMEA) covering all phases of operation."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "For components of the tether system (i.e. the winch) compliance with the requirement of CS 31TGB.53(a) can be shown by a certificate from an expert body provided that:"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "this certificate specifies the conditions for safe operation of the winch that cover the conditions for safe operation of the balloon;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "the winch system is capable of safely fulfilling the task of a tethered gas balloon winch;",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "compliance with the Machinery Directive 2006/42/EC (or equivalent (US) requirements) is the basis for the tethered gas balloon winch system;",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "modifications to the winch design do not invalidate the applicable requirements from the certificate that remain applicable after the modification.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "Note: The overload protection of industrial winches is not applicable in the TGB application because overload cannot occur in a TGB application;",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "the expert body is an EC-notified organisation which has a certified structure and a proven capability and experience. ‘Certified’ means an approval by the government which requires an organisational structure and entails extended liability. ‘Proven capability’ means successfully managed projects that are reasonably comparable to the balloon winch case. Usually these are cranes, elevators, rides or similar winch technology;",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "the final report complies with the Annex II of the Machinery Directive 2006/42/EC (or equivalent (US) requirement); and",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "there is an alternative retrieve system which is able to cover a functional failure of the winch.",
+        "marker": "(g)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-717170356",
+    "erulesId": "ERULES-1963177438-4290",
+    "title": "AMC1 31TGB.53(c) Tether system",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.53(c) Tether system",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "An automatic rapid deflation (See CS 31TGB.51 ) of the balloon in case it breaks away from its low mooring position or any other system that will prevent uncontrolled free flight is an acceptable risk mitigation."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1436162935",
+    "erulesId": "ERULES-1963177438-4259",
+    "title": "CS 31TGB.59 Gondola",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.59 Gondola",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The gondola may not rotate independently of the envelope unless safe operation is assured.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Projecting object in the gondola, that could cause injury to the occupants, are avoided or padded.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "A holding grip is provided for each occupant.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Reasonable space is provided for all occupants, with regard to both comfort during the flight and to safety during the landing.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Occupants and items in the gondola are prevented from falling from the gondola.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "The gondola occupant securing devices (e.g. doors or harnesses) comply with the following requirements:",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "The device is closed and locked during flight.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "The device is protected against unintentional opening by persons or opening as the result of a mechanical failure during flight.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "The device can be opened by occupants and crew.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "Operation of the device shall be simple and obvious.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "The device has a visual indication that it is properly closed and locked.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1735999477",
+    "erulesId": "ERULES-1963177438-4291",
+    "title": "AMC1 31TGB.59 Gondola",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.59 Gondola",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The requirements for a gondola carrying multiple free-standing persons is complied with when the applicable requirements for the ‘carrier’ provided in the Machinery Directive 2006/42/EC are met."
+      }
+    ]
+  },
+  {
+    "sdtId": "1078036334",
+    "erulesId": "ERULES-1963177438-4292",
+    "title": "AMC1 31TGB.59(c) Gondola",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.59(c) Gondola",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "A holding grip provides an obvious means for the occupants of the gondola to stabilise themselves during flight. The location or design of occupant securing devices (refer to CS 31TGB.59(f)(1) ) is such that they do not invite occupants to use them as holding grip."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1565144633",
+    "erulesId": "ERULES-1963177438-4293",
+    "title": "AMC1 31TGB.59(d) Gondola",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.59(d) Gondola",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "For gondola providing standing space for the occupant, a minimum plan area of 0·3 m² is provided for each occupant."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1094453247",
+    "erulesId": "ERULES-1963177438-4260",
+    "title": "CS 31TGB.65 Night lighting",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.65 Night lighting",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "If the balloon is operated at night, illumination of controls, equipment and essential information is provided for the safe operation of the balloon.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "An Anti-Collision light system is installed which compli es with the following :",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "The Anti-Collision light consists of one or more flashing red (or flashing white) light(s) with an effective flash frequency of at least 40, but not more than 140, cycles per minute.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "The Anti-Collision light arrangement provides 360° horizontal coverage and at least 60° vertical coverage above and below the horizontal plane.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "The Anti-Collision light(s) are mounted on, or suspended from the balloon in order to identify the position of the envelope and gondola during night operation.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "At least one Anti-Collision light is visible from a distan ce between 100 m and 3 700 m (2 NM) at night under clear atmospheric conditions.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "The Anti-Collision light system can be switched on/off during flight.",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "The night lighting will not impair the crews’ vision or performa nce during operation.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "436490104",
+    "erulesId": "ERULES-1963177438-4294",
+    "title": "AMC1 31TGB.65(a) Night lighting",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.65(a) Night lighting",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "A means to provide illumination of the instruments, equipment and controls that are essential for the safe operation of the balloon may be instrument lighting, local lighting or any independent portable (non-handheld) light of sufficient capacity."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "It is acceptable that lights can be switch on and off provided that the operator, without undue burden or ambiguity, can switch on the lighting in night conditions."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1155482686",
+    "erulesId": "ERULES-1963177438-4295",
+    "title": "AMC1 31TGB.65(b) Night lighting",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.65(b) Night lighting",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The following two schematics illustrations for anti-collision light arrangements show vertical coverage and positions that meet the requirements of CS 31TGB.65(b)(2) and (3) ."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The horizontal 360° coverage requirement is applicable to a distan ce between 100 m and 3 700 m (2 NM). It is acceptable that the light from the anti-collision lights is not visible from positions closer than 100 m horizontally from the balloon."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1942259411",
+    "erulesId": "ERULES-1963177438-4297",
+    "title": "AMC1 31TGB.65(c) Night lighting",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.65(c) Night lighting",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The light from the Anti-Collision light does not directly shine on the crew and passengers and does not create a reflection on the balloon or flare that disturbs the crews’ performance."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Lighting level of controls, equipment and instruments are compatible with the crew night vision. This prevents untimely fatigue of the eyesight due to frequent adaptation when looking from bright light into dark night and vice versa."
+      }
+    ]
+  },
+  {
+    "sdtId": "326496586",
+    "erulesId": "ERULES-1963177438-4261",
+    "title": "CS 31TGB.67 On-board power units",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.67 On-board power units",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "I f an on-board power unit is used to provide electrical power during operation, the system is designed and installed so as not to create a fire hazard or cause an electrical shock to the occupants."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1045489168",
+    "erulesId": "ERULES-1963177438-4298",
+    "title": "AMC1 31TGB.67 On-board power units",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.67 On-board power units",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "For this AMC, it is assumed that only power units are used which conform to the state-of-the-art industrial standard. The safe operation of the balloon is not directly dependent on the proper function of the power unit. For all other designs, the Agency is consulted for more detailed requirements."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Power units of industrial standard used on-board of the balloon in addition comply with the following:"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "General",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "The power unit is designed and installed so that under all normal operating conditions and reasonably foreseeable in service emergency situations, it does not endanger the aircraft, its occupants, or third parties.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Ventila tion",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "The occupants are accommodated in adequately ventilated areas where:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "the carbon monoxide partial pressure does not exceed 1/20 000; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "fuel vapour is not present in harmful concentrations.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "Fire extinguishers",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "Unless the power unit has a fi re extinguishing system by itself, there is at least one manual fire extinguisher within reach of an occupant.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "The following applies to manual fire extinguishers. The type and quantity of the fire extinguishing substance is appropriate to the fire extin guisher's application area. Fire extinguishers:",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 2,
+        "text": "conform to EN3 or an equivalent specification acceptable to the Agency;",
+        "marker": "(i)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 2,
+        "text": "have a minimum capacity of 2 kg when using dry powder, unless the capacity is otherwise determined by the applicant; and",
+        "marker": "(ii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 2,
+        "text": "be at least of comparable effect when the extinguishing means is other than ‘dry powder’.",
+        "marker": "(iii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": 1,
+        "text": "Fire extinguishers in compartments intended for persons are designed to minimise the risk of toxicity caused by use of the fire extinguishing substance.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": 0,
+        "text": "Gondola",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "Th e following applies to the gondola when an on-board power unit is carried:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": 1,
+        "text": "The material used is at least fire retardant.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": 1,
+        "text": "Pipes, tanks or equipment that carries fuel, oil or flammable liquids are not to be placed in the gondola unless they are reasonably shielded, insulated, or otherwise protected so that fracture or failure of such parts causes no danger.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": 0,
+        "text": "Electrical earth connection",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": 1,
+        "text": "In order to prevent the occurrence of potential differences between components of the power unit and other electrically conductive parts of the balloon which cannot be ignored on account of their mass, such conductive parts are conductively interconnected.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 24,
+        "level": 1,
+        "text": "The cross-sectional area of bonding connectors, if made from copper, is not less than 1·33 mm².",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 25,
+        "level": 0,
+        "text": "Fire protection for control system and structure",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 26,
+        "level": -1,
+        "text": "Control systems, suspension units or other structures in the power unit compartment which are added to the design by the applicant are made of fireproof material or shielded to withstand the effect of a fire.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 27,
+        "level": 0,
+        "text": "Fire protection",
+        "marker": "(g)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 28,
+        "level": 1,
+        "text": "The power unit is adequately separated from the balloon's structure by fireproof bulkheads or ventilated bays.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 29,
+        "level": 1,
+        "text": "Areas in which combustible liquids can accumulate as a result of a leaking tank have an adequate drain pipe. Collected lea king liquids cannot reach other locations in and under the craft which pose a potential risk of fire.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 30,
+        "level": 1,
+        "text": "Precautionary measures are to be taken to reduce as far as possible the risk of fire as a result of a hard landing of the gondola.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 31,
+        "level": 0,
+        "text": "Power unit instal lation",
+        "marker": "(h)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 32,
+        "level": 1,
+        "text": "Each power unit is supported so that the loads resulting from the weight of the unit are not concentrated.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 33,
+        "level": 1,
+        "text": "There are pads, if necessary, to prevent chafing between each unit and its supports.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 34,
+        "level": 1,
+        "text": "Materials employed for supporting the unit or pa dding the supporting members are non-absorbent or treated to prevent the absorption of fuel.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 35,
+        "level": 1,
+        "text": "Each installation is ventilated and drained to prevent accumulation of flammable fluids and vapours.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 36,
+        "level": 0,
+        "text": "Fuel tank expansion space",
+        "marker": "(i)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 37,
+        "level": 1,
+        "text": "Each external fuel tank add ed to the design by the applicant has an expansion space of sufficient capacity, but of not less than 2 % of the tank capacity, to prevent spillage of fuel onto the surfaces of the power unit and the balloon's structure due to thermal expansion or manoeuvr e unless the design of the venting system precludes such spillage.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 38,
+        "level": 1,
+        "text": "It is not possible to fill the expansion space inadvertently with the power unit in any normal ground attitude.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 39,
+        "level": 0,
+        "text": "Exhaust system, general",
+        "marker": "(j)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 40,
+        "level": 1,
+        "text": "The exhaust system ensures safe disposal of exhaust gases without fire hazard or carbon monoxide contamination in any personnel compartment.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 41,
+        "level": 1,
+        "text": "Each exhaust system part with a surface hot enough to ignite flammable fluids or vapours is located or shielded so that leakage from any system carrying fla mmable fluids or vapours will not result in a fire caused by impingement of the fluids or vapours on any part of the exhaust system, including shields for the exhaust system.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 42,
+        "level": 1,
+        "text": "All parts of the exhaust system are located sufficiently far from or separated from adjacent parts of the balloon's structure by fireproof shielding.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 43,
+        "level": 1,
+        "text": "No exhaust gases will discharge dangerously near any oil or fuel system drain.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 44,
+        "level": 1,
+        "text": "Each exhaust system component added to the design by the applicant is ventilated to prevent points of excessively high temperature.",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 45,
+        "level": 0,
+        "text": "Firewalls",
+        "marker": "(k)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 46,
+        "level": 1,
+        "text": "The power unit is isolated from the rest of the balloons structure by a firewall, shroud, or equivalent means.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 47,
+        "level": 1,
+        "text": "The firewall or shroud is constructed so that no hazardous quantity of liquid, gas or flame c an pass from the power unit compartment to other parts of the balloon.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 48,
+        "level": 1,
+        "text": "The firewall and shroud is fireproof and protected against corrosion or deterioration. The following materials are accepted as fireproof, when used in firewalls or shrouds, without being tested:",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 49,
+        "level": 2,
+        "text": "stainless steel sheet, 0·38 mm thick;",
+        "marker": "(i)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 50,
+        "level": 2,
+        "text": "mild steel sheet (coated with aluminium or otherwise protected against corrosion) 0·5 mm thick;",
+        "marker": "(ii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 51,
+        "level": 2,
+        "text": "steel or copper base alloy firewall fittings.",
+        "marker": "(iii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 52,
+        "level": 1,
+        "text": "Other materials such as fire protection paint and/or putty are only used if they conform to the FAA Advisory Circular No. 20-135 or equivalent accepted specifications.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "455310171",
+    "erulesId": "ERULES-1963177438-4262",
+    "title": "CS 31TGB.68 Master switch arrangement",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.68 Master switch arrangement",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "There is a master switch arrangement to allow ready disconnection of electric power sources from the main bus.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The point of disconnection is adjacent to the sources controlled by the switch.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The master switch or its controls is installed so that the switch is easily discernible and accessible to the operator or occupant.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "335990676",
+    "erulesId": "ERULES-1963177438-4263",
+    "title": "CS 31TGB.69 Electric cables and equipment",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.69 Electric cables and equipment",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Each electric connecting cable has adequate capacity and is correctly routed, attached and connected so as to minimise the probability of short circuits and fire hazards.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Overload protection is provided for each electrical equipment. No protective device protects more than one circuit essential to flight safety.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Unless each cable installation from the battery to a circuit protective device or master switch, whichever is closer to the battery, is of such power carrying capacity that no hazardous damage will occur in the event of a short circuit, this length of cable is protected or routed in relation to parts of the balloon's structure that the risk of short circuit is minimised.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1593626903",
+    "erulesId": "ERULES-1963177438-4299",
+    "title": "AMC1 31TGB.69(c) Electric cables and equipment",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART D — DESIGN AND CONSTRUCTION"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.69(c) Electric cables and equipment",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The risk of short circuit for the electrical cable between battery and master switch is minimised when the unprotected battery to master switch cables, of an adequate capacity, have a maximum length of 0·5 m."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "In any event the capacities of protected cables are such that no hazardous damage will occur to the balloon and its occupants, nor its effects to the occupants from the generation of noxious fumes, due to electrical overloading of cables before a circuit protective device will operate."
+      }
+    ]
+  },
+  {
+    "sdtId": "1003447906",
+    "erulesId": "ERULES-1963177438-4264",
+    "title": "CS 31TGB.71 Function and installation",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART F — SYSTEMS AND EQUIPMENT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.71 Function and installation",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Equipment is:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "of a kind and design appropriate to its intended function;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "labelled as to its identification, function, or operating limitations, or any applicable combination of these factors; and",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "installed according to limitations specified for that equipment.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Instruments and other equipment do not in themselves, or by their effect upon the balloon, constitute a hazard to safe operation.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "The following instruments are installed if required to mo nitor the operating limitations :",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "An envelope pressure gauge which displays the limits of permissible internal pressure. The operator is warned by an unambiguous signal if the limit of airborne operating pressure is exceeded.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "A temperature measuring device mounted at a point of the envelope that provides a measurement of the operational limitation.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "A wind velocity measuring device mounted at the most appropriate point of the envelope.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "A load cell at the most appropriate place in order to monitor the tensile force in the tether cable in service.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "Device(s) to provide the operational or design limitatio ns information to the operator.",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "Systems and equipment that need to function properly for safe operation are identified in the operational instructions.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2073812379",
+    "erulesId": "ERULES-1963177438-4300",
+    "title": "AMC1 31TGB.71(c) Function and installation",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART F — SYSTEMS AND EQUIPMENT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.71(c) Function and installation",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "An instrument, in the classical sense, houses the sensor and the indicator (e.g. altimeter). However, it should be noted that for tethered gas balloons the sensor and the indicating display may be mounted far away from each other (e.g. sensor on the top; display in the gondola or at the winch). Hence, the word ‘instrument’ may not necessarily mean an integrated system."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The 'most appropriate place' for the instruments required by subparagraph CS 31TGB.71(c)(2) and (c)(3) shall be established in view of accuracy fo r measuring the values."
+      }
+    ]
+  },
+  {
+    "sdtId": "1251749099",
+    "erulesId": "ERULES-1963177438-4301",
+    "title": "AMC1 31TGB.71(d) Function and installation",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART F — SYSTEMS AND EQUIPMENT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.71(d) Function and installation",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The correct functioning is not to be impaired by icing, heavy rain, high humidity, or low and high temperatures."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "When ATC equipment is installed, it is shown that the electrical system is such that the operation of this equipment is not adversely affected."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The operating instructions provide information regarding systems and equipment essential for safe operation. Restrictions or mitigating actions for inoperative systems or equipment are included in the operating instructions to support continued safe operation if applicable."
+      }
+    ]
+  },
+  {
+    "sdtId": "361901676",
+    "erulesId": "ERULES-1963177438-4266",
+    "title": "CS 31TGB.73 Instrument marking",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART F — SYSTEMS AND EQUIPMENT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.73 Instrument marking",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The following applies to all monitoring instruments:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "If the cover glass of the instrument is marked and adequate measures are taken to ensure that the cover glass remains in its correct position relative to the graduated dial.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "All markings are sufficiently wide and applied to ensure that they are easily and clearly readable by the operator.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The ranges for analogue indicator s are identified as follows:",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "Normal operating range – green;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "Caution area – amber or yellow; and",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "Permissible maximum or minimum value - red radial line.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "For digital indicators, the limits of use are displayed close to the indicator or a red sig nal is showing when the permissible limits are exceeded.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "429853935",
+    "erulesId": "ERULES-1963177438-4267",
+    "title": "CS 31TGB.75 Warning, caution, and advisory lights",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART F — SYSTEMS AND EQUIPMENT"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.75 Warning, caution, and advisory lights",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "If warning, caution or advisory lights are installed, these are:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "red, for warning lights (lights that indicate a condition that demands immediate corrective action);",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "amber or yellow, for caution lights (lights that indicate a condition that requires immediate awareness and the possible need for subsequent corrective action);",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "green, for safe operation lights; and",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "of any other colour, including white, for lights not described in paragraphs (a) through (c) of this paragraph, provided the colour differs sufficiently from the colours prescribed in paragraphs (a) through (c) to avoid possible confusion; and",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "visible under all likely lighting conditions.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-497806197",
+    "erulesId": "ERULES-1963177438-4268",
+    "title": "CS 31TGB.81 Flight manual",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART G — OPERATING LIMITS AND DETAILS"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.81 Flight manual",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Operating instructions are provided in a Flight Manual with each balloon.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The Flight Manual contains:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "a description of the balloon and its technical equipment with explanatory sketches;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "operating limitations, minimum required crew, normal procedures (including mooring, inflation, deflation and tethered flight), emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation. This section of the manual requires approval;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "specification of the permissible lifting gas;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "information for ground handling, transport and storage; and",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "site preparation instructions and installation information required for safe operation .",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe oper ation are provided to the crew.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-27114811",
+    "erulesId": "ERULES-1963177438-4302",
+    "title": "AMC1 31TGB.81(b)(5) Flight Manual",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART G — OPERATING LIMITS AND DETAILS"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.81(b)(5) Flight Manual",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Site preparation and installation information"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The site preparation instructions include:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "the magnitudes and x-, y- and z-directions of each load carrying interface between the tether system and the ground;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "dimensions and categories of safety areas on the ground and in the air;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "the ground condition and its permitted maximum mean slope; and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "any additional safety are a required by the emergency descent procedure, if applicable.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "The installation information includes:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "a list of the minimum installation crew and their necessary skills;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "a checklist of the necessary tools and devices for installing/de-installing; a nd",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "a checklist describing the necessary sequential steps for installation/de-installation. The list highlights the safety critical phases including precautions and mitigating measures.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-558835636",
+    "erulesId": "ERULES-1963177438-4269",
+    "title": "CS 31TGB.82 Instructions for continued airworthiness",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART G — OPERATING LIMITS AND DETAILS"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.82 Instructions for continued airworthiness",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "A Maintenance Manual and a maintenance schedule against which the balloon must be inspected and maintained in a serviceable condition is provided with each balloon."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The instructions for Continued Airworthiness include information essential to the Continued Airworthiness of all parts and appliances of the balloon as required by CS-31TGB.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The instructions for Continued Airworthiness are in the form of a manual or manuals as appropriate for the quantity of data provided.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The format of the manual or manuals is provided in a practical arrangement.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "The instructions for Continued Airworthiness cover:",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "detailed description of the balloon and its components, systems and installations;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "handling instructions;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "basic control and operating information describing how the balloon’s components, systems and installations operate;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "servicing information;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "a maintenance schedule against which the balloon is inspected and maintained;",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "maintenance and inspection instructions;",
+        "marker": "(6)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "repair instructions;",
+        "marker": "(7)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 1,
+        "text": "troubleshooting information; and",
+        "marker": "(8)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 1,
+        "text": "airworthiness limitations that set forth each mandatory replacement time, inspection interval and related inspection procedure. This section of the manual requires approval.",
+        "marker": "(9)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-507300287",
+    "erulesId": "ERULES-1963177438-4303",
+    "title": "AMC1 31TGB.82 Instructions for continued airworthiness",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART G — OPERATING LIMITS AND DETAILS"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.82 Instructions for continued airworthiness",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Note: The paragraph numbering of this AMC relates to the paragraph numbering of CS 31TGB.82"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "If instructions for continued airworthiness are not supplied by the manufacturer or designer of parts and appliances installed in the balloon, the instructions for continued airworthiness for the balloon need to include the information essential to the contin ued airworthiness of the balloon.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "If manuals from different manufacturers are used, they need to provide a practical arrangement.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "(d)(1) The detailed description of the balloon and its components needs to include for each balloon:",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "a description of the sy stems including the assembly and disassembly instructions;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "a parts list covering all construction and equipment components and the assemblies. Where applicable, individual parts need to be numbered so that they can be related to the different assemblies and that their number corresponds to the type plate of the assembly; and",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "a summary of the materials and consumables used with procurement details.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "(d)(5) If applicable, the maintenance schedule may include instructions for continued airworthiness (e.g. recommended inspections or mandatory replacement of parts) to ensure the suitable protection of parts against deterioration or loss of strength, objective pass or fail criteria, e.g. applicable where tolerances need to be provided.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "(d)(6) The maintenance an d inspection instructions need to provide information for removal and installation, cleaning, inspecting, adjusting, testing and lubrication of systems, parts and appliances of the balloon as required for continued airworthiness. Reference may be made to i nformation from an accessory, instrument or equipment manufacturer as the source of this information if it is shown that the item has an exceptionally high degree of complexity requiring specialised maintenance techniques, test equipment or expertise.",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "(d)(9) If the instructions for continued airworthiness consist of multiple documents, the Airworthiness Limitations section needs to be included in the principal manual.",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2116308402",
+    "erulesId": "ERULES-1963177438-4270",
+    "title": "CS 31TGB.83 Crew training and training information",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART G — OPERATING LIMITS AND DETAILS"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31TGB.83 Crew training and training information",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "For a safe operation of the balloon, a training manual for crew is made available that contains as a minimum the following:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Operating instructions and information as required by CS 31TGB.81 ;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Minimum crew qualifications;",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Minimum training requirements, both theoretical and practical as appropriate;",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "A method to show proof of successfully comple ting the training; and",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Recommended training requirements.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "875089085",
+    "erulesId": "ERULES-1963177438-4305",
+    "title": "AMC1 31TGB.83 Crew training and training information",
+    "applicabilityDate": "1 July, 2013",
+    "entryIntoForceDate": "1 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "SUBPART G — OPERATING LIMITS AND DETAILS"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC1 31TGB.83 Crew training and training information",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/011/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The crew training and training information contains the following aspects when applicable to the operation of the balloon:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "general information on the training syllabus (theoretical and practical training) and examination;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "description of the system in sufficient detail to understand the principles of the balloon and systems;",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "environmental conditions and their impact on safe operation;",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "procedures for:",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "mooring (high and low);",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "flying;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "inflation and deflation; and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "emergency procedures;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "weather;",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "maintenance; and",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "record keeping.",
+        "marker": "(g)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4816 @@
+[
+  {
+    "sdtId": "-298186977",
+    "erulesId": "ERULES-1963177438-4975",
+    "title": "CS 31HB.1 Applicability",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART A – GENERAL",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.1 Applicability",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2011/013 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "These Certification Specifications (CS s) are applicable to manned free balloons that derive their lift from:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "heated air (Hot Air Balloons)",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "a combination of heated air and a non flammable gas being lighter than air (Mixed Balloons, also called Rozière).",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-792386206",
+    "erulesId": "ERULES-1963177438-4986",
+    "title": "CS 31HB.2 Definitions",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART A – GENERAL",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.2 Definitions",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11 /0 13 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Definition of terms used:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The ' envelope ' contains the medium which provides the lift.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "A 'basket' is the basket, seat frame or other means suspended beneath the envelope for the carriage of the balloon occupants.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "A ' Heater System ' is the system used to heat the air to provide the lifting means of the balloon. The system includes the heat source (e.g. burner), controls, fuel lines, fuel cells, regulator, control valves and other related elements.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "'Disposable Ballast' is the amount of ballast required to be available for flight path management.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "'Tethered Flight' is the temporary restraint of a free balloon whilst in flight for the purposes of conducting an entire flight at a single location.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "' Launch Restraint ' is the temporary restraint of a free balloon for the purpose of initiating a free flight.",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "[ Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "216389075",
+    "erulesId": "ERULES-1963177438-4997",
+    "title": "CS 31HB.12 Proof of compliance",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B – FLIGHT",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.12 Proof of compliance",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Each requirement of this Subpart must be met at each mass within the range of loading conditions for which certification is requested. This must be shown by:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Tests upon a balloon of the type for which certification is requested or by calculations based on, and equal in accuracy to, the results of testing; and",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Systematic investigation of each mass if compliance cannot be r easonably inferred from the masses investigated.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-127332133",
+    "erulesId": "ERULES-1963177438-5008",
+    "title": "CS 31HB.14 Mass limits",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B – FLIGHT",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.14 Mass limits",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The range of masses over which the balloon may be safely operated must be established and at least consists of:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Maximum mass.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The maximum mass is the highest mass at which compliance with each applicable requirement of CS-31HB is shown. The maximum mass must be established so that it is not more than the least of: (See AMC 31HB.14(a) )",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "The maximum mass selected for the product;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "The design maximum mass, which is the highest mass at which each structural loading condition is shown; or",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "The maximum mass at which compliance with each applicable flight requirement is shown.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "Minimum mass.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "The minimum mass is the lowest mass at which compliance with each applicable flight requirement is shown. (See AMC 31HB.14(b) )",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "Mass limitations between which the balloon may be safely operated must be included in the Flight Manual. (See CS 31HB.81(b)(2) )",
+        "pStyle": "Normal1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1930702935",
+    "erulesId": "ERULES-1963177438-5019",
+    "title": "CS 31HB.16 Empty mass",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B – FLIGHT",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.16 Empty mass",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The empty mass must be determined by weighing the balloon with installed equipment but without lifting gas. (See AMC 31HB.16 )"
+      }
+    ]
+  },
+  {
+    "sdtId": "1841645987",
+    "erulesId": "ERULES-1963177438-5029",
+    "title": "CS 31HB.17 Performance: climb",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B – FLIGHT",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.17 Performance: climb",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The balloon must be capable of climbing at least 90 metres in the first minute from a start in equilibrium at ground level. Compliance must be shown at the maximum mass appropriate to the conditions of the test. (See AMC 31HB.17 )"
+      }
+    ]
+  },
+  {
+    "sdtId": "1146161251",
+    "erulesId": "ERULES-1963177438-5039",
+    "title": "CS 31HB.20 Controllability",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B – FLIGHT",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.20 Controllability",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The balloon must be safely controllable and manoeuvrable without requiring exceptional piloting skill. Associated operational limitations must be established and included in the Flight Manual. (See CS 31HB.81(b)(2) )"
+      }
+    ]
+  },
+  {
+    "sdtId": "1408476197",
+    "erulesId": "ERULES-1963177438-5049",
+    "title": "CS 31HB.21 Loads",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C – STRUCTURE",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.21 Loads",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Strength requirements are specified in terms of:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "limit loads that are the maximum loads to be expected in service, taking into account the load factors of CS 31HB.23 and",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "ultimate loads that are limit loads multiplied by factors of safety of CS 31HB.25 .",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1251635106",
+    "erulesId": "ERULES-1963177438-4965",
+    "title": "CS 31HB.23 Load factors",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C – STRUCTURE",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.23 Load factors",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Flight load factor. In determining limit loads, the limit load factor must be at least 1·4, except for (b).",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Landing load factor. For all parts belonging to the balloon’s suspension system, including the envelope to suspension system pick up points, limit load must be determined using a limit load factor of at least 3·0.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-511537844",
+    "erulesId": "ERULES-1963177438-4966",
+    "title": "CS 31HB.25 Factors of safety",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C – STRUCTURE",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.25 Factors of safety",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11 /0 13 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "A factor of safety must be used in the balloon design as provided in the table.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [],
+              "width": "2607"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Safety factor"
+                }
+              ],
+              "width": "2393"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Envelope"
+                }
+              ],
+              "width": "2607"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "5 . 00"
+                }
+              ],
+              "width": "2393"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Suspension components (fibrous or non-metallic)"
+                }
+              ],
+              "width": "2607"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "2 . 25"
+                }
+              ],
+              "width": "2393"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Suspension components (metallic)"
+                }
+              ],
+              "width": "2607"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1 . 50"
+                }
+              ],
+              "width": "2393"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Other"
+                }
+              ],
+              "width": "2607"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1 . 50"
+                }
+              ],
+              "width": "2393"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "A reduced factor of 2 or more may be used in the envelope design if it is shown that the selected factor will preclude failure due to creep or instantaneous rupture from lack of rip stoppers. The selected factor must be applied to the more critical of the maximum operating pressure or envelope stress.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "The primary attachments of the envelope to the basket must be designed so that any single failure will not jeopardise safety of flight.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "For design purposes, an occupant mass of at least 77 kg must be assumed.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1970627685",
+    "erulesId": "ERULES-1963177438-4967",
+    "title": "CS 31HB.27 Strength and proof of strength",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C – STRUCTURE",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.27 Strength and proof of strength",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11 /0 13 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The structure must be able to support limit loads without permanent deformations or other detrimental effects.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The structure must be able to withstand ultimate loads for at least 3 seconds without failure.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "For the balloon envelope, proof of strength must also make allowance for tear growth after damage of the envelope in order to prevent propagation of a tear to a hazardous size. (See AMC 31HB.27(c) )",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The basket must be of a generally robust design and afford the occupants adequate protection during a hard or fast landing. There must be no design feature that by reasonably envisaged distortion or failure would be likely to cause s erious injury to the occupants. (See AMC 31HB.27(d) )",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "The design and strength of components (particularly the burner frame/load frame) must also consider the effects of recurrent and other loads experienced during ground handling and transportation. (See AMC 31HB.27(e) )",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "The effect of temperature and other operating characteristics that may affect strength of the balloon must be accounted for.",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "Each item of mass that could cause an unsafe condition if it broke loose must be restrained under all loads up to the ultimate loads specified in this paragraph. The local attachments in the load path between the restrains and the structure sh ould be designed to withstand 1 . 33 times the specified ultimate loads (See AMC 31HB.27(g) ):",
+        "marker": "(g)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "Horizontal 6 . 0g,",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "Downward 6 . 0g,",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "Upward 2 . 0g.",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "[Amdt No.: 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2120545959",
+    "erulesId": "ERULES-1963177438-4968",
+    "title": "CS 31HB.28 Tethered flight loads",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C – STRUCTURE",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.28 Tethered flight loads",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The effects of the loads associated with tethered flight on the balloon’s components (particularly the burner frame/load frame) and any additional equipment (if required) must be considered in the design. (See AMC 31HB.28(a) )",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The tethered restraint system must be designed so that any single failure will not jeopardise the safety of the occupants, the balloon and or third parties.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The landing load factor and factor of safety for suspension components must be used for tethering-specific components forming part of the primary load path (e.g. forged rings, v-bridles). (See AMC 31HB.28(c) )",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Operational limitations, associated to tethered flight, must be established and recorded in the Flight Manual. (See CS 31HB.81(b)(2) )",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1425061220",
+    "erulesId": "ERULES-1963177438-4969",
+    "title": "CS 31HB.30 Restraint harness",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART C – STRUCTURE",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.30 Restraint harness",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "When an occupant restraint harness is installed, the harness must not fail when subjected to loads resulting from the occupant mass submitted to the following acceleration (See Figure 1):",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "2. 0g Upwards",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "3. 0g Horizontally in all directions.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Figure 1 Restraint harness loads",
+        "pStyle": "Normal1",
+        "pRStyle": "easaCharHead"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "An occupant mass of at least 86 kg must be assumed for the purposes of this paragraph.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Local attachments in the load path between the safety belt or harness and the main structure of the basket, restraining the occupant, must be shown to be able to withstand the loads prescribed in CS 31HB.30(a) mult iplied by a fitting factor of 1. 33.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1755160315",
+    "erulesId": "ERULES-1963177438-4970",
+    "title": "CS 31HB.31 General",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.31 General",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The suitability of each design detail or part that bears on safety must be established by tests or analysis."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1949691115",
+    "erulesId": "ERULES-1963177438-4971",
+    "title": "CS 31HB.33 Materials",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.33 Materials",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The suitability and durability of materials used for parts, the failure of which could adversely affect safety, must",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "be established by experience or tests; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "meet approved specifications that ensure their having the strength and other properties assumed in the design data. (See AMC 31HB.33(a)(2) )",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Envelope materials must be shown not to support continued burning if ignited by the heater when the balloon is inflated or in flight.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1441478130",
+    "erulesId": "ERULES-1963177438-4972",
+    "title": "CS 31HB.35 Fabrication methods",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.35 Fabrication methods",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The methods of fabrication used must produce a consistently sound structure. If a fabrication process requires close control to reach this objective, the process must be performed in accordance with an approved process specification. (See AMC 31HB.35 )"
+      }
+    ]
+  },
+  {
+    "sdtId": "1284637039",
+    "erulesId": "ERULES-1963177438-4973",
+    "title": "CS 31HB.37 Fasteners",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.37 Fasteners",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Fasteners (e.g. bolts, pins, screws, karabiners, fuel cell straps) used in the structure must conform to approved specifications. (See AMC 31HB.37 )",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Locking methods must be established and documented.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Unless a joint is free from relative movement, secondary locking means must be used.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Self-locking nuts may not be used on bolts that are subject to rotation in service.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-776424060",
+    "erulesId": "ERULES-1963177438-4974",
+    "title": "CS 31HB.39 Protection of parts",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.39 Protection of parts",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Parts the failure of which could adversely affect safety must be suitably protected against deterioration or loss of strength in service due to weathering, corrosion, heat, abrasion, ground handling, ground transport, flight conditions or other causes. (See AMC 31HB.39 )"
+      }
+    ]
+  },
+  {
+    "sdtId": "919251395",
+    "erulesId": "",
+    "title": "CS 31HB.41 Inspection provisions",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.41 Inspection provisions",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "There must be a means to allow close examination of each part that requires repeated inspection and adjustment."
+      }
+    ]
+  },
+  {
+    "sdtId": "-762410307",
+    "erulesId": "ERULES-1963177438-4977",
+    "title": "CS 31HB.43 Fitting factor",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.43 Fitting factor",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "A fitting factor of at least 1·15 must be used in the analysis of each fitting the strength of which is not proven by limit and ultimate load tests in which the actual stress conditions are simulated in the fitting and surrounding structure. This factor applies to all parts of the fitting, the means of attachment, and the bearing on the structural elements joined.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Each part with an integral fitting must be treated as a fitting up to the point where the section properties become typical of the member.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The fitting factor need not be used if the joint design is made in accordance with approved practices and the safety of which is based on comprehensive test data. (See AMC 31HB.43(c) )",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1870128257",
+    "erulesId": "ERULES-1963177438-4978",
+    "title": "CS 31HB.44 Protection of envelope against tearing",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.44 Protection of envelope against tearing",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11 /0 13 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The design of the envelope must be such that, while supporting limit load, local damage will not grow to an extent that results in uncontrolled flight or landing."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "830362563",
+    "erulesId": "ERULES-1963177438-4979",
+    "title": "CS 31HB.45 Fuel cells",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.45 Fuel cells",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "It must be demonstrated by test or analysis or both that fuel cell’s have sufficient strength margins to withstand all conditions of internal and external pressures, temperatures and loads likely to be encountered in operation, including during ground handling and ground transport. (See AMC 31HB.45(a) )",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The compatibility of the cells material with the fuel must be justified. Fatigue, ageing, fire resistance and corrosion capability of the cells must be assessed and any necessary limitation, protection or maintenance action must be determined.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Fuel cells, their attachments and related supporting structure must be shown by tests to be capable of withstanding, without detrimental distortion or failure, any inertia loads to which the installation may be subjected in operation. (See AMC 31HB.45(c) )",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "A pressurised fuel cell must be equipped with:",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "A shut-off valve. This valve must be equipped with a self-sealing coupling, or other means to avoid the release of hazardous quantities of fuel should the control be inadvertently operated without a fuel line connected. (See AMC 31HB.45(d)(1) )",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "A pressure relief valve, which must protect the fuel cell against over pressurisation.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "A means to control the maximum filling.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "A means to assess the fuel quantity. (See also CS 31HB.47(c)(2) )",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "A data plate containing information necessary for safe operation. (See AMC 31HB.45(d)(5) )",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "Guards must be fitted to all fuel cells to protect the valves and other fittings from fuel leakage in case of:",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "Inadvertent operation and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "Damage, during normal operation, ground handling or transport.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "Rigid extensions must not be fitted directly to fuel cell valves or fittings due to the likelihood of overload or fracture occurring in the case of a hard or fast landing. (See also CS 31HB.46 )",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "254365435",
+    "erulesId": "ERULES-1963177438-4980",
+    "title": "CS 31HB.46 Pressurised fuel systems",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.46 Pressurised fuel systems",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "For pressurised fuel systems each part, must be tested to, or have a safe working pressure of at least twice the maximum pressure to which the system will be subjected in normal operation. In the test, no part of the system may leak, fail or malfunction.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "All parts of a pressurised fuel system must be generally robust and capable of withstanding impact and abuse loads and related deformation that are likely to occur in service. (See AMC 31HB.46(b) )",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "If applicable, parts of the pressurised fuel system must be permanently marked to preclude incorrect installation.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "No part of the system may have an unprotected rigid extension that could be broken in any likely impact situation. (See also CS 31HB.45(f) ).",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Where fuel systems include demountable fuel lines, a self-sealing coupling, or other means must be fitted to each outlet of each line to avoid the release of hazardous quantities of fuel should a fuel cell valve be inadvertently operated without a fuel line o utlet connected.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1167720704",
+    "erulesId": "ERULES-1963177438-4981",
+    "title": "CS 31HB.47 Heater system",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.47 Heater system",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The system must be designed and installed so as not to create a fire hazard.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Parts adjacent to a heater (and if applicable, its flame) and the occupants must be protected from excessive heat.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "There must be controls, instruments, or other equipment essential to safe control and operation of the heater system. They must be shown to be able to perform their intended functions during normal and emergency operation.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "Where a heater system has more than one fuel supply or more than one control on each fuel supply, there must be unambiguous means to differentiate between each control, its source of supply and its function. (See AMC 31HB.47(c)(1) )",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "The heater system must have a device or other means to indicate the quantity of fuel available. (See AMC 31HB.47(c)(2) )",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "For a burner, each control system must have a device that indicates whether the heat output is high, normal or low. (See AMC 31HB.47(c)(3) )",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "The reliability of the heater system must be substantiated by a test designed to reflect the limiting conditions likely to be encountered in service, both in kind and duration.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "For a burner, the test must include at least three flameouts and restarts.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "Each element of the system must be serviceable at the end of the test.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "For a burner, the pilot light (or other means of ignition) must be shown to operate reliably in typical gusts and rain, must be readily accessible for relighting and must be easily relit. Continued operation of a heater must be possible in the event of a sustained pilot light failure.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "Except in single-occupant balloons, the heater system must be designed so that in the event of any single failure, it will retain sufficient heat output to maintain level flight. (See AMC 31HB.47(f) )",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1968679292",
+    "erulesId": "ERULES-1963177438-4982",
+    "title": "CS 31HB.49 Control systems",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.49 Control systems",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Each control must operate easily, smoothly, and positively enough to allow proper performance of its functions. Controls must be so arranged and identified to prevent confusion and inadvertent operation.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Each control system and operating device must be designed and installed in a manner that will prevent jamming, chafing, or unintended interference from passengers or loose items of equipment. The elements of the control system must have design features or must be distinctly and permanently marked to minimise the possibility of incorrect assembly that could result in malfunctioning of the control system.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "To prevent bursting of the envelope, each mixed balloon using a captive gas as a lifting means must be equipped with a valve or appendix through which sufficient gas volume can be released automatically once the maximum operating pressure is reached.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "Each Hot Air Balloon must ha ve a means to allow the controlled release of hot air during flight unless the balloon complies with CS 31HB.20 without it.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "For the purpose of envelope material protection, each Hot Air Balloon must have a means to indicate the maximum envelope skin tem perature or maximum internal air temperature during operation. (See AMC 31HB.49(e) )",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "502666628",
+    "erulesId": "ERULES-1963177438-4983",
+    "title": "CS 31HB.51 Disposable ballast",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.51 Disposable ballast",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Each mixed balloon using disposable ballast must have means for safe storage and release of the disposable ballast. (See AMC 31HB.51 )"
+      }
+    ]
+  },
+  {
+    "sdtId": "-413609686",
+    "erulesId": "ERULES-1963177438-4984",
+    "title": "CS 31HB.53 Drag rope",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.53 Drag rope",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "If a drag rope is used, the end that is released overboard must be stiffened to preclude the probability of the rope becoming entangled with trees, wires, or other objects on the ground."
+      }
+    ]
+  },
+  {
+    "sdtId": "907808912",
+    "erulesId": "ERULES-1963177438-4985",
+    "title": "CS 31HB.55 Rapid deflation means",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.55 Rapid deflation means",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The envelope must have means to allow for rapid deflation after landing. The system must be designed to minimize the possibility of inadvertent operation. If a system other than a manual system is used, the reliability of the system used must be substantiated. (See AMC 31HB.55(a) ).",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "If a mixed balloon is equipped with a lateral rapid deflation means, a device must be i nstalled to align the balloon during landing in order to turn the rapid deflation means into its designated position. (See AMC 31HB.55(b) )",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "444208459",
+    "erulesId": "ERULES-1963177438-4987",
+    "title": "CS 31HB.57 Control cords",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.57 Control cords",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "General",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "All control cords used for flight control must be designed and installed to preclude entanglement and inadvertent operation.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "The maximum force required for their operation must not exceed 340 N.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "All control cords used for flight control must be long enough to allow for an increase of at least 10 % in the vertical dimension of the envelope.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Arming device",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "If an arming device is employed to prevent inadvertent operation of an irreversible control, the part of the device to be handled by the pilot must be coloured with yellow and black bands.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "Turning vent cords",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "If turning vent cords are used to orient the balloon for landing, the part of cords to be handled by the pilot for turning to the left must be coloured black and the corresponding part of the cord used for turning to the right must be coloured green. (See AMC 31HB.57(c) ).",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "Venting cords",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "If a venting cord is used to allow controlled release of the lifting gas and the vent can be resealed in flight, the part of the cord to be handled by the pilot must be coloured with red and white bands.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "If a further cord is required to re-seal any vent, the part of the cord handled by the pilot must be coloured white.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "Rapid or emergency deflation cords",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 1,
+        "text": "If a cord is used for rapid or emergency deflation of the envelope and the device cannot be resealed in flight, the part of the cord to be handled by the pilot must be coloured red.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 1,
+        "text": "In addition to the force requirement of CS 31HB.57(a)(2) above, the force required to operate a rapid or emergency deflation cord must not be less than 110 N.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-893795162",
+    "erulesId": "ERULES-1963177438-4988",
+    "title": "CS 31HB.59 Baskets",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.59 Baskets",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11/ 0 13/ R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The basket may not rotate independently of the envelope unless:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "the rotation is under control of the pilot; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "entanglement of operating lines is prevented.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "(See AMC 31HB.59(a) )",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Each projecting object on the basket, that could cause injury to the occupants, must be padded.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Occupants of a basket must be protected during hard or fast landings against:",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "falling from the basket;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "serious injuries. (See AMC 31HB.59(c) )",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "When more than six occupants are carried, the basket must be divided into compartments, each containing not more than six occupants.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "Where basket proportions and compartmentation are such that more than one occupant may fall on top of another during landing, there must be means to minimise this possibility. (See AMC 31HB.59(e) )",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "Reasonable space must be provided for all occupants, with regard to both comfort during the flight and to safety during the landing. (See AMC 31HB.59(f) )",
+        "marker": "(f)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "The space for the pilot must provide unobstructed operation in all flight phases.",
+        "marker": "(g)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "There must be hand holds for each occupant. (See AMC 31HB.59(h) )",
+        "marker": "(h)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 0,
+        "text": "Means must be provided to allow drainage of vapour or liquid from the bottom of the basket.",
+        "marker": "(i)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": 0,
+        "text": "The load-bearing parts (e.g. ropes or cables) of the suspension system must be routed in a way that excludes the possibility of them being damaged in normal service.",
+        "marker": "(j)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": 0,
+        "text": "The basket floor must not project beyond the sidewalls.",
+        "marker": "(k)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": 0,
+        "text": "Limitations on the occupancy and configuration of a basket must be provided in the Flight Manual. ( See CS 31HB.81 and AMC 31HB.59(l) )",
+        "marker": "(l)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-617466463",
+    "erulesId": "ERULES-1963177438-4989",
+    "title": "CS 31HB.63 Occupant restraint",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.63 Occupant restraint",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "There must be a restraining means for all occupants, which can take the form of hand holds. (See CS 31HB.59(h) )",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "For baskets having a separate pilot compartment, there must be a suitable restraint for the pilot which must meet the strength requirements of CS 31HB.30 . Additionally, the restraint must be designed so that:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "the pilot can reach all the necessary controls when the restraint is correctly worn and adjusted;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "there is a method of quick release that is simple and obvious; and",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "the possibility of inadvertent release is minimised.",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1882193620",
+    "erulesId": "ERULES-1963177438-4990",
+    "title": "CS 31HB.67 Tethered flight",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART D – DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.67 Tethered flight",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The pilot must be provided with an indication that any applicable limitations for tethered flight are being, or have been reached. (See AMC 31HB.67 )"
+      }
+    ]
+  },
+  {
+    "sdtId": "-228909202",
+    "erulesId": "ERULES-1963177438-4991",
+    "title": "CS 31HB.71 Function and installation",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART F – EQUIPMENT",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.71 Function and installation",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "Each item of required equipment must:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "be of a kind and design appropriate to its intended function;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "be labelled or marked to identify its function or operating limitations, or any applicable combination of these factors;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "be installed according to limitations specified for that equipment; and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "function properly when installed. (See AMC 31HB.71(a)(4) )",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Instruments and other equipment may not in themselves, or by their effect upon the balloon, constitute a hazard to safe operation.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1755783192",
+    "erulesId": "ERULES-1963177438-4992",
+    "title": "CS 31HB.72 Miscellaneous equipment",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART F – EQUIPMENT",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.72 Miscellaneous equipment",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11/013 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Each balloon must be equipped with:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "General:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "A standby source of ignition for the pilot light or burner.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "An envelope temperature indicator, which may either be of the continuous reading type or a type that gives a warning signal. (See also CS 31HB.49(e) )",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "Where flight manual limitations specify a rate of climb or descent; a rate of climb/descent indicator (variometer).",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "A fire extinguisher. (See AMC 31HB.72(a)(4) )",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "A 'kit' of tethering components, if the balloon is specifically approved for tethered operations. (See CS 31HB.28 )",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "For mixed balloons minimum ballast, if applicable.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1015685927",
+    "erulesId": "ERULES-1963177438-4993",
+    "title": "CS 31HB.81 Operating instructions",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART G – OPERATING LIMITATIONS AND INFORMATION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.81 Operating instructions",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "(See AMC 31HB.81 )",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Operating instructions must be furnished in a Flight Manual with each balloon.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Flight Manual Information and Approval. The Flight Manual must contain:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "A description of the balloon and its technical equipment with explanatory sketches;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "Operating limitations, normal procedures (including rigging, inflation and deflation), emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation. This section of the manual requires approval (See AMC 31HB.81(b)(2) );",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "Specification of the permissible lifting gas (for mixed balloons only); and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "Information for ground handling, transport and storage.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation must be provided to the pilot. (See AMC 31HB.81(c) )",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "439688796",
+    "erulesId": "ERULES-1963177438-4994",
+    "title": "CS 31HB.82 Instructions for continued airworthiness",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART G – OPERATING LIMITATIONS AND INFORMATION",
+      "CS-31HB Book 1 Certification specifications"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS 31HB.82 Instructi ons for continued airworthiness",
+        "pStyle": "Heading3CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The instructions for Continued Airworthiness must include information essential to the Continued Airworthiness of all parts and appliances of the balloon as required by CS-31HB.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The instructions for Continued Airworthiness must be in the form of a manual or manuals as appropriate for the quantity of data provided.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The format of the manual or manuals must provide for a practical arrangement. (See AMC 31HB.82(c) )",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "The instructions for Continued Airworthiness must cover:",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "a detailed description of the balloon and its components, systems and installations; (See AMC 31HB.82(d)(1) )",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "handling instructions;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "basic control and operating information describing how the balloon’s components, systems and installations operate;",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "servicing information;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "a maintenance schedule against which the balloon must be inspected and maintained; (See AMC 31HB.82(d)(5) )",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "maintenance and inspection instructions; (See AMC 31HB.82(d)(6) )",
+        "marker": "(6)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "repair instructions;",
+        "marker": "(7)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "trouble-shooting information; and",
+        "marker": "(8)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 1,
+        "text": "airworthiness limitations that set forth each mandatory replacement time, inspection interval and related inspection procedure. This section of the manual requires approval. (See AMC 31HB.82(d)(9) )",
+        "marker": "(9)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "-163360100",
+    "erulesId": "ERULES-1963177438-4996",
+    "title": "AMC 31HB.14(a) Mass limits",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART B – FLIGHT",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.14(a) Mass limits",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The maximum mass corresponds to the maximum buoyancy. The lift-producing medium is not part of the maximum mass."
+      }
+    ]
+  },
+  {
+    "sdtId": "-844831083",
+    "erulesId": "ERULES-1963177438-4998",
+    "title": "AMC 31HB.14(b) Mass limits",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART B – FLIGHT",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.14(b) Mass limits",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Minimum mass: In arriving at this figure, especially with larger balloons, attention should be paid to the ability to properly operate the balloon, in terms of both its heating and venting, with the reduced envelope rigidity associated with low mass operation."
+      }
+    ]
+  },
+  {
+    "sdtId": "-149346347",
+    "erulesId": "ERULES-1963177438-4999",
+    "title": "AMC 31HB.16 Empty mass",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART B – FLIGHT",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.16 Empty mass",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The equipment and configuration that is included in the empty mass should be specified. Refer also to AMC 31HB.81(b)(2) ."
+      }
+    ]
+  },
+  {
+    "sdtId": "2020501292",
+    "erulesId": "ERULES-1963177438-5000",
+    "title": "AMC 31HB.17 Performance: climb",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART B – FLIGHT",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.17 Performance: climb",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "\"Conditions of the test\" here refers to the combination of launch field elevation (launch altitude) and corresponding ambient air temperature. The test should be conducted at minimum specified burner fuel pressure."
+      }
+    ]
+  },
+  {
+    "sdtId": "1212619881",
+    "erulesId": "ERULES-1963177438-5001",
+    "title": "AMC 31HB.25 Factors of safety",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.25 Factors of safety",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11 /0 13 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The term \"envelope\" here includes the integral vertical and horizontal load tapes as well as the envelope fabric(s). It should be noted that the envelope to suspension system pick-up points (sometimes known as ‘turnbacks’) should be regarded as part of the suspension system, rather than the envelope, as far as CS 31HB.25 is concerned."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "\"Suspension components\" here are those components, from the base of the envelope down, upon which form the primary load paths of the trapeze, basket or other means provided for the occupants."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The individual structural elements in the suspension system should be dimensioned and configured or duplicated so that failure of one structural element (single failure) does not cause any uncontrollable operating condition. The factors of safety apply to all parts of the load bearing path (e.g. joints, splices, knots, terminals etc)."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "The post-single failure case should be justified with the application of limit loads."
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "2133066080",
+    "erulesId": "ERULES-1963177438-5003",
+    "title": "AMC 31HB.27 Strength and proof of strength",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.27 Strength and proof of strength",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Proof of compliance with the strength requirements should cover the balloon's entire operating range. Proof by calculation only can be accepted for designs where it has been demonstrated by experience that such calculation gives reliable results. Load tests should be performed in all other cases."
+      }
+    ]
+  },
+  {
+    "sdtId": "1856737381",
+    "erulesId": "ERULES-1963177438-5004",
+    "title": "AMC 31HB.27(c) Strength and proof of strength",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.27(c) Strength and proof of strength",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "For the envelope tests may be performed on representative portions of the envelope provided the dimensions of these portions are sufficiently large to include critical design features and details such as critical seams, joints, load-attachment points, etc."
+      }
+    ]
+  },
+  {
+    "sdtId": "809880754",
+    "erulesId": "ERULES-1963177438-5005",
+    "title": "AMC 31HB.27(d) Strength and proof of strength",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.27(d) Strength and proof of strength",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "A drop test should be performed if it is not possible to make use of an existing proven basket of the same or similar design (in terms of construction method, size, layout etc.) for a balloon of the size that is the subject of the application. In the absence of an alternative test proposal, this test should be performed at the maximum design mass of the basket in a manner that simulates the effects of gravity that occur as realistically as possible. The basket is dropped onto a horizontal concrete surface from a height of 1 m at 0°, 15° and 30°. The drop test should not result in deformation or fractures which, by their nature, could lead to the serious injury of occupants."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Note: It has been shown by a number of decades of in-service experience that the traditional reinforced woven wicker and willow basket design offers a combination of resilience and impact resistance that can contribute considerably to the protection of occupants. The structure is also able to absorb considerable kinetic energy during impact on the ground or against obstacles."
+      }
+    ]
+  },
+  {
+    "sdtId": "-884923949",
+    "erulesId": "ERULES-1963177438-5006",
+    "title": "AMC 31HB.27(e) Strength and proof of strength",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.27(e) Strength and proof of strength",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The strength requirements should include consideration of the ground handling case. The loads occurring in service should be determined and the parts and components under particular stress should be designed in accordance with their designated use and dimensioned such as not to fail under recurrent loads."
+      }
+    ]
+  },
+  {
+    "sdtId": "1102626363",
+    "erulesId": "ERULES-1963177438-6589",
+    "title": "AMC 31HB.27(g) Strength and proof of strength",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.27(g) Strength and proof of strength",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2001/013/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "This requirement for items of mass does not apply to fuel cells that are subject to specific requirements in CS 31HB.45(c)"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Items of mass (e.g. batteries or equipment) inside the basket or attached to the suspension system near or above the occupants should be considered because of their risk to the occupants."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "Items of mass that do not cause a risk to the occupants during a hard or fast landing, but could become detached from the balloon (e.g. ballast attached to the outside of the basket in case of a mixed balloon), should be considered because of the potential loss of mass."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "294744952",
+    "erulesId": "ERULES-1963177438-5007",
+    "title": "AMC 31HB.28(a) Tethered flight loads",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.28(a) Tethered flight loads",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Due to the complexity of tethered flight loading, a simple analysis using configurations based on industry best practice (e.g. 'restraints/tether lines in a \"flat tripod\" configuration with upwind and downwind v-bridles) can be used to determine the suitability of a design."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Note: The greatest danger during tethering is if any element of the tethering equipment should fail with insufficient positive buoyancy for safe free flight. For this reason single point/single element tethering should not be considered."
+      }
+    ]
+  },
+  {
+    "sdtId": "-788944184",
+    "erulesId": "ERULES-1963177438-5009",
+    "title": "AMC 31HB.28(c) Tethered flight loads",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART C – STRUCTURE",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.28(c) Tethered flight loads",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "An appropriate factor of safety is CS 31HB.25(a) for metallic components or CS 31HB.25(c) for non-metallic or fibrous suspension components."
+      }
+    ]
+  },
+  {
+    "sdtId": "931771519",
+    "erulesId": "ERULES-1963177438-5010",
+    "title": "AMC 31HB.33(a)(2) Materials",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.33(a)(2) Materials",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Approved specifications here should be taken as being those produced by the applicant or those meeting internationally recognised standards as defined applicable in the type design data. Material specifications should be those contained in documents accepted either specifically by the Agency or by having been prepared by an organisation or person which the Agency accepts has the necessary capabilities. In defining design properties these material specification values should be modified and/or extended as necessary by the constructor to take account of manufacturing practices (for example method of construction, forming, machining and subsequent heat treatment). Also the effects of environmental conditions, such as temperature and humidity, expected in service should be taken into account."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1845126788",
+    "erulesId": "ERULES-1963177438-5011",
+    "title": "AMC 31HB.35 Fabrication methods",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.35 Fabrication methods",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Approved fabrication methods here should be taken as being those produced by the applicant or those meeting internationally recognised standards as defined in the applicable type design data. Fabrication methods should be those contained in documents accepted either specifically by the Agency or by having been prepared by an organisation or person which the Agency accepts has the necessary capabilities."
+      }
+    ]
+  },
+  {
+    "sdtId": "1800682369",
+    "erulesId": "ERULES-1963177438-5012",
+    "title": "AMC 31HB.37 Fasteners",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.37 Fasteners",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC 31HB.33(a) ."
+      }
+    ]
+  },
+  {
+    "sdtId": "-985710028",
+    "erulesId": "ERULES-1963177438-5013",
+    "title": "AMC 31HB.39 Protection of parts",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.39 Protection of parts",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Suspension system cables and components manufactured from stainless steels (corrosion resistant steels) are considered compliant with this requirement."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "To ensure the suitable protection of parts against deterioration or loss of strength, it is permissible to rely on instructions for continued airworthiness (e.g. recommended inspections or mandatory replacement of parts) (See also CS 31HB.82 )."
+      }
+    ]
+  },
+  {
+    "sdtId": "2018552899",
+    "erulesId": "ERULES-1963177438-5014",
+    "title": "AMC 31HB.43(c) Fitting factors",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.43(c) Fitting factors",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Approved practices here should be taken as being those produced by the applicant or those meeting internationally recognised standards as defined in the applicable type design data. Approved practices should be those contained in documents accepted either specifically by the Agency or by having been prepared by an organisation or person which the Agency accepts has the necessary capabilities."
+      }
+    ]
+  },
+  {
+    "sdtId": "1629827525",
+    "erulesId": "ERULES-1963177438-5015",
+    "title": "AMC 31HB.44 Protection of envelope against tearing",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.44 Protection of envelope against tearing",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2011/013/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Unless it can be demonstrated that basic envelope fabric has sufficient rip-stopping capability, horizontal and vertical load tapes and/or other rip-stoppers should be incorporated into the structure of the envelope so that likely tear lengths are limited to those for which level flight can be maintained. Failure of the envelope between rip-stoppers should be taken into account in the proof of the structure."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Demonstration of sufficient rip-stopping capability of the envelope fabric.",
+        "pRStyle": "Underline"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The objective of this demonstration is to show that the envelope fabric is sufficiently damage resistant. It therefore needs to be determined at what tear size the envelope fabric would continue to tear under the maximum tension and conditions (Temperature) experienced in normal operation. In this AMC this tear size is called the critical damage."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "In order to establish that the determined damage resistance is sufficient, the critical damage should be reviewed in relation to local damage foreseeable in normal operation. The local damages to be considered are:"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "Existing damage that may be undetected during pre-flight inspection, and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Limited damage, inflicted during flight where the size of the damage in itself would not result in a catastrophic failure. (e.g. a limited damage caused by hitting a branch or other basket during take off)",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "The resistance of envelope fabric to damage propagation should be determined by test."
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "Determine the critical damage to the envelope fabric at the maximum tension experienced in service. Critical damage is the maximum damage at which growth does not occur."
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "Damages to be considered are:"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "A slit in the most unfavourable direction;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "A crosswise slit in the most unfavourable directions.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "Test requirements",
+        "pRStyle": "Underline"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "The envelope fabric should be tested at maximum tension experienced in service. The effects of temperature on the material properties must be taken into account."
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "The tension in the test area of the specimen of the fabric should be equal to the maximum tension experienced in service and the test method should not create unacceptable tension re-distributions in the test area when the test is conducted."
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "A step-wise increase of the damage (e.g. a cut with a sharp knife) should be used to determine the critical damage size."
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "Between the step-wise increases of the damage, enough time should be permitted for the tension re-distribution at the damage location."
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "The critical damage length of the material should be recorded."
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "Examples of a circular or 2-directional test set-up.",
+        "pRStyle": "easaCharHead"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": -1,
+        "text": "Pre-flight inspection requirements",
+        "pRStyle": "Underline"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": -1,
+        "text": "The design of the envelope and pre-flight Inspection method should be such that visible damage considerably smaller in length than the critical damage length can be detected during a pre-flight inspection. The impact of ageing and operating circumstances should be considered when establishing the margin between critical damage and detectable damage length (refer to CS 31HB.27(f) )."
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": -1,
+        "text": "Design features that could possibly hinder detection of damage during a pre-flight inspection should be avoided or taken into consideration when the detectable damage length is determined."
+      },
+      {
+        "type": "paragraph",
+        "index": 24,
+        "level": -1,
+        "text": "Note 1: It is assumed that a visual pre-flight inspect ion will detect damage above 10 cm."
+      },
+      {
+        "type": "paragraph",
+        "index": 25,
+        "level": -1,
+        "text": "Note 2: The critical damage is a design property that should not be confused with acceptable damage as provided in the flight manual."
+      },
+      {
+        "type": "paragraph",
+        "index": 26,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-470574226",
+    "erulesId": "ERULES-1963177438-5016",
+    "title": "AMC 31HB.45(a) Fuel cells",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.45(a) Fuel cells",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The fuel cell design and manufacture should be verified by a test programme agreed by the Agency. This test programme should consider burst testing, fatigue testing, impact testing, drop testing, fire testing, macro examination of the material of the cell cylinder and welded joints (if applicable) and material variability."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Note: Road, ship or aircraft transport of fuel cells and their storage is an inherent characteristic of Hot Air Balloon operation. In order to comply with Transport and Storage legislation it is recommended to consider in parallel to airworthiness issues the compliance with such legislation applicable to pressurised gas containers (e.g. Accord européen relatif au transport international des marchandises Dangereuses par Route (ADR))."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1391020425",
+    "erulesId": "ERULES-1963177438-5017",
+    "title": "AMC 31HB.45(c) Fuel cells",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.45(c) Fuel cells",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2011/013/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The restraint of a full fuel cell (e.g. straps) should not detach under typical high g-loads experienced during a hard or fast landing."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "In case of fuel cells supported at the lower end by the basket floor or other structure, the straps and buckle restraining a fuel cell shall be designed as applicable to a horizontal limit load of 6 . 0g and upward limit load of 2 . 0g. The factor of safety of 1 . 50 is applicable to these fuel cell straps."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The strap and buckle design should be shown to maintain sufficient pre-tensioned after a flight to withs tand the upward limit load of 2 . 0g. The handling of the strap and buckle shall allow proper pre-tension, reliable locking, but also easy release e.g. for emergency fuel cell removal. Industry standards like EN 12195-2, ASTM D3950 or equivalent using the appropriate strap type and grade are co nsidered appropriate standards."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Consideration of applied loads on fuel cells should include handling and transport cases."
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1002295051",
+    "erulesId": "ERULES-1963177438-5018",
+    "title": "AMC 31HB.45(d)(1) Fuel cells",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.45(d)(1) Fuel cells",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The shut-off valve should be free from restrictors (excess flow limiters or overfill protection devices) that could fail in the closed position."
+      }
+    ]
+  },
+  {
+    "sdtId": "306810312",
+    "erulesId": "ERULES-1963177438-5020",
+    "title": "AMC 31HB.45(d)(5) Fuel cells",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.45(d)(5) Fuel cells",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The fuel cell data plate should include the following information:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "the manufacturers name or mark;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "the type design approval number (if applicable);",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "the manufacturers serial number;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "the UN number and the proper name of the gas or mixture of gases (e.g. UN1978 Propane); and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "the maximum filling of the receptacle with the fittings and accessories as fitted at the time of filling.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "Note: T he data plate should include, where applicable, information to allow safe filling by commercial facilities (e.g. filling by weight). Where a fuel cell has been designed to a standard which is not compatible with comparable industrial standards, the data pl ate should include the statement “For use in Hot Air Balloons only”."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1946080980",
+    "erulesId": "ERULES-1963177438-5021",
+    "title": "AMC 31HB.46(a) Pressurised fuel systems",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.46(a) Pressurised fuel systems",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The pressurised fuel system parts include as applicable:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "fuel cells;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "lines and hoses;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "manifolds (including T-pieces);",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "fittings .",
+        "pStyle": "bullet0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1789239886",
+    "erulesId": "ERULES-1963177438-5022",
+    "title": "AMC 31HB.46(b) Pressurised fuel systems",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.46(b) Pressurised fuel systems",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Connecting parts such as manifolds (including T-pieces) and hoses, between fuel cells should be designed so that they are not subject to pulling forces by significant deformation of the basket during a hard landing. Rigid extensions should be avoided in the design. If rigid extensions are used and could be broken in any likely impact situation they shall be protected."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Abuse loads likely to occur, such as the grabbing of a fuel hose by a passenger during landing or the abrasion of a fuel hose by a control line, should be considered. Hoses should be suitably reinforced (e.g. steel braiding) to withstand these conditions."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "Note : Commercially available brass fittings for LPG systems should not be used as they have been shown not to have the required level of robustness."
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "For fuel system parts extending outside the protected area of the load frame and basket, it should be considered that they might be impacted by obstacles or abuse loads."
+      }
+    ]
+  },
+  {
+    "sdtId": "-23558796",
+    "erulesId": "ERULES-1963177438-5023",
+    "title": "AMC 31HB.46(e) Pressurised fuel systems",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.46(e) Pressurised fuel systems",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "“Demountable fuel lines” in the sense of this requirement are fuel lines that are linked by quick disconnect couplings."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1543341853",
+    "erulesId": "ERULES-1963177438-5024",
+    "title": "AMC 31HB.47(c)(1) Heater system",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.47(c)(1) Heater system",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Colour coding of controls and fuel feeds is an acceptable means of compliance."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1386500762",
+    "erulesId": "ERULES-1963177438-5025",
+    "title": "AMC 31HB.47(c)(2) Minimum equipment",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.47(c)(2) Minimum equipment",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "An indication whether the individual fuel cell is FULL and indication for the use of the last 30% (or more) of the usable amount of fuel is considered compliant with this requirement."
+      }
+    ]
+  },
+  {
+    "sdtId": "-271859989",
+    "erulesId": "ERULES-1963177438-5026",
+    "title": "AMC 31HB.47(c)(3) Heater system",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.47(c)(3) Heater system",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "A device that indicates the fuel pressure before entering each main blast valve is considered compliant with this requirement."
+      }
+    ]
+  },
+  {
+    "sdtId": "1911130651",
+    "erulesId": "ERULES-1963177438-5027",
+    "title": "AMC 31HB.47(f) Heater system",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.47(f) Heater system",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "For those single occupant balloons which do not meet the single failure criteria in the requirement, measures to compensate for the increased likelihood of a cold descent landing (i.e. one without the assistance of a heater system) should be discussed with the Agency."
+      }
+    ]
+  },
+  {
+    "sdtId": "1754289560",
+    "erulesId": "ERULES-1963177438-5028",
+    "title": "AMC 31HB.49(e) Control systems",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.49(e) Control systems",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The use of a signal warning device, which actuates at a temperature below the limiting safe temperature, is an acceptable means of compliance."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "If the actuation of the signal warning device is of a non-recurring type, the Flight Manual should contain appropriate instructions as to the safe operation of the balloon after the actuation of the signal warning device."
+      }
+    ]
+  },
+  {
+    "sdtId": "288276896",
+    "erulesId": "ERULES-1963177438-5030",
+    "title": "AMC 31HB.51 Disposable ballast",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.51 Disposable ballast",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Ballast material should be easily transferred, disposed of and dissipated. Means should be provided to prevent freezing and/or blocking the release of the ballast material. The material should not pollute the environment."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Dry sand is a well proven material and is considered as suitable in the sense of this paragraph and this AMC."
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "The disposable ballast may be necessary for the pilot to perform the flight path management. The pre-take-off decision on the amount of disposable ballast should be left to the pilot as it is dependent on the flight task, the weather etc."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1859763418",
+    "erulesId": "ERULES-1963177438-5031",
+    "title": "AMC 31HB.55(a) Rapid deflation means",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.55(a) Rapid deflation means",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "A deflation is considered as \"rapid\" if after touch-down the balloon envelope is adequately prevented from \"sailing\" and being dragged too much over the ground by the wind."
+      }
+    ]
+  },
+  {
+    "sdtId": "42378860",
+    "erulesId": "ERULES-1963177438-5032",
+    "title": "AMC 31HB.55(b) Rapid deflation means",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.55(b) Rapid deflation means",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The installation of turning vents or a drag rope is considered as a suitable device to align the balloon during landing in the sense of this subparagraph."
+      }
+    ]
+  },
+  {
+    "sdtId": "304693806",
+    "erulesId": "ERULES-1963177438-5033",
+    "title": "AMC 31HB.57(c) Control cords; Turning vent cords",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.57(c) Control cords; Turning vent cords",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "In the interests of reducing the pilot’s workload during the critical approach phase, it should be possible to operate the turning vents (to a sufficient extent to align the basket for landing, if this is required) with one hand."
+      }
+    ]
+  },
+  {
+    "sdtId": "567008752",
+    "erulesId": "ERULES-1963177438-5034",
+    "title": "AMC 31HB.59(a) Baskets",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.59(a) Baskets",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The purpose of this subparagraph is to prevent entanglement of operating lines due to uncontrolled rotation."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "It should be noted that uncontrolled rotation, causing entanglement of operating lines, may also occur during landings with basket tip-over if the plan view of the basket floor is circular or more than hexagonal."
+      }
+    ]
+  },
+  {
+    "sdtId": "761539552",
+    "erulesId": "ERULES-1963177438-5035",
+    "title": "AMC 31HB.59(c) Baskets",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.59(c) Baskets",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "An internal height of the basket of 1.10 m, protecting the occupants carried from falling from the basket is considered compliant to this requirement."
+      }
+    ]
+  },
+  {
+    "sdtId": "1211126252",
+    "erulesId": "ERULES-1963177438-5036",
+    "title": "AMC 31HB.59(e) Baskets",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.59(e) Baskets",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Alignment of the basket for landing using turning vents or a drag rope or an equivalent feature and Flight Manual instructions specifying that the basket should be aligned to land on one of its longer sides can be used to show compliance to this requirement. No more than two occupants may be positioned in the landing direction without means to prevent them from falling on top of each other."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "If the plan view of the basket floor is circular or more than hexagonal, it should be noted that the basket may be rotationally unstable during fast drag landings. This may present a risk to occupants."
+      }
+    ]
+  },
+  {
+    "sdtId": "2124481518",
+    "erulesId": "ERULES-1963177438-5037",
+    "title": "AMC 31HB.59(f) Baskets",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.59(f) Baskets",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Unless otherwise justified on safety grounds, a minimum figure of between 0·25 m² and 0·3m² plan area should be used for each standing occupant, with proper account being taken of the specified size, number and position of equipment when applying this figure. There should be enough space provided for passengers to take a brace position for landing. The Agency should be consulted in cases where a basket’s shape or compartmentation makes the measurement of this figure subjective."
+      }
+    ]
+  },
+  {
+    "sdtId": "1660881065",
+    "erulesId": "ERULES-1963177438-5038",
+    "title": "AMC 31HB.59(h) Baskets",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.59(h) Baskets",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Handholds should be provided as an obvious means for the occupants to safely hold on to during a landing. The location or design of the handholds should provide protection of the hands from impact during a landing."
+      }
+    ]
+  },
+  {
+    "sdtId": "2035592686",
+    "erulesId": "ERULES-1963177438-5040",
+    "title": "AMC 31HB.59(l) Baskets",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.59(l) Baskets",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "This information should state, for each permissible model of basket or other means provided for the occupants, the maximum permitted occupancy in relation to specified sizes, numbers and positions of equipment items."
+      }
+    ]
+  },
+  {
+    "sdtId": "801464305",
+    "erulesId": "ERULES-1963177438-5041",
+    "title": "AMC 31HB.63(a) Occupant restraint",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.63(a) Occupant restraint",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Note : Operational legislation may also require pilot restraint to be fitted to balloons which have a single compartment basket."
+      }
+    ]
+  },
+  {
+    "sdtId": "-293251326",
+    "erulesId": "ERULES-1963177438-5042",
+    "title": "AMC 31HB.67 Tethered flight",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART D - DESIGN AND CONSTRUCTION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.67 Tethered flight",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The inclusion of an appropriate device or instrument (rated \"weak link\", hand held anemometer, windsock etc.) to provide the pilot with an attention-getting indication of the balloon’s tethering limitation, is considered compliant with CS 31HB.67 ."
+      }
+    ]
+  },
+  {
+    "sdtId": "368294515",
+    "erulesId": "ERULES-1963177438-5043",
+    "title": "AMC 31HB.71(a)(4) Function and installation",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART F - EQUIPMENT",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.71(a)(4) Function and installation",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The correct functioning should not be impaired by operational circumstances such as icing, heavy rain, high humidity or low and high temperatures. The equipment, systems, and installations should be designed to prevent hazards to the balloon in the event of a probable malfunction or failure of that equipment."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "When ATC equipment and/or positioning lights as possibly required by operational rules are installed, it should be shown that the electrical system is such that the operation of this equipment is not adversely affected by operational circumstances."
+      }
+    ]
+  },
+  {
+    "sdtId": "2127052788",
+    "erulesId": "ERULES-1963177438-5044",
+    "title": "AMC 31HB.72(a)(4) Miscellaneous equipment",
+    "applicabilityDate": "12 December, 2011",
+    "entryIntoForceDate": "12 December, 2011",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART F - EQUIPMENT",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.72(a)(4) Miscellaneous equipment",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 11 /0 13 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Fire extinguishers should:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "conform to EN3 or an equivalent specification acceptable to the Agency;",
+        "marker": "(i)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "have a minimum capacity of 2 kg when using dry powder, or when the extinguishing means is other than dry powder be at least of comparable effect and capacity.",
+        "marker": "(ii)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "[Amdt No . : 31HB/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "429155841",
+    "erulesId": "ERULES-1963177438-5045",
+    "title": "AMC 31HB.81 General",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.81 General",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "It is recommended that the Specimen Flight Manual of CS-22 (AMC 22.1581) be used as guidance in the creation of a Balloon Flight Manual.",
+        "marker": "(i)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Each part of the Flight Manual that is required to be approved should be segregated, identified and clearly distinguished from each unapproved part of that manual.",
+        "marker": "(ii)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "A comprehensive list of approved basket, burner and envelope configurations should be provided for each balloon model, to enable operators, inspectors etc. to easily establish an item’s acceptability.",
+        "marker": "(iii)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "If applicable, the operating limitations, normal and emergency procedures should include procedures and limitations for tethered flig ht. These procedures and limitations should include:",
+        "marker": "(iv)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "site selection, layout and assembly;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "the maximum wind speed and meteorological conditions for tethered operation;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "the MTOM (if different from free flight);",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "the maximum height of the tether;",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "the minimum strength of ropes, rigging etc.;",
+        "marker": "(5)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "limitations on occupancy (if applicable ).",
+        "marker": "(6)",
+        "pStyle": "ListLevel1"
+      }
+    ]
+  },
+  {
+    "sdtId": "923355070",
+    "erulesId": "ERULES-1963177438-5046",
+    "title": "AMC 31HB.81(b)(2) General",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.81(b)(2) General",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Operating procedures should provide empty mass information required by CS 31HB.16 in an unambiguous manner that will allow the verification of the balloon’s mass limitations before flight."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1417554302",
+    "erulesId": "ERULES-1963177438-5047",
+    "title": "AMC 31HB.81(c) General",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.81(c) General",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The operating limitations, normal and emergency procedures should be available to the pilot during operation by providing the specific sections of the flight manual or by other means (e.g. placards, quick reference cards) that effectively accomplish the purpose."
+      }
+    ]
+  },
+  {
+    "sdtId": "-1440894032",
+    "erulesId": "ERULES-1963177438-5048",
+    "title": "AMC 31HB.82(c) Instructions for continued airworthiness",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.82(c) Instructions for continued airworthiness",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "If instructions for continued airworthiness are not supplied by the manufacturer or designer of parts and appliances installed in the balloon, the instructions for continued airworthiness for the balloon should include the information essential to the continued airworthiness of the balloon.",
+        "marker": "(i)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "If manuals from different manufacturers are used they should p rovide a practical arrangement.",
+        "marker": "(ii)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1096781184",
+    "erulesId": "ERULES-1963177438-5050",
+    "title": "AMC 31HB.82(d)(1) Instructions for continued airworthiness",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.82(d)(1) Instructions for continued airworthiness",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The detailed description of the balloon and its components should include for each balloon:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "a description of the systems including the assembly and disassembly instructions;",
+        "marker": "(i)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "a parts list covering all construction and equipment components and the assemblies. Where applicable individual parts should be numbered so that they can be related to the different assemblies and that their number corresponds to the type plate of the assembly;",
+        "marker": "(ii)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "a summary of the materials and consumables used with procurement details.",
+        "marker": "(iii)",
+        "pStyle": "ListLevel0"
+      }
+    ]
+  },
+  {
+    "sdtId": "820452485",
+    "erulesId": "ERULES-1963177438-5051",
+    "title": "AMC 31HB.82(d)(5) Instructions for continued airworthiness",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.82(d)(5) Instructions for continued airworthiness",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "If applicable the maintenance schedule may include instructions for continued airworthiness (e.g. recommended inspections or mandatory replacement of parts) to ensure the suitable protection of parts against deterioration or loss of strength, objective pass or fail criteria e.g. applicable wear tolerances should be provided."
+      }
+    ]
+  },
+  {
+    "sdtId": "-124967752",
+    "erulesId": "ERULES-1963177438-5052",
+    "title": "AMC 31HB.82(d)(6) Instructions for continued airworthiness",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.82(d)(6) Instructions for continued airworthiness",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The maintenance and inspection instructions should provide information for removal and installation, cleaning, inspecting, adjusting, testing and lubrication of systems, parts and appliances of the balloon as required for continued airworthiness. Reference may be made to information from an accessory, instrument or equipment manufacturer as the source of this information if it is shown that the item has an exceptionally high degree of complexity requiring specialised maintenance techniques, test equipment or expertise."
+      }
+    ]
+  },
+  {
+    "sdtId": "-806438735",
+    "erulesId": "ERULES-1963177438-5053",
+    "title": "AMC 31HB.82(d)(9) Instructions for continued airworthiness",
+    "applicabilityDate": "5 March, 2009",
+    "entryIntoForceDate": "5 March, 2009",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "AMC SUBPART G - OPERATING LIMITITATIONS AND INFORMATION",
+      "CS-31HB Book 2 Acceptable Means of Compliance"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 31HB.82(d)(9) Instructions for continued airworthiness",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2009/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "If the instructions for continued airworthiness consist of multiple documents, the Airworthiness Limitations section should be included in the principal manual."
+      }
+    ]
+  }
+]

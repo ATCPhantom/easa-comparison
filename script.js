@@ -384,6 +384,15 @@ function darkenColor(hex, amount = 20) {
 function renderResults(comparison=false, labels, newTopics=[], changedTopics=[], removedTopics=[]) {
   const card = document.querySelector('.selector-card');
   card.classList.add('wide');
+  const badgeHTML = `
+    <div class="mb-3 small text-muted">
+      <span class="badge-toggle badge-ir" data-types='["IR (Implementing rule);", "DR (Delegated rule);"]'>IR / DR</span>
+      <span class="badge-toggle badge-cs" data-types='["CS (Certification specification);"]'>CS</span>
+      <span class="badge-toggle badge-amc" data-types='["AMC to IR (Acceptable means of compliance to implementing rule);", "AMC to CS (Acceptable means of compliance to certification specification);"]'>AMC</span>
+      <span class="badge-toggle badge-gm" data-types='["GM to IR (Guidance material to implementing rule);", "GM to CS (Guidance material to certification specification);"]'>GM</span>
+      <span class="badge-toggle badge-misc" data-types=["Misc."]>Misc.</span>
+    </div>
+  `;
 
   if (comparison) {
     card.innerHTML = `
@@ -392,13 +401,7 @@ function renderResults(comparison=false, labels, newTopics=[], changedTopics=[],
       </div>
       <h4 class="text-center mb-3 text-dark">Comparison: ${labels[0]} → ${labels[1]}</h4>
 
-      <div class="mb-3 small text-muted">
-        <span style="background:#007fc2; color:white; padding:2px 6px; border-radius:4px;">IR / DR</span>
-        <span style="background:#222f64; color:white; padding:2px 6px; border-radius:4px;">CS</span>
-        <span style="background:#fbbc39; color:white; padding:2px 6px; border-radius:4px;">AMC</span>
-        <span style="background:#16cc7f; color:white; padding:2px 6px; border-radius:4px;">GM</span>
-        <span style="background:#b3b3cc; color:white; padding:2px 6px; border-radius:4px;">Misc.</span>
-      </div>
+      ${badgeHTML}
 
       <div class="scroll-box mb-4">
         ${renderTopicGroup('🟢 New Topics', newTopics, 'success')}
@@ -427,13 +430,7 @@ function renderResults(comparison=false, labels, newTopics=[], changedTopics=[],
         <span class="text-uppercase">${currentRegulation}</span> - ${labels}:
       </h4>
 
-      <div class="mb-3 small text-muted">
-        <span style="background:#007fc2; color:white; padding:2px 6px; border-radius:4px;">IR / DR</span>
-        <span style="background:#222f64; color:white; padding:2px 6px; border-radius:4px;">CS</span>
-        <span style="background:#fbbc39; color:white; padding:2px 6px; border-radius:4px;">AMC</span>
-        <span style="background:#16cc7f; color:white; padding:2px 6px; border-radius:4px;">GM</span>
-        <span style="background:#b3b3cc; color:white; padding:2px 6px; border-radius:4px;">Misc.</span>
-      </div>
+      ${badgeHTML}
 
       <div class="text-center mb-2">
         <button id="export-trigger" class="btn btn-success btn-sm" onclick="startExportMatrix()" title="Export Compliance Matrix">
@@ -443,6 +440,27 @@ function renderResults(comparison=false, labels, newTopics=[], changedTopics=[],
       ${content}
     `;
   }
+  attachBadgeToggleHandlers();
+}
+
+function attachBadgeToggleHandlers() {
+  document.querySelectorAll('.badge-toggle').forEach(span => {
+    span.addEventListener('click', () => {
+      span.classList.toggle('disabled');
+      const isDisabled = span.classList.contains('disabled');
+
+      // Handle single or multiple types
+      const typesAttr = span.dataset.types || span.dataset.type;
+      const types = typesAttr ? JSON.parse(typesAttr) : [];
+      console.log(types)
+
+      types.forEach(type => {
+        document.querySelectorAll(`li[data-type="${type}"]`).forEach(el => {
+          el.style.display = isDisabled ? 'none' : '';
+        });
+      });
+    });
+  });
 }
 
 function renderTopicGroup(title, items, colorClass) {
@@ -491,12 +509,14 @@ function renderTopicGroup(title, items, colorClass) {
                 .map((item, idx) => {
                   const erulesId = item.erulesId;
                   const titleText = titleOverrides[erulesId] || item.title || '[Untitled]';
+                  const itemType = item.type?.trim() || "Misc.";
                   const typeColor = typeColorMap[item.type?.trim()] || '#b3b3cc';
                   const borderColor = darkenColor(typeColor, 30);
 
                   return `
                     <li class="list-group-item text-white text-start p-0 border-1"
-                        style="background-color: transparent; border-color: ${borderColor};">
+                        style="background-color: transparent; border-color: ${borderColor};"
+                        data-type="${itemType}">
                       <div id="topic-wrapper-${erulesId}-${idx}" 
                            onclick="toggleContent(${idx}, '${erulesId}')" 
                            style="background-color: ${typeColor}; border-radius: 0rem; overflow: hidden; cursor: pointer;">
@@ -717,7 +737,6 @@ function exportToExcel() {
 
 function toggleSectionCheckbox(sectionId) {
   const groupChecked = document.getElementById(`${sectionId}-check`)?.checked;
-  //const checkboxes = document.querySelectorAll(`#${sectionId}-topics input[type="checkbox"]`);
   const checkboxes = document.querySelectorAll(`#${sectionId} input[type="checkbox"]`)
   checkboxes.forEach(cb => cb.checked = groupChecked);
 }
@@ -728,37 +747,61 @@ function getSectionId(index, mode = 'view') {
 
 function handleExportSelection(button) {
   const type = button.dataset.type; // "IR", "AMC", "GM", or "ALL"
-  const allCheckboxes = document.querySelectorAll('#exportModalBody input[type="checkbox"][data-erulesid]');
+  const allTopics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
+  const isCurrentlyActive = button.classList.contains('active');
+  const shouldSelect = !isCurrentlyActive;
 
-  // Match rules based on full type string
-  const matchesType = (topicType) => {
-    if (type === "ALL") return true;
-    if (type === "IR") return (
-      topicType === "IR (Implementing rule);" ||
-      topicType === "DR (Delegated rule);" ||
-      topicType === "CS (Certification specification);"
-    );
-    if (type === "AMC") return topicType.startsWith("AMC to ");
-    if (type === "GM") return topicType.startsWith("GM to ");
-    return false;
-  };
+  if (type === "ALL") {
+    // Simplified logic: toggle all section group checkboxes
+    const sectionGroups = document.querySelectorAll('.export-section-group');
+    sectionGroups.forEach((group, index) => {
+      const sectionId = `export-section-${index}`;
+      const groupCheckbox = document.getElementById(`${sectionId}-check`);
+      if (groupCheckbox) {
+        groupCheckbox.checked = shouldSelect;
+        toggleSectionCheckbox(sectionId);
+      }
+    });
 
-  const checkboxesToToggle = Array.from(allCheckboxes).filter(cb => {
-    const erulesId = cb.dataset.erulesid;
-    const topic = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics]
-      .find(t => t.erulesId === erulesId);
+    // Update "Select All" button
+    button.classList.toggle('active', shouldSelect);
+    button.textContent = shouldSelect ? "Deselect All" : "Select All";
 
-    return topic && matchesType(topic.type || "");
-  });
+    // Sync sub-buttons (IR, AMC, GM)
+    ["IR", "AMC", "GM"].forEach(t => {
+      const subBtn = document.querySelector(`button[data-type="${t}"]`);
+      if (subBtn) {
+        subBtn.classList.toggle('active', shouldSelect);
+        subBtn.textContent = (shouldSelect ? "Deselect " : "Select ") + t;
+      }
+    });
+  } else {
+    // Per-type logic (IR, AMC, GM)
+    const matchesType = (topicType, checkType) => {
+      if (checkType === "IR") {
+        return (
+          topicType === "IR (Implementing rule);" ||
+          topicType === "DR (Delegated rule);" ||
+          topicType === "CS (Certification specification);"
+        );
+      }
+      if (checkType === "AMC") return topicType.startsWith("AMC to ");
+      if (checkType === "GM") return topicType.startsWith("GM to ");
+      return false;
+    };
 
-  const allChecked = checkboxesToToggle.length > 0 && checkboxesToToggle.every(cb => cb.checked);
+    const checkboxesToToggle = Array.from(
+      document.querySelectorAll('#exportModalBody input[type="checkbox"][data-erulesid]')
+    ).filter(cb => {
+      const topic = allTopics.find(t => t.erulesId === cb.dataset.erulesid);
+      return topic && matchesType(topic.type || "", type);
+    });
 
-  // Toggle
-  checkboxesToToggle.forEach(cb => cb.checked = !allChecked);
+    checkboxesToToggle.forEach(cb => cb.checked = shouldSelect);
 
-  // Update button label
-  const labelBase = type === "ALL" ? "All" : type;
-  button.textContent = (allChecked ? "Select " : "Deselect ") + labelBase;
+    button.classList.toggle('active', shouldSelect);
+    button.textContent = (shouldSelect ? "Deselect " : "Select ") + type;
+  }
 }
 
 async function exportExcelJS() {
@@ -776,6 +819,7 @@ async function exportExcelJS() {
 
   const workbook = new ExcelJS.Workbook();
   const sheet = workbook.addWorksheet("Compliance Matrix");
+  sheet.views = [ { state: 'frozen', ySplit: 1 } ];
 
   sheet.columns = [
     { header: "Regulatory Content", key: 'a', width: 5 },
@@ -825,25 +869,29 @@ async function exportExcelJS() {
   let rowIndex = 2;
 
   for (const [key, group]  of sortedGroups) {
+    const sectionCells = [];
+    const topicCells = [];
+    const markerCells = [];
     // Combine all sections into one line
-    const combinedSections = group.sections.slice().reverse().join('  |  ');
+    let combinedSections = group.sections.slice().reverse().join('  |  ');
+    if (!combinedSections.trim()) {
+      combinedSections = 'Uncategorized';
+    }
 
     // Merge and style section header row
     sheet.mergeCells(`A${rowIndex}:N${rowIndex}`);
     const sectionCell = sheet.getCell(`A${rowIndex}`);
-    sectionCell.value = `Section: ${combinedSections}`;
+    sectionCell.value = `${combinedSections}`;
     sectionCell.font = { bold: true, size: 12 };
     sectionCell.fill = {
       type: 'pattern',
       pattern: 'solid',
       fgColor: { argb: 'D9D9D9' }
     };
-    sectionCell.border = { 
-      top: { style: 'thin', color: { argb: 'FF000000' } }, 
-      bottom: { style: 'thick', color: { argb: 'FF000000' } }
-    };
+
     sectionCell.alignment = { vertical: 'middle', horizontal: 'center', wrapText: true };
     sheet.getRow(rowIndex).height = 32;
+    sectionCells.push(sectionCell);
     rowIndex++;
 
     for (const topic of group.topics) {
@@ -858,7 +906,7 @@ async function exportExcelJS() {
       // Determine the type for color from the subject string
       // Find first key in typeColorMap that matches start of subject
       const topicType = topic.type?.trim();
-      const color = typeColorMap[topicType];
+      const color = typeColorMap[topicType] || '#B3B3CC';
 
       if (color) {
         topicCell.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: color.replace('#', '') }};
@@ -870,6 +918,7 @@ async function exportExcelJS() {
       topicCell.alignment = { vertical: 'middle', horizontal: 'left' };
 
       sheet.getRow(rowIndex).commit();
+      topicCells.push(topicCell);
       rowIndex++;
       
       // Add content rows
@@ -1031,6 +1080,7 @@ async function exportExcelJS() {
             pattern: 'solid',
             fgColor: { argb: 'FFFFFFFF' }
           };
+          //markerCells.push(markerCell)
           markerCell.border = {
             top: { style: 'thin', color: { argb: 'FFD9D9D9' } },
             bottom: { style: 'thin', color: { argb: 'FFD9D9D9' } }
@@ -1082,6 +1132,26 @@ async function exportExcelJS() {
         row.commit();
         rowIndex++;
       }
+    }
+    /*for (const cell in markerCells) {
+      cell.border = {
+        top: { style: 'thin', color: { argb: 'FFD9D9D9' } },
+        bottom: { style: 'thin', color: { argb: 'FFD9D9D9' } }
+      };
+    }*/
+
+    for (const cell of topicCells) {
+      cell.border = {
+        top: { style: 'thin'},
+        bottom: { style: 'thin'}
+      };
+    }
+
+    for (const cell of sectionCells) {
+      cell.border = {
+        top: { style: 'thin', color: { argb: 'FF000000' } },
+        bottom: { style: 'thick', color: { argb: 'FF000000' } }
+      };
     }
   }
 
@@ -1206,5 +1276,4 @@ function parseVersionDate(versionName) {
   const y = parseInt(year);
   return new Date(y, m - 1);
 }
-
 // https://www.base64encode.org/

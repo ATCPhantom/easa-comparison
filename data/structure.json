@@ -30,9 +30,95 @@
       "February 2023.json"
     ]
   },
-  "Aircraft and Products": {},
-  "Aircrew and Medical": {},
-  "Drones and Air Mobility": {},
+  "Aircraft and Products": {
+    "additional airworthiness": [
+      "March 2023.json"
+    ],
+    "airworthiness of products": [
+      "June 2023.json"
+    ],
+    "balloons": [
+      "September 2020.json"
+    ],
+    "cabin crew data": [
+      "December 2020.json"
+    ],
+    "continuing airworthiness": [
+      "July 2024.json"
+    ],
+    "engines": [
+      "December 2023.json"
+    ],
+    "gas balloons": [
+      "March 2018.json"
+    ],
+    "generic mmel": [
+      "May 2024.json"
+    ],
+    "hot air balloons": [
+      "March 2018.json"
+    ],
+    "Initial airworthiness": [
+      "July 2024.json"
+    ],
+    "large aeroplane": [
+      "January 2023.json"
+    ],
+    "large rotorcraft": [
+      "December 2022.json",
+      "December 2023.json"
+    ],
+    "lsa": [
+      "November 2018.json"
+    ],
+    "master mmel": [
+      "May 2024.json"
+    ],
+    "normal aeroplane": [
+      "December 2023.json",
+      "June 2023.json"
+    ],
+    "sailplane rulebook": [
+      "September 2020.json"
+    ],
+    "sailplanes": [
+      "June 2018.json"
+    ],
+    "tethered balloons": [
+      "March 2018.json"
+    ],
+    "vca": [
+      "October 2024.json"
+    ],
+    "vla": [
+      "November 2018.json"
+    ]
+  },
+  "Aircrew and Medical": {
+    "aeroplane simulators": [
+      "July 2020.json"
+    ],
+    "aircrew": [
+      "December 2024.json"
+    ],
+    "flight crew data": [
+      "June 2023.json"
+    ],
+    "helicopter simulators": [
+      "July 2020.json"
+    ],
+    "simulator data": [
+      "February 2018.json"
+    ]
+  },
+  "Drones and Air Mobility": {
+    "u-space": [
+      "May 2024.json"
+    ],
+    "uas": [
+      "July 2024.json"
+    ]
+  },
   "General Regulations": {
     "basic regulation": [
       "January 2023.json"

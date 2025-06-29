@@ -1,0 +1,1488 @@
+[
+  {
+    "sdtId": "237741370",
+    "erulesId": "ERULES-1963177438-4651",
+    "title": "Disclaimer",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Disclaimer",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This version is issued by the European Union Aviation Safety Agency (referred to as both ‘EASA’ and ‘the Agency’ ) in order to provide its stakeholders with an updated, consolidated, and easy-to-read publication . It has been prepared by putting together the certification specifications with the related guidance material . However, this is not an official publication and EASA accepts no liability for damage of any kind resulting from the risks inherent in the use of this document.",
+        "pStyle": "Normal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-724849669",
+    "erulesId": "ERULES-1963177438-4652",
+    "title": "Note from the editor",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Note from the editor",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The content of this document is arranged as follows: the certification specifications (CS) are followed by the related guidance material (GM) paragraph(s).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "All elem ents (i.e. CS and GM ) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Certification specification ED decision Guidance material ED d ecision"
+                }
+              ],
+              "width": "9052"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "pStyle": "Normal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "66886526",
+    "erulesId": "ERULES-1963177438-4653",
+    "title": "Incorporated amendments",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "I ncorporated a mendments",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "CS/GM ( ED decisions )",
+        "pStyle": "NoTocHeading2"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Incorporated ED Decision"
+                }
+              ],
+              "width": "3161"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS/AMC Issue No, Amendment No"
+                }
+              ],
+              "width": "2791"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Applicability date"
+                }
+              ],
+              "width": "3162"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "ED Decision 2014/033/R"
+                }
+              ],
+              "width": "3161"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS-SIMD / Initial i ssue"
+                }
+              ],
+              "width": "2791"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "12/12/201 4"
+                }
+              ],
+              "width": "3162"
+            }
+          ],
+          [
+            {
+              "content": [],
+              "width": "3161"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS-SIMD/ Issue 2"
+                }
+              ],
+              "width": "2791"
+            },
+            {
+              "content": [],
+              "width": "3162"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "pRStyle": "Italic"
+      }
+    ]
+  },
+  {
+    "sdtId": "-52872776",
+    "erulesId": "ERULES-1963177438-4242",
+    "title": "",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Disclaimer 4",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Note from the editor 5",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Certification specification 5",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Guidance material 5",
+        "pStyle": "TOC5"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "I ncorporated a mendments 6",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "SUBPART A — GENERAL 7",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "CS SIMD.100 Scope of validation source data 7",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "GM1 SIMD.100 Scope of validation source data 7",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "CS SIMD.110 Applicability 8",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "CS SIMD.1 20 Terminology 9",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "GM1 SIMD.1 20 Terminology 9",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "SUBPART B — DETERMINATION OF SCOPE OF VALIDATION SOURCE DATA 11",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "CS SIMD.200 Determination of the scope of the validation source data 11",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "GM1 SIMD.200 Substantiation of the scope of the validation source data 11",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "GM2 SIMD.200 Sources of the validation source data 12",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "GM3 SIMD.200 Process overview 13",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "GM4 SIMD.200 Engineering simulator/simulation validation data 15",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "GM5 SIMD.200 Determination of the scope of the validation source data 16",
+        "pStyle": "TOC3"
+      }
+    ]
+  },
+  {
+    "sdtId": "1729665034",
+    "erulesId": "ERULES-1963177438-4602",
+    "title": "CS SIMD.100 Scope of validation source data",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS SIMD.100 Scope of validation source data",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The Certification Specifications for Simulator Data contain the scope of :",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "the validation source data (VSD) to support the objective qualification of aeroplane flight simulation training devices (FSTDs) associated with the pilot type rating training, or the provisional VSD to support their interim qualification, including additional features as requested by the applicant ;",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "the VSD to support the objective qualification of helicopter FSTDs associated with the pilot type rating training, or the provisional VSD to support their interim qualification, including additional features as requested by the applicant; an d",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "the VSD to support the objective qualification of other categories of aircraft FSTDs associated with the pilot type rating training, or the provisional VSD to support their interim qualification, including additional features as requested by the applicant when special conditions are established based on ORA.FSTD.210(a)(3) and ARA.FSTD.100(c) of Regulation (EU) No 1178/2011 (the ‘Aircrew Regulation’). Other categories of aircraft FSTDs are those where current CS-FSTD documents are not relevant or cannot entirely be used, like for eVTOL and airships .",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0",
+        "pRStyle": "TableCharGA"
+      }
+    ]
+  },
+  {
+    "sdtId": "113902212",
+    "erulesId": "ERULES-1963177438-4963",
+    "title": "GM1 SIMD.100 Scope of validation source data",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "GM to CS (Guidance material to certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 SIMD.100 Scope of validation source data",
+        "pStyle": "Heading3GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The ‘additional features’ as mentioned in CS SIMD.100 may be composed of the applicant’s additional requirements along with the Certification Specifications for Flight Simulator Training Devices (CS-FSTD) requirements. These may consist of additional data to support tests other than the objective validation tests required for the qualification of the FSTD. For example, data to support:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "specific aircraft operation profiles (e.g. steep approaches); or",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "validation source data (VSD) from theCertification Specifications for Flight Crew Data (CS-FCD) requirements related to training areas of special emphasis (TASE), impacting the specification of the FSTD; this may be the case for particular aircraft systems or manoeuvres in normal or abnormal conditions that require specific skills to be trained (e.g. use of specific aircraft systems, application of specific procedures in case of systems malfunctions, degraded control laws, etc.); or",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "reference to installed equipment; or",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "specific aircraft configurations (e.g. the avionics configuration and capability or the navigation software configuration and specific features).",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "The data provider should define objective tests in relation to the additional features that are needed to be demonstrated on the FSTD and discuss the conditions for those tests with EASA as soon as the need for those tests is identified.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "If data that does not come from an aircraft type certificate (TC) applicant/holder but from an organisation that holds an EASA supplemental type certificate (STC) (see GM2 SIMD.200 ) is used, the ‘additional features’ that are included by that organisation should contain at least those already identified by the TC applicant/holder.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "The scope of the VSD is to be included in the validation data roadmap (VDR). CS SIMD.200 and GM5 SIMD.200 provide further guidance material, thus becoming part of the TC or STC.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "The scope of the VSD should be technically verified by the EASA(see explanatory diagram below and GM3 SIMD.200 ).",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "Point ① : see GM2 SIMD.200 for details related to the TC applicant.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "Point ② : see GM1 SIMD.120 for details related to the VSD.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "Point ③ : see GM5 SIMD.200 for details related to the VDR.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "Point ④ : EASA is responsible for the technical verification of compliance against CS-SIMD. If a national aviation authority (NAA) is the competent authority for the evaluation of the FSTD, that NAA may support EASA in the technical verification.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "The definition of ‘competent authority’ is included in ORA.GEN.105 of Regulation (EU) No 1178/2011 (the ‘Aircrew Regulation’) .",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "Point ⑤ : see GM3 SIMD.200 . If and when applicable, the technical verifications include, for example, the following elements at the data provider’s level:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": 1,
+        "text": "the implemented processes;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": 1,
+        "text": "the simulator data production and processing plan (in relation to the aircraft certification process);",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": 1,
+        "text": "the simulation methods;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": 1,
+        "text": "the simulation itself;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": 1,
+        "text": "the models that are established by the data provider;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": 1,
+        "text": "the capability to produce the validation data (VD) and the content of the VDR; and",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": 1,
+        "text": "the configuration control process during the life cycle of the aircraft (e.g., changes to the avionics, flight control laws, etc ).",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 24,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1252050831",
+    "erulesId": "ERULES-1963177438-4598",
+    "title": "CS SIMD.110 Applicability",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS SIMD.110 Applicability",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "These certification specifications apply to all aircraft type certificate (TC) applicants for which the pilot type rating training makes use of the following qualified devices:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "for aeroplanes : type - specific FSTDs that are qualified in accordance with CS-FSTD(A)",
+        "marker": "(1)",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "for helicopters: type-specific FSTDs that are qualified in accordance with CS-FSTD(H);",
+        "marker": "(2)",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "These certification specifications apply to other categories of aircraft when special conditions are established based on ORA.FSTD.210(a)(3) ‘Qualification basis of Regulation (EU) No 1178/2011 (the ‘Aircrew Regulation’).",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "These certification specifications apply also to applicants for the approval of changes to an already approved validation data roadmap (VDR).",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1971043410",
+    "erulesId": "ERULES-1963177438-4604",
+    "title": "CS SIMD.120 Terminology",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS SIMD.1 20 Terminology",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "For the purpose of these certification specifications, the following definitions apply:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Validation source data (VSD) means the aircraft reference data that is composed of ground and flight test data, as well as engineering data, which is used to objectively confirm that the FSTD reflects the static as well as the dynamic handling and performance characteristics of the aircraft and its relevant systems.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Validation data (VD) means the VSD subset that is to be used as the reference data during the qualification of the flight simulation training device s (FSTDs).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "961708376",
+    "erulesId": "ERULES-1963177438-4607",
+    "title": "GM1 SIMD.120 Terminology",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "GM to CS (Guidance material to certification specification);",
+    "sections": [
+      "SUBPART A — GENERAL"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 SIMD.1 20 Terminology",
+        "pStyle": "Heading3GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The diagram below describes the flow of data from the validation source data (VSD) to the master qualification test guide (MQTG) of the FSTD. It illustrates the importance of the VSD. The definition of scope of the VSD builds the ‘validation data roadmap (VDR)’:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The origin and the content of the VSD include, but are not limited to:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "ground test data,",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "flight test data,",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "engineering simulator data, and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "rationales and justifications.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "They should ensure that all the initial and test conditions as described in CS-FSTD(A) or (H) are met ( e.g. weights, center of gravity (CG), flap settings) and the required information (e.g. the limiting conditions weight, altitude or temperature (WAT), symmetrical aircraft behaviour , yaw damper setting, etc.) is provided.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "The VSD should be the reference data for all the validation tests of the FSTD, as described in CS FSTD(A) or (H) (‘Table of FSTD validation tests’) or in the applicable special conditions, as required. While Chapters 1 (Performance) and 2 (Handling Qualities) of the Table of FSTD validation tests are widely based on aircraft reference data, Chapters 3 (Motion System), 4 (Visual System), and 5 (Sound Systems) should also be taken into consideration. For example, the VSD may include information related to the position of the pilot eye and the cockpit cut-off angle (visual ground segment test), information related to the computation of the transport delay or latency tests, vibration and sound reference data, etc.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "The VSD should include all aspects of the objective validation regardless of the possible technological solutions to be used in the FSTD such as simulated versus stimulated equipment (typical areas subject to this consideration are flight controls, avionics and head-up display (HUD) response time, etc.).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "In addition, other items to be taken into consideration are the ‘additional features’, as indicated in GM1 SIMD.100 .",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "Finally, each element included in the VSD should include details of the versions of configuration items such as:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "the aircraft (A/C) systems,",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "the avionics suite/avionics computers,",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "the engine version(s)/the full-authority digital engine control (FADEC), and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": 0,
+        "text": "others.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "CS-FSTD(A), CS-FSTD(H), and CS-FCD contain additional terminology and abbreviations of terms.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1561213350",
+    "erulesId": "ERULES-1963177438-4609",
+    "title": "CS SIMD.200 Determination of the scope of the validation source data",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "SUBPART B — DETERMINATION OF SCOPE OF VALIDATION SOURCE DATA"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS SIMD.200 Determination of the scope of the validation source data",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The determination of the scope of the validation source data is based on:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "the applicable certification specifications from CS-FSTD(A) or (H) or the applicable special conditions; and",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "any additional specification that results from the additional features selected by the applicant or arises from TASE identified in the operational suitability data for flight crew (OSD-FCD).",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The scope of the VSD comprises a list of cases to be used as validation data (VD) in the qualification test guide, its related source and relevant justifications or rationales.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "64938133",
+    "erulesId": "ERULES-1963177438-4608",
+    "title": "GM1 SIMD.200 Substantiation of the scope of the validation source data",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "GM to CS (Guidance material to certification specification);",
+    "sections": [
+      "SUBPART B — DETERMINATION OF SCOPE OF VALIDATION SOURCE DATA"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM1 SIMD.200 Substantiation of the scope of the validation source data",
+        "pStyle": "Heading3GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The substantiation of the scope of the validation source data (VSD) should be performed by:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 1,
+        "text": "demonstrating that the applicant has developed and used a process that is acceptable to EASA (see point b of GM1 SIMD.100 ) to develop the scope of the VSD;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "using a list of parameters to be recorded for the different validation tests; the proposed validation data (VD) should be presented in a way that allows EASA to verify by analysis that that VD is suitable to fulfil the requirements of CS-FSTD(A) or (H):",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 2,
+        "text": "before initiating the VD gathering campaign, the data providers should have suitable supporting documentation for all necessary flight tests indicating aircraft configuration, flight conditions, piloting techniques, associated CS-FSTD test requirements, etc.; aspects such as data acquisition equipment type, installation, sampling rate, etc., should also be described as part of the flight test data gathering process; such documents should also constitute the basis for the data provider processes to verify the quality and suitability of the collected data before it is submitted to EASA;",
+        "marker": "(i)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 2,
+        "text": "whenever snapshot validation is considered in the associated CS-FSTD objective test, the proposed snapshot test points should be obtained during a continuous uninterrupted flight to avoid unexpected changes in aircraft configuration (weight, CG, etc.) or flight conditions such as wind; and",
+        "marker": "(ii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 2,
+        "text": "each data parameter should be clearly described and labelled together with its unit; providing only software or data acquisition variables is not acceptable;",
+        "marker": "(iii)",
+        "pStyle": "ListLevel2"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "assessing the adequacy of the proposed VD and the associated validation data roadmap (VDR) by observing the first evaluation of the first type-specific FSTD (see GM3 SIMD.200 ); or",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "alternatively , in any other way that may be proposed by the applicant and agreed by EASA.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "An additional set of validation tests may be specified to complement the minimum set of validation tests that are listed in CS-FSTD(A) or (H) (‘Table of FSTD validation tests’).",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "A typical illustration of such possible additional specifications may be the following:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "the behaviour of the aeroplane on ground at 95 % of maximum crosswind should be simulated with the associated VD. In this example, the minimum would normally be 60 % of the aeroplane flight manual (AFM) value.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 0,
+        "text": "Based on the technical verification performed at the data provider and a theoretical compliance check of the presented VDR against the applicable regulations, EASA assesses the adequacy of the VDR and associated VD to establish if an initial evaluation can be envisaged. However, the result of the first evaluation of the first FSTD may lead to an update of the proposed VDR (see GM3 SIMD.200).",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "Subsequently, the updated VDR becomes the basis for the qualification of FSTDs for that type of aircraft.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1741730394",
+    "erulesId": "ERULES-1963177438-4599",
+    "title": "GM2 SIMD.200 Sources of the validation source data",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "GM to CS (Guidance material to certification specification);",
+    "sections": [
+      "SUBPART B — DETERMINATION OF SCOPE OF VALIDATION SOURCE DATA"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM2 SIMD.200 Sources of the validation source data",
+        "pStyle": "Heading3GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "Aeroplanes",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "For the initial qualification of aeroplane FSTDs as defined in CS SIMD.110(a)(1) ,validation data (VD), including validation flight test data or engineering data that is provided by the type certificate (TC) applicant/holder, should be used.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Data that does not come from a TC applicant/holder may be used if submitted by an organisation that holds an EASA supplemental type certificate (STC).",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "Helicopters",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "For the initial qualification of helicopter FSTDs as defined in CS SIMD.110(a)(2) VD, including flight test data or engineering data that is provided by the TC applicant/holder, should be used. Data from other sources may be used, when properly justified.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "Data that does not come from a TC applicant/holder may be used if submitted by an organisation that holds an EASA STC.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Data other than flight test data should include an explanation of validity with respect to the available flight test information.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "In case of a new aircraft type, the aircraft TC applicant’s/holder’s engineering simulation/simulator data, partially validated by flight test data, may be used to support the interim qualification of the FSTD.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1502923294",
+    "erulesId": "ERULES-1963177438-19103",
+    "title": "GM3 SIMD.200 Process overview",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "GM to CS (Guidance material to certification specification);",
+    "sections": [
+      "SUBPART B — DETERMINATION OF SCOPE OF VALIDATION SOURCE DATA"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM3 SIMD.200 Process overview",
+        "pStyle": "Heading3GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "The diagram below describes the full process that may be followed, the various stakeholders involved, and the modification loops that may be applied to the validation data roadmap (VDR).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This full process applies to the VDR that is delivered by a data provider and to the first flight simulation training device (FSTD) qualification that is based on this VDR.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Point ① : EASA is responsible for the technical verification of compliance against CS-SIMD. If a national aviation authority (NAA) is the competent authority for the evaluation of the FSTD, that NAA may support EASA in the technical verification. This technical verification may be done at the data provider’s location.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Point ② : the VDR and the validation source data (VSD) may be modified as a result of the technical verification ( e.g. inner correction loop, which is managed by EASA).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "Point ③ : the FSTD manufacturer should comply with CS-FSTD(A) or (H) and, if applicable, with the additional tests as specified in GM1 SIMD.100 .",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Point ④ : for the definition of ‘Interim FSTD qualification’, see ARA.FSTD.115, AMC1 ARA.FSTD.115, and GM1 ARA.FSTD.115 of Regulation (EU) No 1178/2011 (the ‘Aircrew Regulation’).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "Point ⑤ : if an NAA is the competent authority for the evaluation of the FSTD, EASA is present during the evaluation to witness the correct implementation of the VDR and to evaluate whether corrections to the VDR are needed, for example to:",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "validate the usability of the proposed scope of the VSD for the evaluation of an FSTD in accordance with the CS-FSTD(A) or (H) requirements or special conditions that are established based on ORA.FSTD.210 ‘Qualification basis’ of the Aircrew Regulation;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "validate the completeness of the proposed validation data (VD) against the operational suitability data (OSD) requirements for simulator data (SIMD);",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "validate the effectiveness of the applicant’s OSD SIMD process;",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "ensure that the data used to objectively assess that the first FSTD corresponds to that proposed by the data provider as part of the OSD requirements for SIMD; and",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 0,
+        "text": "identify any amendments to existing rationales or the need for additional rationales that are required to use the proposed data.",
+        "pStyle": "bullet0"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "If EASA is the competent authority for the evaluation of the FSTD, EASA performs the evaluation.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "Example",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "If the manufacturer of the first FSTD for a new aircraft type considers that the parameters of a flight test are not correctly processed/calculated and decides to recalculate them, then the rationale behind the required correction and the correction itself (not the result) should be mentioned in the VDR. This should happen in cooperation and agreement with the aircraft manufacturer/data provider, who should then amend and redistribute the VDR to avoid readdressing the same issue. This does not preclude an FSTD manufacturer from also mentioning rationales in the master qualification test guide (MQTG).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "Point ⑥ : the VDR and the VSD may be modified as a result of the first evaluation of the first FSTD ( e.g. outer correction loop, which is managed by EASA). When the correction process is triggered by such a result, this process should be considered within a timeframe that is agreed with the competent authority, to ensure that the corrected VDR and VSD are used for further FSTDs to be qualified. During the process of data correction that leads to the correction of the first FSTD, that FSTD may be restricted in its use.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "Additional feedback loops to the data provider may exist ( e.g. from the training device manufacturer (TDM)) and should be considered by the data provider, as they may contribute to the improvement of the VDR.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "After successful completion of the technical verification and the inner correction loop (point ② , if required), the process for generating the VSD and the completeness of the VDR are considered suitable, and the VDR becomes the basis for the qualification of the first FSTD.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "During the qualification of the first FSTD, the VDR may require corrections by the data provider in some areas. In that case, the outer loop (point ⑥ ) applies, the amended version of the VDR becomes the reference in the type certificate data sheet (TCDS), and that should be the qualification basis for subsequent FSTDs for that aircraft type.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "The approval of the amended version of the VDR is based on the data provider’s processes, which are verified by the competent authority.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": -1,
+        "text": "The diagram below describes the various steps that the VDR may take. If no interim qualification is sought, then Step 1 does not apply.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1563784620",
+    "erulesId": "ERULES-1963177438-4600",
+    "title": "GM4 SIMD.200 Engineering simulator/simulation validation data",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "GM to CS (Guidance material to certification specification);",
+    "sections": [
+      "SUBPART B — DETERMINATION OF SCOPE OF VALIDATION SOURCE DATA"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM4 SIMD.200 Engineering simulator/simulation validation data",
+        "pStyle": "Heading3GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "An OSD applicant may choose to supply validation source data from a technically verified engineering simulator/simulation’ to selectively supplement flight test data.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "To be qualified to supply engineering simulator/simulation validation data, an applicant should:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 1,
+        "text": "have a proven track record of successfully developing data packages;",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "have demonstrated high quality prediction methods through comparisons of predicted and flight test validated data;",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "provide a demonstration of the engineering simulator/simulation fidelity to the aircraft. The use of the engineering simulator/simulation to support aircraft development and certification is an acceptable means of demonstration; and",
+        "marker": "(3)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "have an acceptable configuration control system in place covering the engineering simulator/simulation.",
+        "marker": "(4)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "Applicants that seek to take advantage of this alternative arrangement should inform EASA at an early stage of the process.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1444465122",
+    "erulesId": "ERULES-1963177438-4601",
+    "title": "GM5 SIMD.200 Determination of the scope of the validation source data",
+    "applicabilityDate": "12 December, 2014",
+    "entryIntoForceDate": "12 December, 2014",
+    "type": "GM to CS (Guidance material to certification specification);",
+    "sections": [
+      "SUBPART B — DETERMINATION OF SCOPE OF VALIDATION SOURCE DATA"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "GM5 SIMD.200 Determination of the scope of the validation source data",
+        "pStyle": "Heading3GM"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": 0,
+        "text": "The definition of the scope of the validation source data (VSD) to be used as validation data (VD) in the master qualification test guide (MQTG) should be provided through a validation data roadmap (VDR).",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "The VDR should clearly identify the sources of the data for all the required tests. It should also provide information on the validity of that data. For example, the VDR for a specific engine type and thrust/power rating configuration should include the revision levels of all the avionics that affect the aircraft handling qualities and performance and/or navigation equipment capabilities and performances (for example, localiser performance with vertical guidance (LPV) approaches).",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The VDR should also include justifications/rationales for:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "cases where data or parameters are missing (in such cases, engineering simulation data may be used );",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "cases where flight test methods require explanation; or",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "other comparable cases,",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "together with a brief description of the cause/effect of any deviation from the data requirements.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "Furthermore, the applicable aircraft configuration that affects the specification of the FSTD should be identified.",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "The VDR should also define and provide data for aircraft weight and balance configurations, as well as other properties for which an FSTD “Statement of Compliance” (SoC) is required ( i.e. weight and balance terms such as ‘light’, ‘heavy’, ‘medium’, ‘AFT CG’, ‘FWD CG’, etc.).",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "More guidance on the VDR is available in the following documents:",
+        "pStyle": "Normal1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "CS-FSTD(A) or (H) (see Appendix 2 to AMC1 FSTD(A).300 ‘Validation data roadmap’ and Appendix 2 to AMC1 FSTD(H).300 ‘Validation data roadmap ’;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": 1,
+        "text": "ICAO Document 9625 ‘Manual of Criteria for the Qualification of Flight Simulation Training Devices, Vol I and II, Attachment D, as amended; and",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 1,
+        "text": "ARINC 450 ‘FLIGHT SIMULATOR DESIGN AND PERFORMANCE DATA’.",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": 0,
+        "text": "As part of its configuration control process, the data provider maintains and publishes a list of approved VDRs under CS-SIMD per aircraft type.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "[Issue No: SIMD/2]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  }
+]

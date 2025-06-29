@@ -178,6 +178,27 @@ body {
   padding-right: 5px;
 }
 
+.badge-toggle {
+  color: white;
+  padding: 2px 6px;
+  border-radius: 4px;
+  cursor: pointer;
+  user-select: none;
+  transition: opacity 0.2s ease, filter 0.2s ease;
+}
+
+.badge-toggle.disabled {
+  background: #999 !important;
+  color: white;
+  opacity: 0.7;
+}
+
+.badge-ir     { background: #007fc2; }
+.badge-cs     { background: #222f64; }
+.badge-amc    { background: #fbbc39; }
+.badge-gm     { background: #16cc7f; }
+.badge-misc   { background: #b3b3cc; }
+
 .list-group-item {
   transition: background-color 0.3s ease;
 }
@@ -346,4 +367,27 @@ table.table td {
 .form-check-input {
   border: 1px solid #333 !important;  /* Darker border */
   box-shadow: none;                   /* Remove default glow */
+}
+
+#select-ir.active {
+  background-color: #007fc2 !important;
+  color: white !important;
+}
+
+#select-amc.active {
+  background-color: #fbbc39 !important;
+  color: white !important;
+  border-color: #fbbc39 !important;
+}
+
+#select-gm.active {
+  background-color: #16cc7f !important;
+  color: white !important;
+  border-color: #16cc7f !important;
+}
+
+#select-all.active {
+  background-color: #000 !important;
+  color: white !important;
+  border-color: #000 !important;
 }

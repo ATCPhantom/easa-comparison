@@ -1,0 +1,3043 @@
+[
+  {
+    "sdtId": "1743094686",
+    "erulesId": "ERULES-1963177438-7788",
+    "title": "Disclaimer",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Disclaimer",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "This version is issued by the European Aviation Safety Agency (EASA) in order to provide its stakeholders with an updated and easy-to-read publication. It has been prepared by putting together the certification specifications with the related acceptable means of compliance. However, this is not an official publication and EASA accepts no liability for damage of any kind resulting from the risks inherent in the use of this document.",
+        "pStyle": "Normal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-2042931231",
+    "erulesId": "ERULES-1963177438-7789",
+    "title": "Note from the editor",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Note from the editor",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "The content of this document is arranged as follows: the certification specifications (CS) are followed by the related acceptable means of compliance (AMC) paragraph(s).",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "All elem ents (i.e. CS and AMC ) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Certification specification ED decision Acceptable means of compliance ED d ecision"
+                }
+              ],
+              "width": "9052"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "pStyle": "Normal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1923611736",
+    "erulesId": "ERULES-1963177438-7790",
+    "title": "Incorporated amendments",
+    "applicabilityDate": "4 July, 2011",
+    "entryIntoForceDate": "4 July, 2011",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "I ncorporated a mendments",
+        "pStyle": "Heading1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "CS/AMC ( ED decisions )",
+        "pStyle": "NoTocHeading2"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Incorporated ED Decision"
+                }
+              ],
+              "width": "2996"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS/AMC Issue No, Amendment No"
+                }
+              ],
+              "width": "3135"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Applicability date"
+                }
+              ],
+              "width": "2983"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "ED Decision 2011/005/R"
+                }
+              ],
+              "width": "2996"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS-LSA / Initial i ssue"
+                }
+              ],
+              "width": "3135"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "4/7/2011"
+                }
+              ],
+              "width": "2983"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "Hyperlink",
+                  "text": "ED Decision 2013/015/R"
+                }
+              ],
+              "width": "2996"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS-LSA/ Amendment 1"
+                }
+              ],
+              "width": "3135"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "30/7/2013"
+                }
+              ],
+              "width": "2983"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "pRStyle": "Italic"
+      }
+    ]
+  },
+  {
+    "sdtId": "1991563992",
+    "erulesId": "ERULES-1963177438-7791",
+    "title": "",
+    "applicabilityDate": "",
+    "entryIntoForceDate": "",
+    "type": "",
+    "sections": [],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "Disclaimer 4",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "Note from the editor 5",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Certification specification 5",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "Acceptable means of compliance 5",
+        "pStyle": "TOC5"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "I ncorporated a mendments 6",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": -1,
+        "text": "Subpart A — General 8",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": -1,
+        "text": "CS-LSA.5 Applicability 8",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": -1,
+        "text": "AMC 1 LSA.5 Applicability 8",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "CS-LSA.10 Referenced Standards 8",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": -1,
+        "text": "Subpart B — Standard Specification for Design and Performance of a Light Sport Aeroplane 9",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "CS-LSA.15 Applicable Specifications 9",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "AMC 1 to ASTM F2245-12d Sub-chapter 6.2 Materials 13",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "AMC 1 to ASTM F2245-12d Annex A1.1 Applicability 13",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "AMC 1 to ASTM F2245-12d Annex A1.7 Operating Limitations 14",
+        "pStyle": "TOC3"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "Subpart C — Reserved 15",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 16,
+        "level": -1,
+        "text": "Subpart D — Reserved 16",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": -1,
+        "text": "Subpart E — Reserved 17",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "Subpart F — Reserved 18",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": -1,
+        "text": "Subpart G — Operating Limitations and Information 19",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "CS- LSA.20 Flight Manual or Pilot’s Operating Manual 19",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": -1,
+        "text": "CS-LSA.25 Standard Specification for P ilot’s Operating Handbook (POH) 19",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": -1,
+        "text": "CS-LSA.30 Maintenance manual 20",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": -1,
+        "text": "Subpart H — Engine and Electric Propulsion Units (EPU) 21",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 24,
+        "level": -1,
+        "text": "CS-LSA.35 Applicable Specifications for engines 21",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 25,
+        "level": -1,
+        "text": "CS-LSA.37 Applicable Specifications for Electric Propulsion Units (EPU) 21",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 26,
+        "level": -1,
+        "text": "Subpart I — Reserved 22",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 27,
+        "level": -1,
+        "text": "Subpart J — Propeller 23",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 28,
+        "level": -1,
+        "text": "CS-LSA.40 Applicable Specifications for propellers 23",
+        "pStyle": "TOC2"
+      },
+      {
+        "type": "paragraph",
+        "index": 29,
+        "level": -1,
+        "text": "Subpart K — Airframe Emergency Parachute 24",
+        "pStyle": "TOC1"
+      },
+      {
+        "type": "paragraph",
+        "index": 30,
+        "level": -1,
+        "text": "CS- LSA.45 Applicable Specifications for airframe emergency parachutes 24",
+        "pStyle": "TOC2"
+      }
+    ]
+  },
+  {
+    "sdtId": "331188641",
+    "erulesId": "ERULES-1963177438-7743",
+    "title": "CS-LSA.5 Applicability",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart A — General"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.5 Applicability",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 201 3/01 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "This Certification Specification is applicable to Light Sport Aeroplanes to be approved for day-VFR only that meet all of the following criteria:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "A Maximum Take-Off Mass of not more than 600 kg for aeroplanes not intended to be operated on water or 650 kg for aeroplanes intended to be operated on water.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "A maximum stalling speed in the landing configuration (V S0 ) of not more than 83 km/h (45 knots) CAS at the aircraft’s maximum certificated Take-Off Mass and most critical centre of gravity.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "A maximum seating capacity of no more than two persons, including the pilot.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "A single, non-turbine engine or electric propulsion unit fitted with a propeller.",
+        "marker": "(d)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "A non-pressuris ed cabin.",
+        "marker": "(e)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "[Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "279653292",
+    "erulesId": "ERULES-1963177438-7033",
+    "title": "AMC1 LSA.5 Applicability",
+    "applicabilityDate": "4 July, 2011",
+    "entryIntoForceDate": "4 July, 2011",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "Subpart A — General"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 1 LSA.5 Applicability",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2011/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "This CS-LSA is applicable to aeroplanes that are by definition engine-driven by design and therefore this CS-LSA is not applicable to powered sailplanes that are designed for sailplane characteristics when the engine is inoperative."
+      }
+    ]
+  },
+  {
+    "sdtId": "-347605554",
+    "erulesId": "ERULES-1963177438-7744",
+    "title": "CS-LSA.10 Referenced Standards",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart A — General"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.10 Referenced Standards",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3/01 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The ASTM Standards referenced in this specification must be applied in the following revision:"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "F2245-12d Design and Performance of a Light Sport Airplane",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "F2483-12 Maintenance and the Development of Maintenance Manuals for Light Sport Aircraft",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 0,
+        "text": "F2746-12 Standard Specification for Pilot’s Operating Handbook (POH) for Light Sport Airplane",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 0,
+        "text": "F2339-06 Design & Manufacture of Reciprocating Spark Ignition Engines",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 0,
+        "text": "F2506-10 Design and Testing of Fixed-Pitch or Ground Adjustable Propellers",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 0,
+        "text": "F2538-07a Design & Manufacture of Reciprocating Compression Ignition Engines",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 0,
+        "text": "F2316-12 Airframe Emergency Para chutes for Light Sport Aircraft",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 0,
+        "text": "F2840-11 Design and Manufacture of Electric Propulsion Units",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": -1,
+        "text": "The above referenced Documents are av ailable from ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959 USA ."
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "http://www.astm.org",
+        "pRStyle": "Hyperlink"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": -1,
+        "text": "[Amdt LSA/1 ]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "265807652",
+    "erulesId": "ERULES-1963177438-7733",
+    "title": "CS-LSA.15 Applicable Specifications",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart B — Standard Specification for Design and Performance of a Light Sport Aeroplane"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.15 Applicable Specifications",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The aeroplane must be sho wn to comply with ASTM F2245-12d including all Annexes and Appendices, except as modified by the following table:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Action"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Requirement to be read as follows:"
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "1.2 This specification is applicable to aeroplanes intended for ‘non-aerobatic’ and for ‘VFR day’ operation only. Non-aerobatic operation includes: (1) Any manoeuvre incidental to normal flying; (2) Stalls (except whip stalls); and (3) Eights, chandelles, and steep turns, in which the angle of bank is not more than 60°. (4) Spinning for aeroplanes complying with 4.5.9.2."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.3"
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.4 and 3.1.4.1"
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "4.1.3 When the aircraft is equipped with a variable pitch propeller and/or a retractable landing gear, the various configurations of those devices have to be considered, as applicable."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "4.3.2 A propeller that can be controlled in flight but does not have constant speed controls must be so designed that: 4.3.2.1 4.3.1 is met with the lowest possible pitch selected for the take-off and climb case, and 4.3.2.2 4.3.1 is met with the highest possible pitch selected for the glide case."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "4.3.3 A controllable pitch propeller with constant speed controls must comply with the following requirements: 4.3.3.1 With the governor in operation, there must be a means to limit the maximum engine rotational speed to the maximum allowable take-off speed, and 4.3.3.2 With the governor inoperative, there must be a means to limit the maximum engine rotational speed to 103 % of the maximum allowable take-off speed with the propeller blades at the lowest possible pitch and the aeroplane stationary with no wind at full throttle position."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "4.5.7 Wing level stall and stall warning 4.5.7.1 It shall be possible to prevent more than 20° of roll or yaw by normal use of the controls during the stall and the recovery at all weight and CG combinations. 4.5.7.2 A stall warning can be omitted when, during stalling in level flight: 4.5.7.2.1 It is possible to initiate and correct a roll motion using aileron control alone while maintaining rudder control at neutral position; and 4.5.7.2.2 The aeroplane does not have a noticeable tendency to drop one wing while aileron and rudder controls are held neutral. 4.5.7.3 On aeroplanes that do not meet requirements under 4.5.7.2: 4.5.7.3.1 In both straight and turning flight with flaps and landing gear in any normal position, a clear and distinctive stall warning must exist; 4.5.7.3.2 The stall warning must not occur at normal operating speeds, but must occur sufficiently before the stall to allow the pilot to regain level flight; 4.5.7.3.3 The stall warning may be furnished either through the inherent aerodynamic qualities (e.g. buffeting) of the aeroplane or by a device that clearly indicates the stall."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "4.6.1 Ground Vibration Test — For aircraft with a Vne exceeding 200 km/h (108 kt ) a ground vibration test with subsequent analysis of the vibration modes and frequencies and potential flutter cases must show the aircraft to be free from flutter before verification in flight. 4.6.2 This ground vibration test and analysis may be omitted when there is clear reason to assume freedom of flutter due to compliance with all of the following: (1) Reasonable analysis following the Airframe and Equipment Engineering Report No 45 (as corrected) ‘Simplified Flutter Prevention Criteria’ (published by the Federal Aviation Administration) shows the aircraft to be free from flutter risk; (2) The airplane does not have T-tail, V-tail or boom-tail or other unconventional tail configurations; (3) Is equipped with fixed fin tail surfaces; (4) Does not have significant amount of sweep; (5) Does not have unusual mass concentrations along the wing span (such as floats or fuel tanks in the outer wing panels)."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "4.7 Ground and Water Control and Stability"
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "4.7.3 A seaplane or amphibian may not have dangerous or uncontrollable porpoising characteristics at any normal operating speed on the water."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "4.8 Spray characteristics — Spray may not dangerously obscure the vision of the pilots or damage the propeller or other parts of a seaplane or amphibian at any time during taxiing, take-off, and landing."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "5.10.2 Each aeroplane with retractable landing gear must be designed to protect each occupant in a landing: 5.10.2.1 With the wheels retracted; 5.10.2.2 With moderate descent velocity; 5.10.2.3 Assuming, in the absence of a more rational analysis (1) a downward ultimate inertia force of 3g, and (2) a coefficient of friction of 0.5 at the ground."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "6.12 Landing Gear Retracting Mechanism 6.12 .1 Each landing gear retracting mechanism and its supporting structure must be designed for the maximum flight load factors occurring with the gear retracted. 6. 12 .2 For retractable landing gears it must be shown that extension and retraction of the landing gear are possible without difficulty up to VLO. 6.12 .3 An aeroplane equipped with a non-manually operated landing gear must have an auxiliary means of extending the gear. 6.12 .4 If a retractable landing gear is used, there must be a means to inform the pilot that the gear is secured for both the extended and retracted position."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "6.13 Floats and Hulls 6.13 .1 Main Float Buoyancy — Each main float must have: 6.13 .1.1 A buoyancy of 1.8 times the portion of the 80 % in excess of the maximum weight which that float is expected to carry in supporting the maximum weight of the seaplane or amphibian in fresh water; and 6.1 3 .1.2 Enough watertight compartments to provide reasonable assurance that the seaplane or amphibian will stay afloat if any of the two compartments of the main floats are flooded. 6.13 .2 Each main float must contain at least four watertight compartments approximately equal in volume. 6.13 .3 Auxiliary Floats — Auxiliary floats must be arranged so that when completely submerged in fresh water, they provide a righting moment of at least 1.5 times the upsetting moment caused by the seaplane or amphibian being tilted."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "7.1.4 The powerplant , including all systems required for the operation of the engine and including installed accessories, must be installed to ensure safe operation within the aircraft operating envelope. 7.1.5 Systems required for the operation of the engine must be identified and verified to provide adequate capacities (such as fuel flow, lubrication, cooling) within the aircraft operating envelope. 7.1.6 Areas of the engine compartment where flammable fluids or moisture could accumulate in normal ground and flight attitudes must be drained."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "7.4.3 Oil lines located in an area subject to high heat (engine compartment) must be fire resistant or protected with a fire-resistant covering."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "7.7 Cooling 7.7.1 Liquid cooling — When equipped with a liquid cooling system: 7.7.1.1 Components of the liquid cooling system must be selected and installed as to withstand all operating co nditions that must be expected. 7.7.1.2 Coolant tanks shall be designed to withstand a positive pressure of 24.5 kPa (3.55 psi) (2.5-m (8.2-ft) water column) plus the maximum working pressure of the system."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "7.8 Exhaust — Each exhaust system must ensure safe disposal of exhaust gases without fire hazard or carbon monoxide contamination in the personnel compartment."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "7.9 Propeller: 7.9.1 Sufficient clearance must be provided between propeller and ground or water, as well as between propeller (including all other rotating parts of the propeller and spinner) and structural components. Effects of aircraft weight, center of gravity, propeller pitch positions, flight accelerations, vibrations and aging of shock mounts must be considered."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "8.6 Instruments and other equipment may not in themselves, or by their effect upon the aircraft, constitute a hazard to safe operation. Therefore: 8.6.1 Each item of required ATC equipment must be approved. 8.6.2 Each item of installed equipment must: 8.6.2.1 be installed according to limitations specified for that equipment; 8.6.2.2 be installed in a way that it is unlikely to adversely affect the proper functioning of any other system or equipment of the aircraft; 8.6.2.3 be installed in a way to function properly; 8.6.2.4 be labelled or designed to be clearly identifiable; 8.6.2.5 be described and labelled appropriately regarding limitations and operation."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "9.1.4"
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "9.2 incl. sub-chapters"
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "10.1 Each aeroplane shall be furnished with a Flight Manual or Pilot’s Operating Handbook (PO H) that complies with Subpart G ."
+                }
+              ],
+              "width": "8231"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 101,
+        "level": -1,
+        "text": "F2245-12d Annex A1 Additional Requirements for Light Sport Airplanes used to tow gliders",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.2.4 The take-off distance according 4.4.2 must not exceed 500 m when taking off from dry, level, hard surface at sea level."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.3.2 An adequate Stall Warning must be shown for the tow condition."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.6.1.4 (3) the pilot effort required shall not be less than 20 N nor greater than 200 N."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.6.1.5 The release control shall be located so that the pilot can operate it without having to release any other primary flight control and should be of yellow colour ."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.6.1.6 The rated ultimate strength of the weak links to be used in the towing cable shall be established and shown to be suitable in operation. For the determination of loads to be applied for the purpose of this section, the strength of the weak link shall not be less than 300 daN (674.4 lb )."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.6.1.8 For towing flights a device (e.g. an adjustable mirror) shall be used so that the pilot, when strapped in his seat, has full and unrestricted view of the towed glider in the positions of A1.6.1.3(2)"
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.7.1.1 The minimum permissible towing speed ( V Tmin , > 1.3*V S1 ) and the maxim um permissible towing speed ( V Tmax > 1.5*V S1 < V A )."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "A1.7.1.5 The minimum and maximum tow rope length and the tow rope flexibility."
+                }
+              ],
+              "width": "8231"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 118,
+        "level": -1,
+        "text": "F2245-12d Annex A2 Light Sport Aircraft to be flown at Night",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex A2 External lights A2.1 Applicability"
+                },
+                {
+                  "style": "TableChar",
+                  "text": "A2.1.1 If external lights are installed they must comply with Annex A2 as amended by this CS-LSA.A2.7.2 to A2.7.4.2 and A2.7.4.4 ."
+                }
+              ],
+              "width": "8231"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "826"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex A 2 Chapters A2.2 – A2.7.1.5 and Chapter A2.7.4.3 and Chapters A.2.8 – A.2.11.2"
+                }
+              ],
+              "width": "8231"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 128,
+        "level": -1,
+        "text": "[ Amdt LSA/1 ]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "214272303",
+    "erulesId": "ERULES-1963177438-7739",
+    "title": "AMC1 to ASTM F2245-12d Sub-chapter 6.2 Materials",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "Subpart B — Standard Specification for Design and Performance of a Light Sport Aeroplane"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 1 to ASTM F2245-12d Sub-chapter 6.2 Materials",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3/015 /R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Parts of Structure Critical to Safety",
+        "pRStyle": "Bold"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The use of the following stress levels may be taken as sufficient evidence — in conjunction with good design practices to eliminate stress concentrations — that structural items have adequate safe lives:",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Material used"
+                }
+              ],
+              "width": "3679"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Allowable normal stress level of maximum limit load"
+                }
+              ],
+              "width": "4790"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "Glass rovings in epoxy resin Carbon fibre rovings in epoxy resin Wood Aluminium Alloy Steel Alloy"
+                }
+              ],
+              "width": "3679"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "25 daN/mm 2 40 daN/mm 2 According to ANC-18* Half of rupture tensile strength Half of rupture tensile strength"
+                }
+              ],
+              "width": "4790"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 17,
+        "level": 0,
+        "text": "Higher stress levels need further fatigue investigation using one or a combination of the following methods:",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": 1,
+        "text": "By a fatigue test, based on a realistic operating spectrum.",
+        "marker": "(1)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 19,
+        "level": 1,
+        "text": "By a fatigue calculation using strength values which have been proved to be sufficient by fatigue tests of specimens or components.",
+        "marker": "(2)",
+        "pStyle": "ListLevel1"
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "* ANC-18 is the ANC Bulletin ‘Design of wood aircraft structures’; issued June 1944 by the Army-Navy-Civil Committee on Aircraft Design Criteria (USA)."
+      },
+      {
+        "type": "paragraph",
+        "index": 21,
+        "level": -1,
+        "text": "Material Strength Properties and Design Values (Interpretative material)",
+        "pRStyle": "Bold"
+      },
+      {
+        "type": "paragraph",
+        "index": 22,
+        "level": -1,
+        "text": "Material specifications should be those contained in documents accepted either specifically by the Agency or by having been prepared by an organisation or person that the Agency accepts has the necessary capabilities. In defining design properties these material specification values should be modified and/or extended as necessary by the constructor to take account of manufacturing practices (for example method of construction, forming, machining and subsequent heat treatment)."
+      },
+      {
+        "type": "paragraph",
+        "index": 23,
+        "level": -1,
+        "text": "[Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-1464817597",
+    "erulesId": "ERULES-1963177438-7740",
+    "title": "AMC1 to ASTM F2245-12d Annex A1.1 Applicability",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "Subpart B — Standard Specification for Design and Performance of a Light Sport Aeroplane"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 1 to ASTM F2245-12d Annex A1.1 Applicability",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/015/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Multi glider tows (more than one glider at the same time) and banner towing is not covered by Annex 1.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "The requirements in Annex A1 do not constitute all the requirements necessary to cover the installation of cable retraction devices. Compliance with further requirements may become necessary.",
+        "pStyle": "Normal0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": -1,
+        "text": "[Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-36326529",
+    "erulesId": "ERULES-1963177438-7742",
+    "title": "AMC1 to ASTM F2245-12d Annex A1.7 Operating Limitations",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "AMC to CS (Acceptable means of compliance to certification specification);",
+    "sections": [
+      "Subpart B — Standard Specification for Design and Performance of a Light Sport Aeroplane"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "AMC 1 to ASTM F2245-12d Annex A1.7 Operating Limitations",
+        "pStyle": "Heading3AMC"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/015/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Tests acco rding A1.2 - A1.4 with at least 3 different glider types representing critical combinations of maximum and minimum weight, aerodynamic characteristics, maximum and minimum speeds, ground handling, and environmental conditions could be regarded acceptable to cover the representative fleet of all kind of requested gliders."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "[Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-455650679",
+    "erulesId": "ERULES-1963177438-7734",
+    "title": "CS-LSA.20 Flight Manual or Pilot’s Operating Manual",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart G — Operating Limitations and Information"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS- LSA.20 Flight Manual or Pilot’s Operating Manual",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "The Flight Manual or Pilot’s Operating Handbook (POH) shall comply with F2746-12 as modified below or GAMA Specification No 1 Revision No 2 Issued February 15, 1975; revised October 18, 1996."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "Each part of the Flight Manual containing information required by the following chapters or paragraphs of a Pilot’s Operating Handbook according to F2746- 12 :",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 1,
+        "text": "Chapter No 2 Limitations;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 6,
+        "level": 1,
+        "text": "Chapter No 3 Emergency Procedures;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 7,
+        "level": 1,
+        "text": "Chapter No 5 Performance;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 8,
+        "level": 1,
+        "text": "6.10.1 Weight and Balance Chart;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": 1,
+        "text": "6.10.2 Operating Weights and loading;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 10,
+        "level": 1,
+        "text": "6.10.3 Center of Gravity (CG) range and determination;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": 1,
+        "text": "6.12.5.1 Approved fuel grade and specifications;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 12,
+        "level": 1,
+        "text": "6.12.5.2 Approved oil grades and specifications;",
+        "pStyle": "bullet1"
+      },
+      {
+        "type": "paragraph",
+        "index": 13,
+        "level": -1,
+        "text": "must be approved, segregated, identified and clearly distinguished from each other unapproved part of the Flight Manual.",
+        "pStyle": "Normal2"
+      },
+      {
+        "type": "paragraph",
+        "index": 14,
+        "level": 0,
+        "text": "Non-approved information must be presented in a m anner acceptable to the Agency.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "[ Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-942758975",
+    "erulesId": "ERULES-1963177438-7735",
+    "title": "CS-LSA.25 Standard Specification for Pilot’s Operating Handbook (POH)",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart G — Operating Limitations and Information"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.25 Standard Specification for P ilot’s Operating Handbook (POH)",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "If a Pilot’s Operating Manual is provided to comply with CS-LSA.20 , it shall comply wit h ASTM F2746-12 including all Annexes and Appendices, except as modified by the following table."
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "1049"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.3"
+                }
+              ],
+              "width": "7994"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "1049"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.4"
+                }
+              ],
+              "width": "7994"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "1049"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3. 1.1"
+                }
+              ],
+              "width": "7994"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "1049"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "4.6"
+                }
+              ],
+              "width": "7994"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "1049"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "6.4.1 A list of the standards used for the design, construction, continued airworthiness, and reference compli ance with this standard"
+                }
+              ],
+              "width": "7994"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "1049"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "6.13.3"
+                }
+              ],
+              "width": "7994"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "1049"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "7"
+                }
+              ],
+              "width": "7994"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 18,
+        "level": -1,
+        "text": "[Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "-891223626",
+    "erulesId": "ERULES-1963177438-7736",
+    "title": "CS-LSA.30 Maintenance manual",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart G — Operating Limitations and Information"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.30 Maintenance manual",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 0,
+        "text": "A maintenance manual containing the information that the applicant considers essential for proper maintenance must be provided.",
+        "marker": "(a)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": 0,
+        "text": "The part of the manual containing service life limitations, (replacement or overhaul) of parts, components and accessories subject to such limitations must be approved, identified and clearly distinguished from each other unapproved part of the Maintenance Manual.",
+        "marker": "(b)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "paragraph",
+        "index": 5,
+        "level": 0,
+        "text": "The Maintenance Manual shall comply with ASTM F2483- 12 including all Annexes and Appendices, except as modified by the following table.",
+        "marker": "(c)",
+        "pStyle": "ListLevel0"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.2"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.2"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.6"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.7"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.7.1"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.8"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.14"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.15"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3.1.16"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "4"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Note 1"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "5.3 When listing the level of qualification needed to perform a task, the applicant shall use one of the following qualifications from the applicable regulations of Part- M and Part-66 for ELA1 aircraft maintenance: (1) Maintenance personnel of a Part-M, Section A Sub part F maintenance organisation; (2) Independent certifying staff qualified in accordance with Part-66 ; (3) Pilot/Owner qualified in accordance with M.A.803."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "5.3.1 to 5.3.6"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "6.1 Authorisation to Perform — Part-M and Part- 66 must be consulted for minimum authorisation to perform line maintenance, repairs and alterations of LSA aircraft."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Note 5"
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "7.1 Authorisation to Perform — Part-M and Part- 66 must be consulted for minimum authorisation to perform heavy maintenance, repairs and alterations of LSA aircraft."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Section 8 and all sub-chapters and notes."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Section 9 and all sub-chapters and notes."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Section 10 and all sub-chapters and notes."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Section 11 and all sub-chapters and notes."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Section 12 and all sub-chapters."
+                }
+              ],
+              "width": "7545"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Delete"
+                }
+              ],
+              "width": "958"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Annex A1 LSA Major repair and alteration (MRA) requirements"
+                }
+              ],
+              "width": "7545"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 53,
+        "level": -1,
+        "text": "[Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1610216202",
+    "erulesId": "ERULES-1963177438-7040",
+    "title": "CS-LSA.35 Applicable Specifications for engines",
+    "applicabilityDate": "4 July, 2011",
+    "entryIntoForceDate": "4 July, 2011",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart H — Engine and Electric Propulsion Units (EPU)"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.35 Applicable Specifications for engines",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 1/005/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Installed engines shall comply with ASTM F2339-06, ASTM F2538-07a, 14 CFR Part 33, CS-E or CS-22 Subpart H standards."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "When selected, ASTM F2339-06 applies, including all Annexes and Appendices, except as modified by the following table:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1007"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.2"
+                }
+              ],
+              "width": "8064"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1007"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "2"
+                }
+              ],
+              "width": "8064"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1007"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "4 and all sub-chapters"
+                }
+              ],
+              "width": "8064"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1007"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "7 and all sub-chapters"
+                }
+              ],
+              "width": "8064"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1007"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "8"
+                }
+              ],
+              "width": "8064"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 15,
+        "level": -1,
+        "text": "When selected, ASTM F2538-07a applies, including all Annexes and Appendices, except as modified by the following table:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1008"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.2"
+                }
+              ],
+              "width": "8063"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1008"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "3"
+                }
+              ],
+              "width": "8063"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1008"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "5 and all sub-chapters"
+                }
+              ],
+              "width": "8063"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1008"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "8 and all sub-chapters"
+                }
+              ],
+              "width": "8063"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1008"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "9"
+                }
+              ],
+              "width": "8063"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "sdtId": "-952253065",
+    "erulesId": "ERULES-1963177438-7741",
+    "title": "CS-LSA.37 Applicable Specifications for Electric Propulsion Units (EPU)",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart H — Engine and Electric Propulsion Units (EPU)"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.37 Applicable Specifications for Electric Propulsion Units (EPU)",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 2013/015/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": 2,
+        "text": "Installed EPU shall comply with ASTM F2840-11.",
+        "pStyle": "bullet2"
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "When selected, ASTM F2840-11 applies, including all Annexes and Appendices, except as modified by the following table:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1120"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.4"
+                }
+              ],
+              "width": "7965"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1120"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "8"
+                }
+              ],
+              "width": "7965"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1120"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "10"
+                }
+              ],
+              "width": "7965"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 11,
+        "level": -1,
+        "text": "[ Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1020205321",
+    "erulesId": "ERULES-1963177438-7737",
+    "title": "CS-LSA.40 Applicable Specifications for propellers",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart J — Propeller"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS-LSA.40 Applicable Specifications for propellers",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Installed propellers shall comply with ASTM F2506-10 , 14 CFR Part 35, CS-P, or CS-22 Subpart J standards."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "When selected, ASTM F2506-10 applies, including all Annexes and Appendices, except as modified by the following table:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "994"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1.4"
+                }
+              ],
+              "width": "8077"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "994"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "10"
+                }
+              ],
+              "width": "8077"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "994"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "5.6 Pitch Control 5.6.1 Failure of the propeller pitch control may not cause hazardous overspeeding under intended operation conditions. 5.6.2 If the propeller can be feathered, the control system must be designed to minimize 1) consequential hazards, such as a propeller runaway resulting from malfunction or failure of the control system, and 2) the possibility of an unintentional operation."
+                }
+              ],
+              "width": "8077"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Modify"
+                }
+              ],
+              "width": "994"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "6.5.1 After completion of each test prescribed in Section 6 of this specification, the propeller must be completely disassembled and a detailed inspection must be made of the propeller parts for cracks, wear, distortion, and any other unusual conditions."
+                }
+              ],
+              "width": "8077"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Add"
+                }
+              ],
+              "width": "994"
+            },
+            {
+              "content": [
+                {
+                  "style": "TableChar",
+                  "text": "6.7 Function Test 6.7.1 Each variable pitch propeller must be subjected to all applicable functional tests of this paragraph. The same propeller used in the endurance test must be used in the functional test and must be driven by an engine on a test stand or on a powered sailplane. 6.7.2 Manually controllable propellers — 500 complete cycles of control throughout the pitch and rotational speed ranges, excluding the feathering range. 6.7.3 Automatically controlled propellers — 1 500 complete cycles of control throughout the pitch and rotational speed ranges, excluding the feathering range."
+                }
+              ],
+              "width": "8077"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 20,
+        "level": -1,
+        "text": "[Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  },
+  {
+    "sdtId": "1739197900",
+    "erulesId": "ERULES-1963177438-7738",
+    "title": "CS-LSA.45 Applicable Specifications for airframe emergency parachutes",
+    "applicabilityDate": "30 July, 2013",
+    "entryIntoForceDate": "30 July, 2013",
+    "type": "CS (Certification specification);",
+    "sections": [
+      "Subpart K — Airframe Emergency Parachute"
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "index": 1,
+        "level": -1,
+        "text": "CS- LSA.45 Applicable Specifications for airframe emergency parachutes",
+        "pStyle": "Heading2CS"
+      },
+      {
+        "type": "paragraph",
+        "index": 2,
+        "level": -1,
+        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "pStyle": "Dxshortdesc"
+      },
+      {
+        "type": "paragraph",
+        "index": 3,
+        "level": -1,
+        "text": "Installed Airframe Emergency Parachutes and installations of such systems shall comply with ASTM F2316-12 ."
+      },
+      {
+        "type": "paragraph",
+        "index": 4,
+        "level": -1,
+        "text": "ASTM F2316- 12 applies, including all Annexes and Appendices, except as modified by the following table:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1064"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "1. 4"
+                }
+              ],
+              "width": "8021"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "delete"
+                }
+              ],
+              "width": "1064"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "12"
+                }
+              ],
+              "width": "8021"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "index": 9,
+        "level": -1,
+        "text": "[ Amdt LSA/1]",
+        "pStyle": "TableNormal0"
+      }
+    ]
+  }
+]
