@@ -26,13 +26,15 @@
       "November 2024.json"
     ],
     "sera": [
+      "August 2025.json",
       "December 2024.json",
       "February 2023.json"
     ]
   },
   "Aircraft and Products": {
     "additional airworthiness": [
-      "March 2023.json"
+      "March 2023.json",
+      "October 2025.json"
     ],
     "airworthiness of products": [
       "June 2023.json"
@@ -44,7 +46,8 @@
       "December 2020.json"
     ],
     "continuing airworthiness": [
-      "July 2024.json"
+      "July 2024.json",
+      "September 2025.json"
     ],
     "engines": [
       "December 2023.json"
