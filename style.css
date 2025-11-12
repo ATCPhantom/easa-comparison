@@ -72,6 +72,18 @@ body {
   color: #fff;
   background-color: #1c6c3f;
 }
+
+.custom-btn-update {
+  color: #856404; /* YELLOW */
+  border: 2px solid #fbbc39;
+  background-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.custom-btn-update:hover {
+  color: #fff;
+  background-color: #fbbc39;
+}
 /* End Action Screen Buttons */
 
 .regulation-box:hover {
@@ -390,16 +402,4 @@ table.table td {
   background-color: #000 !important;
   color: white !important;
   border-color: #000 !important;
-}
-
-.custom-btn-update {
-  color: #856404; /* dark amber text */
-  border: 2px solid #fbbc39; /* Bootstrap warning yellow */
-  background-color: transparent;
-  transition: all 0.2s ease-in-out;
-}
-
-.custom-btn-update:hover {
-  color: #fff;
-  background-color: #fbbc39;
 }
