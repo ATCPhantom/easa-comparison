@@ -17,6 +17,9 @@
     ]
   },
   "Air Traffic Management": {
+    "airborne com nav & surv": [
+      "May 2022.json"
+    ],
     "atco": [
       "June 2024.json"
     ],
@@ -28,10 +31,16 @@
     "atm-eq": [
       "November 2024.json"
     ],
+    "remote": [
+      "July 2020.json"
+    ],
     "sera": [
       "August 2025.json",
       "December 2024.json",
       "February 2023.json"
+    ],
+    "skpi": [
+      "November 2020.json"
     ]
   },
   "Aircraft and Products": {

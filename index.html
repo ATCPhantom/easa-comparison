@@ -29,7 +29,8 @@
 	    <h4 class="mb-3">Choose Action</h4>
 	    <div class="d-grid gap-3">
 	      <button class="btn custom-btn-view" onclick="enterViewChanges()">View Regulatory Changes</button>
-	      <button class="btn custom-btn-export" onclick="enterExportMode()">Export Full Matrix</button>
+	      <button class="btn custom-btn-export" onclick="enterExportMode()">Export New Matrix</button>
+	      <button class="btn custom-btn-update" onclick="openUpdateMatrixModal()">Update Existing Matrix</button>
 	    </div>
 	  </div>
 	</div>
@@ -54,6 +55,7 @@
 			</div>
 		</div>
 	</div>
+	<!-- Export Matrix Modal -->
 	<div class="modal fade" id="exportModal" tabindex="-1" aria-labelledby="exportModalLabel" aria-hidden="true">
 	  <div class="modal-dialog modal-lg modal-dialog-scrollable">
 	    <div class="modal-content">
@@ -74,6 +76,29 @@
 	        <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
 	        <button class="btn btn-success" onclick="exportExcelJS()">Export</button>
 	      </div>
+	    </div>
+	  </div>
+	</div>
+	<!-- Update Matrix Modal -->
+	<div class="modal fade" id="updateMatrixModal" tabindex="-1" aria-labelledby="updateMatrixModalLabel" aria-hidden="true">
+	  <div class="modal-dialog modal-dialog-centered">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <h5 class="modal-title" id="updateMatrixModalLabel">Upload Existing Compliance Matrix</h5>
+	        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+	      </div>
+	      <div class="modal-body text-center">
+	        <p class="mb-3">Upload a previously filled Excel compliance matrix to update it with the latest regulation changes.</p>
+	        <input type="file" id="matrixUpload" accept=".xlsx" class="form-control" />
+	        <div id="upload-feedback" class="text-muted mt-3"></div>
+	      </div>
+	      <div class="modal-footer d-flex justify-content-between align-items-center">
+				  <div id="upload-status" class="text-muted small"></div>
+				  <div>
+				    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+				    <button type="button" id="updateMatrixActionBtn" class="btn btn-primary" onclick="handleMatrixUploadClick()">Continue</button>
+				  </div>
+				</div>
 	    </div>
 	  </div>
 	</div>

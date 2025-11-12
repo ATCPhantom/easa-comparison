@@ -51,7 +51,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "All elem ents (i.e. CS and GM ) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "text": "All elements (i.e. CS and GM) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics.",
         "pStyle": "Normal0"
       },
       {
@@ -62,7 +62,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Certification specification ED decision Guidance material ED d ecision"
+                  "text": "Certification specificationED decisionGuidance materialED decision"
                 }
               ],
               "width": "9052"
@@ -74,7 +74,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -92,14 +92,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "CS/GM ( ED decisions )",
+        "text": "CS/GM (ED decisions)",
         "pStyle": "NoTocHeading2"
       },
       {
@@ -119,7 +119,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS/AMC Issue No, Amendment No"
+                  "text": "CS/AMC Issue No,Amendment No"
                 }
               ],
               "width": "2791"
@@ -148,7 +148,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-FCD / Initial i ssue"
+                  "text": "CS-FCD/ Initial issue "
                 }
               ],
               "width": "2791"
@@ -168,7 +168,7 @@
               "content": [
                 {
                   "style": "Hyperlink",
-                  "text": "ED Decisio n 2021/012/R"
+                  "text": "ED Decision 2021/012/R"
                 }
               ],
               "width": "3161"
@@ -198,7 +198,7 @@
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
         "pRStyle": "Italic"
       }
     ]
@@ -251,7 +251,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -363,14 +363,14 @@
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "CS FCD.310 Credit for operation s on more than one type or variant 22",
+        "text": "CS FCD.310 Credit for operations on more than one type or variant 22",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 23,
         "level": -1,
-        "text": "GM1 FCD.310 Credit for operation s on more than one type or variant 22",
+        "text": "GM1 FCD.310 Credit for operations on more than one type or variant 22",
         "pStyle": "TOC3"
       },
       {
@@ -391,7 +391,7 @@
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "Appendix to CS FCD.400 Compilation of DR tables 23",
+        "text": "Appendix to CS FCD.400 Compilation of DR tables 23",
         "pStyle": "TOC3"
       },
       {
@@ -419,14 +419,14 @@
         "type": "paragraph",
         "index": 30,
         "level": -1,
-        "text": "CS FCD.415 Difference levels — Training, checking , and currency 25",
+        "text": "CS FCD.415 Difference levels — Training, checking, and currency 25",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 31,
         "level": -1,
-        "text": "GM1 FCD.415 Difference levels — Training, checking , and currency 30",
+        "text": "GM1 FCD.415 Difference levels — Training, checking, and currency 30",
         "pStyle": "TOC3"
       },
       {
@@ -440,7 +440,7 @@
         "type": "paragraph",
         "index": 33,
         "level": -1,
-        "text": "Appendix to CS FCD.420 Evaluation process 35",
+        "text": "Appendix to CS FCD.420 Evaluation process 35",
         "pStyle": "TOC3"
       },
       {
@@ -497,7 +497,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 2,
-        "text": "to establish whether an aircraft is recognised as a new type or as a variant to an existing type of aircraft , or as a modification to an existing type or variant, including its new systems, new equipment, or new procedures; and",
+        "text": "to establish whether an aircraft is recognised as a new type or as a variant to an existing type of aircraft, or as a modification to an existing type or variant, including its new systems, new equipment, or new procedures; and",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -505,7 +505,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 2,
-        "text": "to assign the pilot licence endorsement designation for a n aircraft ;",
+        "text": "to assign the pilot licence endorsement designation for an aircraft;",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -513,7 +513,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "the minimum syllabus for an aircraft type- specific pilot training course, including checking requirements, currency requirements and recent experience requirements;",
+        "text": "the minimum syllabus for an aircraft type-specific pilot training course, including checking requirements, currency requirements and recent experience requirements;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -561,7 +561,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "any type-specific training elements related to design changes, equipment, procedures or operations of a n aircraft;",
+        "text": "any type-specific training elements related to design changes, equipment, procedures or operations of an aircraft;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -569,7 +569,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 1,
-        "text": "the technical requirements and administrative procedures related to the A ircrew R egulation , Regulation (EU) No 965/2012 (‘Air OPS Regulation’), and those of Annex I (Part 21) to Regulation (EU) No 748/2012 (‘Initial Airworthiness Regulation’);",
+        "text": "the technical requirements and administrative procedures related to the Aircrew Regulation, Regulation (EU) No 965/2012 (‘Air OPS Regulation’), and those of Annex I (Part 21) to Regulation (EU) No 748/2012 (‘Initial Airworthiness Regulation’);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -577,7 +577,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 1,
-        "text": "the pilot experience and entry prerequisites for the issuance of a type rating ;",
+        "text": "the pilot experience and entry prerequisites for the issuance of a type rating;",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -585,7 +585,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 1,
-        "text": "the commonalities and differences between the candidate aircraft and the base aircraft in accordance with the d ifference r equirement (DR) tables, where applicable.",
+        "text": "the commonalities and differences between the candidate aircraft and the base aircraft in accordance with the difference requirement (DR) tables, where applicable.",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -620,7 +620,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "The scope of CS-FCD includes t he following elements, as appropriate:",
+        "text": "The scope of CS-FCD includes the following elements, as appropriate:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -644,7 +644,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Specific type s of operations include, but are not limited to:",
+        "text": "Specific types of operations include, but are not limited to:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -668,7 +668,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "operations dedicated to helicopters such as HHO, HEMS , and offshore operations; and",
+        "text": "operations dedicated to helicopters such as HHO, HEMS, and offshore operations; and",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -676,7 +676,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "steep approaches .",
+        "text": "steep approaches.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -684,7 +684,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "S pecific airspace includes, but is not limited to , RVSM, MNPS , and BRNAV .",
+        "text": "Specific airspace includes, but is not limited to, RVSM, MNPS, and BRNAV.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -692,7 +692,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "Optional equipment includes, but is not limited to , n ew aircraft technology or specific equipment such as HUD, EFB, NVIS, ECL customisation, E F VS and S F VS equipment .",
+        "text": "Optional equipment includes, but is not limited to, new aircraft technology or specific equipment such as HUD, EFB, NVIS, ECL customisation, EFVS and SFVS equipment.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -735,7 +735,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "This CS-FCD specifies o perational s uitability d ata (OSD) based on data provision which is required from the t ype c ertificate (TC) applicant /holder and data provided at the request of the TC applicant /holder . OSD is presented as mandatory or non-mandatory (recommendations) for the end user in accordance with the A ircrew and A ir OPS R egulations as follows:",
+        "text": "This CS-FCD specifies operational suitability data (OSD) based on data provision which is required from the type certificate (TC) applicant/holder and data provided at the request of the TC applicant/holder. OSD is presented as mandatory or non-mandatory (recommendations) for the end user in accordance with the Aircrew and Air OPS Regulations as follows:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -743,7 +743,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "d ata required from the TC applicant /holder and mandatory for the end users (Box 1):",
+        "text": "data required from the TC applicant/holder and mandatory for the end users (Box 1):",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -751,7 +751,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 2,
-        "text": "CS FCD.200 ;",
+        "text": "CS FCD.200;",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -759,7 +759,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 2,
-        "text": "CS FCD.300(a);(b);(c);(d);(e)(1) and (e)(2) ;",
+        "text": "CS FCD.300(a);(b);(c);(d);(e)(1) and (e)(2);",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -767,7 +767,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 2,
-        "text": "CS FCD.400 ;",
+        "text": "CS FCD.400;",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -775,7 +775,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 2,
-        "text": "CS FCD.405 ;",
+        "text": "CS FCD.405;",
         "marker": "(iv)",
         "pStyle": "ListLevel2"
       },
@@ -783,7 +783,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 2,
-        "text": "CS FCD.410 ;",
+        "text": "CS FCD.410;",
         "marker": "(v)",
         "pStyle": "ListLevel2"
       },
@@ -791,21 +791,23 @@
         "type": "paragraph",
         "index": 10,
         "level": 2,
-        "text": "(v i ) CS FCD.415 ; and",
+        "text": "CS FCD.415; and",
+        "marker": "(vi)",
         "pStyle": "ListLevel2"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": 2,
-        "text": "(v i i) CS FCD.420 ;",
+        "text": "CS FCD.420;",
+        "marker": "(vii)",
         "pStyle": "ListLevel2"
       },
       {
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "d ata required from the TC applicant /holder and non-mandatory (recommendations) for the end users (Box 2):",
+        "text": "data required from the TC applicant/holder and non-mandatory (recommendations) for the end users (Box 2):",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -813,7 +815,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 2,
-        "text": "CS FCD.300(a);(b);(c);(d);(e)(3) and (f) ;",
+        "text": "CS FCD.300(a);(b);(c);(d);(e)(3) and (f);",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -821,7 +823,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 2,
-        "text": "CS FCD.415 ; and",
+        "text": "CS FCD.415; and",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -829,7 +831,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 2,
-        "text": "CS FCD.420 ;",
+        "text": "CS FCD.420;",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -837,7 +839,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 1,
-        "text": "d ata at the request of the TC applicant /holder and mandatory for the end users (Box 3):",
+        "text": "data at the request of the TC applicant/holder and mandatory for the end users (Box 3):",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -845,7 +847,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 2,
-        "text": "CS FCD.300(a);(b);(c);(d);(e)(1) and (e)(2) ;",
+        "text": "CS FCD.300(a);(b);(c);(d);(e)(1) and (e)(2);",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -853,7 +855,7 @@
         "type": "paragraph",
         "index": 18,
         "level": 2,
-        "text": "CS FCD.310(a) and (b) ;",
+        "text": "CS FCD.310(a) and (b);",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -861,7 +863,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 2,
-        "text": "CS FCD.400 ;",
+        "text": "CS FCD.400;",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -869,7 +871,7 @@
         "type": "paragraph",
         "index": 20,
         "level": 2,
-        "text": "CS FCD.405 ;",
+        "text": "CS FCD.405;",
         "marker": "(iv)",
         "pStyle": "ListLevel2"
       },
@@ -877,7 +879,7 @@
         "type": "paragraph",
         "index": 21,
         "level": 2,
-        "text": "CS FCD.410 ;",
+        "text": "CS FCD.410;",
         "marker": "(v)",
         "pStyle": "ListLevel2"
       },
@@ -885,7 +887,7 @@
         "type": "paragraph",
         "index": 22,
         "level": 2,
-        "text": "CS FCD.415 ; and",
+        "text": "CS FCD.415; and",
         "marker": "(vi)",
         "pStyle": "ListLevel2"
       },
@@ -893,7 +895,7 @@
         "type": "paragraph",
         "index": 23,
         "level": 2,
-        "text": "CS FCD.420 ;",
+        "text": "CS FCD.420;",
         "marker": "(vii)",
         "pStyle": "ListLevel2"
       },
@@ -901,7 +903,7 @@
         "type": "paragraph",
         "index": 24,
         "level": 1,
-        "text": "d ata at the request of the TC applicant /holder and non-mandatory (recommendations) for the end users (Box 4):",
+        "text": "data at the request of the TC applicant/holder and non-mandatory (recommendations) for the end users (Box 4):",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -909,7 +911,7 @@
         "type": "paragraph",
         "index": 25,
         "level": 2,
-        "text": "CS FCD.300(a);(b);(c);(d);(e)(2);(e)(3) and (f) ;",
+        "text": "CS FCD.300(a);(b);(c);(d);(e)(2);(e)(3) and (f);",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -917,7 +919,7 @@
         "type": "paragraph",
         "index": 26,
         "level": 2,
-        "text": "CS FCD.305 ;",
+        "text": "CS FCD.305;",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -925,7 +927,7 @@
         "type": "paragraph",
         "index": 27,
         "level": 2,
-        "text": "CS FCD.310(a) and (b) ;",
+        "text": "CS FCD.310(a) and (b);",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -933,7 +935,7 @@
         "type": "paragraph",
         "index": 28,
         "level": 2,
-        "text": "CS FCD.400 ;",
+        "text": "CS FCD.400;",
         "marker": "(iv)",
         "pStyle": "ListLevel2"
       },
@@ -941,7 +943,7 @@
         "type": "paragraph",
         "index": 29,
         "level": 2,
-        "text": "CS FCD.405 ;",
+        "text": "CS FCD.405;",
         "marker": "(v)",
         "pStyle": "ListLevel2"
       },
@@ -949,7 +951,7 @@
         "type": "paragraph",
         "index": 30,
         "level": 2,
-        "text": "CS FCD.410 ;",
+        "text": "CS FCD.410;",
         "marker": "(vi)",
         "pStyle": "ListLevel2"
       },
@@ -957,7 +959,7 @@
         "type": "paragraph",
         "index": 31,
         "level": 2,
-        "text": "CS FCD.415 ; and",
+        "text": "CS FCD.415; and",
         "marker": "(vii)",
         "pStyle": "ListLevel2"
       },
@@ -965,7 +967,7 @@
         "type": "paragraph",
         "index": 32,
         "level": 2,
-        "text": "CS FCD.420 ; and",
+        "text": "CS FCD.420; and",
         "marker": "(viii)",
         "pStyle": "ListLevel2"
       },
@@ -973,7 +975,7 @@
         "type": "paragraph",
         "index": 33,
         "level": 1,
-        "text": "i tem s (b)(1) and (b)(2) combined constitute the minimum syllabus for pilot type rating training as required by Part 21.",
+        "text": "items (b)(1) and (b)(2) combined constitute the minimum syllabus for pilot type rating training as required by Part 21.",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -1008,7 +1010,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "The technical requirements and administrative procedures related to the Aircrew and Air OPS Regulations contain references to OSD that may be established in accordance with Regulation (EU) No 748 /20 12 .",
+        "text": "The technical requirements and administrative procedures related to the Aircrew and Air OPS Regulations contain references to OSD that may be established in accordance with Regulation (EU) No 748/2012.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1016,14 +1018,14 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Th is data may contain mandatory or non-mandatory elements concerning:",
+        "text": "This data may contain mandatory or non-mandatory elements concerning:",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "the type of aircraft categorisation ;",
+        "text": "the type of aircraft categorisation;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -1047,7 +1049,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "theoretical knowledge and flight instruction for the issu ance of type ratings;",
+        "text": "theoretical knowledge and flight instruction for the issuance of type ratings;",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -1071,7 +1073,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "recent experience credit for operation s o n more than one type of aircraft;",
+        "text": "recent experience credit for operations on more than one type of aircraft;",
         "marker": "(7)",
         "pStyle": "ListLevel1"
       },
@@ -1079,7 +1081,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "recurrent training, and checking, as well as alternating proficiency checks, for operation s on more than one type or variant;",
+        "text": "recurrent training, and checking, as well as alternating proficiency checks, for operations on more than one type or variant;",
         "marker": "(8)",
         "pStyle": "ListLevel1"
       },
@@ -1087,7 +1089,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "pilot type-specific training elements ;",
+        "text": "pilot type-specific training elements;",
         "marker": "(9)",
         "pStyle": "ListLevel1"
       },
@@ -1111,7 +1113,8 @@
         "type": "paragraph",
         "index": 15,
         "level": 1,
-        "text": "(1 2 ) type specific training elements related to the issu ance of a specific approval ; and",
+        "text": "type specific training elements related to the issuance of a specific approval; and",
+        "marker": "(12)",
         "pStyle": "ListLevel1"
       },
       {
@@ -1126,7 +1129,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 0,
-        "text": "M andatory and non-mandatory OSD elements are approved upon satisfactory demonstration of compliance. This data may be required from, or voluntarily provided by, the applicant, based on data required to be approved , or based on data approved at the request of the applicant.",
+        "text": "Mandatory and non-mandatory OSD elements are approved upon satisfactory demonstration of compliance. This data may be required from, or voluntarily provided by, the applicant, based on data required to be approved, or based on data approved at the request of the applicant.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1173,7 +1176,7 @@
         "type": "paragraph",
         "index": 23,
         "level": -1,
-        "text": "Box es 1 and 2 combined constitute the minimum syllabus for pilot type rating training as required by Part 21.",
+        "text": "Boxes 1 and 2 combined constitute the minimum syllabus for pilot type rating training as required by Part 21.",
         "pStyle": "Normal1"
       },
       {
@@ -1211,7 +1214,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Aircraft type designation and pilot licen c e endorsement Aircraft variant designations Prerequisites for initial type rating training and checking Training a reas of s pecial e mphasis (TASE) for initial type rating and recurrent training MDR tables between variants DR tables related to systems training, equipment training, and procedures training, based on aircraft modifications"
+                  "text": "Aircraft type designation and pilot licence endorsementAircraft variant designationsPrerequisites for initial type rating training and checkingTraining areas of special emphasis (TASE) for initial type rating and recurrent trainingMDR tables between variantsDR tables related to systems training, equipment training, and procedures training, based on aircraft modifications"
                 }
               ],
               "width": "4238"
@@ -1220,7 +1223,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Training footprint for :"
+                  "text": "Training footprint for:"
                 },
                 {
                   "style": "TableChar",
@@ -1255,15 +1258,15 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Level of d ifferences d etermination — DR & MDR Tables TASE for:"
+                  "text": "Level of differences determination — DR & MDR TablesTASE for:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "difference training type rating training based on credit for commonalit ies; and training for specific operations, procedures or equipment ( e.g. steep approaches, RNP AR, E F VS/S F VS, EFB, NVIS, etc.)"
+                  "text": "difference trainingtype rating training based on credit for commonalities; andtraining for specific operations, procedures or equipment (e.g. steep approaches, RNP AR, EFVS/SFVS, EFB, NVIS, etc.)"
                 },
                 {
                   "style": null,
-                  "text": "Prerequisites , credit for training and checking or recent experience requirements for operation s on more than one type or variant"
+                  "text": "Prerequisites, credit for training and checking or recent experience requirements for operations on more than one type or variant"
                 }
               ],
               "width": "4238"
@@ -1276,11 +1279,11 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "difference training ; type rating training based on credit for commonalit ies; and training for specific operations, procedures or equipment ( e.g. LVO , RNP AR, E F VS/S F VS, EFB, NVIS, etc.)"
+                  "text": "difference training;type rating training based on credit for commonalities; andtraining for specific operations, procedures or equipment (e.g. LVO, RNP AR, EFVS/SFVS, EFB, NVIS, etc.)"
                 },
                 {
                   "style": null,
-                  "text": "CTLC : credit for recent experience requirements Credits for training, checking , or currency"
+                  "text": "CTLC: credit for recent experience requirementsCredits for training, checking, or currency"
                 }
               ],
               "width": "4238"
@@ -1349,7 +1352,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Common t ake-off and l anding c redit (CTLC) means a programme or process that allows credit for recent experience between aircraft types that can be demonstrated to have very similar handling qualities, flight characteristics , operating techniques, and operating procedures during take-off and initial climb, approach and landing ( including the establishment of the final landing configuration ) .",
+        "text": "Common take-off and landing credit (CTLC) means a programme or process that allows credit for recent experience between aircraft types that can be demonstrated to have very similar handling qualities, flight characteristics, operating techniques, and operating procedures during take-off and initial climb, approach and landing (including the establishment of the final landing configuration).",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -1357,7 +1360,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Currency means the experience and recurrent training necessary for the safe operation of air craft, systems and equipme nt .",
+        "text": "Currency means the experience and recurrent training necessary for the safe operation of aircraft, systems and equipment.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -1373,7 +1376,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "Difference r equirement (DR) means a description of the differences regarding the level of training and checking, or currency between a base and a candidate aircraft and their impact on flight characteristics and changes of procedures , to be used by ATOs for the development of training courses and by operators for the development of ODR tables and training programmes.",
+        "text": "Difference requirement (DR) means a description of the differences regarding the level of training and checking, or currency between a base and a candidate aircraft and their impact on flight characteristics and changes of procedures, to be used by ATOs for the development of training courses and by operators for the development of ODR tables and training programmes.",
         "marker": "(g)",
         "pStyle": "ListLevel0"
       },
@@ -1397,7 +1400,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 0,
-        "text": "Handling qualities means the manner in which the aircraft responds with respect to the rate and magnitude of pilot - initiated control inputs to the flight controls based on the aerodynamic response of an aircraft, also as affected by changes in configuration or flight path parameters.",
+        "text": "Handling qualities means the manner in which the aircraft responds with respect to the rate and magnitude of pilot-initiated control inputs to the flight controls based on the aerodynamic response of an aircraft, also as affected by changes in configuration or flight path parameters.",
         "marker": "(j)",
         "pStyle": "ListLevel0"
       },
@@ -1405,7 +1408,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "Line f lying u nder s upervision (LIFUS) means the part of the operator’s conversion course in accordance with the A i r OPS Regulation .",
+        "text": "Line flying under supervision (LIFUS) means the part of the operator’s conversion course in accordance with the Air OPS Regulation.",
         "marker": "(k)",
         "pStyle": "ListLevel0"
       },
@@ -1413,7 +1416,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 0,
-        "text": "Master d ifference r equirements (MDR s ) means those requirements that pertain to differences between types of aircraft or variants of the same type of aircraft. MDRs are specified in terms of the minimum difference levels for training, checking, and currency, and include the highest difference level identified in the applicable DR tables.",
+        "text": "Master difference requirements (MDRs) means those requirements that pertain to differences between types of aircraft or variants of the same type of aircraft. MDRs are specified in terms of the minimum difference levels for training, checking, and currency, and include the highest difference level identified in the applicable DR tables.",
         "marker": "(l)",
         "pStyle": "ListLevel0"
       },
@@ -1445,7 +1448,7 @@
         "type": "paragraph",
         "index": 18,
         "level": 0,
-        "text": "Recent experience means the recent experience described in point FCL.060 of Annex I (Part - FCL) to the Aircrew Regulation.",
+        "text": "Recent experience means the recent experience described in point FCL.060 of Annex I (Part-FCL) to the Aircrew Regulation.",
         "marker": "(p)",
         "pStyle": "ListLevel0"
       },
@@ -1453,7 +1456,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 0,
-        "text": "Training a reas of s pecial e mphasis (TASE) means specific knowledge and skills required for the safe operation of an aircraft type or variant , the use of equipment, the application of procedures , or the performance of operations.",
+        "text": "Training areas of special emphasis (TASE) means specific knowledge and skills required for the safe operation of an aircraft type or variant, the use of equipment, the application of procedures, or the performance of operations.",
         "marker": "(q)",
         "pStyle": "ListLevel0"
       },
@@ -1461,7 +1464,7 @@
         "type": "paragraph",
         "index": 20,
         "level": 0,
-        "text": "Training footprint means a summary description of a training programme, usually in short tabular form, showing the training subjects, modules, procedures, manoeuvres , or other programme elements that are planned for completion during each day or phase of training.",
+        "text": "Training footprint means a summary description of a training programme, usually in short tabular form, showing the training subjects, modules, procedures, manoeuvres, or other programme elements that are planned for completion during each day or phase of training.",
         "marker": "(r)",
         "pStyle": "ListLevel0"
       },
@@ -1477,7 +1480,7 @@
         "type": "paragraph",
         "index": 22,
         "level": 0,
-        "text": "Variant means an aircraft or a series of aircraft that share s the same basic design within the same pilot type rating , and that has such differences from the base aircraft that requir e difference training or familiarisation training as per point FCL.710 of Part-FCL.",
+        "text": "Variant means an aircraft or a series of aircraft that shares the same basic design within the same pilot type rating, and that has such differences from the base aircraft that require difference training or familiarisation training as per point FCL.710 of Part-FCL.",
         "marker": "(t)",
         "pStyle": "ListLevel0"
       },
@@ -1524,19 +1527,19 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "ATA Air Transport Association"
+        "text": "ATA  Air Transport Association"
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "ATO approved training organisation"
+        "text": "ATO  approved training organisation"
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "ATQP Alternative Training and Qualification Programme"
+        "text": "ATQP  Alternative Training and Qualification Programme"
       },
       {
         "type": "paragraph",
@@ -1548,49 +1551,49 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "CBT Computer-Based Training"
+        "text": "CBT  Computer-Based Training"
       },
       {
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "CTLC c ommon t ake-off and l anding c redit"
+        "text": "CTLC  common take-off and landing credit"
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "CS Certification Specifications"
+        "text": "CS  Certification Specifications"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "DR Difference Requirement"
+        "text": "DR  Difference Requirement"
       },
       {
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "ECL Electronic Check List"
+        "text": "ECL  Electronic Check List"
       },
       {
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "EFB Electronic Flight Bag"
+        "text": "EFB  Electronic Flight Bag"
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "EFIS Electronic Flight Instrument System"
+        "text": "EFIS  Electronic Flight Instrument System"
       },
       {
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "EFVS enhanced flight vision system"
+        "text": "EFVS  enhanced flight vision system"
       },
       {
         "type": "paragraph",
@@ -1602,187 +1605,187 @@
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "FC Flight Crew"
+        "text": "FC  Flight Crew"
       },
       {
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "FCD flight crew data"
+        "text": "FCD  flight crew data"
       },
       {
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "FCL Flight Crew Licensing"
+        "text": "FCL  Flight Crew Licensing"
       },
       {
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "FCS FSTD capability signature"
+        "text": "FCS  FSTD capability signature"
       },
       {
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "FD Flight Director"
+        "text": "FD  Flight Director"
       },
       {
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "FFS f ull f light s imulator"
+        "text": "FFS  full flight simulator"
       },
       {
         "type": "paragraph",
         "index": 23,
         "level": -1,
-        "text": "FGCS Flight Guidance Control System"
+        "text": "FGCS  Flight Guidance Control System"
       },
       {
         "type": "paragraph",
         "index": 24,
         "level": -1,
-        "text": "FMS Flight Management System"
+        "text": "FMS  Flight Management System"
       },
       {
         "type": "paragraph",
         "index": 25,
         "level": -1,
-        "text": "FSTD f light s imulation t raining d evice"
+        "text": "FSTD  flight simulation training device"
       },
       {
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "FTD f light t raining d evice"
+        "text": "FTD  flight training device"
       },
       {
         "type": "paragraph",
         "index": 27,
         "level": -1,
-        "text": "GM Guidance Material"
+        "text": "GM  Guidance Material"
       },
       {
         "type": "paragraph",
         "index": 28,
         "level": -1,
-        "text": "GPWS Ground Proximity Warning System"
+        "text": "GPWS  Ground Proximity Warning System"
       },
       {
         "type": "paragraph",
         "index": 29,
         "level": -1,
-        "text": "HEMS Helicopter Emergency Medical Service"
+        "text": "HEMS  Helicopter Emergency Medical Service"
       },
       {
         "type": "paragraph",
         "index": 30,
         "level": -1,
-        "text": "HHO Helicopter Hoist Operations"
+        "text": "HHO  Helicopter Hoist Operations"
       },
       {
         "type": "paragraph",
         "index": 31,
         "level": -1,
-        "text": "HUD Head - Up Display"
+        "text": "HUD  Head-Up Display"
       },
       {
         "type": "paragraph",
         "index": 32,
         "level": -1,
-        "text": "INS Inertial Navigation System"
+        "text": "INS  Inertial Navigation System"
       },
       {
         "type": "paragraph",
         "index": 33,
         "level": -1,
-        "text": "JOEB Joint Operational Evaluation Board"
+        "text": "JOEB   Joint Operational Evaluation Board"
       },
       {
         "type": "paragraph",
         "index": 34,
         "level": -1,
-        "text": "LBS Load & Balance and Servicing"
+        "text": "LBS  Load & Balance and Servicing"
       },
       {
         "type": "paragraph",
         "index": 35,
         "level": -1,
-        "text": "LIFUS Line Flying Under Supervision"
+        "text": "LIFUS  Line Flying Under Supervision"
       },
       {
         "type": "paragraph",
         "index": 36,
         "level": -1,
-        "text": "LOF l ine o riented f lying"
+        "text": "LOF  line oriented flying"
       },
       {
         "type": "paragraph",
         "index": 37,
         "level": -1,
-        "text": "LVO Low - Visibility Operations"
+        "text": "LVO  Low-Visibility Operations"
       },
       {
         "type": "paragraph",
         "index": 38,
         "level": -1,
-        "text": "MDR Master Difference Requirement"
+        "text": "MDR  Master Difference Requirement"
       },
       {
         "type": "paragraph",
         "index": 39,
         "level": -1,
-        "text": "MNPS Minimum Navigation Performance Specification"
+        "text": "MNPS  Minimum Navigation Performance Specification"
       },
       {
         "type": "paragraph",
         "index": 40,
         "level": -1,
-        "text": "NVIS Night Vision Imaging System"
+        "text": "NVIS  Night Vision Imaging System"
       },
       {
         "type": "paragraph",
         "index": 41,
         "level": -1,
-        "text": "ODR Operator Difference Requirement"
+        "text": "ODR  Operator Difference Requirement"
       },
       {
         "type": "paragraph",
         "index": 42,
         "level": -1,
-        "text": "OEB Operational Evaluation Board"
+        "text": "OEB  Operational Evaluation Board"
       },
       {
         "type": "paragraph",
         "index": 43,
         "level": -1,
-        "text": "OPT Operational Performance Tool"
+        "text": "OPT  Operational Performance Tool"
       },
       {
         "type": "paragraph",
         "index": 44,
         "level": -1,
-        "text": "OSD Operational Suitability Data"
+        "text": "OSD  Operational Suitability Data"
       },
       {
         "type": "paragraph",
         "index": 45,
         "level": -1,
-        "text": "OTD Other Training Devices"
+        "text": "OTD  Other Training Devices"
       },
       {
         "type": "paragraph",
         "index": 46,
         "level": -1,
-        "text": "PIC Pilot-In-Command"
+        "text": "PIC  Pilot-In-Command"
       },
       {
         "type": "paragraph",
         "index": 47,
         "level": -1,
-        "text": "QRH Quick Reference Handbook"
+        "text": "QRH  Quick Reference Handbook"
       },
       {
         "type": "paragraph",
@@ -1794,55 +1797,55 @@
         "type": "paragraph",
         "index": 49,
         "level": -1,
-        "text": "RVSM Reduced Vertical Separation Minima"
+        "text": "RVSM  Reduced Vertical Separation Minima"
       },
       {
         "type": "paragraph",
         "index": 50,
         "level": -1,
-        "text": "S F VS s ynthetic flight v ision s ystem"
+        "text": "SFVS  synthetic flight vision system"
       },
       {
         "type": "paragraph",
         "index": 51,
         "level": -1,
-        "text": "TC Type Certificate"
+        "text": "TC  Type Certificate"
       },
       {
         "type": "paragraph",
         "index": 52,
         "level": -1,
-        "text": "TCAS Traffic Collision Avoidance System"
+        "text": "TCAS  Traffic Collision Avoidance System"
       },
       {
         "type": "paragraph",
         "index": 53,
         "level": -1,
-        "text": "TCH type-certificate holder"
+        "text": "TCH  type-certificate holder"
       },
       {
         "type": "paragraph",
         "index": 54,
         "level": -1,
-        "text": "TRI Type - Rating Instructor"
+        "text": "TRI  Type-Rating Instructor"
       },
       {
         "type": "paragraph",
         "index": 55,
         "level": -1,
-        "text": "VFR Visual Flight Rules"
+        "text": "VFR  Visual Flight Rules"
       },
       {
         "type": "paragraph",
         "index": 56,
         "level": -1,
-        "text": "WBT web-based training"
+        "text": "WBT  web-based training"
       },
       {
         "type": "paragraph",
         "index": 57,
         "level": -1,
-        "text": "ZFTT zero flight time training"
+        "text": "ZFTT  zero flight time training"
       },
       {
         "type": "paragraph",
@@ -2015,7 +2018,7 @@
         "type": "paragraph",
         "index": 20,
         "level": 2,
-        "text": "if EASA determines that the aircraft's operational experience, data, handling qualities , performance or level of flight deck technology require type rating training for its safe operation.",
+        "text": "if EASA determines that the aircraft's operational experience, data, handling qualities, performance or level of flight deck technology require type rating training for its safe operation.",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -2074,13 +2077,13 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "For aircraft described in CS FCD.200(a)(3)(a)(3) , it may be determined during the type certification process or based on in-service experience, that the aircraft type requires a pilot type rating for safe operations . The TC applicant/holder is then requested to obtain approval of a minimum syllabus for pilot type rating training by including the OSD FC specifications in the certification basis . This determination is based on the considerations listed in that subparagraph."
+        "text": "For aircraft described in CS FCD.200(a)(3)(a)(3), it may be determined during the type certification process or based on in-service experience, that the aircraft type requires a pilot type rating for safe operations. The TC applicant/holder is then requested to obtain approval of a minimum syllabus for pilot type rating training by including the OSD FC specifications in the certification basis. This determination is based on the considerations listed in that subparagraph."
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "With reference to CS FCD.200 (d), when assessing design changes for their impact on the FCD, a new model or a new series, as identified in the TC data sheet, would usually determine a variant or, potentially, a new type."
+        "text": "With reference to CS FCD.200(d), when assessing design changes for their impact on the FCD, a new model or a new series, as identified in the TC data sheet, would usually determine a variant or, potentially, a new type."
       },
       {
         "type": "paragraph",
@@ -2125,7 +2128,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "The specific training requirements to build the necessary theoretical and practical skills to operate a specific aircraft are defined in the OSD FC .",
+        "text": "The specific training requirements to build the necessary theoretical and practical skills to operate a specific aircraft are defined in the OSD FC.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2133,7 +2136,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "T he d efinition of the specific training requirements has to consider the provisions related to Aircrew and Air OPS Regulations and Part 21 , taking into account the relevant references to the OSD.",
+        "text": "The definition of the specific training requirements has to consider the provisions related to Aircrew and Air OPS Regulations and Part 21, taking into account the relevant references to the OSD.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -2149,7 +2152,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The specific training requirements must be identified and established in accordance with CS FCD.425 .",
+        "text": "The specific training requirements must be identified and established in accordance with CS FCD.425.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -2157,7 +2160,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The specific training requirements depend on the aircraft type, any design changes, specific equipment, procedures , or operations, and contain:",
+        "text": "The specific training requirements depend on the aircraft type, any design changes, specific equipment, procedures, or operations, and contain:",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -2165,7 +2168,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "TASE related to the particular aircraft type, including identification of all type - specific knowledge and skills;",
+        "text": "TASE related to the particular aircraft type, including identification of all type-specific knowledge and skills;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -2173,7 +2176,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "the prerequisite s for the minimum entry-level requirement s to be fulfilled by the pilot , when they are more stringent than those established under the Aircrew Regulation; and",
+        "text": "the prerequisites for the minimum entry-level requirements to be fulfilled by the pilot, when they are more stringent than those established under the Aircrew Regulation; and",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -2189,7 +2192,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "The training footprint indicates which training methods and device(s) are assumed to be used, based on CS FCD.415 .",
+        "text": "The training footprint indicates which training methods and device(s) are assumed to be used, based on CS FCD.415.",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -2224,7 +2227,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "The following table presents an example of a training footprint for a type rating course. This footprint can be made equally applicable to other training courses by adapting the contents and duration s .",
+        "text": "The following table presents an example of a training footprint for a type rating course. This footprint can be made equally applicable to other training courses by adapting the contents and durations.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2236,7 +2239,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 1"
+                  "text": "Day 1 "
                 }
               ],
               "width": "1834"
@@ -2245,7 +2248,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 2"
+                  "text": "Day 2 "
                 }
               ],
               "width": "1800"
@@ -2254,7 +2257,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 3"
+                  "text": "Day 3 "
                 }
               ],
               "width": "1817"
@@ -2263,7 +2266,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 4"
+                  "text": "Day 4 "
                 }
               ],
               "width": "1817"
@@ -2272,7 +2275,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 5"
+                  "text": "Day 5 "
                 }
               ],
               "width": "1817"
@@ -2283,7 +2286,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Table i ntroduction CBT M ODULE 1"
+                  "text": "Table introductionCBT MODULE 1"
                 },
                 {
                   "style": null,
@@ -2296,7 +2299,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "CBT MODULE 2"
+                  "text": "CBT MODULE 2 "
                 },
                 {
                   "style": null,
@@ -2326,7 +2329,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 },
                 {
                   "style": "Bold",
@@ -2334,7 +2337,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 }
               ],
               "width": "1817"
@@ -2363,7 +2366,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 6"
+                  "text": "Day 6 "
                 }
               ],
               "width": "1834"
@@ -2372,7 +2375,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 7"
+                  "text": "Day 7 "
                 }
               ],
               "width": "1800"
@@ -2381,7 +2384,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 8"
+                  "text": "Day 8 "
                 }
               ],
               "width": "1817"
@@ -2414,7 +2417,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 },
                 {
                   "style": "Bold",
@@ -2435,7 +2438,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 },
                 {
                   "style": "Bold",
@@ -2456,7 +2459,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 },
                 {
                   "style": "Bold",
@@ -2477,7 +2480,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 },
                 {
                   "style": "Bold",
@@ -2498,7 +2501,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 },
                 {
                   "style": "Bold",
@@ -2522,7 +2525,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 11"
+                  "text": "Day 11 "
                 }
               ],
               "width": "1834"
@@ -2531,7 +2534,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 12"
+                  "text": "Day 12 "
                 }
               ],
               "width": "1800"
@@ -2540,7 +2543,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 13"
+                  "text": "Day 13 "
                 }
               ],
               "width": "1817"
@@ -2549,7 +2552,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 14"
+                  "text": "Day 14 "
                 }
               ],
               "width": "1817"
@@ -2558,7 +2561,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 15"
+                  "text": "Day 15 "
                 }
               ],
               "width": "1817"
@@ -2594,7 +2597,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 },
                 {
                   "style": "Bold",
@@ -2681,7 +2684,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 16"
+                  "text": "Day 16 "
                 }
               ],
               "width": "1834"
@@ -2699,7 +2702,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 18"
+                  "text": "Day 18 "
                 }
               ],
               "width": "1817"
@@ -2708,7 +2711,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 19"
+                  "text": "Day 19 "
                 }
               ],
               "width": "1817"
@@ -2717,7 +2720,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 20"
+                  "text": "Day 20 "
                 }
               ],
               "width": "1817"
@@ -2728,7 +2731,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Variances (if needed)"
+                  "text": "Variances(if needed)"
                 },
                 {
                   "style": null,
@@ -2741,11 +2744,11 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 1"
+                  "text": "FSTD MODULE 1"
                 },
                 {
                   "style": null,
-                  "text": "(x:xx hrs)"
+                  "text": "(x:xx hrs) "
                 }
               ],
               "width": "1800"
@@ -2754,7 +2757,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 2"
+                  "text": "FSTD MODULE 2"
                 },
                 {
                   "style": null,
@@ -2767,7 +2770,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 3"
+                  "text": "FSTD MODULE 3"
                 },
                 {
                   "style": null,
@@ -2780,7 +2783,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 4"
+                  "text": "FSTD MODULE 4"
                 },
                 {
                   "style": null,
@@ -2800,7 +2803,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 21"
+                  "text": "Day 21 "
                 }
               ],
               "width": "1834"
@@ -2809,7 +2812,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 22"
+                  "text": "Day 22 "
                 }
               ],
               "width": "1800"
@@ -2827,7 +2830,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Day 24"
+                  "text": "Day 24 "
                 }
               ],
               "width": "1817"
@@ -2847,7 +2850,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 5"
+                  "text": "FSTD MODULE 5"
                 },
                 {
                   "style": null,
@@ -2868,7 +2871,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 6"
+                  "text": "FSTD MODULE 6"
                 },
                 {
                   "style": null,
@@ -2881,7 +2884,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 7"
+                  "text": "FSTD MODULE 7"
                 },
                 {
                   "style": null,
@@ -2894,7 +2897,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "F STD MODULE 8"
+                  "text": "FSTD MODULE 8"
                 },
                 {
                   "style": null,
@@ -2923,7 +2926,7 @@
         "type": "paragraph",
         "index": 103,
         "level": -1,
-        "text": "Note: Times for OTD and FSTD modules include time for briefing and debriefing when appropriate ."
+        "text": "Note: Times for OTD and FSTD modules include time for briefing and debriefing when appropriate."
       },
       {
         "type": "paragraph",
@@ -2966,7 +2969,7 @@
         "type": "paragraph",
         "index": 109,
         "level": -1,
-        "text": "For the training methods for pilot type rating training and operational training :",
+        "text": "For the training methods for pilot type rating training and operational training:",
         "pStyle": "Normal1"
       },
       {
@@ -2981,7 +2984,7 @@
         "type": "paragraph",
         "index": 111,
         "level": 1,
-        "text": "hands-on training can be adequately addressed by part - task trainers , system training devices (for example for FMS and TCAS) , or aircraft on ground ;",
+        "text": "hands-on training can be adequately addressed by part-task trainers, system training devices (for example for FMS and TCAS), or aircraft on ground;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -2989,7 +2992,7 @@
         "type": "paragraph",
         "index": 112,
         "level": 1,
-        "text": "demonstration can only be adequately addressed in a n FSTD or in an aircraft with the appropriate capability to achieve the training objectives, and enab l e the integration of knowledge, skills and abilities.",
+        "text": "demonstration can only be adequately addressed in an FSTD or in an aircraft with the appropriate capability to achieve the training objectives, and enable the integration of knowledge, skills and abilities.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -3157,7 +3160,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Requirements for LIFUS are specified in the Air OPS Regulation ; however, credit between aircraft types for the number of take-offs and landings related to LIFUS following a ZFTT is permitted as a result of the evaluation process, and specified in the OSD."
+        "text": "Requirements for LIFUS are specified in the Air OPS Regulation; however, credit between aircraft types for the number of take-offs and landings related to LIFUS following a ZFTT is permitted as a result of the evaluation process, and specified in the OSD."
       },
       {
         "type": "paragraph",
@@ -3183,7 +3186,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS FCD.310 Credit for operation s on more than one type or variant",
+        "text": "CS FCD.310 Credit for operations on more than one type or variant",
         "pStyle": "Heading2CS"
       },
       {
@@ -3198,7 +3201,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "credit for training, checking , and currency for operation s on more than one type or variant;",
+        "text": "credit for training, checking, and currency for operations on more than one type or variant;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -3242,7 +3245,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 FCD.310 Credit for operation s on more than one type or variant",
+        "text": "GM1 FCD.310 Credit for operations on more than one type or variant",
         "pStyle": "Heading3GM"
       },
       {
@@ -3346,7 +3349,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "DR tables identify the differences between the base and the candidate aircraft in terms of general characteristics, systems , and manoeuvres, and propose appropriate difference levels.",
+        "text": "DR tables identify the differences between the base and the candidate aircraft in terms of general characteristics, systems, and manoeuvres, and propose appropriate difference levels.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -3362,7 +3365,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "DR tables are established in accordance with the Appendix to CS FCD.400 .",
+        "text": "DR tables are established in accordance with the Appendix to CS FCD.400.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -3390,14 +3393,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Appendix to CS FCD.400 Compilation of DR tables",
+        "text": "Appendix to CS FCD.400 Compilation of DR tables",
         "pStyle": "Heading3CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "This A ppendix specifies the compilation of DR tables. The applicant conducts a detailed evaluation of the differences of the aircraft concerned and incorporates it into the DR tables."
+        "text": "This Appendix specifies the compilation of DR tables. The applicant conducts a detailed evaluation of the differences of the aircraft concerned and incorporates it into the DR tables."
       },
       {
         "type": "paragraph",
@@ -3442,7 +3445,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "engines (number, type , and position);",
+        "text": "engines (number, type, and position);",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -3578,7 +3581,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Based on the DR tables that are established in accordance with CS FCD.400 , MDR tables must be included in the OSD.",
+        "text": "Based on the DR tables that are established in accordance with CS FCD.400, MDR tables must be included in the OSD.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -3709,7 +3712,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "T O A I R C R A F T (candidate)"
+                  "text": "TOAIRCRAFT(candidate)"
                 }
               ],
               "vMerge": "restart",
@@ -3908,7 +3911,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS FCD.415 Difference levels — Training, checking , and currency",
+        "text": "CS FCD.415 Difference levels — Training, checking, and currency",
         "pStyle": "Heading2CS"
       },
       {
@@ -4050,7 +4053,7 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "System devices"
+                  "text": "System devices "
                 }
               ],
               "width": "2409"
@@ -4059,7 +4062,7 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "Partial proficiency check that us es a qualified device"
+                  "text": "Partial proficiency check that uses a qualified device"
                 }
               ],
               "width": "2409"
@@ -4096,7 +4099,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "or aircraft to execute specific manoeuvres"
+                  "text": " or aircraft to execute specific manoeuvres"
                 }
               ],
               "width": "2409"
@@ -4105,7 +4108,7 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "Partial proficiency check that us es a qualified device"
+                  "text": "Partial proficiency check that uses a qualified device"
                 },
                 {
                   "style": "FootnoteReference",
@@ -4118,7 +4121,7 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "Designated manoeuvre (s) that use FSTDs"
+                  "text": "Designated manoeuvre(s) that use FSTDs"
                 },
                 {
                   "style": "FootnoteReference",
@@ -4126,7 +4129,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "or aircraft"
+                  "text": " or aircraft"
                 }
               ],
               "width": "2410"
@@ -4154,7 +4157,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "or aircraft"
+                  "text": " or aircraft"
                 }
               ],
               "width": "2409"
@@ -4171,7 +4174,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "or aircraft"
+                  "text": " or aircraft"
                 }
               ],
               "width": "2409"
@@ -4194,7 +4197,7 @@
         "type": "paragraph",
         "index": 27,
         "level": 1,
-        "text": "aeroplanes :",
+        "text": "aeroplanes:",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -4249,7 +4252,7 @@
         "type": "paragraph",
         "index": 34,
         "level": 1,
-        "text": "aeroplanes :",
+        "text": "aeroplanes:",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -4286,7 +4289,7 @@
         "type": "paragraph",
         "index": 39,
         "level": 1,
-        "text": "aeroplanes :",
+        "text": "aeroplanes:",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -4396,7 +4399,7 @@
         "type": "paragraph",
         "index": 53,
         "level": -1,
-        "text": "Training needs not covered by level A training may require level B training, or higher, depending on the outcome of the evaluations in the aircraft evaluation process described in CS FCD.420 .",
+        "text": "Training needs not covered by level A training may require level B training, or higher, depending on the outcome of the evaluations in the aircraft evaluation process described in CS FCD.420.",
         "pStyle": "Normal2"
       },
       {
@@ -4440,7 +4443,7 @@
         "type": "paragraph",
         "index": 59,
         "level": -1,
-        "text": "Level C difference training is applicable when cockpit design differences exist, and affect skills or abilities , as well as knowledge . Training objectives focus on mastering individual systems, procedures, or tasks, as opposed to performing highly integrated flight operations and manoeuvres in ‘real time’. Level C may also require self-instruction or aided instruction of a pilot, but cannot be adequately addressed by a knowledge requirement alone. Training devices are required to supplement instruction to ensure attainment or retention of pilot skills and abilities to accomplish the more complex tasks, usually related to operation of particular aircraft systems.",
+        "text": "Level C difference training is applicable when cockpit design differences exist, and affect skills or abilities, as well as knowledge. Training objectives focus on mastering individual systems, procedures, or tasks, as opposed to performing highly integrated flight operations and manoeuvres in ‘real time’. Level C may also require self-instruction or aided instruction of a pilot, but cannot be adequately addressed by a knowledge requirement alone. Training devices are required to supplement instruction to ensure attainment or retention of pilot skills and abilities to accomplish the more complex tasks, usually related to operation of particular aircraft systems.",
         "pStyle": "Normal2"
       },
       {
@@ -4462,14 +4465,14 @@
         "type": "paragraph",
         "index": 62,
         "level": -1,
-        "text": "Level D difference training can only be accomplished with devices capable of performing flight manoeuvres and addressing the full task differences affecting knowledge, skills, and/ or abilities.",
+        "text": "Level D difference training can only be accomplished with devices capable of performing flight manoeuvres and addressing the full task differences affecting knowledge, skills, and/or abilities.",
         "pStyle": "Normal2"
       },
       {
         "type": "paragraph",
         "index": 63,
         "level": -1,
-        "text": "FSTDs capable of flight manoeuvres replicate the aircraft in a dynamic ‘real time’ simulation flight environment , enabl ing the integration of knowledge, skills , and abilities by combining operationally oriented tasks and realistic task workloads for each relevant phase of flight. At level D, the knowledge and skills to complete necessary normal, non-normal , and emergency procedures are fully addressed for each type or variant.",
+        "text": "FSTDs capable of flight manoeuvres replicate the aircraft in a dynamic ‘real time’ simulation flight environment, enabling the integration of knowledge, skills, and abilities by combining operationally oriented tasks and realistic task workloads for each relevant phase of flight. At level D, the knowledge and skills to complete necessary normal, non-normal, and emergency procedures are fully addressed for each type or variant.",
         "pStyle": "Normal2"
       },
       {
@@ -4483,7 +4486,7 @@
         "type": "paragraph",
         "index": 65,
         "level": -1,
-        "text": "Training for level D differences requires a n FSTD that has accurate, high fidelity integration of systems and controls and realistic instrument indications. Level D training may also require manoeuvr ing visual cues, dynamics, control loading or specific environmental conditions. Weather phenomena such as low visibility operations or wind shear may or may not be incorporated.",
+        "text": "Training for level D differences requires an FSTD that has accurate, high fidelity integration of systems and controls and realistic instrument indications. Level D training may also require manoeuvring visual cues, dynamics, control loading or specific environmental conditions. Weather phenomena such as low visibility operations or wind shear may or may not be incorporated.",
         "pStyle": "Normal2"
       },
       {
@@ -4497,7 +4500,7 @@
         "type": "paragraph",
         "index": 67,
         "level": -1,
-        "text": "The a ppropriate devices , as described in CS FCD.415(a) , which satisfy level D difference training , are those which incorporate relevant elements of aircraft flight manoeuvring , performance, and handling qualities",
+        "text": "The appropriate devices, as described in CS FCD.415(a), which satisfy level D difference training, are those which incorporate relevant elements of aircraft flight manoeuvring, performance, and handling qualities",
         "pStyle": "Normal2"
       },
       {
@@ -4519,7 +4522,7 @@
         "type": "paragraph",
         "index": 70,
         "level": -1,
-        "text": "The training requires a ‘high fidelity’ environment to attain or maintain knowledge, skills, and/ or abilities that can only be satisfied by the use of FSTDs or the aircraft itself , as mentioned in CS FCD.415(a) . Level E training, if done in an aircraft, should be modified for safety reasons for manoeuvres with a high degree of risk.",
+        "text": "The training requires a ‘high fidelity’ environment to attain or maintain knowledge, skills, and/or abilities that can only be satisfied by the use of FSTDs or the aircraft itself, as mentioned in CS FCD.415(a). Level E training, if done in an aircraft, should be modified for safety reasons for manoeuvres with a high degree of risk.",
         "pStyle": "Normal2"
       },
       {
@@ -4593,7 +4596,7 @@
         "type": "paragraph",
         "index": 80,
         "level": -1,
-        "text": "Level C difference checking requires a partial check using a suitable FSTD . A partial check is conducted relative to particular manoeuvres or systems and equipment .",
+        "text": "Level C difference checking requires a partial check using a suitable FSTD. A partial check is conducted relative to particular manoeuvres or systems and equipment.",
         "pStyle": "Normal2"
       },
       {
@@ -4608,7 +4611,7 @@
         "type": "paragraph",
         "index": 82,
         "level": -1,
-        "text": "Level D difference checking indicates that a partial proficiency check is required following both initial and recurrent training. In conducting the partial proficiency check, manoeuvres common to each variant may be credited and need not be repeated. The partial proficiency check covers the specified particular manoeuvres , systems, or equipment . Level D checking is performed using scenarios that represent a ‘real time’ flight environment , and uses FSTDs capable of level D or higher -level training .",
+        "text": "Level D difference checking indicates that a partial proficiency check is required following both initial and recurrent training. In conducting the partial proficiency check, manoeuvres common to each variant may be credited and need not be repeated. The partial proficiency check covers the specified particular manoeuvres, systems, or equipment. Level D checking is performed using scenarios that represent a ‘real time’ flight environment, and uses FSTDs capable of level D or higher-level training.",
         "pStyle": "Normal2"
       },
       {
@@ -4623,14 +4626,14 @@
         "type": "paragraph",
         "index": 84,
         "level": -1,
-        "text": "Level E difference checking requires that a full skill test be conducted in FSTDs or in an aircraft , as mentioned in CS FCD.415(a) , following both initial and recurrent training. If appropriate, alternating recurrent checking between the relevant aircraft types is possible , and credit may be defined for procedures or manoeuvres based on commonality.",
+        "text": "Level E difference checking requires that a full skill test be conducted in FSTDs or in an aircraft, as mentioned in CS FCD.415(a), following both initial and recurrent training. If appropriate, alternating recurrent checking between the relevant aircraft types is possible, and credit may be defined for procedures or manoeuvres based on commonality.",
         "pStyle": "Normal2"
       },
       {
         "type": "paragraph",
         "index": 85,
         "level": -1,
-        "text": "The a ssignment of level E checking requirements alone, or in conjunction with level E currency, does not necessarily result in the assignment of a separate type rating.",
+        "text": "The assignment of level E checking requirements alone, or in conjunction with level E currency, does not necessarily result in the assignment of a separate type rating.",
         "pStyle": "Normal2"
       },
       {
@@ -4645,7 +4648,7 @@
         "type": "paragraph",
         "index": 87,
         "level": -1,
-        "text": "Currency d ifferences address any currency and recurren t training difference levels. Initial and recurrent currency levels are the same , unless otherwise specified.",
+        "text": "Currency differences address any currency and recurrent training difference levels. Initial and recurrent currency levels are the same, unless otherwise specified.",
         "pStyle": "Normal1"
       },
       {
@@ -4690,7 +4693,7 @@
         "type": "paragraph",
         "index": 93,
         "level": 2,
-        "text": "Level C currency is applicable to one or more designated systems , equipment , or procedures, and relates to both skill and knowledge requirements. When level C currency applies, any pertinent lower -l evel currency is also to be addressed.",
+        "text": "Level C currency is applicable to one or more designated systems, equipment, or procedures, and relates to both skill and knowledge requirements. When level C currency applies, any pertinent lower-level currency is also to be addressed.",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -4706,7 +4709,7 @@
         "type": "paragraph",
         "index": 95,
         "level": -1,
-        "text": "When currency is lost, it may be re-established by completing the required items using a device with capabilities equal to or greater than th ose specified for level C training and checking.",
+        "text": "When currency is lost, it may be re-established by completing the required items using a device with capabilities equal to or greater than those specified for level C training and checking.",
         "pStyle": "Normal3"
       },
       {
@@ -4721,7 +4724,7 @@
         "type": "paragraph",
         "index": 97,
         "level": 2,
-        "text": "Level D currency is related to designated manoeuvres and addresses the knowledge and skills that are required for performing aircraft control tasks in real time with integrated use of the associated systems , equipment , and procedures. Level D currency may also address certain differences in flight characteristics , including the performance of any required manoeuvres and the related normal, non-normal , and emergency procedures. When level D is necessary, any pertinent lower - level currency is also to be addressed.",
+        "text": "Level D currency is related to designated manoeuvres and addresses the knowledge and skills that are required for performing aircraft control tasks in real time with integrated use of the associated systems, equipment, and procedures. Level D currency may also address certain differences in flight characteristics, including the performance of any required manoeuvres and the related normal, non-normal, and emergency procedures. When level D is necessary, any pertinent lower-level currency is also to be addressed.",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -4752,7 +4755,7 @@
         "type": "paragraph",
         "index": 101,
         "level": 2,
-        "text": "Level E currency requires that recent experience requirements of Part-FCL and operational requirements be complied with in each aircraft separately. Level E currency may also specify other system, procedure, or manoeuvre currency item(s) necessary for safe operations, and requires procedures or manoeuvres to be accomplished in FSTDs or in an aircraft as mentioned in CS FCD.415(a) . Provisions are applied in a way which addresses the required system or manoeuvre experience.",
+        "text": "Level E currency requires that recent experience requirements of Part-FCL and operational requirements be complied with in each aircraft separately. Level E currency may also specify other system, procedure, or manoeuvre currency item(s) necessary for safe operations, and requires procedures or manoeuvres to be accomplished in FSTDs or in an aircraft as mentioned in CS FCD.415(a). Provisions are applied in a way which addresses the required system or manoeuvre experience.",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -4797,7 +4800,7 @@
         "type": "paragraph",
         "index": 107,
         "level": -1,
-        "text": "Competency for non-normal and emergency manoeuvres or procedures is generally addressed by checking requirements. Particular non- normal and emergency manoeuvres or procedures may not be considered mandatory for checking or training. In this situation it may be necessary to periodically practice or demonstrate those manoeuvres or procedures specifying currency requirements for those manoeuvres or procedures.",
+        "text": "Competency for non-normal and emergency manoeuvres or procedures is generally addressed by checking requirements. Particular non-normal and emergency manoeuvres or procedures may not be considered mandatory for checking or training. In this situation it may be necessary to periodically practice or demonstrate those manoeuvres or procedures specifying currency requirements for those manoeuvres or procedures.",
         "pStyle": "Normal1"
       },
       {
@@ -4824,7 +4827,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 FCD.415 Difference levels — Training, checking , and currency",
+        "text": "GM1 FCD.415 Difference levels — Training, checking, and currency",
         "pStyle": "Heading3GM"
       },
       {
@@ -4838,7 +4841,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "While particular aircraft are often assigned the same level for training, checking , and currency (for example , C/C/C), this is not always the case. Training, checking, and currency levels m ay be assigned independently. As an example, a candidate aircraft may be assigned level C for training, level B for checking, and level D for currency (for example , C/B/D).",
+        "text": "While particular aircraft are often assigned the same level for training, checking, and currency (for example, C/C/C), this is not always the case. Training, checking, and currency levels may be assigned independently. As an example, a candidate aircraft may be assigned level C for training, level B for checking, and level D for currency (for example, C/B/D).",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -4854,7 +4857,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "As an example , for the use of a training device associated with a higher difference level than required, if level C differences have been assessed due to the installation of a different FMS, pilots may be trained using the FMS installed in an FS T D that is used as a system trainer, if a dedicated part task FMS training device is not available.",
+        "text": "As an example, for the use of a training device associated with a higher difference level than required, if level C differences have been assessed due to the installation of a different FMS, pilots may be trained using the FMS installed in an FSTD that is used as a system trainer, if a dedicated part task FMS training device is not available.",
         "pStyle": "Normal1"
       },
       {
@@ -4883,7 +4886,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 2,
-        "text": "the change introduces a different version of a system or equipment for which the flight crew has already demonstrated understanding and the ability to use it safely (for example , an updated version of an engine); or",
+        "text": "the change introduces a different version of a system or equipment for which the flight crew has already demonstrated understanding and the ability to use it safely (for example, an updated version of an engine); or",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -4891,7 +4894,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 2,
-        "text": "information highlighting a difference that, once brought to the attention of a crew, is self-evident, inherently obvious and easily understood (for example , a communication radio panel installed in a different location, a different exhaust gas temperature limit which is placarded, or changes to abnormal ‘read and do’ procedures).",
+        "text": "information highlighting a difference that, once brought to the attention of a crew, is self-evident, inherently obvious and easily understood (for example, a communication radio panel installed in a different location, a different exhaust gas temperature limit which is placarded, or changes to abnormal ‘read and do’ procedures).",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -4907,7 +4910,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "Level B aided instruction typically employs means such as presentations, tutorials, CBT, stand-up lectures, or vide o s.",
+        "text": "Level B aided instruction typically employs means such as presentations, tutorials, CBT, stand-up lectures, or videos.",
         "pStyle": "Normal2"
       },
       {
@@ -4944,7 +4947,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 2,
-        "text": "qualified FSTDs ;",
+        "text": "qualified FSTDs;",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -4952,7 +4955,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 2,
-        "text": "specific systems incorporated in an FS TD ; or",
+        "text": "specific systems incorporated in an FSTD; or",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -4960,7 +4963,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 2,
-        "text": "a static aircraft .",
+        "text": "a static aircraft.",
         "marker": "(iv)",
         "pStyle": "ListLevel2"
       },
@@ -4976,7 +4979,7 @@
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "The use of an FSTD for m anoeuvre training or an aircraft , as mentioned in CS FCD.420(a) , may be specified for the conduct of specific manoeuvres or handling differences, such as HUD training or a manoeuvre (for example , no-flap landing, tail-rotor control failure, etc.). In such cases, the number of hours required should normally be limited to an appropriate number of hours within Level D training.",
+        "text": "The use of an FSTD for manoeuvre training or an aircraft, as mentioned in CS FCD.420(a), may be specified for the conduct of specific manoeuvres or handling differences, such as HUD training or a manoeuvre (for example, no-flap landing, tail-rotor control failure, etc.). In such cases, the number of hours required should normally be limited to an appropriate number of hours within Level D training.",
         "pStyle": "Normal2"
       },
       {
@@ -5044,7 +5047,7 @@
         "type": "paragraph",
         "index": 28,
         "level": -1,
-        "text": "An example of level C checking would be the evaluation of a sequence of manoeuvres demonstrating a pilot’s ability to use a flight guidance control system or flight management system. An acceptable scenario would include each relevant phase of flight , but would not necessarily address manoeuvres that do not relate to the set up or use of the FD or FMS.",
+        "text": "An example of level C checking would be the evaluation of a sequence of manoeuvres demonstrating a pilot’s ability to use a flight guidance control system or flight management system. An acceptable scenario would include each relevant phase of flight, but would not necessarily address manoeuvres that do not relate to the set up or use of the FD or FMS.",
         "pStyle": "Normal2"
       },
       {
@@ -5082,21 +5085,21 @@
         "type": "paragraph",
         "index": 33,
         "level": -1,
-        "text": "Self-review is usually accomplished by review of material provided by the operator to pilots. Such currency may be undertaken at an individual pilot’s initiative; however, the operator identifies the material and the frequency or other situations in which the material should be reviewed. Self-review may be based on manual information, bulletins, aircraft placards, memos, class hand-outs, videotapes or DVDs, or other memory aids that describe the differences, procedures, manoeuvres , or limits for the aircraft that pilots are flying.",
+        "text": "Self-review is usually accomplished by review of material provided by the operator to pilots. Such currency may be undertaken at an individual pilot’s initiative; however, the operator identifies the material and the frequency or other situations in which the material should be reviewed. Self-review may be based on manual information, bulletins, aircraft placards, memos, class hand-outs, videotapes or DVDs, or other memory aids that describe the differences, procedures, manoeuvres, or limits for the aircraft that pilots are flying.",
         "pStyle": "Normal2"
       },
       {
         "type": "paragraph",
         "index": 34,
         "level": -1,
-        "text": "An example of how compliance with level B currency can be demonstrated would be the issu ance of a bulletin which directs pilots to review specific operating manual information. Level B currency may be regained by review ing the pertinent information , includ ing bulletins, if that variant has not been flown within a specified period (for example , by fly ing that variant or by hav ing completed a review of the differences in limitations and procedures within the past 90 days).",
+        "text": "An example of how compliance with level B currency can be demonstrated would be the issuance of a bulletin which directs pilots to review specific operating manual information. Level B currency may be regained by reviewing the pertinent information, including bulletins, if that variant has not been flown within a specified period (for example, by flying that variant or by having completed a review of the differences in limitations and procedures within the past 90 days).",
         "pStyle": "Normal2"
       },
       {
         "type": "paragraph",
         "index": 35,
         "level": -1,
-        "text": "Another method of compliance would be pilot certification on a dispatch release that they have reviewed the pertinent information for a particular variant to be flown on that trip. However, level B currency cannot be achieved solely by review ing the class notes taken by and at the initiative of an individual pilot, unless the adequacy of those notes is verified by the operator.",
+        "text": "Another method of compliance would be pilot certification on a dispatch release that they have reviewed the pertinent information for a particular variant to be flown on that trip. However, level B currency cannot be achieved solely by reviewing the class notes taken by and at the initiative of an individual pilot, unless the adequacy of those notes is verified by the operator.",
         "pStyle": "Normal2"
       },
       {
@@ -5125,7 +5128,7 @@
         "type": "paragraph",
         "index": 39,
         "level": 2,
-        "text": "pilot scheduling practices resulting in a pilot being scheduled to fly a variant with the pertinent system , equipment, or procedure within the specified period;",
+        "text": "pilot scheduling practices resulting in a pilot being scheduled to fly a variant with the pertinent system, equipment, or procedure within the specified period;",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -5133,7 +5136,7 @@
         "type": "paragraph",
         "index": 40,
         "level": 2,
-        "text": "tracking of an individual pilot’s flying to ensure that the particular system , equipment, or procedure has been flown within the specified period;",
+        "text": "tracking of an individual pilot’s flying to ensure that the particular system, equipment, or procedure has been flown within the specified period;",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -5141,7 +5144,7 @@
         "type": "paragraph",
         "index": 41,
         "level": 2,
-        "text": "use of a higher - level method (level D or E currency).",
+        "text": "use of a higher-level method (level D or E currency).",
         "marker": "(iii)",
         "pStyle": "ListLevel2"
       },
@@ -5156,7 +5159,7 @@
         "type": "paragraph",
         "index": 43,
         "level": -1,
-        "text": "Means to re-establish currency include flights with an appropriately qualified TRI, completion of proficiency training, or a proficiency check. In the case of a non-current co-pilot, a designated PIC may be authorised to accompany a flight crew member to re-establish currency. In some instances, a formal re- familiarisation period in the actual aircraft with the applicable system operating while on ground may be acceptable. Such re- familiarisation periods are completed using an operator-established procedure under the supervision of a pilot designated by the operator.",
+        "text": "Means to re-establish currency include flights with an appropriately qualified TRI, completion of proficiency training, or a proficiency check. In the case of a non-current co-pilot, a designated PIC may be authorised to accompany a flight crew member to re-establish currency. In some instances, a formal re-familiarisation period in the actual aircraft with the applicable system operating while on ground may be acceptable. Such re-familiarisation periods are completed using an operator-established procedure under the supervision of a pilot designated by the operator.",
         "pStyle": "Normal2"
       },
       {
@@ -5171,7 +5174,7 @@
         "type": "paragraph",
         "index": 45,
         "level": -1,
-        "text": "A typical application of level D currency is to specify selected manoeuvres , such as take-off, departure, arrival, approach, or landing, which are to be performed using a particular FGCS and instrument display system. A pilot either flies an aircraft equipped with the FGCS and particular display system sufficiently often to retain familiarity and competence within the specified currency period, or re-establishes currency.",
+        "text": "A typical application of level D currency is to specify selected manoeuvres, such as take-off, departure, arrival, approach, or landing, which are to be performed using a particular FGCS and instrument display system. A pilot either flies an aircraft equipped with the FGCS and particular display system sufficiently often to retain familiarity and competence within the specified currency period, or re-establishes currency.",
         "pStyle": "Normal2"
       },
       {
@@ -5302,7 +5305,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Six standard evaluations (T1, T2, T3, T4, T5 and T6) are defined under CS FCD.425 . They are used to set MDRs, acceptable training programmes , and other provisions, and to define the type rating requirements as shown in the Appendix to CS FCD.420 . One or more of these six evaluations are applied , depending on the objectives of the applicant, on the difference level sought, and on the successful outcome of any previous evaluations used in identifying MDRs.",
+        "text": "Six standard evaluations (T1, T2, T3, T4, T5 and T6) are defined under CS FCD.425. They are used to set MDRs, acceptable training programmes, and other provisions, and to define the type rating requirements as shown in the Appendix to CS FCD.420. One or more of these six evaluations are applied, depending on the objectives of the applicant, on the difference level sought, and on the successful outcome of any previous evaluations used in identifying MDRs.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5318,7 +5321,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "The T1, T2 and T3 evaluations must be carried out t o validate difference training, checking, and currency requirements between a base and a candidate aircraft that share the same basic design.",
+        "text": "The T1, T2 and T3 evaluations must be carried out to validate difference training, checking, and currency requirements between a base and a candidate aircraft that share the same basic design.",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5326,7 +5329,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "The results of these evaluations determine whether the aircraft is a new type or a variant , or a modification of an existing type or variant. The level of differences determines the minimum required training, checking , and currency requirements applicable to the candidate aircraft.",
+        "text": "The results of these evaluations determine whether the aircraft is a new type or a variant, or a modification of an existing type or variant. The level of differences determines the minimum required training, checking, and currency requirements applicable to the candidate aircraft.",
         "pStyle": "Normal2"
       },
       {
@@ -5340,7 +5343,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "The T4 evaluation is used to establish relief from the approved currency requirements based on the system, equipment, procedural , and manoeuvr e differences between the aircraft.",
+        "text": "The T4 evaluation is used to establish relief from the approved currency requirements based on the system, equipment, procedural, and manoeuvre differences between the aircraft.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5348,7 +5351,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "The T5 evaluation is used to validate the minimum syllabus for the initial type rating training for a new aircraft TC . The results of a T5 evaluation determine the minimum syllabus for a pilot type rating applicable to that type of aircraft , including the associated TASE, and any additional prerequisites and limitations as provided for in the Aircrew Regulation.",
+        "text": "The T5 evaluation is used to validate the minimum syllabus for the initial type rating training for a new aircraft TC. The results of a T5 evaluation determine the minimum syllabus for a pilot type rating applicable to that type of aircraft, including the associated TASE, and any additional prerequisites and limitations as provided for in the Aircrew Regulation.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -5364,7 +5367,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "The flow chart for the evaluation process is available in the Appendix to CS FCD.420 .",
+        "text": "The flow chart for the evaluation process is available in the Appendix to CS FCD.420.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -5392,7 +5395,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Appendix to CS FCD.420 Evaluation process",
+        "text": "Appendix to CS FCD.420 Evaluation process",
         "pStyle": "Heading3CS"
       },
       {
@@ -5426,7 +5429,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "For a new TC, the type of the aircraft must be determined ( CS FCD.200 ) and the minimum syllabus for an initial type rating training course must be approved ( CS FCD.300 ). The means of compliance for the approval of the OSD FC is, in this case, the T5 test.",
+        "text": "For a new TC, the type of the aircraft must be determined (CS FCD.200) and the minimum syllabus for an initial type rating training course must be approved (CS FCD.300). The means of compliance for the approval of the OSD FC is, in this case, the T5 test.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5720,14 +5723,14 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "When an evaluation is carried out , the T1 , T2, and T 3 tests compare the candidate aircraft with the base aircraft. DR tables and MDR tables (between variants of aircraft types) are established, which address the differences between the base and the candidate aircraft",
+        "text": "When an evaluation is carried out, the T1, T2, and T3 tests compare the candidate aircraft with the base aircraft. DR tables and MDR tables (between variants of aircraft types) are established, which address the differences between the base and the candidate aircraft",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "To establish data for a direction that was not previously a ss essed , an additional evaluation using the above T tests may be carried out based on an application . In general, level A and B differences do not require two-way testing.",
+        "text": "To establish data for a direction that was not previously assessed, an additional evaluation using the above T tests may be carried out based on an application. In general, level A and B differences do not require two-way testing.",
         "pStyle": "Normal1"
       },
       {
@@ -5742,7 +5745,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "representative training programmes , difference programmes and the necessary supporting training material and information are developed as needed;",
+        "text": "representative training programmes, difference programmes and the necessary supporting training material and information are developed as needed;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5798,7 +5801,7 @@
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "The e valuation purpose and application are summarised in the table below:",
+        "text": "The evaluation purpose and application are summarised in the table below:",
         "pStyle": "Normal1"
       },
       {
@@ -5871,7 +5874,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Compares h andling qualities"
+                  "text": "Compares handling qualities"
                 }
               ],
               "width": "3616"
@@ -5900,7 +5903,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Evaluates differences and sets training or checking requirements"
+                  "text": "Evaluates differences and sets training or checking requirements "
                 }
               ],
               "width": "3616"
@@ -5909,7 +5912,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Pass sets levels A/B/C/D; failure sets level E and requires T5 and/ or , if required T2 + T3 for commonality credit"
+                  "text": "Pass sets levels A/B/C/D; failure sets level E and requires T5 and/or, if required T2 + T3 for commonality credit"
                 }
               ],
               "width": "4252"
@@ -5929,7 +5932,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Revises currency requirements"
+                  "text": "Revises currency requirements "
                 }
               ],
               "width": "3616"
@@ -5982,7 +5985,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Evaluat es CTLC"
+                  "text": "Evaluates CTLC"
                 }
               ],
               "width": "3616"
@@ -6003,14 +6006,14 @@
         "type": "paragraph",
         "index": 37,
         "level": -1,
-        "text": "A d etailed description of the purpose, process , and application of each of the six difference level evaluations is as follows:",
+        "text": "A detailed description of the purpose, process, and application of each of the six difference level evaluations is as follows:",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 38,
         "level": 0,
-        "text": "Evaluation 1 (T1) — F unctional equivalence",
+        "text": "Evaluation 1 (T1) — Functional equivalence",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -6046,14 +6049,14 @@
         "type": "paragraph",
         "index": 43,
         "level": -1,
-        "text": "Evaluation process: administer appropriate portions of a proficiency check as agreed by EASA based on a proposal by the applicant. This evaluation may be carried out in an FSTD with the appropriate capability to achieve the training objectives , or an aircraft , as appropriate. Only those portions of the proficiency check which are affected by the differences from the base aircraft need to be evaluated. For minor level A or B differences , this evaluation may be conducted through analysis.",
+        "text": "Evaluation process: administer appropriate portions of a proficiency check as agreed by EASA based on a proposal by the applicant. This evaluation may be carried out in an FSTD with the appropriate capability to achieve the training objectives, or an aircraft, as appropriate. Only those portions of the proficiency check which are affected by the differences from the base aircraft need to be evaluated. For minor level A or B differences, this evaluation may be conducted through analysis.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 44,
         "level": 1,
-        "text": "Successful evaluation validates that the base and candidate aircraft are sufficiently alike , to assign level A or B differences.",
+        "text": "Successful evaluation validates that the base and candidate aircraft are sufficiently alike, to assign level A or B differences.",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6061,7 +6064,7 @@
         "type": "paragraph",
         "index": 45,
         "level": 1,
-        "text": "Failure of an evaluation generally requires completion of the T2 and T3 evaluation s . Normally, re-evaluation is not appropriate; however, at the request of the applicant , re-evaluation may be accepted by EASA .",
+        "text": "Failure of an evaluation generally requires completion of the T2 and T3 evaluations. Normally, re-evaluation is not appropriate; however, at the request of the applicant, re-evaluation may be accepted by EASA.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6069,7 +6072,7 @@
         "type": "paragraph",
         "index": 46,
         "level": 1,
-        "text": "EASA may waive the T1 test if a T2 test , or T2 and T3 tests are to be performed.",
+        "text": "EASA may waive the T1 test if a T2 test, or T2 and T3 tests are to be performed.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6077,7 +6080,7 @@
         "type": "paragraph",
         "index": 47,
         "level": 0,
-        "text": "Evaluation 2 (T2) — H andling qualities comparison",
+        "text": "Evaluation 2 (T2) — Handling qualities comparison",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -6085,7 +6088,7 @@
         "type": "paragraph",
         "index": 48,
         "level": -1,
-        "text": "Evaluation purpose: to evaluate handling qualities using specific flight manoeuvres , to determine whether level A, B, C , or D training is appropriate to be validated via a T3 test, when required. At the discretion of EASA , the T2 evaluation may be completed through analysis when it is assessed that the nature of the proposed design changes does not affect the handling qualities of the candidate aircraft.",
+        "text": "Evaluation purpose: to evaluate handling qualities using specific flight manoeuvres, to determine whether level A, B, C, or D training is appropriate to be validated via a T3 test, when required. At the discretion of EASA, the T2 evaluation may be completed through analysis when it is assessed that the nature of the proposed design changes does not affect the handling qualities of the candidate aircraft.",
         "pStyle": "Normal1"
       },
       {
@@ -6106,28 +6109,28 @@
         "type": "paragraph",
         "index": 51,
         "level": -1,
-        "text": "Evaluation process: compare the handling qualities during a set of agreed manoeuvres . This evaluation is conducted in the base and the candidate aircraft, unless safety considerations dictate the use of an FFS , as defined in CS FCD.415(a) for Level E. Manoeuvres that are performed in the aircraft require a safety pilot who may only aid in areas not related to the evaluation. Normal crew call-outs and coordination are permitted; however, the safety pilot may not assist in any other manner unless directly related to a safety - of - flight issue, for example , no ‘coaching’ or instructing is permitted.",
+        "text": "Evaluation process: compare the handling qualities during a set of agreed manoeuvres. This evaluation is conducted in the base and the candidate aircraft, unless safety considerations dictate the use of an FFS, as defined in CS FCD.415(a) for Level E. Manoeuvres that are performed in the aircraft require a safety pilot who may only aid in areas not related to the evaluation. Normal crew call-outs and coordination are permitted; however, the safety pilot may not assist in any other manner unless directly related to a safety-of-flight issue, for example, no ‘coaching’ or instructing is permitted.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 52,
         "level": -1,
-        "text": "Successful evaluation: validates that the base and the candidate aircraft are sufficiently alike in handling qualities to permit the applicant to assign A, B, C , or D training levels . A successful T2 evaluation permits a subsequent T3 evaluation to assess the system differences and equipment differences , the training , or checking to be conducted. If a subsequent T3 test is not requested, level A or B training may be assigned.",
+        "text": "Successful evaluation: validates that the base and the candidate aircraft are sufficiently alike in handling qualities to permit the applicant to assign A, B, C, or D training levels. A successful T2 evaluation permits a subsequent T3 evaluation to assess the system differences and equipment differences, the training, or checking to be conducted. If a subsequent T3 test is not requested, level A or B training may be assigned.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 53,
         "level": -1,
-        "text": "When a T2 test is otherwise successfully completed, an FFS or aircraft for manoeuvre training , as mentioned in CS FCD.415(a) , may be proposed within level D training for performing specific manoeuvres .",
+        "text": "When a T2 test is otherwise successfully completed, an FFS or aircraft for manoeuvre training, as mentioned in CS FCD.415(a), may be proposed within level D training for performing specific manoeuvres.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 54,
         "level": -1,
-        "text": "Failure of the evaluation: failure of the T2 evaluation indicates that major differences exist in handling qualities during the critical phases of flight (such as take-off or landing) , or that numerous less critical but still significant differences in handling qualities exist between the base and the candidate aircraft. A failure of a T2 evaluation requires to assign level E training. Also with level E training , a separate type rating is normally assigned to the candidate aircraft being evaluated. Normally , a T2 re-evaluation is not appropriate; however, a re-evaluation may be proposed.",
+        "text": "Failure of the evaluation: failure of the T2 evaluation indicates that major differences exist in handling qualities during the critical phases of flight (such as take-off or landing), or that numerous less critical but still significant differences in handling qualities exist between the base and the candidate aircraft. A failure of a T2 evaluation requires to assign level E training. Also with level E training, a separate type rating is normally assigned to the candidate aircraft being evaluated. Normally, a T2 re-evaluation is not appropriate; however, a re-evaluation may be proposed.",
         "pStyle": "Normal1"
       },
       {
@@ -6142,35 +6145,35 @@
         "type": "paragraph",
         "index": 56,
         "level": -1,
-        "text": "This is a test of the system and equipment differences , and validation of the proposed difference training and checking or of the reduced type rating training, based on credit for previous experience on similar aircraft types.",
+        "text": "This is a test of the system and equipment differences, and validation of the proposed difference training and checking or of the reduced type rating training, based on credit for previous experience on similar aircraft types.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 57,
         "level": -1,
-        "text": "Evaluation purpose: to evaluate the proposed difference training, and the checking and training devices at level A, B, C , or D. T3 is also used to evaluate reduced type rating training, checking, and currency, as well as training devices for reduced initial type rating training, based on credit for previous experience on similar aircraft types.",
+        "text": "Evaluation purpose: to evaluate the proposed difference training, and the checking and training devices at level A, B, C, or D. T3 is also used to evaluate reduced type rating training, checking, and currency, as well as training devices for reduced initial type rating training, based on credit for previous experience on similar aircraft types.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 58,
         "level": -1,
-        "text": "Evaluation subjects: pilots designated by EASA , trained and experienced in the base aircraft and having been given the proposed difference training or reduced initial type rating training for the candidate aircraft.",
+        "text": "Evaluation subjects: pilots designated by EASA, trained and experienced in the base aircraft and having been given the proposed difference training or reduced initial type rating training for the candidate aircraft.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 59,
         "level": -1,
-        "text": "Evaluation process: if level A or B training is deemed appropriate, T3 may be completed by analysis. If level C or D training is deemed appropriate, administer appropriate portions of a proficiency check in system trainers or an FSTD for manoeuvre training , or in an aircraft, as mentioned in CS FCD.415(a) . Following the completion of the proficiency check, a simulated LOF check may be administered by EASA . This LOF check is normally administered in an F STD , but may be conducted in a test aircraft , as appropriate.",
+        "text": "Evaluation process: if level A or B training is deemed appropriate, T3 may be completed by analysis. If level C or D training is deemed appropriate, administer appropriate portions of a proficiency check in system trainers or an FSTD for manoeuvre training, or in an aircraft, as mentioned in CS FCD.415(a). Following the completion of the proficiency check, a simulated LOF check may be administered by EASA. This LOF check is normally administered in an FSTD, but may be conducted in a test aircraft, as appropriate.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 60,
         "level": -1,
-        "text": "Successful evaluation: permits assignment of level A, B, C or D training and validates the proposed differences training or checking programmes .",
+        "text": "Successful evaluation: permits assignment of level A, B, C or D training and validates the proposed differences training or checking programmes.",
         "pStyle": "Normal1"
       },
       {
@@ -6184,7 +6187,7 @@
         "type": "paragraph",
         "index": 62,
         "level": 0,
-        "text": "Evaluation 4 (T4) — C urrency validation",
+        "text": "Evaluation 4 (T4) — Currency validation",
         "marker": "(h)",
         "pStyle": "ListLevel0"
       },
@@ -6192,7 +6195,7 @@
         "type": "paragraph",
         "index": 63,
         "level": -1,
-        "text": "Evaluation purpose: used to evaluate relief from established currency requirements. This currency evaluation addresses system s , equipment, procedural and manoeuvring differences between aircraft , and does not address the recent experience requirements for take-off, approach , and landing , as mentioned in FCL.060(b) of Part-FCL.",
+        "text": "Evaluation purpose: used to evaluate relief from established currency requirements. This currency evaluation addresses systems, equipment, procedural and manoeuvring differences between aircraft, and does not address the recent experience requirements for take-off, approach, and landing, as mentioned in FCL.060(b) of Part-FCL.",
         "pStyle": "Normal1"
       },
       {
@@ -6227,7 +6230,7 @@
         "type": "paragraph",
         "index": 68,
         "level": 0,
-        "text": "Evaluation 5 (T5) — I nitial or transition training programme validation",
+        "text": "Evaluation 5 (T5) — Initial or transition training programme validation",
         "marker": "(i)",
         "pStyle": "ListLevel0"
       },
@@ -6242,7 +6245,7 @@
         "type": "paragraph",
         "index": 70,
         "level": -1,
-        "text": "Evaluation subjects: as established by EASA based on a proposal by the applicant , who meet the prerequisites that are established under Part-FCL for issuing a type rating .",
+        "text": "Evaluation subjects: as established by EASA based on a proposal by the applicant, who meet the prerequisites that are established under Part-FCL for issuing a type rating.",
         "pStyle": "Normal1"
       },
       {
@@ -6263,7 +6266,7 @@
         "type": "paragraph",
         "index": 73,
         "level": -1,
-        "text": "Failure of the evaluation: indicates that the proposed training programme requires changes to satisfy the appropriate requirements. A re-evaluation , as established by EASA based on a proposal by the applicant , would normally be required.",
+        "text": "Failure of the evaluation: indicates that the proposed training programme requires changes to satisfy the appropriate requirements. A re-evaluation, as established by EASA based on a proposal by the applicant, would normally be required.",
         "pStyle": "Normal1"
       },
       {
@@ -6292,21 +6295,21 @@
         "type": "paragraph",
         "index": 77,
         "level": -1,
-        "text": "Evaluation subjects: pilots designated by EASA , neither trained nor experienced in the candidate aircraft.",
+        "text": "Evaluation subjects: pilots designated by EASA, neither trained nor experienced in the candidate aircraft.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 78,
         "level": -1,
-        "text": "Evaluation process: the evaluation subjects are first provided with refresher training in the base aircraft to establish a baseline of proficiency. This training may be completed in the aircraft or in an approved level C or D FFS. The subject is then evaluated in the candidate aircraft, without any training in it, by accomplishing a minimum of three take-offs and landings without use of the autopilot. It may not be practical to conduct some evaluations in an aircraft , and in such cases, an FFS may be used to conduct these evaluations. The e valuation subjects should be evaluated on the ability to fly the aircraft manually through take-off, initial climb, approach , and landing (including the establishment of the final landing configuration).",
+        "text": "Evaluation process: the evaluation subjects are first provided with refresher training in the base aircraft to establish a baseline of proficiency. This training may be completed in the aircraft or in an approved level C or D FFS. The subject is then evaluated in the candidate aircraft, without any training in it, by accomplishing a minimum of three take-offs and landings without use of the autopilot. It may not be practical to conduct some evaluations in an aircraft, and in such cases, an FFS may be used to conduct these evaluations. The evaluation subjects should be evaluated on the ability to fly the aircraft manually through take-off, initial climb, approach, and landing (including the establishment of the final landing configuration).",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 79,
         "level": -1,
-        "text": "Successful evaluation: validates that the proposed training satisfies the appropriate requirements , and that an equivalent level of safety can be maintained when full or partial credit for take-offs and landings is given between the base and candidate aircraft.",
+        "text": "Successful evaluation: validates that the proposed training satisfies the appropriate requirements, and that an equivalent level of safety can be maintained when full or partial credit for take-offs and landings is given between the base and candidate aircraft.",
         "pStyle": "Normal1"
       },
       {
@@ -6328,7 +6331,7 @@
         "type": "paragraph",
         "index": 82,
         "level": -1,
-        "text": "Evaluation results should be summarised by EASA and sent to the applicant, and the outcome should be documented in the OSD FC .",
+        "text": "Evaluation results should be summarised by EASA and sent to the applicant, and the outcome should be documented in the OSD FC.",
         "pStyle": "Normal1"
       },
       {

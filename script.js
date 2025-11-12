@@ -76,26 +76,127 @@ function enterExportMode() {
   document.getElementById("export-matrix-btn").disabled = true;
 }
 
-/*function showApp() {
-  document.getElementById("login-screen").classList.add("d-none");
-  document.getElementById("app").classList.remove("d-none");
-}*/
+function openUpdateMatrixModal() {
+  const modal = new bootstrap.Modal(document.getElementById('updateMatrixModal'));
+  modal.show();
+}
+
+async function handleMatrixUploadClick() {
+  const input = document.getElementById('matrixUpload');
+  const feedback = document.getElementById('upload-feedback');
+  const statusEl = document.getElementById('upload-status');
+  const actionBtn = document.getElementById('updateMatrixActionBtn');
+
+  if (!input.files.length) {
+    feedback.textContent = "Please select a file before continuing.";
+    feedback.classList.add("text-danger");
+    return;
+  }
+
+  const file = input.files[0];
+  window.uploadedMatrixFile = file;
+
+  feedback.textContent = `Reading ${file.name}...`;
+  feedback.classList.remove("text-danger");
+  feedback.classList.add("text-success");
+
+  // Parse file asynchronously (reads metadata + version comparison)
+  await handleMatrixUpload({ target: { files: [file] } });
+
+  const updateInfo = window.uploadedMatrixUpdateInfo || {};
+  const meta = window.uploadedMatrixInfo || {};
+
+  // Show status result after parsing
+  if (updateInfo.updateAvailable) {
+    statusEl.innerHTML = `
+      <span class="text-warning fw-bold">⚠️ Update available</span><br>
+      Uploaded version: ${meta.version || 'Unknown'}<br>
+      Latest available: ${updateInfo.latestVersion?.replace('.json', '') || 'Unknown'}
+    `;
+    actionBtn.textContent = "Update";
+    actionBtn.classList.remove("btn-primary");
+    actionBtn.classList.add("btn-warning");
+  } else if (meta.version) {
+    statusEl.innerHTML = `
+      <span class="text-success fw-bold">✅ Your matrix is up to date!</span><br>
+      Version: ${meta.version}
+    `;
+    actionBtn.textContent = "Continue";
+    actionBtn.classList.remove("btn-warning");
+    actionBtn.classList.add("btn-primary");
+  } else {
+    statusEl.innerHTML = `<span class="text-danger">Could not determine matrix version.</span>`;
+    return;
+  }
+
+  // If user presses "Update", start the export flow
+  actionBtn.onclick = async () => {
+    const { updateAvailable, latestVersion } = window.uploadedMatrixUpdateInfo || {};
+    if (!updateAvailable) {
+      // Simply close modal if already up to date
+      const modalEl = document.getElementById('updateMatrixModal');
+      const modal = bootstrap.Modal.getInstance(modalEl);
+      modal.hide();
+      return;
+    }
+
+    //console.log(`🟡 Update available — opening export for latest version ${latestVersion}`);
+
+    const { category, regulation } = meta;
+    if (!category || !regulation || !latestVersion) {
+      alert("Unable to start update — missing metadata or version info.");
+      return;
+    }
+
+    // Set current state for export
+    currentCategory = category;
+    currentRegulation = regulation;
+    //currentMode = 'export';
+    selectedVersions = [latestVersion];
+
+    // Close modal
+    const modalEl = document.getElementById('updateMatrixModal');
+    const modal = bootstrap.Modal.getInstance(modalEl);
+    modal.hide();
+
+    // export UI for correct regulation/version
+    if (window.structureData) {
+      enterExportMode();
+
+      currentMode = "export";
+      renderRegulations(window.structureData);
+      selectRegulation(regulation);
+
+      setTimeout(() => {
+        const versionButtons = document.querySelectorAll(`#version-buttons .btn`);
+        if (!versionButtons.length) return;
+
+        const versionLabel = latestVersion.replace('.json', '').trim().toLowerCase();
+        const foundBtn = Array.from(versionButtons).find(btn => btn.textContent.trim().toLowerCase().includes(versionLabel));
+
+        if (foundBtn) {
+          foundBtn.click(); // triggers toggleVersion()
+
+          // ✅ Trigger export path automatically (equivalent to pressing “Export as Matrix”)
+          setTimeout(() => {
+            if (typeof startExportMatrix === 'function') {
+              startExportMatrix(); // opens topic-selection modal
+            } else {
+              console.warn("⚠️ startExportMatrix() not found.");
+            }
+          }, 600);
+        } else {
+          console.warn(`⚠️ Could not find version button for: ${versionLabel}`);
+        }
+      }, 600);
+    } else {
+      console.warn("⚠️ structureData not loaded, cannot auto-select regulation.");
+    }
+  };
+}
 
 function resetPage() {
-  // Hide all screens
-  document.getElementById("login-screen")?.classList.add("d-none");
-  document.getElementById("app")?.classList.add("d-none");
-  document.getElementById("action-screen")?.classList.remove("d-none");
-
-  // Optionally reset selection state
-  selectedVersions = [];
-  currentRegulation = null;
-
-  const versionButtons = document.getElementById('version-buttons');
-  if (versionButtons) versionButtons.innerHTML = '';
-
-  const versionSection = document.getElementById('version-selection');
-  if (versionSection) versionSection.classList.add('d-none');
+  window.location.reload()
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -112,6 +213,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(res => res.json())
     .then(data => {
       versionMap = data;
+      window.structureData = data;
       renderRegulations(data);
     });
 
@@ -366,6 +468,181 @@ async function startExportMatrix() {
   exportToExcel();
 }
 
+async function handleMatrixUpload(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+
+  const feedback = document.getElementById('upload-feedback');
+  feedback.textContent = 'Parsing uploaded matrix...';
+  feedback.classList.remove('text-danger', 'text-success');
+  feedback.classList.add('text-warning');
+
+  try {
+    const data = await file.arrayBuffer();
+    const workbook = new ExcelJS.Workbook();
+    await workbook.xlsx.load(data);
+
+    const sheet = workbook.worksheets[0];
+    const lastRow = sheet.lastRow ? sheet.lastRow.number : 0;
+
+    // Helper to get text from ExcelJS cell value
+    function getCellText(cell) {
+      if (!cell) return '';
+      const v = cell.value;
+      if (v == null) return '';
+      if (typeof v === 'string' || typeof v === 'number') return String(v).trim();
+      if (v.richText && Array.isArray(v.richText)) return v.richText.map(p => p.text || '').join('').trim();
+      if (v.text) return String(v.text).trim();
+      if (v.result !== undefined && v.result !== null) return String(v.result).trim();
+      return '';
+    }
+
+    const parsedMap = {};
+    let currentId = null;
+
+    for (let r = 1; r <= lastRow; r++) {
+      const row = sheet.getRow(r);
+
+      // Extract the ERules ID (topic identifier) from column O (15)
+      const erulesId = getCellText(row.getCell(15));
+
+      // Find the first non-empty text cell in columns A–K
+      const parts = [];
+      for (let c = 1; c <= 11; c++) {
+        const text = getCellText(row.getCell(c));
+        if (text && !parts.includes(text)) parts.push(text); // avoid duplicates
+      }
+      const rowText = parts.join(' ').trim();
+
+      // User-input columns
+      const compliance = getCellText(row.getCell(12));
+      const reference = getCellText(row.getCell(13));
+      const comment = getCellText(row.getCell(14));
+
+      // When we encounter a new topic (title row)
+      if (erulesId) {
+        currentId = erulesId;
+        if (!parsedMap[currentId]) {
+          parsedMap[currentId] = { erulesId: currentId, rows: [] };
+        }
+        continue;
+      }
+
+      // If we’re inside a topic, record this content row (even if some inputs are empty)
+      if (currentId && (rowText || compliance || reference || comment)) {
+        parsedMap[currentId].rows.push({
+          key: rowText,
+          compliance,
+          reference,
+          comment
+        });
+      }
+    }
+
+    // Convert to array for optional logging
+    const parsedData = Object.values(parsedMap);
+    //console.log('✅ Matrix upload parsed successfully:', parsedData);
+
+    // Store globally for export merging
+    window.previousMatrixMap = parsedMap;
+
+    let uploadedRegulation = null;
+    let uploadedCategory = null;
+    let uploadedVersion = null;
+
+    const metaSheet = workbook.getWorksheet('Metadata');
+    if (metaSheet) {
+      uploadedRegulation = metaSheet.getCell('B1').value || null;
+      uploadedCategory = metaSheet.getCell('B2').value || null;
+      uploadedVersion = metaSheet.getCell('B3').value || null;
+    }
+
+    window.uploadedMatrixInfo = {
+      regulation: uploadedRegulation,
+      category: uploadedCategory,
+      version: uploadedVersion
+    };
+
+    // Compare uploaded version to structure.json to detect updates
+    let updateInfo = { updateAvailable: false, latestVersion: null };
+
+    try {
+      // structure.json is already loaded in memory in your app
+      // It’s typically stored in window.structureData or a similar variable after renderRegulations()
+      const structure = window.structureData;
+      const { regulation, category, version } = window.uploadedMatrixInfo;
+
+      if (structure && regulation && category) {
+        const categoryData = structure[category];
+        const regData = categoryData?.[regulation];
+
+        if (regData && Array.isArray(regData)) {
+          // Sort versions by date using your existing parseVersionDate()
+          const sorted = regData.sort((a, b) => parseVersionDate(b) - parseVersionDate(a));
+          const latest = sorted[0];
+
+          updateInfo.latestVersion = (latest && latest.endsWith('.json')) ? latest : `${latest}.json`;
+          // Normalize version strings
+          const uploadedVersionDate = parseVersionDate(version);
+          const latestVersionDate = parseVersionDate(latest);
+
+          // Compare based on date, fallback to name if invalid
+          updateInfo.updateAvailable = uploadedVersionDate && latestVersionDate
+            ? latestVersionDate > uploadedVersionDate
+            : latest.replace('.json', '') !== version;
+        }
+      }
+    } catch (e) {
+      console.warn("Could not compare uploaded matrix version:", e);
+    }
+
+    window.uploadedMatrixUpdateInfo = updateInfo;
+
+    // Update modal UI with version info
+    const statusEl = document.getElementById('upload-status');
+    const actionBtn = document.getElementById('updateMatrixActionBtn');
+
+    if (window.uploadedMatrixUpdateInfo.updateAvailable) {
+      statusEl.innerHTML = `
+        <span class="text-warning fw-bold">⚠️ Update available</span><br>
+        Uploaded version: ${window.uploadedMatrixInfo.version}<br>
+        Latest available: ${window.uploadedMatrixUpdateInfo.latestVersion.replace('.json', '')}
+      `;
+      actionBtn.textContent = "Update";
+      actionBtn.classList.remove("btn-primary");
+      actionBtn.classList.add("btn-warning");
+    } else {
+      statusEl.innerHTML = `
+        <span class="text-success fw-bold">✅ Your matrix is up to date!</span><br>
+        Version: ${window.uploadedMatrixInfo.version}
+      `;
+      actionBtn.textContent = "Continue";
+      actionBtn.classList.remove("btn-warning");
+      actionBtn.classList.add("btn-primary");
+    }
+
+    feedback.classList.remove("text-danger");
+    feedback.classList.add("text-success");
+
+    let infoText = `Loaded ${parsedData.length} entries from ${file.name}.`;
+    if (uploadedRegulation) {
+      infoText += ` Detected regulation: ${uploadedRegulation} (${uploadedCategory || 'Unknown Category'}).`;
+    }
+    feedback.textContent = "";
+
+    /*console.log("✅ Matrix upload parsed successfully:", {
+      entries: parsedData.length,
+      metadata: window.uploadedMatrixInfo
+    });*/
+  } catch (err) {
+    console.error("Matrix upload parsing failed:", err);
+    if (feedback) {
+      feedback.textContent = `Error reading file: ${err.message}`;
+      feedback.classList.add("text-danger");
+    }
+  }
+}
+
 function darkenColor(hex, amount = 20) {
   const col = hex.replace(/^#/, '');
   const num = parseInt(col, 16);
@@ -452,7 +729,7 @@ function attachBadgeToggleHandlers() {
       // Handle single or multiple types
       const typesAttr = span.dataset.types || span.dataset.type;
       const types = typesAttr ? JSON.parse(typesAttr) : [];
-      console.log(types)
+      //console.log(types)
 
       types.forEach(type => {
         document.querySelectorAll(`li[data-type="${type}"]`).forEach(el => {
@@ -626,7 +903,6 @@ function renderTable(rows) {
 }
 
 function toggleContent(idx, erulesId) {
-  console.log("toggleContent")
   const contentEl = document.getElementById(`topic-${erulesId}-${idx}`);
   const headerEl = document.getElementById(`topic-header-${erulesId}-${idx}`);
 
@@ -713,7 +989,7 @@ function showExportModal(topics) {
               const title = titleOverrides[t.erulesId] || t.title || '[Untitled]';
               return `
                 <div class="form-check">
-                  <input class="form-check-input" type="checkbox" style="border: 2px solid #333;" id="${id}" data-erulesid="${t.erulesId}">
+                  <input class="form-check-input" type="checkbox" style="border: 2px solid #333;" id="${id}" data-erulesid="${t.erulesId}" ${window.previousMatrixMap?.[t.erulesId] ? 'checked' : ''}>
                   <label class="form-check-label" for="${id}">${title}</label>
                 </div>
               `;
@@ -835,7 +1111,8 @@ async function exportExcelJS() {
     { key: 'k', width: 20 },
     { header: "Compliance", key: "l", width: 15 },
     { header: "Reference", key: "m", width: 70 },
-    { header: "Comment", key: "n", width: 40 }
+    { header: "Comment", key: "n", width: 40 },
+    { header: "erulesId", key: "erulesId", width: 30, hidden: true }
   ];
   sheet.mergeCells(`A1:K1`);
 
@@ -903,6 +1180,9 @@ async function exportExcelJS() {
       const topicCell = sheet.getCell(`A${rowIndex}`);
       topicCell.value = title;
 
+      // store ERules ID in hidden column for when updating the matrix
+      sheet.getCell(`O${rowIndex}`).value = topic.erulesId;
+
       // Determine the type for color from the subject string
       // Find first key in typeColorMap that matches start of subject
       const topicType = topic.type?.trim();
@@ -919,6 +1199,7 @@ async function exportExcelJS() {
 
       sheet.getRow(rowIndex).commit();
       topicCells.push(topicCell);
+
       rowIndex++;
       
       // Add content rows
@@ -1065,7 +1346,7 @@ async function exportExcelJS() {
           continue;
         }
 
-        // Existing marker-based paragraph rendering (leave untouched)
+        // Existing marker-based paragraph rendering
         const indentLevel = Math.min(line.level || 0, 4);
         const markerCol = indentLevel + 1;
 
@@ -1129,16 +1410,33 @@ async function exportExcelJS() {
           }
         }
 
+        const topicData = window.previousMatrixMap?.[topic.erulesId];
+        if (topicData?.rows?.length) {
+          const lineMarker = line.marker
+          const lineText = line.text
+          let content = ''
+          
+          if (lineMarker){
+            content = lineMarker + ' ' + lineText
+          } else {
+            content = lineText
+          };
+
+          //console.log(content)
+          
+          const match = topicData.rows.find(r => r.key === content);
+          if (match) {
+            sheet.getCell(`L${rowIndex}`).value = match.compliance || '';
+            sheet.getCell(`M${rowIndex}`).value = match.reference || '';
+            sheet.getCell(`N${rowIndex}`).value = match.comment || '';
+          }
+        }
+
+
         row.commit();
         rowIndex++;
       }
     }
-    /*for (const cell in markerCells) {
-      cell.border = {
-        top: { style: 'thin', color: { argb: 'FFD9D9D9' } },
-        bottom: { style: 'thin', color: { argb: 'FFD9D9D9' } }
-      };
-    }*/
 
     for (const cell of topicCells) {
       cell.border = {
@@ -1168,6 +1466,10 @@ async function exportExcelJS() {
       }
     }
   }
+  // Add metadata sheet before saving
+  const versionLabel = selectedVersions?.[0]?.replace('.json', '') || '';
+  addMetadataSheet(workbook, currentRegulation, currentCategory, versionLabel);
+
   // Export workbook to download
   const buffer = await workbook.xlsx.writeBuffer();
   const blob = new Blob([buffer], {
@@ -1276,4 +1578,31 @@ function parseVersionDate(versionName) {
   const y = parseInt(year);
   return new Date(y, m - 1);
 }
+
+function addMetadataSheet(workbook, regulation, category, versionLabel) {
+  const metaSheet = workbook.addWorksheet("Metadata");
+
+  metaSheet.getCell('A1').value = "Regulation";
+  metaSheet.getCell('B1').value = regulation || "";
+  metaSheet.getCell('A2').value = "Category";
+  metaSheet.getCell('B2').value = category || "";
+  metaSheet.getCell('A3').value = "Version";
+  metaSheet.getCell('B3').value = versionLabel || "";
+  metaSheet.getCell('A4').value = "Exported On";
+  metaSheet.getCell('B4').value = new Date().toLocaleString();
+
+  metaSheet.getColumn(1).width = 20;
+  metaSheet.getColumn(2).width = 40;
+
+  metaSheet.eachRow(row => {
+    row.eachCell(cell => {
+      cell.font = { size: 11 };
+      cell.alignment = { vertical: 'middle', horizontal: 'left' };
+    });
+  });
+
+  // Hide the sheet so normal users never see it
+  metaSheet.state = 'veryHidden'; // “hidden” also works, but “veryHidden” is harder to unhide accidentally
+}
+
 // https://www.base64encode.org/

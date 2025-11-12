@@ -391,3 +391,15 @@ table.table td {
   color: white !important;
   border-color: #000 !important;
 }
+
+.custom-btn-update {
+  color: #856404; /* dark amber text */
+  border: 2px solid #fbbc39; /* Bootstrap warning yellow */
+  background-color: transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.custom-btn-update:hover {
+  color: #fff;
+  background-color: #fbbc39;
+}

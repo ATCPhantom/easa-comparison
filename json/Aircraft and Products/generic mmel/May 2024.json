@@ -50,7 +50,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "All elem ents (i.e. CS and GM) are colour -coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the CS or GM was introduced or last amended is indicated below the CS or GM title in italics .",
+        "text": "All elements (i.e. CS and GM) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the CS or GM was introduced or last amended is indicated below the CS or GM title in italics.",
         "pStyle": "Normal0"
       },
       {
@@ -61,7 +61,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Certification specification ED decision Guidance material ED d ecision"
+                  "text": "Certification specificationED decisionGuidance materialED decision"
                 }
               ],
               "width": "9052"
@@ -73,7 +73,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -91,14 +91,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "CS s /GM ( ED decisions )",
+        "text": "CSs/GM (ED decisions)",
         "pStyle": "NoTocHeading2"
       },
       {
@@ -118,7 +118,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS/AMC Issue No, Amendment No"
+                  "text": "CS/AMC Issue No,Amendment No"
                 }
               ],
               "width": "2791"
@@ -147,7 +147,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-GEN-MMEL / Initial  i ssue"
+                  "text": "CS-GEN-MMEL/ Initial issue"
                 }
               ],
               "width": "2791"
@@ -176,7 +176,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-GEN-MMEL/ I ssue 2"
+                  "text": "CS-GEN-MMEL/ Issue 2"
                 }
               ],
               "width": "2791"
@@ -185,7 +185,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1 / 2 /20 21"
+                  "text": "1/2/2021"
                 }
               ],
               "width": "3162"
@@ -197,7 +197,7 @@
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
         "pRStyle": "Italic"
       }
     ]
@@ -250,7 +250,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -271,7 +271,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "CS GEN.MMEL.100 Applicability 9",
+        "text": "CS GEN.MMEL.100 Applicability 9",
         "pStyle": "TOC2"
       },
       {
@@ -299,14 +299,14 @@
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "GM1 GEN.MMEL.107 Status of provided data 10",
+        "text": "GM1 GEN.MMEL.107 Status of provided data 10",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "CS GEN.MMEL.110 MMEL purpose 10",
+        "text": "CS GEN.MMEL.110 MMEL purpose 10",
         "pStyle": "TOC2"
       },
       {
@@ -334,7 +334,7 @@
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "CS GEN.MMEL.120 Types of operation 11",
+        "text": "CS GEN.MMEL.120 Types of operation 11",
         "pStyle": "TOC2"
       },
       {
@@ -355,7 +355,7 @@
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "Appendix I — MMEL cover page, control page and general section 12",
+        "text": "Appendix I — MMEL cover page, control page and general section 12",
         "pStyle": "TOC3"
       },
       {
@@ -376,35 +376,35 @@
         "type": "paragraph",
         "index": 24,
         "level": -1,
-        "text": "Appendix II — Preamble 17",
+        "text": "Appendix II — Preamble 17",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 25,
         "level": -1,
-        "text": "CS GEN.MMEL.140 Definitions and explanatory notes 18",
+        "text": "CS GEN.MMEL.140 Definitions and explanatory notes 18",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "Appendix III — Definitions and explanatory notes 19",
+        "text": "Appendix III — Definitions and explanatory notes 19",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 27,
         "level": -1,
-        "text": "CS GEN.MMEL.145 Item list 22",
+        "text": "CS GEN.MMEL.145 Item list 22",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 28,
         "level": -1,
-        "text": "Appendix IV — Item list 22",
+        "text": "Appendix IV — Item list 22",
         "pStyle": "TOC3"
       },
       {
@@ -438,7 +438,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS GEN.MMEL.100 Applicability",
+        "text": "CS GEN.MMEL.100 Applicability",
         "pStyle": "Heading2CS"
       },
       {
@@ -458,14 +458,14 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "ELA 1,",
+        "text": "ELA 1,",
         "pStyle": "bullet1"
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "E LA 2,",
+        "text": "ELA 2,",
         "pStyle": "bullet1"
       },
       {
@@ -493,14 +493,14 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "Category A operations.",
+        "text": "Category A operations.",
         "pStyle": "bullet1"
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -540,7 +540,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "‘Applicant’ : an applicant for, or a holder of, a type certificate (TC), change approval or supplemental type certificate (STC), applying for the approval by the European Aviation Safety Agency (hereinafter referred to as the ‘Agency’) of the Operational Suitability Data (OSD) related to MMEL.",
+        "text": "‘Applicant’: an applicant for, or a holder of, a type certificate (TC), change approval or supplemental type certificate (STC), applying for the approval by the European Aviation Safety Agency (hereinafter referred to as the ‘Agency’) of the Operational Suitability Data (OSD) related to MMEL.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -548,7 +548,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "‘End user’ : an operator or trai ning organisation having a Minimum Equipment List (MEL) based on the MMEL approved by the Agency.",
+        "text": "‘End user’: an operator or training organisation having a Minimum Equipment List (MEL) based on the MMEL approved by the Agency.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -556,7 +556,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "‘Inoperative’ : an item which does not accomplish its intended purpose or is not consistently functioning within its approved operating limits or tolerances .",
+        "text": "‘Inoperative’: an item which does not accomplish its intended purpose or is not consistently functioning within its approved operating limits or tolerances.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -564,7 +564,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "‘Item’ : a component, instrument, equipment, system or function.",
+        "text": "‘Item’: a component, instrument, equipment, system or function.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -614,7 +614,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "It shoul d be highlighted that unless it is specifically allowed by the MMEL, the item should not be removed.",
+        "text": "It should be highlighted that unless it is specifically allowed by the MMEL, the item should not be removed.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -622,7 +622,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "I TEM",
+        "text": "ITEM",
         "pStyle": "Heading4OrgManual"
       },
       {
@@ -637,7 +637,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "In the context of thes e Certification Specifications, a system is considered to be a collection of equipment and/or instruments that perform a function.",
+        "text": "In the context of these Certification Specifications, a system is considered to be a collection of equipment and/or instruments that perform a function.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -703,7 +703,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 GEN.MMEL.107 Status of provided data",
+        "text": "GM1 GEN.MMEL.107 Status of provided data",
         "pStyle": "Heading3GM"
       },
       {
@@ -726,7 +726,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -746,20 +746,20 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS GEN.MMEL.110 MMEL purpose",
+        "text": "CS GEN.MMEL.110 MMEL purpose",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "The MMEL is a document that lists the items which may be temporarily inoperative in association with special operating conditions, limitations or procedures as applicable, for a specific a ircraft type or model."
+        "text": "The MMEL is a document that lists the items which may be temporarily inoperative in association with special operating conditions, limitations or procedures as applicable, for a specific aircraft type or model."
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -793,7 +793,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "AEROPLAN E TYPE",
+        "text": "AEROPLANE TYPE",
         "pStyle": "Heading4OrgManual"
       },
       {
@@ -833,7 +833,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "NON-SAFETY-REL ATED ITEMS",
+        "text": "NON-SAFETY-RELATED ITEMS",
         "pStyle": "Heading4OrgManual"
       },
       {
@@ -852,7 +852,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Non-safety-related items include those items related to the convenience, comfort, or entertainment of the passengers and equipment that is used only on ground for mainten ance purpose. Convenience, comfort, or entertainment of the passengers may include items such as galley equipment, movie equipment, stereo equipment, overhead reading lamps."
+        "text": "Non-safety-related items include those items related to the convenience, comfort, or entertainment of the passengers and equipment that is used only on ground for maintenance purpose. Convenience, comfort, or entertainment of the passengers may include items such as galley equipment, movie equipment, stereo equipment, overhead reading lamps."
       },
       {
         "type": "paragraph",
@@ -891,7 +891,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "For items installed (other than non-safety-related items) that are not listed in Appendix IV , yet the applicant wishes to provide relief for the end user, may be justified for inclusion into their MMEL."
+        "text": "For items installed (other than non-safety-related items) that are not listed in Appendix IV, yet the applicant wishes to provide relief for the end user, may be justified for inclusion into their MMEL."
       },
       {
         "type": "paragraph",
@@ -916,7 +916,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS GEN.MMEL.120 Types of operation",
+        "text": "CS GEN.MMEL.120 Types of operation",
         "pStyle": "Heading2CS"
       },
       {
@@ -929,7 +929,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -1068,7 +1068,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The MMEL cover page, control page and general section are prepared in accordance with Appendix I ."
+        "text": "The MMEL cover page, control page and general section are prepared in accordance with Appendix I."
       }
     ]
   },
@@ -1087,7 +1087,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Appendix I — MMEL cover page, control page and general section",
+        "text": "Appendix I — MMEL cover page, control page and general section",
         "pStyle": "Heading3CS"
       },
       {
@@ -1106,7 +1106,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "[Supplemental/Type Certificate Holder Name] [ Aircraft Type]"
+                  "text": "[Supplemental/Type Certificate Holder Name][Aircraft Type]"
                 },
                 {
                   "style": "Bold",
@@ -1114,7 +1114,7 @@
                 },
                 {
                   "style": null,
-                  "text": "ORIGINAL: [Effective date] (and if applicable) REVISION [Number]: [Effective date] [Supplemental/Type Certificate Holder document reference]"
+                  "text": "ORIGINAL: [Effective date](and if applicable)REVISION [Number]: [Effective date][Supplemental/Type Certificate Holder document reference]"
                 }
               ],
               "width": "9052"
@@ -1142,7 +1142,7 @@
                 },
                 {
                   "style": null,
-                  "text": "Type: [ Aircraft type/model] (and if applicable) [ Aircraft commercial name] ORIGINAL ISSUE: [Effective date] (and if applicable) REVISION [Number]: [Effective date] This Master Minimum Equipment List (MMEL) is issued by [Supplemental/Type Certificate Holder name] at the above revision and is approved by the European Union Aviation Safety Agency (EASA) as the basis for the preparation and approval of an individual operator’s Minimum Equipment List (MEL) for aircraft of this model, as certified by and operated under the jurisdiction of the EASA Member States’ national authorities. Issue: [Revision number] Date: [Date of approval by EASA ] Signed by: [ EASA — signature and stamp]"
+                  "text": "Type:[Aircraft type/model](and if applicable)[Aircraft commercial name]ORIGINAL ISSUE: [Effective date](and if applicable)REVISION [Number]: [Effective date]This Master Minimum Equipment List (MMEL) is issued by [Supplemental/Type Certificate Holder name] at the above revision and is approved by the European Union Aviation Safety Agency (EASA) as the basis for the preparation and approval of an individual operator’s Minimum Equipment List (MEL) for aircraft of this model, as certified by and operated under the jurisdiction of the EASA Member States’ national authorities.Issue: [Revision number]Date: [Date of approval by EASA]Signed by: [EASA — signature and stamp]"
                 }
               ],
               "width": "9052"
@@ -1166,7 +1166,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GENERAL TABLE OF CONTENTS [Table of contents with page numbering]"
+                  "text": "GENERALTABLE OF CONTENTS[Table of contents with page numbering]"
                 }
               ],
               "width": "9052"
@@ -1478,7 +1478,7 @@
                 },
                 {
                   "style": null,
-                  "text": ": [Effective date] (If applicable)"
+                  "text": ": [Effective date](If applicable)"
                 },
                 {
                   "style": "Bold",
@@ -1522,7 +1522,7 @@
         "type": "paragraph",
         "index": 48,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -1589,7 +1589,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The MMEL preamble is given in Appendix II ."
+        "text": "The MMEL preamble is given in Appendix II."
       }
     ]
   },
@@ -1608,7 +1608,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Appendix II — Preamble",
+        "text": "Appendix II — Preamble",
         "pStyle": "Heading3CS"
       },
       {
@@ -1629,7 +1629,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The following is applicable for operators subject to Annex IV (Par-CAT), Annex VII (Part-NCO), and Annex VIII (Part-SPO) to Regulation (EU) No 965/2012. Paragraph 1.3.2 of Annex II (Essential requirements for airworthiness) of Regulation (EU) 2018/1139 (hereinafter referred to as the ‘Basic Regulation’) requires that all the equipment items installed on an aircraft that are required for type certification or by operating rules shall be operative. However, paragraph 2(c)(iii) of Annex V (Essential requirements for air operations) to the Basic Regulation also allows the use of a Minimum Equipment List (MEL) where compliance with certain equipment requirements is not necessary in the interest of safety under all operating conditions. Experience has shown that with the various levels of redundancy designed into aircraft, the operation of every system or installed item may not be necessary when the remaining operative equipment can provide an acceptable level of safety."
+        "text": "The following is applicable for operators subject to Annex IV (Par-CAT), Annex VII (Part-NCO), and Annex VIII (Part-SPO) to Regulation (EU) No 965/2012. Paragraph 1.3.2 of Annex II (Essential requirements for airworthiness) of Regulation (EU) 2018/1139 (hereinafter referred to as the ‘Basic Regulation’) requires that all the equipment items installed on an aircraft that are required for type certification or by operating rules shall be operative. However, paragraph 2(c)(iii) of Annex V (Essential requirements for air operations) to the Basic Regulation also allows the use of a Minimum Equipment List (MEL) where compliance with certain equipment requirements is not necessary in the interest of safety under all operating conditions. Experience has shown that with the various levels of redundancy designed into aircraft, the operation of every system or installed item may not be necessary when the remaining operative equipment can provide an acceptable level of safety."
       },
       {
         "type": "paragraph",
@@ -1642,7 +1642,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "This Master Minimum Equipment List (MMEL) is developed by the Type Certificate Holder or the Supplemental Type Certificate Holder and is approved by EASA . This MMEL includes those items that are related to airworthiness and air operations regulations, and other items that EASA finds that may be inoperative while maintain ing an acceptable level of safety through appropriate conditions and limitations; it does not contain obviously required items such as wings, flaps, gearboxes, and rotors . In order to maintain an acceptable level of safety, the MMEL establishes limitations on the duration of and conditions for operation with inoperative items. Unless specifically permitted by this MMEL, an inoperative item may not be removed from the aircraft ."
+        "text": "This Master Minimum Equipment List (MMEL) is developed by the Type Certificate Holder or the Supplemental Type Certificate Holder and is approved by EASA. This MMEL includes those items that are related to airworthiness and air operations regulations, and other items that EASA finds that may be inoperative while maintaining an acceptable level of safety through appropriate conditions and limitations; it does not contain obviously required items such as wings, flaps, gearboxes, and rotors. In order to maintain an acceptable level of safety, the MMEL establishes limitations on the duration of and conditions for operation with inoperative items. Unless specifically permitted by this MMEL, an inoperative item may not be removed from the aircraft."
       },
       {
         "type": "paragraph",
@@ -1655,7 +1655,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The MMEL is the basis for the development of the individual operator’s MEL , which takes into consideration the operator’s particular aircraft equipment configuration and operational conditions."
+        "text": "The MMEL is the basis for the development of the individual operator’s MEL, which takes into consideration the operator’s particular aircraft equipment configuration and operational conditions."
       },
       {
         "type": "paragraph",
@@ -1747,7 +1747,7 @@
         "type": "paragraph",
         "index": 23,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -1767,7 +1767,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS GEN.MMEL.140 Definitions and explanatory notes",
+        "text": "CS GEN.MMEL.140 Definitions and explanatory notes",
         "pStyle": "Heading2CS"
       },
       {
@@ -1780,13 +1780,13 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Appendix III to this CS contains the definitions that are common to all MMELs. Other definitions that are specific to particular or individual aircraft types are added as necessary. Also, explanatory notes are provided in sufficient detail wherever the intent and purpose of a term or phrase or abbreviation, etc., is necessary or advisable."
+        "text": "Appendix III to this CS contains the definitions that are common to all MMELs. Other definitions that are specific to particular or individual aircraft types are added as necessary. Also, explanatory notes are provided in sufficient detail wherever the intent and purpose of a term or phrase or abbreviation, etc., is necessary or advisable."
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -1806,7 +1806,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Appendix III — Definitions and explanatory notes",
+        "text": "Appendix III — Definitions and explanatory notes",
         "pStyle": "Heading3CS"
       },
       {
@@ -1844,15 +1844,14 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": ": for Commercial Air Transport, regulated by Part- CAT;",
-        "marker": "(CAT)",
+        "text": "(CAT): for Commercial Air Transport, regulated by Part-CAT;",
         "pStyle": "Normal2"
       },
       {
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "(SPO): for Specialised Operations, regulated by Part- SPO;",
+        "text": "(SPO): for Specialised Operations, regulated by Part-SPO;",
         "pStyle": "Normal2"
       },
       {
@@ -1955,7 +1954,7 @@
         "type": "paragraph",
         "index": 21,
         "level": 1,
-        "text": "Number installed — column No 3 — is the number (quantity) of items normally installed in the aircraft . This number represents the aircraft configuration that was considered in developing this MMEL. Should the number be a variable or not applicable, a number is not required; a ‘–’ is then inserted.",
+        "text": "Number installed — column No 3 — is the number (quantity) of items normally installed in the aircraft. This number represents the aircraft configuration that was considered in developing this MMEL. Should the number be a variable or not applicable, a number is not required; a ‘–’ is then inserted.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -2014,7 +2013,7 @@
         "type": "paragraph",
         "index": 29,
         "level": -1,
-        "text": "Placarding : each inoperative item must be placarded, as applicable, to inform and remind crew members and maintenance personnel of the items’ condition. To the extent practical, placards should be located adjacent to the control or indicator for the item affected, however, unless otherwise specified, placard wording and location will be determined by the operator. These placards do not relieve the operator from the obligation of writing an inoperative item entry into the appropriate document, such as a logbook.",
+        "text": "Placarding: each inoperative item must be placarded, as applicable, to inform and remind crew members and maintenance personnel of the items’ condition. To the extent practical, placards should be located adjacent to the control or indicator for the item affected, however, unless otherwise specified, placard wording and location will be determined by the operator. These placards do not relieve the operator from the obligation of writing an inoperative item entry into the appropriate document, such as a logbook.",
         "pStyle": "Normal2"
       },
       {
@@ -2029,7 +2028,7 @@
         "type": "paragraph",
         "index": 31,
         "level": 0,
-        "text": "Applicability: when a variant of a page is required for certain aircraft , the special applicability is indicated in the lower part of the relevant page as well as in the list of effective pages.",
+        "text": "Applicability: when a variant of a page is required for certain aircraft, the special applicability is indicated in the lower part of the relevant page as well as in the list of effective pages.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -2045,7 +2044,7 @@
         "type": "paragraph",
         "index": 33,
         "level": -1,
-        "text": "‘ Aircraft Flight Manual (AFM)’ is the document required for type certification and approved by EASA .",
+        "text": "‘Aircraft Flight Manual (AFM)’ is the document required for type certification and approved by EASA.",
         "pStyle": "Normal1"
       },
       {
@@ -2059,7 +2058,7 @@
         "type": "paragraph",
         "index": 35,
         "level": -1,
-        "text": "‘Any in excess of those required by regulations’ means that the item required by applicable legislation ( e.g. Regulation Air Operations, Single European Sky legislation or applicable airspace requirements) must be operative, and only excess equipment may be inoperative. When the item is not required, it may be inoperative for the time specified by its rectification interval category. Whenever this condition is used in the MMEL, the applicable regulations for the intended flight routes and the resulting dispatching restrictions need to be clarified at operator’s MEL level.",
+        "text": "‘Any in excess of those required by regulations’ means that the item required by applicable legislation (e.g. Regulation Air Operations, Single European Sky legislation or applicable airspace requirements) must be operative, and only excess equipment may be inoperative. When the item is not required, it may be inoperative for the time specified by its rectification interval category. Whenever this condition is used in the MMEL, the applicable regulations for the intended flight routes and the resulting dispatching restrictions need to be clarified at operator’s MEL level.",
         "pStyle": "Normal1"
       },
       {
@@ -2073,21 +2072,21 @@
         "type": "paragraph",
         "index": 37,
         "level": -1,
-        "text": "‘Calendar day’ : a 24-hour period from midnight to midnight based on either UTC or local time, as selected by the operator. All calendar days are considered to run consecutively.",
+        "text": "‘Calendar day’: a 24-hour period from midnight to midnight based on either UTC or local time, as selected by the operator. All calendar days are considered to run consecutively.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 38,
         "level": -1,
-        "text": "‘Commencement of flight’ is the point when an aeroplane begins to move under its own power for the purpose of preparing for take-off , or the point when the rotors of a helicopter start to turn for the purpose of taking off .",
+        "text": "‘Commencement of flight’ is the point when an aeroplane begins to move under its own power for the purpose of preparing for take-off, or the point when the rotors of a helicopter start to turn for the purpose of taking off.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 39,
         "level": -1,
-        "text": "‘Considered inoperative’ , as used in the dispatch conditions, means that the item must be treated for dispatch, taxi and flight purposes as though it were inoperative. The item shall not be used or operated until the original deferred item is repaired. Additional actions include: documenting the item on the dispatch release (if applicable), placarding, and complying with all remarks, exceptions, and related MMEL provisions, including any (M) and (O) procedures, and observing the rectification interval.",
+        "text": "‘Considered inoperative’, as used in the dispatch conditions, means that the item must be treated for dispatch, taxi and flight purposes as though it were inoperative. The item shall not be used or operated until the original deferred item is repaired. Additional actions include: documenting the item on the dispatch release (if applicable), placarding, and complying with all remarks, exceptions, and related MMEL provisions, including any (M) and (O) procedures, and observing the rectification interval.",
         "pStyle": "Normal1"
       },
       {
@@ -2157,14 +2156,14 @@
         "type": "paragraph",
         "index": 49,
         "level": -1,
-        "text": "‘Master Minimum Equipment List (MMEL)’ means a document approved by EASA that establishes the aircraft items that are allowed to be inoperative under the conditions specified in the document for a specific type of aircraft .",
+        "text": "‘Master Minimum Equipment List (MMEL)’ means a document approved by EASA that establishes the aircraft items that are allowed to be inoperative under the conditions specified in the document for a specific type of aircraft.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 50,
         "level": -1,
-        "text": "‘Minimum Equipment List (MEL)’ means a document approved by or declared to the competent authority, as applicable, that authorises an operator to dispatch an aircraft with aircraft items that are inoperative under the conditions specified in the document .",
+        "text": "‘Minimum Equipment List (MEL)’ means a document approved by or declared to the competent authority, as applicable, that authorises an operator to dispatch an aircraft with aircraft items that are inoperative under the conditions specified in the document.",
         "pStyle": "Normal1"
       },
       {
@@ -2178,7 +2177,7 @@
         "type": "paragraph",
         "index": 52,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -2198,7 +2197,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS GEN.MMEL.145 Item list",
+        "text": "CS GEN.MMEL.145 Item list",
         "pStyle": "Heading2CS"
       },
       {
@@ -2211,7 +2210,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The MMEL item list is generated by the applicant directly from the generic MMEL by selecting the items from the list in Appen d ix IV in accordance with their applicability to the aircraft type."
+        "text": "The MMEL item list is generated by the applicant directly from the generic MMEL by selecting the items from the list in Appendix IV in accordance with their applicability to the aircraft type."
       },
       {
         "type": "paragraph",
@@ -2229,7 +2228,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "The applicant also verifies that relief is not given for items that are involved in emergency procedures unless the applicant justifies that the emergency procedure can be fulfilled without the failed item ( e.g. VHF Communication Systems)."
+        "text": "The applicant also verifies that relief is not given for items that are involved in emergency procedures unless the applicant justifies that the emergency procedure can be fulfilled without the failed item (e.g. VHF Communication Systems)."
       },
       {
         "type": "paragraph",
@@ -2241,7 +2240,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "[ Issue No: GEN-MMEL/2 ]",
+        "text": "[Issue No: GEN-MMEL/2]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -2261,7 +2260,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Appendix IV — Item list",
+        "text": "Appendix IV — Item list",
         "pStyle": "Heading3CS"
       },
       {
@@ -2300,7 +2299,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(1) System & sequence numbers"
+                  "text": "(1)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "System & sequence numbers"
                 }
               ],
               "colspan": "2",
@@ -2310,7 +2317,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(2) Rectification interval"
+                  "text": "(2)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Rectification interval"
                 }
               ],
               "colspan": "5",
@@ -2336,7 +2351,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(3) Number installed"
+                  "text": "(3)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Number installed"
                 }
               ],
               "colspan": "4",
@@ -2361,7 +2384,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(4) Number required for dispatch"
+                  "text": "(4)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Number required for dispatch"
                 }
               ],
               "colspan": "3",
@@ -2390,7 +2421,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(5) Remarks or exceptions"
+                  "text": "(5)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Remarks or exceptions"
                 }
               ],
               "colspan": "2",
@@ -2542,7 +2581,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(CAT aeroplanes )"
+                  "text": "(CAT aeroplanes)"
                 }
               ],
               "width": "2128"
@@ -2578,11 +2617,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted with the cabin unpressurised, and (b) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 },
                 {
                   "style": "Italic",
@@ -2607,7 +2662,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(NCO/SPO aeroplanes )"
+                  "text": "(NCO/SPO aeroplanes)"
                 }
               ],
               "width": "2128"
@@ -2643,11 +2698,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted with the cabin unpressurised, and (b) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 },
                 {
                   "style": "Italic",
@@ -2709,7 +2780,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(CAT aeroplanes )"
+                  "text": "(CAT aeroplanes)"
                 }
               ],
               "width": "2128"
@@ -2745,15 +2816,39 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M)(O) May be inoperative provided that :"
+                  "text": "(M)(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the affected valve(s) is (are) secured OPEN or removed, (b) the flight is conducted with the cabin unpressurised, and (c) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the affected valve(s) is (are) secured OPEN or removed,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 },
                 {
                   "style": "Italic",
-                  "text": "(M) Procedures must be established to secure the valve(s) open or remove it (them). (O) Procedures must be established to ensure the aeroplane is operated with the cabin unpressurised."
+                  "text": "(M) Procedures must be established to secure the valve(s) open or remove it (them).(O) Procedures must be established to ensure the aeroplane is operated with the cabin unpressurised."
                 }
               ],
               "colspan": "2",
@@ -2765,7 +2860,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -2820,7 +2915,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(1) System & sequence numbers"
+                  "text": "(1)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "System & sequence numbers"
                 }
               ],
               "colspan": "2",
@@ -2830,7 +2933,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(2) Rectification interval"
+                  "text": "(2)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Rectification interval"
                 }
               ],
               "colspan": "5",
@@ -2856,7 +2967,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(3) Number installed"
+                  "text": "(3)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Number installed"
                 }
               ],
               "colspan": "4",
@@ -2881,7 +3000,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(4) Number required for dispatch"
+                  "text": "(4)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Number required for dispatch"
                 }
               ],
               "colspan": "3",
@@ -2910,7 +3037,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(5) Remarks or exceptions"
+                  "text": "(5)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Remarks or exceptions"
                 }
               ],
               "colspan": "2",
@@ -2922,7 +3057,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -2960,7 +3095,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(NCO/SPO aeroplanes )"
+                  "text": "(NCO/SPO aeroplanes)"
                 }
               ],
               "width": "2170"
@@ -2996,15 +3131,39 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M)(O) May be inoperative provided that :"
+                  "text": "(M)(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the affected valve(s) is(are) secured OPEN or removed, (b) the flight is conducted with the cabin unpressurised, and (c) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the affected valve(s) is(are) secured OPEN or removed, (b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 },
                 {
                   "style": "Italic",
-                  "text": "(M) Procedures must be established to secure the valve(s) open or remove it(them). (O) Procedures must be established to ensure the aeroplane is operated with the cabin unpressurised."
+                  "text": "(M) Procedures must be established to secure the valve(s) open or remove it(them).(O) Procedures must be established to ensure the aeroplane is operated with the cabin unpressurised."
                 }
               ],
               "colspan": "2",
@@ -3062,7 +3221,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2170"
@@ -3098,11 +3257,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted with the cabin unpressurised, and (b) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 }
               ],
               "colspan": "2",
@@ -3192,7 +3367,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2170"
@@ -3228,7 +3403,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that the flight is conducted at or below the cabin altitude warning limit, but not above 10  000  feet A MSL."
+                  "text": "May be inoperative provided that the flight is conducted at or below the cabin altitude warning limit, but not above 10 000 feet AMSL."
                 }
               ],
               "colspan": "2",
@@ -3249,7 +3424,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2170"
@@ -3285,11 +3460,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted with the cabin unpressurised, and (b) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 },
                 {
                   "style": "Italic",
@@ -3302,7 +3493,12 @@
           ],
           [
             {
-              "content": [],
+              "content": [
+                {
+                  "style": null,
+                  "text": " "
+                }
+              ],
               "colspan": "2",
               "width": "3262"
             },
@@ -3454,7 +3650,12 @@
           ],
           [
             {
-              "content": [],
+              "content": [
+                {
+                  "style": null,
+                  "text": " "
+                }
+              ],
               "colspan": "2",
               "width": "3262"
             },
@@ -3490,7 +3691,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Cabin rate of climb indicator (continued)"
+                  "text": "Cabin rate of climb indicator(continued)"
                 }
               ],
               "width": "2198"
@@ -3567,7 +3768,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted with the cabin unpressurised, and (b) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 },
                 {
                   "style": "Italic",
@@ -3629,7 +3846,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2198"
@@ -3665,11 +3882,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted with the cabin unpressurised, and (b) the regulations that requir e the use of oxygen are complied with."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted with the cabin unpressurised, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the regulations that require the use of oxygen are complied with."
                 },
                 {
                   "style": "Italic",
@@ -4034,7 +4267,7 @@
         "type": "paragraph",
         "index": 164,
         "level": 0,
-        "text": "For flights with the cabin unpressurised , the (O) procedure should indicate that when on - board oxygen is not sufficient or oxygen is not used, the flight shall be performed at or below 10 000 ft above Mean Sea Level ( A MSL).",
+        "text": "For flights with the cabin unpressurised, the (O) procedure should indicate that when on-board oxygen is not sufficient or oxygen is not used, the flight shall be performed at or below 10 000 ft above Mean Sea Level (AMSL).",
         "pStyle": "bullet0"
       },
       {
@@ -4258,7 +4491,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M)(O) May be inoperative provided that :"
+                  "text": "(M)(O) May be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -4290,7 +4523,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the autopilot /SAS is deactivated as applicable, (b) the AFM limitations are observed, and (c) operations do not depend upon its use."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the autopilot/SAS is deactivated as applicable,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the AFM limitations are observed, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations do not depend upon its use."
                 }
               ],
               "colspan": "2",
@@ -4322,7 +4579,7 @@
               "content": [
                 {
                   "style": "Italic",
-                  "text": "(M) Procedures must be established to ensure that the autopilot /SAS will not engage during the flight."
+                  "text": "(M) Procedures must be established to ensure that the autopilot/SAS will not engage during the flight."
                 }
               ],
               "colspan": "2",
@@ -4354,7 +4611,7 @@
               "content": [
                 {
                   "style": "Italic",
-                  "text": "(O) Procedures must establish any applicable restrictions ( e.g. approach and landing minima, en -route operations, etc.)."
+                  "text": "(O) Procedures must establish any applicable restrictions (e.g. approach and landing minima, en-route operations, etc.)."
                 }
               ],
               "colspan": "2",
@@ -4411,7 +4668,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M)(O) May be inoperative provided that :"
+                  "text": "(M)(O) May be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -4443,7 +4700,39 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the autopilot /SAS is deactivated as applicable, (b) the flight is conducted under VFR for single pilot operations, (c) AFM limitations are observed, and (d) operations do not depend upon its use."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the autopilot/SAS is deactivated as applicable,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted under VFR for single pilot operations,(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "AFM limitations are observed, and(d)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations do not depend upon its use."
                 }
               ],
               "colspan": "2",
@@ -4475,7 +4764,7 @@
               "content": [
                 {
                   "style": "Italic",
-                  "text": "(M) Procedures must be established to ensure that the autopilot /SAS will not engage during the flight."
+                  "text": "(M) Procedures must be established to ensure that the autopilot/SAS will not engage during the flight."
                 }
               ],
               "colspan": "2",
@@ -4507,7 +4796,7 @@
               "content": [
                 {
                   "style": "Italic",
-                  "text": "(O) Procedures must establish any applicable restrictions ( e.g. approach and landing minima, en -route operations, etc.)."
+                  "text": "(O) Procedures must establish any applicable restrictions (e.g. approach and landing minima, en-route operations, etc.)."
                 }
               ],
               "colspan": "2",
@@ -4519,7 +4808,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -4676,7 +4965,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -4818,7 +5107,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the operative one is on the pilot flying side, and (b) the approach and landing minima do not require the use of the autopilot/SAS."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operative one is on the pilot flying side, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the approach and landing minima do not require the use of the autopilot/SAS."
                 }
               ],
               "colspan": "2",
@@ -4850,7 +5155,7 @@
               "content": [
                 {
                   "style": "Italic",
-                  "text": "(O) Procedures must establish any applicable restrictions ( e.g. approach and landing minima, en -route operations, etc.)."
+                  "text": "(O) Procedures must establish any applicable restrictions (e.g. approach and landing minima, en-route operations, etc.)."
                 }
               ],
               "colspan": "2",
@@ -4907,7 +5212,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that the autopilot /SAS is not used (refer to item 22-10-1)."
+                  "text": "May be inoperative provided that the autopilot/SAS is not used (refer to item 22-10-1)."
                 }
               ],
               "colspan": "2",
@@ -4965,7 +5270,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "1986"
@@ -5026,7 +5331,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "1986"
@@ -5062,7 +5367,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that the autopilot /SAS is not used (refer to item 22-10-1)."
+                  "text": "May be inoperative provided that the autopilot/SAS is not used (refer to item22-10-1)."
                 }
               ],
               "colspan": "2",
@@ -5109,14 +5414,14 @@
         "type": "paragraph",
         "index": 242,
         "level": 0,
-        "text": "22-10-1 Autopilot /SAS : Any increase in crew workload has to be considered for the intended operations. Any additional limitations, such as the flight duration, may result from this consideration.",
+        "text": "22-10-1 Autopilot/SAS: Any increase in crew workload has to be considered for the intended operations. Any additional limitations, such as the flight duration, may result from this consideration.",
         "pStyle": "bullet0"
       },
       {
         "type": "paragraph",
         "index": 243,
         "level": 0,
-        "text": "22-10-1B Autopilot /SAS : Depending upon the use of the autopilot /SAS in routine procedures, single pilot CAT operations may be restricted to day VMC only.",
+        "text": "22-10-1B Autopilot/SAS: Depending upon the use of the autopilot/SAS in routine procedures, single pilot CAT operations may be restricted to day VMC only.",
         "pStyle": "bullet0"
       },
       {
@@ -5618,7 +5923,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -5650,7 +5955,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted under VFR, and (b) alternate procedures are established and used for ensuring the required communication."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted under VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "alternate procedures are established and used for ensuring the required communication."
                 }
               ],
               "colspan": "2",
@@ -6052,7 +6373,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) one headset is operative and used by each flight crew member, and (b) a spare operative headset is readily available in the flight crew compartment."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "one headset is operative and used by each flight crew member, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a spare operative headset is readily available in the flight crew compartment."
                 }
               ],
               "colspan": "2",
@@ -6207,7 +6544,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) each flight crew member has and uses an operative headset, and (b) a spare operative headset is readily available in the flight crew compartment."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "each flight crew member has and uses an operative headset, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a spare operative headset is readily available in the flight crew compartment."
                 }
               ],
               "colspan": "2",
@@ -6358,7 +6711,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -6390,7 +6743,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted under day VFR, and (b) the associated handheld micro-phone is operative."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted under day VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the associated handheld micro-phone is operative."
                 }
               ],
               "colspan": "2",
@@ -7162,7 +7531,7 @@
         "type": "paragraph",
         "index": 402,
         "level": 0,
-        "text": "23-10-3 Flight crew compartment speakers: It should be ensured that the affected flight crew compartment speaker is not used for crew intercommunication when smoke masks are used unless single pilot operations are conducted. Indeed, with smoke masks on, a typical installation has the pilot talking through the co-pilot’s speaker and the co-pilot through the pilot’s speaker. If there are emergency procedures ( e.g. smoke) which require the crew to establish communication, then relief for both cannot be granted, but depending on the flight test results relief for one may be possible.",
+        "text": "23-10-3 Flight crew compartment speakers: It should be ensured that the affected flight crew compartment speaker is not used for crew intercommunication when smoke masks are used unless single pilot operations are conducted. Indeed, with smoke masks on, a typical installation has the pilot talking through the co-pilot’s speaker and the co-pilot through the pilot’s speaker. If there are emergency procedures (e.g. smoke) which require the crew to establish communication, then relief for both cannot be granted, but depending on the flight test results relief for one may be possible.",
         "pStyle": "bullet0"
       },
       {
@@ -7381,7 +7750,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "2 4 -40-1A"
+                  "text": "24-40-1A"
                 }
               ],
               "width": "1162"
@@ -7850,11 +8219,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that :"
+                  "text": "(M) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the affected seat is secured and locked, (b) the position is acceptable to the flight crew member, and (c) the seat position when the seat is used allows a full travel of the flight controls."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the affected seat is secured and locked,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the position is acceptable to the flight crew member, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the seat position when the seat is used allows a full travel of the flight controls."
                 },
                 {
                   "style": "Italic",
@@ -8041,7 +8434,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the affected seat is secured or locked, and (b) the position is acceptable to the flight crew member."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the affected seat is secured or locked, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the position is acceptable to the flight crew member."
                 }
               ],
               "colspan": "2",
@@ -8191,7 +8600,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that :"
+                  "text": "(M) May be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -8223,7 +8632,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the affected seat is secured or locked, and (b) the position is acceptable to the flight crew member."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the affected seat is secured or locked, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the position is acceptable to the flight crew member."
                 }
               ],
               "colspan": "2",
@@ -8438,7 +8863,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -8549,7 +8974,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Any in excess of those required by regulations may be inoperative provided that :"
+                  "text": "Any in excess of those required by regulations may be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -8581,7 +9006,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted in single pilot operations, and (b) the affected seat is not occupied."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted in single pilot operations, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the affected seat is not occupied."
                 }
               ],
               "colspan": "2",
@@ -8675,11 +9116,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that :"
+                  "text": "(M) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) it does n o t hinder emergency egress, and (b) it does n o t block access to the flight controls or restrict any other flight deck duties."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "it does not hinder emergency egress, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "it does not block access to the flight controls or restrict any other flight deck duties."
                 },
                 {
                   "style": "Italic",
@@ -8777,7 +9234,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that :"
+                  "text": "(M) May be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -8809,7 +9266,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the inoperative seat does not block an emergency exit, (b) the inoperative seat does not restrict any passenger from access to the main aeroplane aisle, and (c) the affected seat(s) are blocked and placarded ‘DO NOT OCCUPY’."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the inoperative seat does not block an emergency exit,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the inoperative seat does not restrict any passenger from access to the main aeroplane aisle, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the affected seat(s) are blocked and placarded ‘DO NOT OCCUPY’."
                 }
               ],
               "colspan": "2",
@@ -8881,7 +9362,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "provide guidance for identifying the affected seat(s), and provide a practical means of prohibiting the use of the affected seat(s)."
+                  "text": "provide guidance for identifying the affected seat(s), andprovide a practical means of prohibiting the use of the affected seat(s)."
                 }
               ],
               "colspan": "2",
@@ -8893,7 +9374,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -9057,7 +9538,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -9351,7 +9832,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative or missing provided that :"
+                  "text": "May be inoperative or missing provided that:"
                 }
               ],
               "colspan": "2",
@@ -9383,7 +9864,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) baggage is not stowed under the associated seat, and (b) the associated seat is placarded ‘DO NOT STOW BAGGAGE UNDER THIS SEAT’."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "baggage is not stowed under the associated seat, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the associated seat is placarded ‘DO NOT STOW BAGGAGE UNDER THIS SEAT’."
                 }
               ],
               "colspan": "2",
@@ -9477,7 +9974,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative, damaged or missing, provided that:"
+                  "text": "(M) May be inoperative, damaged or missing, provided that: "
                 }
               ],
               "colspan": "2",
@@ -9509,7 +10006,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the armrest does not block an emergency exit, (b) the armrest is not in such a position that it restricts any passengers from accessing the aeroplane’s aisle, and (c) if the armrest is missing, the associated seat is secured in the full upright position."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the armrest does not block an emergency exit,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the armrest is not in such a position that it restricts any passengers from accessing the aeroplane’s aisle, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "if the armrest is missing, the associated seat is secured in the full upright position."
                 }
               ],
               "colspan": "2",
@@ -9585,7 +10106,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -9749,7 +10270,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -9892,7 +10413,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the armrest does not block an emergency exit, and (b) the armrest is not in such a position that it restricts any passengers from accessing the aeroplane’s aisle."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the armrest does not block an emergency exit, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the armrest is not in such a position that it restricts any passengers from accessing the aeroplane’s aisle."
                 }
               ],
               "colspan": "2",
@@ -10018,7 +10555,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that :"
+                  "text": "(M) May be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -10050,7 +10587,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the associated seat is secured in the take off and landing position, and (b) the associated seat does not restrict emergency egress."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the associated seat is secured in the takeoff and landing position, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the associated seat does not restrict emergency egress."
                 }
               ],
               "colspan": "2",
@@ -10151,7 +10704,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -10315,7 +10868,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -10483,11 +11036,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative or missing provided that: ("
+                  "text": "(M) May be inoperative or missing provided that:("
                 },
                 {
                   "style": "TableChar",
-                  "text": "a) each required flight crew member has an operative independent portable light readily available. (b) the inoperative unit is removed from its installed location, secured out of sight and placarded as inoperative."
+                  "text": "a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "each required flight crew member has an operative independent portable light readily available.(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the inoperative unit is removed from its installed location, secured out of sight and placarded as inoperative."
                 },
                 {
                   "style": "Italic",
@@ -10495,7 +11064,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "provide instructions to placard the inoperative unit and its installed location, and secure the inoperative unit in an out of sight location if possible."
+                  "text": "provide instructions to placard the inoperative unit and its installed location, and secure the inoperative unit in an outofsight location if possible."
                 }
               ],
               "colspan": "2",
@@ -10625,7 +11194,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "provide instructions to placard the inoperative unit and its installed location, and secure the inoperative unit in an out-of-sight location if possible."
+                  "text": "provide instructions to placard the inoperative unit and its installed location, andsecure the inoperative unit in an out-of-sight location if possible."
                 }
               ],
               "colspan": "2",
@@ -10637,7 +11206,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -10797,7 +11366,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "25-60- 6"
+                  "text": "25-60-6"
                 }
               ],
               "width": "1148"
@@ -10833,7 +11402,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "25-60- 6 A"
+                  "text": "25-60-6A"
                 }
               ],
               "width": "1148"
@@ -10913,7 +11482,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "provide instructions to placard the inoperative unit and its installed location, and secure the inoperative unit in an out of sight location."
+                  "text": "provide instructions to placard the inoperative unit and its installed location, andsecure the inoperative unit in an outofsight location."
                 }
               ],
               "width": "4157"
@@ -10936,7 +11505,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "ATA CHAPTER: 25 Equipment /F urnishings"
+                  "text": "ATA CHAPTER: 25 Equipment/Furnishings"
                 }
               ],
               "colspan": "6",
@@ -11255,7 +11824,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative for flights over water at a distance from land not beyond 10  minutes flying time, at normal cruise speed."
+                  "text": "May be inoperative for flights over water at a distance from land not beyond 10 minutes flying time, at normal cruise speed."
                 }
               ],
               "colspan": "2",
@@ -11316,7 +11885,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) take-offs and landings are not performed over water, and (b) en route operations are not conducted over water at a distance from land that is beyond 10  minutes flying time, at normal cruise speed."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "take-offs and landings are not performed over water, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "en route operations are not conducted over water at a distance from land that is beyond 10 minutes flying time, at normal cruise speed."
                 }
               ],
               "colspan": "2",
@@ -11377,7 +11962,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) take-offs and landings are not performed over water, and (b) flights are not conducted over water beyond the safe forced-landing distance."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "take-offs and landings are not performed over water, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "flights are not conducted over water beyond the safe forced-landing distance."
                 }
               ],
               "colspan": "2",
@@ -11524,7 +12125,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -11926,7 +12527,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -12095,7 +12696,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2128"
@@ -12131,7 +12732,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative for a maximum of 6 flights or 25 flight hours, whichever occurs first."
+                  "text": "May be inoperative for a maximum of 6 flights or 25 flight hours, whichever occurs first. "
                 }
               ],
               "colspan": "2",
@@ -12188,11 +12789,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that: ("
+                  "text": "May be inoperative provided that:("
                 },
                 {
                   "style": "TableChar",
-                  "text": "a) the helicopter is not operated for more than 6  hours after the ELT was found to be inoperative, and (b) a maximum of 24  hours have elapsed since the ELT was found to be inoperative."
+                  "text": "a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the helicopter is not operated for more than 6 hours after the ELT was found to be inoperative, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a maximum of 24 hours have elapsed since the ELT was found to be inoperative."
                 }
               ],
               "colspan": "2",
@@ -12249,7 +12866,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative for overland operations, or overwater operations at a distance from land that is not beyond 10  minutes flying time at normal cruise speed."
+                  "text": "May be inoperative for overland operations, or overwater operations at a distance from land that is not beyond 10 minutes flying time at normal cruise speed."
                 }
               ],
               "colspan": "2",
@@ -12436,7 +13053,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "provide instructions to placard the inoperative unit and its installed location, secure the inoperative unit in an out of sight location."
+                  "text": "provide instructions to placard the inoperative unit and its installed location,secure the inoperative unit in an outofsight location."
                 }
               ],
               "colspan": "2",
@@ -12448,7 +13065,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -12522,7 +13139,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative for a maximum of 6  flights or 25  flight hours, whichever occurs first."
+                  "text": "May be inoperative for a maximum of 6 flights or 25 flight hours, whichever occurs first. "
                 }
               ],
               "colspan": "2",
@@ -12673,7 +13290,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative for a maximum of 6  flights or 25  flight hours, whichever occurs first."
+                  "text": "May be inoperative for a maximum of 6 flights or 25 flight hours, whichever occurs first."
                 }
               ],
               "colspan": "2",
@@ -12685,7 +13302,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -12849,7 +13466,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -12960,7 +13577,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) Any in excess of those required by regulations for the intended flight may be inoperative or missing provided that :"
+                  "text": "(M) Any in excess of those required by regulations for the intended flight may be inoperative or missing provided that:"
                 }
               ],
               "colspan": "2",
@@ -12992,11 +13609,19 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(a)"
+                  "text": "(a) "
                 },
                 {
                   "style": "TableChar",
-                  "text": "the required distribution of operative units is maintained throughout the aircraft , and (b) the inoperative unit is removed from the aircraft and its installed location is placarded as inoperative; or is removed from the installed location, secured out of sight, and the inoperative unit and its installed location are placarded as inoperative"
+                  "text": "the required distribution of operative units is maintained throughout the aircraft, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the inoperative unit is removed from the aircraft and its installed location is placarded as inoperative; or is removed from the installed location, secured out of sight, and the inoperative unit and its installed location are placarded as inoperative"
                 },
                 {
                   "style": null,
@@ -13036,7 +13661,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "provide instructions to placard the inoperative unit and its installed location, secure the inoperative unit in an out-of-sight location."
+                  "text": "provide instructions to placard the inoperative unit and its installed location,secure the inoperative unit in an out-of-sight location."
                 }
               ],
               "colspan": "2",
@@ -13056,7 +13681,7 @@
         "type": "paragraph",
         "index": 859,
         "level": 0,
-        "text": "25-11-1-4 Flight crew compartment seats — Safety harnesses: Padding may be part of the ETSO/TSO and if it is , padding is therefore, required.",
+        "text": "25-11-1-4 Flight crew compartment seats — Safety harnesses: Padding may be part of the ETSO/TSO and if it is, padding is therefore, required.",
         "pStyle": "bullet0"
       },
       {
@@ -13186,14 +13811,14 @@
         "type": "paragraph",
         "index": 877,
         "level": -1,
-        "text": "Automatic fixed (ELT(AF)): an automatically activated ELT which is permanently attached to an aircraft ;",
+        "text": "Automatic fixed (ELT(AF)): an automatically activated ELT which is permanently attached to an aircraft;",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 878,
         "level": -1,
-        "text": "Automatic portable (ELT(AP)): an automatically activated ELT which is rigidly attached to an aeroplane but readily removable from the aircraft ;",
+        "text": "Automatic portable (ELT(AP)): an automatically activated ELT which is rigidly attached to an aeroplane but readily removable from the aircraft;",
         "pStyle": "Normal1"
       },
       {
@@ -13207,14 +13832,14 @@
         "type": "paragraph",
         "index": 880,
         "level": -1,
-        "text": "Survival ELT (ELT(S)): an ELT which is removable from an aircraft , stowed so as to facilitate its ready use in an emergency, and manually activated by survivors.",
+        "text": "Survival ELT (ELT(S)): an ELT which is removable from an aircraft, stowed so as to facilitate its ready use in an emergency, and manually activated by survivors.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 881,
         "level": -1,
-        "text": "An ELT(S) may be activated manually or automatically ( e.g. by water activation). It should be designed to be attached to a life raft or a survivor.",
+        "text": "An ELT(S) may be activated manually or automatically (e.g. by water activation). It should be designed to be attached to a life raft or a survivor.",
         "pStyle": "Normal1"
       },
       {
@@ -13720,11 +14345,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the tab is visually checked for its full range of operation, (b) the operation of the tab is not restricted, and (c) the tab is positioned to NEUTRAL (or the recommended AFM setting ) and the appropriate setting is verified by visual inspection prior to each departure."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the tab is visually checked for its full range of operation,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operation of the tab is not restricted, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the tab is positioned to NEUTRAL (or the recommended AFM setting) and the appropriate setting is verified by visual inspection prior to each departure."
                 }
               ],
               "colspan": "2",
@@ -13818,11 +14467,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the tab is visually checked for its full range of operation, (b) the operation of the tab is not restricted, and (c) the tab is positioned to NEUTRAL (or recommended AFM setting) and appropriate setting is verified by visual inspection prior to each departure."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the tab is visually checked for its full range of operation,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operation of the tab is not restricted, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the tab is positioned to NEUTRAL (or recommended AFM setting) and appropriate setting is verified by visual inspection prior to each departure."
                 }
               ],
               "colspan": "2",
@@ -13916,11 +14589,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the tab is visually checked for its full range of operation, (b) the operation of the tab is not restricted, and (c) the tab is positioned to NEUTRAL (or the recommended AFM setting ) and the appropriate setting is verified by visual inspection prior to each departure."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the tab is visually checked for its full range of operation,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operation of the tab is not restricted, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the tab is positioned to NEUTRAL (or the recommended AFM setting) and the appropriate setting is verified by visual inspection prior to each departure."
                 }
               ],
               "colspan": "2",
@@ -13932,7 +14629,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -14096,7 +14793,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -14207,11 +14904,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that :"
+                  "text": "(M) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the manual trim is checked to be operative, and (b) the electric trim is deactivated."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the manual trim is checked to be operative, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the electric trim is deactivated."
                 }
               ],
               "colspan": "2",
@@ -14274,7 +14987,7 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "deactivate the electric trim system, and ensure that the manual trim is not affected."
+                  "text": "deactivate the electric trim system, andensure that the manual trim is not affected."
                 }
               ],
               "colspan": "2",
@@ -14368,11 +15081,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) prior to each flight, the flaps are visually checked for their full travel, (b) the operation of the flaps is not restricted, and (c) the flaps are visually checked for their proper setting prior to each departure."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "prior to each flight, the flaps are visually checked for their full travel,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operation of the flaps is not restricted, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flaps are visually checked for their proper setting prior to each departure."
                 }
               ],
               "colspan": "2",
@@ -14466,11 +15203,11 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that the gust lock is secured in the unlocked position ."
+                  "text": "(M) May be inoperative provided that the gust lock is secured in the unlocked position."
                 },
                 {
                   "style": "Italic",
-                  "text": "(M) Procedures must be established to secure the gust lock in the unlocked position ."
+                  "text": "(M) Procedures must be established to secure the gust lock in the unlocked position."
                 }
               ],
               "colspan": "2",
@@ -14514,21 +15251,21 @@
         "type": "paragraph",
         "index": 986,
         "level": 0,
-        "text": "27-31-1 Electric elevator trim system: The a utopilot, if installed, may have to be disconnected.",
+        "text": "27-31-1 Electric elevator trim system: The autopilot, if installed, may have to be disconnected.",
         "pStyle": "bullet0"
       },
       {
         "type": "paragraph",
         "index": 987,
         "level": 0,
-        "text": "27-50-1 Flaps position indication: The c rew should be able to visually check the position of the flaps without having to leave the flight deck.",
+        "text": "27-50-1 Flaps position indication: The crew should be able to visually check the position of the flaps without having to leave the flight deck.",
         "pStyle": "bullet0"
       },
       {
         "type": "paragraph",
         "index": 988,
         "level": 0,
-        "text": "27-70-1 Gust lock: AFM limitations, if any, must be respected with the gust lock inoperative . Any other systems that are impacted by the gust lock that is failed in the locked position need to be considered.",
+        "text": "27-70-1 Gust lock: AFM limitations, if any, must be respected with the gust lock inoperative. Any other systems that are impacted by the gust lock that is failed in the locked position need to be considered.",
         "pStyle": "bullet0"
       },
       {
@@ -15157,7 +15894,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Airframe aerodynamic surface ice protection"
+                  "text": "Airframe aerodynamic surface ice protection "
                 }
               ],
               "width": "2044"
@@ -15408,11 +16145,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) Any in excess of one may be inoperative provided that :"
+                  "text": "(O) Any in excess of one may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VMC, (b) operations are not conducted in visible moisture or into known or forecasted icing conditions, and (c) the operative pitot heater is verified as being operative prior to each flight."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VMC,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in visible moisture or into known or forecasted icing conditions, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operative pitot heater is verified as being operative prior to each flight."
                 },
                 {
                   "style": "Italic",
@@ -15473,7 +16234,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "One or more may be inoperative provided that :"
+                  "text": "One or more may be inoperative provided that:"
                 }
               ],
               "colspan": "2",
@@ -15505,7 +16266,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR, and (b) operations are not conducted in visible moisture or into known or forecasted icing conditions."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in visible moisture or into known or forecasted icing conditions."
                 }
               ],
               "colspan": "2",
@@ -15517,7 +16294,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -15674,7 +16451,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -15748,11 +16525,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under VFR, and (b) operations are not conducted in visible moisture or into known or forecasted icing conditions."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in visible moisture or into known or forecasted icing conditions."
                 }
               ],
               "colspan": "2",
@@ -15846,11 +16639,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR, and (b) operations are not conducted in known or forecasted icing conditions."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in known or forecasted icing conditions."
                 }
               ],
               "colspan": "2",
@@ -15907,11 +16716,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) Any in excess of one may be inoperative provided that :"
+                  "text": "(O) Any in excess of one may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VMC, (b) operations are not conducted in visible moisture or into known or forecasted icing conditions, and (c) the operative static port heater is verified as being operative prior to each flight."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VMC,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in visible moisture or into known or forecasted icing conditions, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operative static port heater is verified as being operative prior to each flight."
                 },
                 {
                   "style": "Italic",
@@ -15972,11 +16805,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "One or more may be inoperative provided that :"
+                  "text": "One or more may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR, and (b) operations are not conducted in known or forecasted icing conditions."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in known or forecasted icing conditions."
                 }
               ],
               "colspan": "2",
@@ -16070,11 +16919,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "One or more may be inoperative provided that :"
+                  "text": "One or more may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VMC, and (b) operations are not conducted in known or forecasted icing conditions."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VMC, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in known or forecasted icing conditions."
                 }
               ],
               "colspan": "2",
@@ -16086,7 +16951,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -16243,7 +17108,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -16375,7 +17240,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Propeller de-ice/ anti-ice system"
+                  "text": "Propeller de-ice/anti-ice system"
                 }
               ],
               "width": "2114"
@@ -16747,7 +17612,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that an accurate timepiece is operative i n the flight crew compartment , and that it indicat es the time in hours, minutes and seconds."
+                  "text": "May be inoperative provided that an accurate timepiece is operative in the flight crew compartment, and that it indicates the time in hours, minutes and seconds."
                 }
               ],
               "colspan": "2",
@@ -17398,7 +18263,7 @@
                 },
                 {
                   "style": null,
-                  "text": "(Excluding internally lighted buttons/switches, emergency lights and annunciations)"
+                  "text": " (Excluding internally lighted buttons/switches, emergency lights and annunciations)"
                 }
               ],
               "width": "2114"
@@ -17555,11 +18420,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Individual lights may be inoperative provided that :"
+                  "text": "Individual lights may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) sufficient lighting is operative to make each required instrument control and other device for which it is provided easily readable, and (b) the lighting configuration at dispatch is acceptable to the flight crew."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "sufficient lighting is operative to make each required instrument control and other device for which it is provided easily readable, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the lighting configuration at dispatch is acceptable to the flight crew."
                 }
               ],
               "colspan": "2",
@@ -17653,7 +18534,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that passengers are not carried when the aircraft operat es at night."
+                  "text": "May be inoperative provided that passengers are not carried when the aircraft operates at night."
                 }
               ],
               "colspan": "2",
@@ -18024,7 +18905,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -18181,7 +19062,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -18256,7 +19137,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(CAT aeroplanes and ALL helicopters )"
+                  "text": "(CAT aeroplanes and ALL helicopters)"
                 }
               ],
               "width": "2114"
@@ -18313,7 +19194,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(NCO/SPO aeroplanes )"
+                  "text": "(NCO/SPO aeroplanes)"
                 }
               ],
               "width": "2114"
@@ -19320,11 +20201,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) a primary independent airspeed indication is available at each required pilot’s station , and (b) a standby airspeed indication is available."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a primary independent airspeed indication is available at each required pilot’s station, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a standby airspeed indication is available."
                 }
               ],
               "colspan": "2",
@@ -19484,11 +20381,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted under VFR, (b) an independent altitude indication is available at each required pilot’s station, and (c) an additional independent altitude indication is operative for single pilot operations."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted under VFR,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "an independent altitude indication is available at each required pilot’s station, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "an additional independent altitude indication is operative for single pilot operations."
                 }
               ],
               "colspan": "2",
@@ -19524,7 +20445,7 @@
                 },
                 {
                   "style": null,
-                  "text": ": For single pilot operations , a secondary/standby or off-side indication may satisfy condition (b) or (c) if the visibility requirements are met."
+                  "text": ": For single pilot operations, a secondary/standby or off-side indication may satisfy condition (b) or (c) if the visibility requirements are met."
                 }
               ],
               "colspan": "2",
@@ -19581,11 +20502,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted under VFR in sight of the surface, and (b) a primary altitude indication is available at each required pilot’s station."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted under VFR in sight of the surface, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a primary altitude indication is available at each required pilot’s station."
                 }
               ],
               "colspan": "2",
@@ -19642,11 +20579,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the flight is conducted under VFR, and (b) an altitude indication is available at each required pilot’s station."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted under VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "an altitude indication is available at each required pilot’s station."
                 },
                 {
                   "style": "Underline",
@@ -19654,7 +20607,7 @@
                 },
                 {
                   "style": null,
-                  "text": ": For single pilot operations , a secondary/standby or off-side indication may satisfy condition (b) if the visibility requirements are met."
+                  "text": ": For single pilot operations, a secondary/standby or off-side indication may satisfy condition (b) if the visibility requirements are met."
                 }
               ],
               "colspan": "2",
@@ -19666,7 +20619,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -20120,11 +21073,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Any in excess of one may be inoperative provided that :"
+                  "text": "Any in excess of one may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the operative turn indication is on the pilot flying side, and (b) the primary attitude indications are operative at each required pilot’s station."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the operative turn indication is on the pilot flying side, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the primary attitude indications are operative at each required pilot’s station."
                 }
               ],
               "colspan": "2",
@@ -20181,11 +21150,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Any in excess of one may be inoperative provided that :"
+                  "text": "Any in excess of one may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VMC, and (b) the primary attitude indications are operative at each required pilot’s station."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VMC, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the primary attitude indications are operative at each required pilot’s station."
                 }
               ],
               "colspan": "2",
@@ -20892,7 +21877,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(NCO/SPO aeroplanes )"
+                  "text": "(NCO/SPO aeroplanes)"
                 }
               ],
               "width": "2016"
@@ -21449,7 +22434,31 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under VFR, (b) operations are not conducted in known or forecasted icing conditions, and (c) weather reports indicate that at any point of the route that is intended to be flown, the OAT is within the aircraft’s operating temperature limitations."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under VFR,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in known or forecasted icing conditions, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "weather reports indicate that at any point of the route that is intended to be flown, the OAT is within the aircraft’s operating temperature limitations."
                 }
               ],
               "colspan": "2",
@@ -21879,7 +22888,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Radio Altimeter with an Audio Voice Warning ( or equivalent)"
+                  "text": "Radio Altimeter with an Audio Voice Warning(or equivalent)"
                 }
               ],
               "width": "1844"
@@ -22011,7 +23020,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) the helicopter is not operated for more than 6  hours over water since after the time when the radio altimeter was found to be inoperative,"
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the helicopter is not operated for more than 6 hours over water since after the time when the radio altimeter was found to be inoperative,"
                 }
               ],
               "colspan": "2",
@@ -22043,7 +23060,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(b) a maximum of 24  hours have elapsed since the radio altimeter was found to be inoperative,"
+                  "text": "(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a maximum of 24 hours have elapsed since the radio altimeter was found to be inoperative,"
                 }
               ],
               "colspan": "2",
@@ -22075,7 +23100,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(c) the helicopter is not operated over water at an altitude of less than 500 feet except during take-offs and landings, and"
+                  "text": "(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the helicopter is not operated over water at an altitude of less than 500 feet except during take-offs and landings, and"
                 }
               ],
               "colspan": "2",
@@ -22107,7 +23140,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(d) the helicopter does not descend below an altitude of 500  feet on approach to a landing over water unless the landing site is clearly visible to the pilot."
+                  "text": "(d)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the helicopter does not descend below an altitude of 500 feet on approach to a landing over water unless the landing site is clearly visible to the pilot."
                 }
               ],
               "colspan": "2",
@@ -22167,7 +23208,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "ATA CHAPTER: 34 Navigation"
+                  "text": "ATA CHAPTER: 34 Navigation "
                 }
               ],
               "colspan": "6",
@@ -22177,7 +23218,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "PAGE: 34-x"
+                  "text": "PAGE: 34-x "
                 }
               ],
               "width": "1147"
@@ -22400,7 +23441,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) stabilised direction indication is operative on the pilot flying side, and (b) a magnetic/standby compass is operative."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "stabilised direction indication is operative on the pilot flying side, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a magnetic/standby compass is operative."
                 }
               ],
               "colspan": "2",
@@ -22457,11 +23514,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) Any in excess of one may be inoperative for single pilot operations provided that :"
+                  "text": "(O) Any in excess of one may be inoperative for single pilot operations provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR, (b) the stabilised direction indication is displayed at each required pilot’s station, and (c) a magnetic/standby compass is operative."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the stabilised direction indication is displayed at each required pilot’s station, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a magnetic/standby compass is operative."
                 },
                 {
                   "style": "Italic",
@@ -22694,7 +23775,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued )"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -22768,11 +23849,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) Any in excess of one may be inoperative provided that :"
+                  "text": "(O) Any in excess of one may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under VFR, (b) the primary attitude indication is displayed at both pilots’ station s , and (c) a standby attitude indication is operative ."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under VFR,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the primary attitude indication is displayed at both pilots’ stations, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a standby attitude indication is operative."
                 }
               ],
               "colspan": "2",
@@ -22918,11 +24023,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under VFR, and (b) a standby attitude indication is operative."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a standby attitude indication is operative."
                 }
               ],
               "colspan": "2",
@@ -22979,11 +24100,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative for single pilot operations provided that :"
+                  "text": "May be inoperative for single pilot operations provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR in sight of the surface with an adequate external attitude reference, and (b) a standby attitude indication is operative."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR in sight of the surface with an adequate external attitude reference, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a standby attitude indication is operative."
                 }
               ],
               "colspan": "2",
@@ -23097,11 +24234,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that:"
+                  "text": "May be inoperative provided that: "
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR, and (b) operations are not conducted over water and out of sight of land, and (c) visibility is more than 1  500  m."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted over water and out of sight of land, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "visibility is more than 1 500 m."
                 }
               ],
               "colspan": "2",
@@ -23113,7 +24274,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -23294,7 +24455,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -23520,7 +24681,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes and helicopters )"
+                  "text": "(ALL aeroplanes and helicopters)"
                 }
               ],
               "width": "2044"
@@ -23556,7 +24717,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative for single pilot operations provided that :"
+                  "text": "May be inoperative for single pilot operations provided that:"
                 }
               ],
               "colspan": "2",
@@ -23588,7 +24749,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "(a) a stabilised direction indication is operative on the pilot flying side, and (b) another source of magnetic heading is available and visible by the pilot flying."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a stabilised direction indication is operative on the pilot flying side, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "another source of magnetic heading is available and visible by the pilot flying."
                 }
               ],
               "colspan": "2",
@@ -23609,7 +24786,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2044"
@@ -23645,11 +24822,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR, and (b) two independent stabilised direction indications are operative."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "two independent stabilised direction indications are operative."
                 }
               ],
               "colspan": "2",
@@ -23706,11 +24899,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) two independent stabilised direction indications are operative, and (b) another source of magnetic heading is available and visible by the pilot flying."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "two independent stabilised direction indications are operative, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "another source of magnetic heading is available and visible by the pilot flying."
                 }
               ],
               "colspan": "2",
@@ -23771,7 +24980,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) operations are conducted under day VFR, and (b) the flight is conducted over routes that are navigated by reference to visual landmarks."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are conducted under day VFR, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted over routes that are navigated by reference to visual landmarks."
                 }
               ],
               "colspan": "2",
@@ -23832,7 +25057,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) two independent stabilised direction indications are operative, and (b) the flight is conducted over routes that are navigated by reference to visual landmarks."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "two independent stabilised direction indications are operative, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the flight is conducted over routes that are navigated by reference to visual landmarks."
                 }
               ],
               "colspan": "2",
@@ -23844,7 +25085,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -24001,7 +25242,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -24076,7 +25317,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2128"
@@ -24133,7 +25374,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes and helicopters )"
+                  "text": "(ALL aeroplanes and helicopters)"
                 }
               ],
               "width": "2128"
@@ -24190,7 +25431,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Approach aids ( e.g. ILS, Satellite-Based Augmentation System (SBAS))"
+                  "text": "Approach aids(e.g. ILS, Satellite-Based Augmentation System (SBAS))"
                 }
               ],
               "width": "2128"
@@ -24227,7 +25468,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes )"
+                  "text": "(ALL aeroplanes)"
                 }
               ],
               "width": "2128"
@@ -24284,7 +25525,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(ALL aeroplanes and helicopters )"
+                  "text": "(ALL aeroplanes and helicopters)"
                 }
               ],
               "width": "2128"
@@ -24414,11 +25655,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O)(M) May be inoperative provided that :"
+                  "text": "(O)(M) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the ACAS is deactivated, and (b) operating procedures do not require its use."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the ACAS is deactivated, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operating procedures do not require its use."
                 }
               ],
               "colspan": "2",
@@ -24450,7 +25707,7 @@
               "content": [
                 {
                   "style": "Italic",
-                  "text": "(O) Procedures must be established to provide alternate crew procedures, as applicable. (M) Procedures must be established to deactivate the ACAS."
+                  "text": "(O) Procedures must be established to provide alternate crew procedures, as applicable.(M) Procedures must be established to deactivate the ACAS."
                 }
               ],
               "colspan": "2",
@@ -24507,11 +25764,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O)(M) May be inoperative provided that :"
+                  "text": "(O)(M) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the ACAS is deactivated, and (b) operations are not conducted in an airspace where the ACAS is required."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the ACAS is deactivated, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "operations are not conducted in an airspace where the ACAS is required."
                 },
                 {
                   "style": "Italic",
@@ -24527,7 +25800,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -24686,7 +25959,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "3",
@@ -24768,7 +26041,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(CAT unpressurised / SPO unpressurised / NCO aeroplanes and helicopters )"
+                  "text": "(CAT unpressurised /SPO unpressurised /NCO aeroplanes and helicopters)"
                 }
               ],
               "colspan": "2",
@@ -25203,7 +26476,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Terrain awareness warning system (Class B TAWS)"
+                  "text": "Terrain awareness warning system(Class B TAWS)"
                 }
               ],
               "width": "2114"
@@ -25615,11 +26888,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "May be inoperative provided that :"
+                  "text": "May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) modes 1 and 3 are operative, and (b) the approaches procedures do not require it use."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "modes 1 and 3 are operative, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the approaches procedures do not require it use."
                 }
               ],
               "colspan": "2",
@@ -25713,11 +27002,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) low-visibility approaches that require the use of affected call-outs are not performed, and (b) alternate procedures are established and used."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "low-visibility approaches that require the use of affected call-outs are not performed, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "alternate procedures are established and used."
                 },
                 {
                   "style": "Underline",
@@ -25741,7 +27046,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -25905,7 +27210,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -25943,7 +27248,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Navigation systems ( based on VOR, DME, ADF, Global Navigation Satellite System, Inertial Navigation System)"
+                  "text": "Navigation systems(based on VOR, DME, ADF, Global Navigation Satellite System, Inertial Navigation System)"
                 }
               ],
               "width": "2072"
@@ -26016,11 +27321,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) One or more may be inoperative provided that :"
+                  "text": "(O) One or more may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the navigation systems required for each segment of the intended flight route are operative, and (b) alternate procedures are established and used, where applicable."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the navigation systems required for each segment of the intended flight route are operative, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "alternate procedures are established and used, where applicable."
                 },
                 {
                   "style": "Italic",
@@ -26081,11 +27402,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) One or more may be inoperative provided that :"
+                  "text": "(O) One or more may be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the navigation systems required for each segment of the intended flight route are operative, and (b) alternate procedures are established and used, where applicable."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the navigation systems required for each segment of the intended flight route are operative, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "alternate procedures are established and used, where applicable."
                 },
                 {
                   "style": null,
@@ -26101,7 +27438,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -26258,7 +27595,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -26296,7 +27633,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Secondary Surveillance Radar (SSR) transponder mode A/C"
+                  "text": "Secondary Surveillance Radar (SSR) transpondermode A/C"
                 }
               ],
               "width": "2114"
@@ -26390,7 +27727,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "SSR transponder mode S"
+                  "text": "SSR transpondermode S"
                 }
               ],
               "width": "2114"
@@ -26600,7 +27937,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -26757,7 +28094,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -26795,7 +28132,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Enhanced surveillance functions"
+                  "text": "Enhanced surveillance functions "
                 }
               ],
               "width": "1890"
@@ -26937,7 +28274,7 @@
                 },
                 {
                   "style": "Underline",
-                  "text": "Note 2 : For operations in the Single European Sky, enhanced surveillance capability cannot remain inoperative more than 3 consecutive days."
+                  "text": "Note 2: For operations in the Single European Sky, enhanced surveillance capability cannot remain inoperative more than 3 consecutive days."
                 }
               ],
               "colspan": "2",
@@ -27144,7 +28481,7 @@
         "type": "paragraph",
         "index": 2038,
         "level": 0,
-        "text": "34-15-03 Radio Altimeter with an Audio Voice Warning: In addition to the equipment required by CAT.IDE.H. 145 of Annex IV (Part-CAT) to Regulation (EU) No 965/2012, helicopters involved in NVIS operations shall be equipped with a radio altimeter and a low height warning system that gives visual and audio warnings that are selectable by the pilot and are discernible during NVIS operation.",
+        "text": "34-15-03 Radio Altimeter with an Audio Voice Warning: In addition to the equipment required by CAT.IDE.H.145 of Annex IV (Part-CAT) to Regulation (EU) No 965/2012, helicopters involved in NVIS operations shall be equipped with a radio altimeter and a low height warning system that gives visual and audio warnings that are selectable by the pilot and are discernible during NVIS operation.",
         "pStyle": "bullet0"
       },
       {
@@ -27308,7 +28645,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Supplemental oxygen system Non-pressurised aircraft"
+                  "text": "Supplemental oxygen systemNon-pressurised aircraft"
                 }
               ],
               "width": "2058"
@@ -27794,7 +29131,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Additional oxygen masks ( e.g. supernumerary)"
+                  "text": "Additional oxygen masks (e.g. supernumerary)"
                 }
               ],
               "width": "2058"
@@ -27879,7 +29216,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -28036,7 +29373,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(continued)"
+                  "text": " (continued)"
                 }
               ],
               "colspan": "2",
@@ -28074,7 +29411,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Passenger oxygen system (Supplemental oxygen)"
+                  "text": "Passenger oxygen system(Supplemental oxygen)"
                 }
               ],
               "width": "2142"
@@ -28147,15 +29484,39 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O)(M) May be inoperative provided that :"
+                  "text": "(O)(M) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the maximum altitude is limited to 10 000 ft pressure altitude, (b) an adequate supply of fresh air is provided to the cabin, and (c) the passengers are appropriately briefed."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the maximum altitude is limited to 10 000 ft pressure altitude,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "an adequate supply of fresh air is provided to the cabin, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the passengers are appropriately briefed."
                 },
                 {
                   "style": "Italic",
-                  "text": "(O)/(M) Procedures must be established to set the aeroplane in a configuration that provid es an adequate supply of fresh air to the cabin. (O) Procedures must be established to provide a passenger briefing in accordance with the dispatch configuration."
+                  "text": "(O)/(M) Procedures must be established to set the aeroplane in a configuration that provides an adequate supply of fresh air to the cabin.(O) Procedures must be established to provide a passenger briefing in accordance with the dispatch configuration."
                 }
               ],
               "colspan": "2",
@@ -28482,11 +29843,35 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M) May be inoperative provided that :"
+                  "text": "(M) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) any waste is drained , and the system is inspected for leakage, (b) the system components are deactivated, and (c) lavatory access, if applicable, is closed and placarded ‘INOPERATIVE — DO NOT USE’ or the affected lavatory system is placarded ‘INOP – DO NOT USE’."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "any waste is drained, and the system is inspected for leakage,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the system components are deactivated, and(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "lavatory access, if applicable, is closed and placarded ‘INOPERATIVE — DO NOT USE’ or the affected lavatory system is placarded ‘INOP – DO NOT USE’."
                 },
                 {
                   "style": "Italic",
@@ -29090,11 +30475,27 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(M)(O) May be inoperative provided that :"
+                  "text": "(M)(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the associated EFB is used in accordance with the Portable EFB storage criteria, and (b) alternate procedures are established and used where operating procedures require the use of the affected EFB."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the associated EFB is used in accordance with the Portable EFB storage criteria, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "alternate procedures are established and used where operating procedures require the use of the affected EFB."
                 }
               ],
               "colspan": "2",
@@ -29150,7 +30551,23 @@
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) the hardware and the associated EFB are properly stored or removed from the aircraft, and (b) the associated EFB is considered inoperative (Refer to 46-20-1C)."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the hardware and the associated EFB are properly stored or removed from the aircraft, and(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the associated EFB is considered inoperative (Refer to 46-20-1C)."
                 }
               ],
               "colspan": "2",
@@ -29568,7 +30985,7 @@
               "content": [
                 {
                   "style": "Italic",
-                  "text": "For all entries in ATA 46: (M) Procedures must be established to give guidance reference for the deactivation of the affected item, as appropriate, and to provide alternate means, as applicable. (O) Procedures must be established to provide instructions to the crew for alternate procedures to be used."
+                  "text": "For all entries in ATA 46:(M) Procedures must be established to give guidance reference for the deactivation of the affected item, as appropriate, and to provide alternate means, as applicable.(O) Procedures must be established to provide instructions to the crew for alternate procedures to be used."
                 }
               ],
               "colspan": "2",
@@ -29940,11 +31357,43 @@
               "content": [
                 {
                   "style": null,
-                  "text": "(O) May be inoperative provided that :"
+                  "text": "(O) May be inoperative provided that:"
                 },
                 {
                   "style": "TableChar",
-                  "text": "(a) a flight crew member confirms by visual inspection that all doors are properly closed and locked prior to each departure, (b) the doors are not reopened again prior to departure, (c) the ‘Fasten Seat Belt’ sign remains ON, and (d) the passengers are briefed prior to each departure to have their seat belts fastened during the entire flight."
+                  "text": "(a)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a flight crew member confirms by visual inspection that all doors are properly closed and locked prior to each departure,(b)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the doors are not reopened again prior to departure,(c)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the ‘Fasten Seat Belt’ sign remains ON, and(d)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "the passengers are briefed prior to each departure to have their seat belts fastened during the entire flight."
                 }
               ],
               "colspan": "2",

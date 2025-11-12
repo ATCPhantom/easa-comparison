@@ -50,7 +50,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "All elem ents (i.e. CS and AMC ) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "text": "All elements (i.e. CS and AMC) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics.",
         "pStyle": "Normal0"
       },
       {
@@ -61,7 +61,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Certification specification ED decision Acceptable means of compliance ED d ecision"
+                  "text": "Certification specificationED decisionAcceptable means of complianceED decision"
                 }
               ],
               "width": "9052"
@@ -73,7 +73,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -91,14 +91,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "CS/AMC ( ED decisions )",
+        "text": "CS/AMC (ED decisions)",
         "pStyle": "NoTocHeading2"
       },
       {
@@ -118,7 +118,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS/AMC Issue No, Amendment No"
+                  "text": "CS/AMC Issue No,Amendment No"
                 }
               ],
               "width": "2791"
@@ -147,7 +147,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-31GB/ Initial i ssue"
+                  "text": "CS-31GB/ Initial issue "
                 }
               ],
               "width": "2791"
@@ -168,7 +168,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
         "pRStyle": "Italic"
       }
     ]
@@ -214,7 +214,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -836,7 +836,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "‘Tethered flight’ is the temporary restraint of a free balloo n whilst in flight for the purposes of conducting an entire flight at a single location.",
+        "text": "‘Tethered flight’ is the temporary restraint of a free balloon whilst in flight for the purposes of conducting an entire flight at a single location.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -893,7 +893,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "systematic investigation of each mass if compliance cannot be r easonably inferred from the masses investigated.",
+        "text": "systematic investigation of each mass if compliance cannot be reasonably inferred from the masses investigated.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -981,14 +981,14 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "The minimum mass is the lowest mass at which compliance with each applicab le flight requirement is shown.",
+        "text": "The minimum mass is the lowest mass at which compliance with each applicable flight requirement is shown.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "Mass limitation information related to safe operation of the balloon must be included in the Flight Manual. (See CS 31GB.81(b)(2) )",
+        "text": "Mass limitation information related to safe operation of the balloon must be included in the Flight Manual. (See CS 31GB.81(b)(2))",
         "pStyle": "Normal1"
       }
     ]
@@ -1106,7 +1106,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The empty mass must be determined by weighing the balloon with installed equ ipment but without lifting gas."
+        "text": "The empty mass must be determined by weighing the balloon with installed equipment but without lifting gas."
       }
     ]
   },
@@ -1139,7 +1139,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The equipment and configuration that are included in the empty mass need to be specified. Refer also to AMC 31GB.81(b)(2) ."
+        "text": "The equipment and configuration that are included in the empty mass need to be specified. Refer also to AMC 31GB.81(b)(2)."
       }
     ]
   },
@@ -1238,7 +1238,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The balloon must be safely controllable and manoeuvrable without requiring exceptional piloting skill. Associated operational limitations must be established and included in the Flight Manual. (See CS 31GB.81(b)(2) )."
+        "text": "The balloon must be safely controllable and manoeuvrable without requiring exceptional piloting skill. Associated operational limitations must be established and included in the Flight Manual. (See CS 31GB.81(b)(2))."
       }
     ]
   },
@@ -1277,7 +1277,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "limit loads that are the maximum loads to be expected in service, taking into account the load factors of CS 31GB.23 ; and",
+        "text": "limit loads that are the maximum loads to be expected in service, taking into account the load factors of CS 31GB.23; and",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1285,7 +1285,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "ultimate loads that are limit loads multiplied by factors of safety of CS 31GB.25 .",
+        "text": "ultimate loads that are limit loads multiplied by factors of safety of CS 31GB.25.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -1590,7 +1590,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The basket must be of a generally robust design and afford the occupants adequate protection during a hard or fast landing. There must be no design feature that by reasonably envisaged distortion or failure would be likely to cause serio us injury to the occupants.",
+        "text": "The basket must be of a generally robust design and afford the occupants adequate protection during a hard or fast landing. There must be no design feature that by reasonably envisaged distortion or failure would be likely to cause serious injury to the occupants.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -1598,7 +1598,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Each item of mass that could cause an unsafe condition if it broke loose must be restrained under all loads up to the ultimate loads specified in this paragraph. The local attachments in the load path between the restrains and the structure should be designed to withstand 1.33 time s the specified ultimate loads",
+        "text": "Each item of mass that could cause an unsafe condition if it broke loose must be restrained under all loads up to the ultimate loads specified in this paragraph. The local attachments in the load path between the restrains and the structure should be designed to withstand 1.33 times the specified ultimate loads",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -1627,7 +1627,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "The design and strength of components must also consider the effects of recurrent and other loads experienced during transportatio n, ground handling and rigging.",
+        "text": "The design and strength of components must also consider the effects of recurrent and other loads experienced during transportation, ground handling and rigging.",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -1847,7 +1847,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The effects of the loads associated with tethered flight on the balloon’s components and any additional equipment (if required) mu st be considered in the design.",
+        "text": "The effects of the loads associated with tethered flight on the balloon’s components and any additional equipment (if required) must be considered in the design.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1863,7 +1863,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Operational limitations, associated to tethered flight, must be established and recorded in the Flight Manual. (See CS 31GB.81(b)(2) )",
+        "text": "Operational limitations, associated to tethered flight, must be established and recorded in the Flight Manual. (See CS 31GB.81(b)(2))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -2064,7 +2064,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "meet approved specifications that ensure that the materials have the strength and other propert ies assumed in the design data.",
+        "text": "meet approved specifications that ensure that the materials have the strength and other properties assumed in the design data.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -2198,7 +2198,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Fasteners (e.g. bolts, pins, screws, karabiners) used in the structure must conf orm to approved specifications.",
+        "text": "Fasteners (e.g. bolts, pins, screws, karabiners) used in the structure must conform to approved specifications.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2257,7 +2257,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC 31GB.33(b) ."
+        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC 31GB.33(b)."
       }
     ]
   },
@@ -2329,7 +2329,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "To ensure the suitable protection of parts against deterioration or loss of strength, it is permissible to rely on instructions for continued airworthiness (e.g. recommended inspections or mandatory replacement of parts) (see also CS 31GB.82 )."
+        "text": "To ensure the suitable protection of parts against deterioration or loss of strength, it is permissible to rely on instructions for continued airworthiness (e.g. recommended inspections or mandatory replacement of parts) (see also CS 31GB.82)."
       }
     ]
   },
@@ -2411,7 +2411,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The fitting factor need not be used if the joint design is made in accordance with approved practices and the safety of which is based on compre hensive test data.",
+        "text": "The fitting factor need not be used if the joint design is made in accordance with approved practices and the safety of which is based on comprehensive test data.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -2634,7 +2634,7 @@
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "The design of the envelope and pre-flight inspection method should be such that a damage length considerably smaller than the critical damage length will be discovered during a pre-flight inspection. The impact of aging and operating circumstances should be considered when establishing the margin between critical damage and detectable damage. (Refer to CS 31GB.27(g) )"
+        "text": "The design of the envelope and pre-flight inspection method should be such that a damage length considerably smaller than the critical damage length will be discovered during a pre-flight inspection. The impact of aging and operating circumstances should be considered when establishing the margin between critical damage and detectable damage. (Refer to CS 31GB.27(g))"
       },
       {
         "type": "paragraph",
@@ -2701,7 +2701,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The envelope must be protected against bursting usin g a valve or appendix.",
+        "text": "The envelope must be protected against bursting using a valve or appendix.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -2777,7 +2777,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Disposable ballast must have means for safe storage and release. (See also CS 31GB.27(e) )",
+        "text": "Disposable ballast must have means for safe storage and release. (See also CS 31GB.27(e))",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2785,7 +2785,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "A minimum amount of ballast must be defined and reserved for the final landing which is sufficient (when jettisoned) to reduce the speed of descent to an acceptable value. The minimum ballast must be provided in the Flight Manual. (See CS 31GB.81(b)(2) )",
+        "text": "A minimum amount of ballast must be defined and reserved for the final landing which is sufficient (when jettisoned) to reduce the speed of descent to an acceptable value. The minimum ballast must be provided in the Flight Manual. (See CS 31GB.81(b)(2))",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -2832,19 +2832,19 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "The disposable ballast may be necessary for the pil ot to perform the flight path management. The pre-take-off decision on the amount of disposable ballast should be left to the pilot as it is dependent on the flight task, the weather, etc."
+        "text": "The disposable ballast may be necessary for the pilot to perform the flight path management. The pre-take-off decision on the amount of disposable ballast should be left to the pilot as it is dependent on the flight task, the weather, etc."
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "A minimum ballast quantity is considered sufficient if, when jettis oned , it stops a descent speed of 4 m/s."
+        "text": "A minimum ballast quantity is considered sufficient if, when jettisoned, it stops a descent speed of 4 m/s."
       },
       {
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "Note : The shape and drag of the envelope can have an effect on minimum descent speed, resulting in a minimum descent speed above 4 m/s."
+        "text": "Note: The shape and drag of the envelope can have an effect on minimum descent speed, resulting in a minimum descent speed above 4 m/s."
       }
     ]
   },
@@ -2910,7 +2910,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The envelope must have means to allow for rapid deflation after landing. The system must be designed to minimise the possibility of inadvertent operation. If a system other than a manual system is used, the reliability of the sys tem used must be substantiated.",
+        "text": "The envelope must have means to allow for rapid deflation after landing. The system must be designed to minimise the possibility of inadvertent operation. If a system other than a manual system is used, the reliability of the system used must be substantiated.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2918,7 +2918,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "If a balloon is equipped with a lateral rapid deflation means, a device must be installed to align the balloon during landing in order to turn the rapid deflation mean s into its designated position.",
+        "text": "If a balloon is equipped with a lateral rapid deflation means, a device must be installed to align the balloon during landing in order to turn the rapid deflation means into its designated position.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -3051,7 +3051,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "All control cords used for flight control must be long enoug h to allow for an increase of at least 10% in the vertical dimension of the envelope.",
+        "text": "All control cords used for flight control must be long enough to allow for an increase of at least 10% in the vertical dimension of the envelope.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -3067,7 +3067,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "If an arming device is employed to prevent inadvertent operation of an irreversible control, the part of the cord to be handled by the pilot must be colou red with yellow and black bands.",
+        "text": "If an arming device is employed to prevent inadvertent operation of an irreversible control, the part of the cord to be handled by the pilot must be coloured with yellow and black bands.",
         "pStyle": "Normal1"
       },
       {
@@ -3106,7 +3106,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 1,
-        "text": "If a cord is used for rapid or emergency deflation of the envelope and the device cannot be res ealed in flight, the part of the cord to be handled by the pilot must be coloured red.",
+        "text": "If a cord is used for rapid or emergency deflation of the envelope and the device cannot be resealed in flight, the part of the cord to be handled by the pilot must be coloured red.",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -3213,7 +3213,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "Where basket proportions and compartmentation are such that more than one occupant may fall on top of another during landing, there must be means to mini mise this possibility.",
+        "text": "Where basket proportions and compartmentation are such that more than one occupant may fall on top of another during landing, there must be means to minimise this possibility.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -3269,7 +3269,7 @@
         "type": "paragraph",
         "index": 18,
         "level": 0,
-        "text": "Limitations on the occupancy and configuration of the basket must be provided in the Fl ight Manual. (See CS 31GB.81 ).",
+        "text": "Limitations on the occupancy and configuration of the basket must be provided in the Flight Manual. (See CS 31GB.81         ).",
         "marker": "(l)",
         "pStyle": "ListLevel0"
       }
@@ -3409,7 +3409,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Unless otherwise justified on safety grounds, a minimum figure of between 0·25 m² and 0·3 m² plan area should be used for each standing occupant, with proper account being taken of the specified size, number and position of equipment when applying this figure. There needs to be enough space provided for passengers to take a brace position for landing. The Agency should be consulted in case s where a basket’s shape or compartmentation makes the measurement of this figure subjective."
+        "text": "Unless otherwise justified on safety grounds, a minimum figure of between 0·25 m² and 0·3 m² plan area should be used for each standing occupant, with proper account being taken of the specified size, number and position of equipment when applying this figure. There needs to be enough space provided for passengers to take a brace position for landing. The Agency should be consulted in cases where a basket’s shape or compartmentation makes the measurement of this figure subjective."
       }
     ]
   },
@@ -3508,7 +3508,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "There must be appropriate electrostatic discharge means in the design of each balloon whose lift-producing medium contains a flammable gas to ensure that the effects of electrostatic disc harge will not create a hazard."
+        "text": "There must be appropriate electrostatic discharge means in the design of each balloon whose lift-producing medium contains a flammable gas to ensure that the effects of electrostatic discharge will not create a hazard."
       }
     ]
   },
@@ -3547,7 +3547,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "The surface resistance on the inside of the balloon envelope after 24-hour storage at a relative air humidity of less than 50% must be value 10 9 Ω or lower. The values are to be determined using approved measuring methods.",
+        "text": "The surface resistance on the inside of the balloon envelope after 24-hour storage at a relative air humidity of less than 50% must be value 109 Ω or lower. The values are to be determined using approved measuring methods.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -3555,7 +3555,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The respective layer of a non-conductive material (surface resistance in excess of 10 9 Ω) must not be thicker than 0. 3 mm unless it is enclosed by conductive layers.",
+        "text": "The respective layer of a non-conductive material (surface resistance in excess of 109 Ω) must not be thicker than 0.3 mm unless it is enclosed by conductive layers.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -3563,7 +3563,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The balloon envelope and all other conductive parts of the balloon (surface resistance less than 10 9 Ω) must be conductively connected to each other (resistance of connection less than 10 6 Ω). This requirement also applies to the joints between the panels and reinforcements.",
+        "text": "The balloon envelope and all other conductive parts of the balloon (surface resistance less than 109 Ω) must be conductively connected to each other (resistance of connection less than 106 Ω). This requirement also applies to the joints between the panels and reinforcements.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -3603,7 +3603,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "Note : More detailed information can be found in:"
+        "text": "Note: More detailed information can be found in:"
       },
       {
         "type": "paragraph",
@@ -3650,7 +3650,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "There must be a restraining means for all occupants, which can take the form of hand holds. (See CS 31GB.59(h) )",
+        "text": "There must be a restraining means for all occupants, which can take the form of hand holds. (See CS 31GB.59(h))",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -3658,7 +3658,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "For baskets having a separate pilot compartment, there must be a suitable restraint for the pilot which must meet the strength requirements of CS 31GB.30 . Additionally, the restraint must be designed so that:",
+        "text": "For baskets having a separate pilot compartment, there must be a suitable restraint for the pilot which must meet the strength requirements of CS 31GB.30. Additionally, the restraint must be designed so that:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -3682,7 +3682,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "the possibi lity of inadvertent release is minimised.",
+        "text": "the possibility of inadvertent release is minimised.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       }
@@ -3750,7 +3750,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The inclusion of an appropriate device or instrument (rated ‘weak link’, hand held anemometer, windsock, etc.) to provide the pilot with an attention-getting indication of the balloon’s tethering limitation, is considered compliant with CS 31GB.67 ."
+        "text": "The inclusion of an appropriate device or instrument (rated ‘weak link’, hand held anemometer, windsock, etc.) to provide the pilot with an attention-getting indication of the balloon’s tethering limitation, is considered compliant with CS 31GB.67."
       }
     ]
   },
@@ -3815,7 +3815,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "fun ction properly when installed.",
+        "text": "function properly when installed.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -3823,7 +3823,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "Instruments and other equipment may not in themselves, or by their effect upon the balloon, constitute a hazard to safe operation. (See also CS 31GB.27(e) )",
+        "text": "Instruments and other equipment may not in themselves, or by their effect upon the balloon, constitute a hazard to safe operation. (See also CS 31GB.27(e))",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -3954,7 +3954,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "operating limitations, normal procedures (including rigging, inflation, deflation and tethered flight (if applicable)), emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation. This section o f the manual requires approval ;",
+        "text": "operating limitations, normal procedures (including rigging, inflation, deflation and tethered flight (if applicable)), emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation. This section of the manual requires approval;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -3978,7 +3978,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation must be provided to the p ilot.",
+        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation must be provided to the pilot.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -4029,7 +4029,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "A comprehensive list of approved basket and envelope configurations n eeds to be provided for each balloon model to enable operators, inspectors, etc. to easily establish an item’s acceptability.",
+        "text": "A comprehensive list of approved basket and envelope configurations needs to be provided for each balloon model to enable operators, inspectors, etc. to easily establish an item’s acceptability.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -4037,7 +4037,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "If applicable, the operating limitations, normal and emergency procedures need to include procedures and limitations for tether ed flight. These procedures and limitations need to include:",
+        "text": "If applicable, the operating limitations, normal and emergency procedures need to include procedures and limitations for tethered flight. These procedures and limitations need to include:",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -4069,7 +4069,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "the maximum height of the t ether,",
+        "text": "the maximum height of the tether,",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },

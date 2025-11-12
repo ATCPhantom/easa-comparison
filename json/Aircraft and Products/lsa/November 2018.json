@@ -51,7 +51,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "All elem ents (i.e. CS and AMC ) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "text": "All elements (i.e. CS and AMC) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics.",
         "pStyle": "Normal0"
       },
       {
@@ -62,7 +62,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Certification specification ED decision Acceptable means of compliance ED d ecision"
+                  "text": "Certification specificationED decisionAcceptable means of complianceED decision"
                 }
               ],
               "width": "9052"
@@ -74,7 +74,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -92,14 +92,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "CS/AMC ( ED decisions )",
+        "text": "CS/AMC (ED decisions)",
         "pStyle": "NoTocHeading2"
       },
       {
@@ -148,7 +148,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-LSA / Initial i ssue"
+                  "text": "CS-LSA/ Initial issue "
                 }
               ],
               "width": "3135"
@@ -198,7 +198,7 @@
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
         "pRStyle": "Italic"
       }
     ]
@@ -244,7 +244,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -258,21 +258,21 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "CS-LSA.5 Applicability 8",
+        "text": "CS-LSA.5  Applicability 8",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "AMC 1 LSA.5 Applicability 8",
+        "text": "AMC1 LSA.5  Applicability 8",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "CS-LSA.10 Referenced Standards 8",
+        "text": "CS-LSA.10  Referenced Standards 8",
         "pStyle": "TOC2"
       },
       {
@@ -293,21 +293,21 @@
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "AMC 1 to ASTM F2245-12d Sub-chapter 6.2 Materials 13",
+        "text": "AMC1 to ASTM F2245-12d Sub-chapter 6.2 Materials 13",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "AMC 1 to ASTM F2245-12d Annex A1.1 Applicability 13",
+        "text": "AMC1 to ASTM F2245-12d Annex A1.1 Applicability 13",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "AMC 1 to ASTM F2245-12d Annex A1.7 Operating Limitations 14",
+        "text": "AMC1 to ASTM F2245-12d Annex A1.7 Operating Limitations 14",
         "pStyle": "TOC3"
       },
       {
@@ -349,21 +349,21 @@
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "CS- LSA.20 Flight Manual or Pilot’s Operating Manual 19",
+        "text": "CS-LSA.20  Flight Manual or Pilot’s Operating Manual 19",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "CS-LSA.25 Standard Specification for P ilot’s Operating Handbook (POH) 19",
+        "text": "CS-LSA.25  Standard Specification for Pilot’s Operating Handbook (POH) 19",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "CS-LSA.30 Maintenance manual 20",
+        "text": "CS-LSA.30  Maintenance manual 20",
         "pStyle": "TOC2"
       },
       {
@@ -377,14 +377,14 @@
         "type": "paragraph",
         "index": 24,
         "level": -1,
-        "text": "CS-LSA.35 Applicable Specifications for engines 21",
+        "text": "CS-LSA.35  Applicable Specifications for engines 21",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 25,
         "level": -1,
-        "text": "CS-LSA.37 Applicable Specifications for Electric Propulsion Units (EPU) 21",
+        "text": "CS-LSA.37  Applicable Specifications for Electric Propulsion Units (EPU) 21",
         "pStyle": "TOC2"
       },
       {
@@ -405,7 +405,7 @@
         "type": "paragraph",
         "index": 28,
         "level": -1,
-        "text": "CS-LSA.40 Applicable Specifications for propellers 23",
+        "text": "CS-LSA.40  Applicable Specifications for propellers 23",
         "pStyle": "TOC2"
       },
       {
@@ -419,7 +419,7 @@
         "type": "paragraph",
         "index": 30,
         "level": -1,
-        "text": "CS- LSA.45 Applicable Specifications for airframe emergency parachutes 24",
+        "text": "CS-LSA.45  Applicable Specifications for airframe emergency parachutes 24",
         "pStyle": "TOC2"
       }
     ]
@@ -439,14 +439,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS-LSA.5 Applicability",
+        "text": "CS-LSA.5  Applicability",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 201 3/01 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -467,7 +467,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "A maximum stalling speed in the landing configuration (V S0 ) of not more than 83 km/h (45 knots) CAS at the aircraft’s maximum certificated Take-Off Mass and most critical centre of gravity.",
+        "text": "A maximum stalling speed in the landing configuration (VS0) of not more than 83 km/h (45 knots) CAS at the aircraft’s maximum certificated Take-Off Mass and most critical centre of gravity.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -491,7 +491,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "A non-pressuris ed cabin.",
+        "text": "A non-pressurised cabin.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -519,7 +519,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC 1 LSA.5 Applicability",
+        "text": "AMC1 LSA.5  Applicability",
         "pStyle": "Heading3AMC"
       },
       {
@@ -552,14 +552,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS-LSA.10 Referenced Standards",
+        "text": "CS-LSA.10  Referenced Standards",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3/01 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -614,7 +614,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "F2316-12 Airframe Emergency Para chutes for Light Sport Aircraft",
+        "text": "F2316-12 Airframe Emergency Parachutes for Light Sport Aircraft",
         "pStyle": "ListLevel0"
       },
       {
@@ -628,7 +628,7 @@
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "The above referenced Documents are av ailable from ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959 USA ."
+        "text": "The above referenced Documents are available from ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959 USA."
       },
       {
         "type": "paragraph",
@@ -641,7 +641,7 @@
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "[Amdt LSA/1 ]",
+        "text": "[Amdt LSA/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -668,14 +668,14 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The aeroplane must be sho wn to comply with ASTM F2245-12d including all Annexes and Appendices, except as modified by the following table:"
+        "text": "The aeroplane must be shown to comply with ASTM F2245-12d including all Annexes and Appendices, except as modified by the following table:"
       },
       {
         "type": "table",
@@ -714,7 +714,47 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "1.2 This specification is applicable to aeroplanes intended for ‘non-aerobatic’ and for ‘VFR day’ operation only. Non-aerobatic operation includes: (1) Any manoeuvre incidental to normal flying; (2) Stalls (except whip stalls); and (3) Eights, chandelles, and steep turns, in which the angle of bank is not more than 60°. (4) Spinning for aeroplanes complying with 4.5.9.2."
+                  "text": "1.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "This specification is applicable to aeroplanes intended for ‘non-aerobatic’ and for ‘VFR day’ operation only. Non-aerobatic operation includes: (1)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Any manoeuvre incidental to normal flying;(2)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Stalls (except whip stalls); and(3)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Eights, chandelles, and steep turns, in which the angle of bank is not more than 60°.(4)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Spinning for aeroplanes complying with 4.5.9.2."
                 }
               ],
               "width": "8231"
@@ -774,7 +814,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "4.1.3 When the aircraft is equipped with a variable pitch propeller and/or a retractable landing gear, the various configurations of those devices have to be considered, as applicable."
+                  "text": "4.1.3"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "When the aircraft is equipped with a variable pitch propeller and/or a retractable landing gear, the various configurations of those devices have to be considered, as applicable."
                 }
               ],
               "width": "8231"
@@ -794,7 +842,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "4.3.2 A propeller that can be controlled in flight but does not have constant speed controls must be so designed that: 4.3.2.1 4.3.1 is met with the lowest possible pitch selected for the take-off and climb case, and 4.3.2.2 4.3.1 is met with the highest possible pitch selected for the glide case."
+                  "text": "4.3.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "A propeller that can be controlled in flight but does not have constant speed controls must be so designed that: 4.3.2.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "  4.3.1 is met with the lowest possible pitch selected for the take-off and climb case, and4.3.2.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "  4.3.1 is met with the highest possible pitch selected for the glide case."
                 }
               ],
               "width": "8231"
@@ -814,7 +886,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "4.3.3 A controllable pitch propeller with constant speed controls must comply with the following requirements: 4.3.3.1 With the governor in operation, there must be a means to limit the maximum engine rotational speed to the maximum allowable take-off speed, and 4.3.3.2 With the governor inoperative, there must be a means to limit the maximum engine rotational speed to 103 % of the maximum allowable take-off speed with the propeller blades at the lowest possible pitch and the aeroplane stationary with no wind at full throttle position."
+                  "text": "4.3.3 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "A controllable pitch propeller with constant speed controls must comply with the following requirements:4.3.3.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " With the governor in operation, there must be a means to limit the maximum engine rotational speed to the maximum allowable take-off speed, and4.3.3.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " With the governor inoperative, there must be a means to limit the maximum engine rotational speed to 103 % of the maximum allowable take-off speed with the propeller blades at the lowest possible pitch and the aeroplane stationary with no wind at full throttle position."
                 }
               ],
               "width": "8231"
@@ -834,7 +930,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "4.5.7 Wing level stall and stall warning 4.5.7.1 It shall be possible to prevent more than 20° of roll or yaw by normal use of the controls during the stall and the recovery at all weight and CG combinations. 4.5.7.2 A stall warning can be omitted when, during stalling in level flight: 4.5.7.2.1 It is possible to initiate and correct a roll motion using aileron control alone while maintaining rudder control at neutral position; and 4.5.7.2.2 The aeroplane does not have a noticeable tendency to drop one wing while aileron and rudder controls are held neutral. 4.5.7.3 On aeroplanes that do not meet requirements under 4.5.7.2: 4.5.7.3.1 In both straight and turning flight with flaps and landing gear in any normal position, a clear and distinctive stall warning must exist; 4.5.7.3.2 The stall warning must not occur at normal operating speeds, but must occur sufficiently before the stall to allow the pilot to regain level flight; 4.5.7.3.3 The stall warning may be furnished either through the inherent aerodynamic qualities (e.g. buffeting) of the aeroplane or by a device that clearly indicates the stall."
+                  "text": "4.5.7 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Wing level stall and stall warning4.5.7.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " It shall be possible to prevent more than 20° of roll or yaw by normal use of the controls during the stall and the recovery at all weight and CG combinations.4.5.7.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " A stall warning can be omitted when, during stalling in level flight:4.5.7.2.1 It is possible to initiate and correct a roll motion using aileron control alone while maintaining rudder control at neutral position; and4.5.7.2.2  The aeroplane does not have a noticeable tendency to drop one wing while aileron and rudder controls are held neutral.4.5.7.3  On aeroplanes that do not meet requirements under 4.5.7.2: 4.5.7.3.1  In both straight and turning flight with flaps and landing gear in any normal position, a clear and distinctive stall warning must exist;4.5.7.3.2  The stall warning must not occur at normal operating speeds, but must occur sufficiently before the stall to allow the pilot to regain level flight;4.5.7.3.3 The stall warning may be furnished either through the inherent aerodynamic qualities (e.g. buffeting) of the aeroplane or by a device that clearly indicates the stall."
                 }
               ],
               "width": "8231"
@@ -854,7 +974,63 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "4.6.1 Ground Vibration Test — For aircraft with a Vne exceeding 200 km/h (108 kt ) a ground vibration test with subsequent analysis of the vibration modes and frequencies and potential flutter cases must show the aircraft to be free from flutter before verification in flight. 4.6.2 This ground vibration test and analysis may be omitted when there is clear reason to assume freedom of flutter due to compliance with all of the following: (1) Reasonable analysis following the Airframe and Equipment Engineering Report No 45 (as corrected) ‘Simplified Flutter Prevention Criteria’ (published by the Federal Aviation Administration) shows the aircraft to be free from flutter risk; (2) The airplane does not have T-tail, V-tail or boom-tail or other unconventional tail configurations; (3) Is equipped with fixed fin tail surfaces; (4) Does not have significant amount of sweep; (5) Does not have unusual mass concentrations along the wing span (such as floats or fuel tanks in the outer wing panels)."
+                  "text": "4.6.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Ground Vibration Test — For aircraft with a Vne exceeding 200 km/h (108 kt) a ground vibration test with subsequent analysis of the vibration modes and frequencies and potential flutter cases must show the aircraft to be free from flutter before verification in flight. 4.6.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "This ground vibration test and analysis may be omitted when there is clear reason to assume freedom of flutter due to compliance with all of the following:(1)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Reasonable analysis following the Airframe and Equipment Engineering Report No 45 (as corrected) ‘Simplified Flutter Prevention Criteria’ (published by the Federal Aviation Administration) shows the aircraft to be free from flutter risk;(2)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "The airplane does not have T-tail, V-tail or boom-tail or other unconventional tail configurations;(3)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Is equipped with fixed fin tail surfaces;(4)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Does not have significant amount of sweep;(5)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Does not have unusual mass concentrations along the wing span (such as floats or fuel tanks in the outer wing panels)."
                 }
               ],
               "width": "8231"
@@ -874,7 +1050,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "4.7 Ground and Water Control and Stability"
+                  "text": "4.7  Ground and Water Control and Stability"
                 }
               ],
               "width": "8231"
@@ -894,7 +1070,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "4.7.3 A seaplane or amphibian may not have dangerous or uncontrollable porpoising characteristics at any normal operating speed on the water."
+                  "text": "4.7.3 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "A seaplane or amphibian may not have dangerous or uncontrollable porpoising characteristics at any normal operating speed on the water."
                 }
               ],
               "width": "8231"
@@ -914,7 +1098,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "4.8 Spray characteristics — Spray may not dangerously obscure the vision of the pilots or damage the propeller or other parts of a seaplane or amphibian at any time during taxiing, take-off, and landing."
+                  "text": "4.8 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Spray characteristics — Spray may not dangerously obscure the vision of the pilots or damage the propeller or other parts of a seaplane or amphibian at any time during taxiing, take-off, and landing."
                 }
               ],
               "width": "8231"
@@ -934,7 +1126,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "5.10.2 Each aeroplane with retractable landing gear must be designed to protect each occupant in a landing: 5.10.2.1 With the wheels retracted; 5.10.2.2 With moderate descent velocity; 5.10.2.3 Assuming, in the absence of a more rational analysis (1) a downward ultimate inertia force of 3g, and (2) a coefficient of friction of 0.5 at the ground."
+                  "text": "5.10.2 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Each aeroplane with retractable landing gear must be designed to protect each occupant in a landing:5.10.2.1  With the wheels retracted;5.10.2.2  With moderate descent velocity;5.10.2.3  Assuming, in the absence of a more rational analysis (1)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a downward ultimate inertia force of 3g, and(2)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "a coefficient of friction of 0.5 at the ground."
                 }
               ],
               "width": "8231"
@@ -954,7 +1170,47 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "6.12 Landing Gear Retracting Mechanism 6.12 .1 Each landing gear retracting mechanism and its supporting structure must be designed for the maximum flight load factors occurring with the gear retracted. 6. 12 .2 For retractable landing gears it must be shown that extension and retraction of the landing gear are possible without difficulty up to VLO. 6.12 .3 An aeroplane equipped with a non-manually operated landing gear must have an auxiliary means of extending the gear. 6.12 .4 If a retractable landing gear is used, there must be a means to inform the pilot that the gear is secured for both the extended and retracted position."
+                  "text": "6.12"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Landing Gear Retracting Mechanism6.12.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Each landing gear retracting mechanism and its supporting structure must be designed for the maximum flight load factors occurring with the gear retracted.6.12.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "For retractable landing gears it must be shown that extension and retraction of the landing gear are possible without difficulty up to VLO.6.12.3"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "An aeroplane equipped with a non-manually operated landing gear must have an auxiliary means of extending the gear.6.12.4"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "If a retractable landing gear is used, there must be a means to inform the pilot that the gear is secured for both the extended and retracted position."
                 }
               ],
               "width": "8231"
@@ -974,7 +1230,39 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "6.13 Floats and Hulls 6.13 .1 Main Float Buoyancy — Each main float must have: 6.13 .1.1 A buoyancy of 1.8 times the portion of the 80 % in excess of the maximum weight which that float is expected to carry in supporting the maximum weight of the seaplane or amphibian in fresh water; and 6.1 3 .1.2 Enough watertight compartments to provide reasonable assurance that the seaplane or amphibian will stay afloat if any of the two compartments of the main floats are flooded. 6.13 .2 Each main float must contain at least four watertight compartments approximately equal in volume. 6.13 .3 Auxiliary Floats — Auxiliary floats must be arranged so that when completely submerged in fresh water, they provide a righting moment of at least 1.5 times the upsetting moment caused by the seaplane or amphibian being tilted."
+                  "text": "6.13 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Floats and Hulls 6.13.1 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Main Float Buoyancy — Each main float must have:6.13.1.1 A buoyancy of 1.8 times the portion of the 80 % in excess of the maximum weight which that float is expected to carry in supporting the maximum weight of the seaplane or amphibian in fresh water; and6.13.1.2  Enough watertight compartments to provide reasonable assurance that the seaplane or amphibian will stay afloat if any of the two compartments of the main floats are flooded.6.13.2 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Each main float must contain at least four watertight compartments approximately equal in volume.6.13.3 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Auxiliary Floats — Auxiliary floats must be arranged so that when completely submerged in fresh water, they provide a righting moment of at least 1.5 times the upsetting moment caused by the seaplane or amphibian being tilted."
                 }
               ],
               "width": "8231"
@@ -994,7 +1282,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "7.1.4 The powerplant , including all systems required for the operation of the engine and including installed accessories, must be installed to ensure safe operation within the aircraft operating envelope. 7.1.5 Systems required for the operation of the engine must be identified and verified to provide adequate capacities (such as fuel flow, lubrication, cooling) within the aircraft operating envelope. 7.1.6 Areas of the engine compartment where flammable fluids or moisture could accumulate in normal ground and flight attitudes must be drained."
+                  "text": "7.1.4 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "The powerplant, including all systems required for the operation of the engine and including installed accessories, must be installed to ensure safe operation within the aircraft operating envelope. 7.1.5"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Systems required for the operation of the engine must be identified and verified to provide adequate capacities (such as fuel flow, lubrication, cooling) within the aircraft operating envelope.7.1.6 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Areas of the engine compartment where flammable fluids or moisture could accumulate in normal ground and flight attitudes must be drained."
                 }
               ],
               "width": "8231"
@@ -1014,7 +1326,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "7.4.3 Oil lines located in an area subject to high heat (engine compartment) must be fire resistant or protected with a fire-resistant covering."
+                  "text": "7.4.3 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Oil lines located in an area subject to high heat (engine compartment) must be fire resistant or protected with a fire-resistant covering."
                 }
               ],
               "width": "8231"
@@ -1034,7 +1354,39 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "7.7 Cooling 7.7.1 Liquid cooling — When equipped with a liquid cooling system: 7.7.1.1 Components of the liquid cooling system must be selected and installed as to withstand all operating co nditions that must be expected. 7.7.1.2 Coolant tanks shall be designed to withstand a positive pressure of 24.5 kPa (3.55 psi) (2.5-m (8.2-ft) water column) plus the maximum working pressure of the system."
+                  "text": "7.7 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Cooling7.7.1 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Liquid cooling — When equipped with a liquid cooling system:7.7.1.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " Components of the liquid cooling system must be selected and installed as to withstand all operating conditions that must be expected.7.7.1.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " Coolant tanks shall be designed to withstand a positive pressure of 24.5 kPa (3.55 psi) (2.5-m (8.2-ft) water column) plus the maximum working pressure of the system."
                 }
               ],
               "width": "8231"
@@ -1054,7 +1406,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "7.8 Exhaust — Each exhaust system must ensure safe disposal of exhaust gases without fire hazard or carbon monoxide contamination in the personnel compartment."
+                  "text": "7.8 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Exhaust — Each exhaust system must ensure safe disposal of exhaust gases without fire hazard or carbon monoxide contamination in the personnel compartment."
                 }
               ],
               "width": "8231"
@@ -1074,7 +1434,23 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "7.9 Propeller: 7.9.1 Sufficient clearance must be provided between propeller and ground or water, as well as between propeller (including all other rotating parts of the propeller and spinner) and structural components. Effects of aircraft weight, center of gravity, propeller pitch positions, flight accelerations, vibrations and aging of shock mounts must be considered."
+                  "text": "7.9 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Propeller:7.9.1 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Sufficient clearance must be provided between propeller and ground or water, as well as between propeller (including all other rotating parts of the propeller and spinner) and structural components. Effects of aircraft weight, center of gravity, propeller pitch positions, flight accelerations, vibrations and aging of shock mounts must be considered."
                 }
               ],
               "width": "8231"
@@ -1094,7 +1470,71 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "8.6 Instruments and other equipment may not in themselves, or by their effect upon the aircraft, constitute a hazard to safe operation. Therefore: 8.6.1 Each item of required ATC equipment must be approved. 8.6.2 Each item of installed equipment must: 8.6.2.1 be installed according to limitations specified for that equipment; 8.6.2.2 be installed in a way that it is unlikely to adversely affect the proper functioning of any other system or equipment of the aircraft; 8.6.2.3 be installed in a way to function properly; 8.6.2.4 be labelled or designed to be clearly identifiable; 8.6.2.5 be described and labelled appropriately regarding limitations and operation."
+                  "text": "8.6"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Instruments and other equipment may not in themselves, or by their effect upon the aircraft, constitute a hazard to safe operation. Therefore:8.6.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Each item of required ATC equipment must be approved.8.6.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Each item of installed equipment must:8.6.2.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " be installed according to limitations specified for that equipment;8.6.2.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " be installed in a way that it is unlikely to adversely affect the proper functioning of any other system or equipment of the aircraft;8.6.2.3"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " be installed in a way to function properly;8.6.2.4"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " be labelled or designed to be clearly identifiable;8.6.2.5"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " be described and labelled appropriately regarding limitations and operation."
                 }
               ],
               "width": "8231"
@@ -1114,7 +1554,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "9.1.4"
+                  "text": "9.1.4 "
                 }
               ],
               "width": "8231"
@@ -1154,7 +1594,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "10.1 Each aeroplane shall be furnished with a Flight Manual or Pilot’s Operating Handbook (PO H) that complies with Subpart G ."
+                  "text": "10.1 "
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Each aeroplane shall be furnished with a Flight Manual or Pilot’s Operating Handbook (POH) that complies with Subpart G."
                 }
               ],
               "width": "8231"
@@ -1186,7 +1634,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "A1.2.4 The take-off distance according 4.4.2 must not exceed 500 m when taking off from dry, level, hard surface at sea level."
+                  "text": "A1.2.4 The take-off distance according 4.4.2 must not exceed 500 m when taking off from dry, level, hard surface at sea level. "
                 }
               ],
               "width": "8231"
@@ -1246,7 +1694,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "A1.6.1.5 The release control shall be located so that the pilot can operate it without having to release any other primary flight control and should be of yellow colour ."
+                  "text": "A1.6.1.5  The release control shall be located so that the pilot can operate it without having to release any other primary flight control and should be of yellow colour."
                 }
               ],
               "width": "8231"
@@ -1266,7 +1714,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "A1.6.1.6 The rated ultimate strength of the weak links to be used in the towing cable shall be established and shown to be suitable in operation. For the determination of loads to be applied for the purpose of this section, the strength of the weak link shall not be less than 300 daN (674.4 lb )."
+                  "text": "A1.6.1.6  The rated ultimate strength of the weak links to be used in the towing cable shall be established and shown to be suitable in operation. For the determination of loads to be applied for the purpose of this section, the strength of the weak link shall not be less than 300 daN (674.4 lb)."
                 }
               ],
               "width": "8231"
@@ -1286,7 +1734,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "A1.6.1.8 For towing flights a device (e.g. an adjustable mirror) shall be used so that the pilot, when strapped in his seat, has full and unrestricted view of the towed glider in the positions of A1.6.1.3(2)"
+                  "text": "A1.6.1.8  For towing flights a device (e.g. an adjustable mirror) shall be used so that the pilot, when strapped in his seat, has full and unrestricted view of the towed glider in the positions of A1.6.1.3(2)"
                 }
               ],
               "width": "8231"
@@ -1306,7 +1754,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "A1.7.1.1 The minimum permissible towing speed ( V Tmin , > 1.3*V S1 ) and the maxim um permissible towing speed ( V Tmax > 1.5*V S1 < V A )."
+                  "text": "A1.7.1.1  The minimum permissible towing speed (VTmin, > 1.3*VS1) and the maximum permissible towing speed (VTmax > 1.5*VS1 < VA)."
                 }
               ],
               "width": "8231"
@@ -1326,7 +1774,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "A1.7.1.5 The minimum and maximum tow rope length and the tow rope flexibility."
+                  "text": "A1.7.1.5  The minimum and maximum tow rope length and the tow rope flexibility."
                 }
               ],
               "width": "8231"
@@ -1349,7 +1797,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Modify"
+                  "text": "Modify "
                 }
               ],
               "width": "826"
@@ -1358,11 +1806,19 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex A2 External lights A2.1 Applicability"
+                  "text": "Annex A2 External lightsA2.1  Applicability"
                 },
                 {
                   "style": "TableChar",
-                  "text": "A2.1.1 If external lights are installed they must comply with Annex A2 as amended by this CS-LSA.A2.7.2 to A2.7.4.2 and A2.7.4.4 ."
+                  "text": "A2.1.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": " If external lights are installed they must comply with Annex A2 as amended by this CS-LSA.A2.7.2 to A2.7.4.2 and A2.7.4.4."
                 }
               ],
               "width": "8231"
@@ -1382,7 +1838,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex A 2 Chapters A2.2 – A2.7.1.5 and Chapter A2.7.4.3 and Chapters A.2.8 – A.2.11.2"
+                  "text": "Annex A2Chapters A2.2 – A2.7.1.5 and Chapter A2.7.4.3 andChapters A.2.8 – A.2.11.2"
                 }
               ],
               "width": "8231"
@@ -1394,7 +1850,7 @@
         "type": "paragraph",
         "index": 128,
         "level": -1,
-        "text": "[ Amdt LSA/1 ]",
+        "text": "[Amdt LSA/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -1414,14 +1870,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC 1 to ASTM F2245-12d Sub-chapter 6.2 Materials",
+        "text": "AMC1 to ASTM F2245-12d Sub-chapter 6.2 Materials",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3/015 /R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -1467,7 +1923,7 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "Glass rovings in epoxy resin Carbon fibre rovings in epoxy resin Wood Aluminium Alloy Steel Alloy"
+                  "text": "Glass rovings in epoxy resinCarbon fibre rovings in epoxy resinWoodAluminium AlloySteel Alloy"
                 }
               ],
               "width": "3679"
@@ -1476,7 +1932,7 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "25 daN/mm 2 40 daN/mm 2 According to ANC-18* Half of rupture tensile strength Half of rupture tensile strength"
+                  "text": "25 daN/mm240 daN/mm2According to ANC-18*Half of rupture tensile strengthHalf of rupture tensile strength"
                 }
               ],
               "width": "4790"
@@ -1551,7 +2007,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC 1 to ASTM F2245-12d Annex A1.1 Applicability",
+        "text": "AMC1 to ASTM F2245-12d Annex A1.1 Applicability",
         "pStyle": "Heading3AMC"
       },
       {
@@ -1599,7 +2055,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC 1 to ASTM F2245-12d Annex A1.7 Operating Limitations",
+        "text": "AMC1 to ASTM F2245-12d Annex A1.7 Operating Limitations",
         "pStyle": "Heading3AMC"
       },
       {
@@ -1613,7 +2069,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Tests acco rding A1.2 - A1.4 with at least 3 different glider types representing critical combinations of maximum and minimum weight, aerodynamic characteristics, maximum and minimum speeds, ground handling, and environmental conditions could be regarded acceptable to cover the representative fleet of all kind of requested gliders."
+        "text": "Tests according A1.2 - A1.4 with at least 3 different glider types representing critical combinations of maximum and minimum weight, aerodynamic characteristics, maximum and minimum speeds, ground handling, and environmental conditions could be regarded acceptable to cover the representative fleet of all kind of requested gliders."
       },
       {
         "type": "paragraph",
@@ -1639,14 +2095,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS- LSA.20 Flight Manual or Pilot’s Operating Manual",
+        "text": "CS-LSA.20  Flight Manual or Pilot’s Operating Manual",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -1659,7 +2115,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "Each part of the Flight Manual containing information required by the following chapters or paragraphs of a Pilot’s Operating Handbook according to F2746- 12 :",
+        "text": "Each part of the Flight Manual containing information required by the following chapters or paragraphs of a Pilot’s Operating Handbook according to F2746-12:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1730,7 +2186,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 0,
-        "text": "Non-approved information must be presented in a m anner acceptable to the Agency.",
+        "text": "Non-approved information must be presented in a manner acceptable to the Agency.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1738,7 +2194,7 @@
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "[ Amdt LSA/1]",
+        "text": "[Amdt LSA/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -1758,21 +2214,21 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS-LSA.25 Standard Specification for P ilot’s Operating Handbook (POH)",
+        "text": "CS-LSA.25  Standard Specification for Pilot’s Operating Handbook (POH)",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "If a Pilot’s Operating Manual is provided to comply with CS-LSA.20 , it shall comply wit h ASTM F2746-12 including all Annexes and Appendices, except as modified by the following table."
+        "text": "If a Pilot’s Operating Manual is provided to comply with CS-LSA.20, it shall comply with ASTM F2746-12 including all Annexes and Appendices, except as modified by the following table."
       },
       {
         "type": "table",
@@ -1831,7 +2287,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "3. 1.1"
+                  "text": "3.1.1"
                 }
               ],
               "width": "7994"
@@ -1871,7 +2327,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "6.4.1 A list of the standards used for the design, construction, continued airworthiness, and reference compli ance with this standard"
+                  "text": "6.4.1 A list of the standards used for the design, construction, continued airworthiness, and reference compliance with this standard"
                 }
               ],
               "width": "7994"
@@ -1891,7 +2347,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "6.13.3"
+                  "text": "6.13.3 "
                 }
               ],
               "width": "7994"
@@ -1911,7 +2367,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "7"
+                  "text": "7 "
                 }
               ],
               "width": "7994"
@@ -1943,14 +2399,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS-LSA.30 Maintenance manual",
+        "text": "CS-LSA.30  Maintenance manual",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -1973,7 +2429,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The Maintenance Manual shall comply with ASTM F2483- 12 including all Annexes and Appendices, except as modified by the following table.",
+        "text": "The Maintenance Manual shall comply with ASTM F2483-12 including all Annexes and Appendices, except as modified by the following table.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -2214,7 +2670,39 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "5.3 When listing the level of qualification needed to perform a task, the applicant shall use one of the following qualifications from the applicable regulations of Part- M and Part-66 for ELA1 aircraft maintenance: (1) Maintenance personnel of a Part-M, Section A Sub part F maintenance organisation; (2) Independent certifying staff qualified in accordance with Part-66 ; (3) Pilot/Owner qualified in accordance with M.A.803."
+                  "text": "5.3"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "When listing the level of qualification needed to perform a task, the applicant shall use one of the following qualifications from the applicable regulations of Part-M and Part-66 for ELA1 aircraft maintenance:(1)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Maintenance personnel of a Part-M, Section A Subpart F maintenance organisation;(2)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Independent certifying staff qualified in accordance with Part-66;(3)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Pilot/Owner qualified in accordance with M.A.803."
                 }
               ],
               "width": "7545"
@@ -2254,7 +2742,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "6.1 Authorisation to Perform — Part-M and Part- 66 must be consulted for minimum authorisation to perform line maintenance, repairs and alterations of LSA aircraft."
+                  "text": "6.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Authorisation to Perform — Part-M and Part-66 must be consulted for minimum authorisation to perform line maintenance, repairs and alterations of LSA aircraft."
                 }
               ],
               "width": "7545"
@@ -2294,7 +2790,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "7.1 Authorisation to Perform — Part-M and Part- 66 must be consulted for minimum authorisation to perform heavy maintenance, repairs and alterations of LSA aircraft."
+                  "text": "7.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Authorisation to Perform — Part-M and Part-66 must be consulted for minimum authorisation to perform heavy maintenance, repairs and alterations of LSA aircraft."
                 }
               ],
               "width": "7545"
@@ -2446,14 +2950,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS-LSA.35 Applicable Specifications for engines",
+        "text": "CS-LSA.35  Applicable Specifications for engines",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 1/005/R",
+        "text": "ED Decision 2011/005/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -2701,7 +3205,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS-LSA.37 Applicable Specifications for Electric Propulsion Units (EPU)",
+        "text": "CS-LSA.37  Applicable Specifications for Electric Propulsion Units (EPU)",
         "pStyle": "Heading2CS"
       },
       {
@@ -2752,7 +3256,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "delete"
+                  "text": "delete "
                 }
               ],
               "width": "1120"
@@ -2793,7 +3297,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "[ Amdt LSA/1]",
+        "text": "[Amdt LSA/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -2813,21 +3317,21 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS-LSA.40 Applicable Specifications for propellers",
+        "text": "CS-LSA.40  Applicable Specifications for propellers",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Installed propellers shall comply with ASTM F2506-10 , 14 CFR Part 35, CS-P, or CS-22 Subpart J standards."
+        "text": "Installed propellers shall comply with ASTM F2506-10, 14 CFR Part 35, CS-P, or CS-22 Subpart J standards."
       },
       {
         "type": "paragraph",
@@ -2892,7 +3396,31 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "5.6 Pitch Control 5.6.1 Failure of the propeller pitch control may not cause hazardous overspeeding under intended operation conditions. 5.6.2 If the propeller can be feathered, the control system must be designed to minimize 1) consequential hazards, such as a propeller runaway resulting from malfunction or failure of the control system, and 2) the possibility of an unintentional operation."
+                  "text": "5.6"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Pitch Control5.6.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Failure of the propeller pitch control may not cause hazardous overspeeding under intended operation conditions.5.6.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "If the propeller can be feathered, the control system must be designed to minimize 1) consequential hazards, such as a propeller runaway resulting from malfunction or failure of the control system, and 2) the possibility of an unintentional operation."
                 }
               ],
               "width": "8077"
@@ -2912,7 +3440,15 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "6.5.1 After completion of each test prescribed in Section 6 of this specification, the propeller must be completely disassembled and a detailed inspection must be made of the propeller parts for cracks, wear, distortion, and any other unusual conditions."
+                  "text": "6.5.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "After completion of each test prescribed in Section 6 of this specification, the propeller must be completely disassembled and a detailed inspection must be made of the propeller parts for cracks, wear, distortion, and any other unusual conditions."
                 }
               ],
               "width": "8077"
@@ -2932,7 +3468,39 @@
               "content": [
                 {
                   "style": "TableChar",
-                  "text": "6.7 Function Test 6.7.1 Each variable pitch propeller must be subjected to all applicable functional tests of this paragraph. The same propeller used in the endurance test must be used in the functional test and must be driven by an engine on a test stand or on a powered sailplane. 6.7.2 Manually controllable propellers — 500 complete cycles of control throughout the pitch and rotational speed ranges, excluding the feathering range. 6.7.3 Automatically controlled propellers — 1 500 complete cycles of control throughout the pitch and rotational speed ranges, excluding the feathering range."
+                  "text": "6.7"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Function Test6.7.1"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Each variable pitch propeller must be subjected to all applicable functional tests of this paragraph. The same propeller used in the endurance test must be used in the functional test and must be driven by an engine on a test stand or on a powered sailplane.6.7.2"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Manually controllable propellers — 500 complete cycles of control throughout the pitch and rotational speed ranges, excluding the feathering range.6.7.3"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "TableChar",
+                  "text": "Automatically controlled propellers — 1 500 complete cycles of control throughout the pitch and rotational speed ranges, excluding the feathering range."
                 }
               ],
               "width": "8077"
@@ -2964,27 +3532,27 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS- LSA.45 Applicable Specifications for airframe emergency parachutes",
+        "text": "CS-LSA.45  Applicable Specifications for airframe emergency parachutes",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 1 3 /0 1 5/R",
+        "text": "ED Decision 2013/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Installed Airframe Emergency Parachutes and installations of such systems shall comply with ASTM F2316-12 ."
+        "text": "Installed Airframe Emergency Parachutes and installations of such systems shall comply with ASTM F2316-12."
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "ASTM F2316- 12 applies, including all Annexes and Appendices, except as modified by the following table:"
+        "text": "ASTM F2316-12 applies, including all Annexes and Appendices, except as modified by the following table:"
       },
       {
         "type": "table",
@@ -3003,7 +3571,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1. 4"
+                  "text": "1.4"
                 }
               ],
               "width": "8021"
@@ -3014,7 +3582,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "delete"
+                  "text": "delete "
                 }
               ],
               "width": "1064"
@@ -3035,7 +3603,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "[ Amdt LSA/1]",
+        "text": "[Amdt LSA/1]",
         "pStyle": "TableNormal0"
       }
     ]

@@ -51,7 +51,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "All elements ( i.e. CS s , AMC and GM ) are colour -coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the CS, AMC, or GM was introduced or last amended is indicated below the CS, AMC, or GM title in italics ."
+        "text": "All elements (i.e. CSs, AMC and GM) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the CS, AMC, or GM was introduced or last amended is indicated below the CS, AMC, or GM title in italics."
       },
       {
         "type": "table",
@@ -61,7 +61,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Certification specification ED decision Acceptable means of compliance ED decision Guidance material ED decision"
+                  "text": "Certification specificationED decisionAcceptable means of complianceED decisionGuidance materialED decision"
                 }
               ],
               "width": "9019"
@@ -80,7 +80,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -98,14 +98,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "CS/AMC ( ED decisions )",
+        "text": "CS/AMC (ED decisions)",
         "pStyle": "NoTocHeading2"
       },
       {
@@ -154,7 +154,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS- 23 / Initial i ssue"
+                  "text": "CS-23/ Initial issue "
                 }
               ],
               "width": "3261"
@@ -163,7 +163,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1 4/11 /200 3"
+                  "text": "14/11/2003"
                 }
               ],
               "width": "2927"
@@ -319,7 +319,7 @@
               "content": [
                 {
                   "style": "Hyperlink",
-                  "text": "ED Decision 2023/0 0 2/R"
+                  "text": "ED Decision 2023/002/R"
                 }
               ],
               "width": "2926"
@@ -337,7 +337,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "8 /3/ 2023"
+                  "text": "8/3/2023"
                 }
               ],
               "width": "2927"
@@ -370,7 +370,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC /GM Issue No, Amendment No"
+                  "text": "AMC/GM Issue No, Amendment No"
                 }
               ],
               "width": "3261"
@@ -477,7 +477,7 @@
               "content": [
                 {
                   "style": "Hyperlink",
-                  "text": "ED Decision 2 0 23/002/R"
+                  "text": "ED Decision 2023/002/R"
                 }
               ],
               "width": "2926"
@@ -507,7 +507,7 @@
         "type": "paragraph",
         "index": 43,
         "level": -1,
-        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
         "pRStyle": "Italic"
       }
     ]
@@ -567,7 +567,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -630,7 +630,7 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "GM2 23.2010 Accepted means of compliance 21",
+        "text": "GM2 23.2010 Accepted means of compliance 21",
         "pStyle": "TOC3"
       },
       {
@@ -700,7 +700,7 @@
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "AMC3 23.21 0 5 Performance data 28",
+        "text": "AMC3 23.2105 Performance data 28",
         "pStyle": "TOC3"
       },
       {
@@ -728,7 +728,7 @@
         "type": "paragraph",
         "index": 30,
         "level": -1,
-        "text": "AM C3 23.2110 Stall speed 29",
+        "text": "AMC3 23.2110 Stall speed 29",
         "pStyle": "TOC3"
       },
       {
@@ -756,7 +756,7 @@
         "type": "paragraph",
         "index": 34,
         "level": -1,
-        "text": "AM C3 23 .2115 Take-off performance 30",
+        "text": "AMC3 23.2115 Take-off performance 30",
         "pStyle": "TOC3"
       },
       {
@@ -840,7 +840,7 @@
         "type": "paragraph",
         "index": 46,
         "level": -1,
-        "text": "AM C3 23.2130 Landing 32",
+        "text": "AMC3 23.2130 Landing 32",
         "pStyle": "TOC3"
       },
       {
@@ -868,7 +868,7 @@
         "type": "paragraph",
         "index": 50,
         "level": -1,
-        "text": "AM C3 23.2135 Controllability 33",
+        "text": "AMC3 23.2135 Controllability 33",
         "pStyle": "TOC3"
       },
       {
@@ -896,7 +896,7 @@
         "type": "paragraph",
         "index": 54,
         "level": -1,
-        "text": "AM C3 23.2140 Trim 34",
+        "text": "AMC3 23.2140 Trim 34",
         "pStyle": "TOC3"
       },
       {
@@ -910,7 +910,7 @@
         "type": "paragraph",
         "index": 56,
         "level": -1,
-        "text": "AMC1 23.2145 Stability 34",
+        "text": "AMC1 23.2145 Stability 34",
         "pStyle": "TOC3"
       },
       {
@@ -924,7 +924,7 @@
         "type": "paragraph",
         "index": 58,
         "level": -1,
-        "text": "AM C3 23.2145 Stability 35",
+        "text": "AMC3 23.2145 Stability 35",
         "pStyle": "TOC3"
       },
       {
@@ -952,7 +952,7 @@
         "type": "paragraph",
         "index": 62,
         "level": -1,
-        "text": "AM C3 23.2150 Stall characteristics, stall warning, and spins 36",
+        "text": "AMC3 23.2150 Stall characteristics, stall warning, and spins 36",
         "pStyle": "TOC3"
       },
       {
@@ -980,7 +980,7 @@
         "type": "paragraph",
         "index": 66,
         "level": -1,
-        "text": "AM C3 23.2155 Ground- and water-handling characteristics 36",
+        "text": "AMC3 23.2155 Ground- and water-handling characteristics 36",
         "pStyle": "TOC3"
       },
       {
@@ -994,7 +994,7 @@
         "type": "paragraph",
         "index": 68,
         "level": -1,
-        "text": "AMC1 23.2160 Vibration, buffeting, and high-speed characteristics 37",
+        "text": "AMC1 23.2160 Vibration, buffeting, and high-speed characteristics 37",
         "pStyle": "TOC3"
       },
       {
@@ -1008,7 +1008,7 @@
         "type": "paragraph",
         "index": 70,
         "level": -1,
-        "text": "AM C3 23.2160 Vibration, buffeting, and high-speed characteristics 37",
+        "text": "AMC3 23.2160 Vibration, buffeting, and high-speed characteristics 37",
         "pStyle": "TOC3"
       },
       {
@@ -1071,7 +1071,7 @@
         "type": "paragraph",
         "index": 79,
         "level": -1,
-        "text": "AM C3 23.2170 Operating limitations 39",
+        "text": "AMC3 23.2170 Operating limitations 39",
         "pStyle": "TOC4"
       },
       {
@@ -1106,7 +1106,7 @@
         "type": "paragraph",
         "index": 84,
         "level": -1,
-        "text": "AM C3 23.2200 Structural design envelope 40",
+        "text": "AMC3 23.2200 Structural design envelope 40",
         "pStyle": "TOC3"
       },
       {
@@ -1155,7 +1155,7 @@
         "type": "paragraph",
         "index": 91,
         "level": -1,
-        "text": "AMC1 23.22 10 Structural-design loads 42",
+        "text": "AMC1 23.2210 Structural-design loads 42",
         "pStyle": "TOC4"
       },
       {
@@ -1169,7 +1169,7 @@
         "type": "paragraph",
         "index": 93,
         "level": -1,
-        "text": "AM C3 23.2210 Structural-design loads 42",
+        "text": "AMC3 23.2210 Structural-design loads 42",
         "pStyle": "TOC4"
       },
       {
@@ -1183,7 +1183,7 @@
         "type": "paragraph",
         "index": 95,
         "level": -1,
-        "text": "AMC1 23.22 15 Flight load conditions 43",
+        "text": "AMC1 23.2215 Flight load conditions 43",
         "pStyle": "TOC4"
       },
       {
@@ -1197,7 +1197,7 @@
         "type": "paragraph",
         "index": 97,
         "level": -1,
-        "text": "AM C3 23.2015 Flight load conditions 43",
+        "text": "AMC3 23.2015 Flight load conditions 43",
         "pStyle": "TOC4"
       },
       {
@@ -1211,7 +1211,7 @@
         "type": "paragraph",
         "index": 99,
         "level": -1,
-        "text": "AMC1 23.22 20 Ground and water load conditions 43",
+        "text": "AMC1 23.2220 Ground and water load conditions 43",
         "pStyle": "TOC4"
       },
       {
@@ -1225,7 +1225,7 @@
         "type": "paragraph",
         "index": 101,
         "level": -1,
-        "text": "AM C3 23.2220 Ground and water load conditions 44",
+        "text": "AMC3 23.2220 Ground and water load conditions 44",
         "pStyle": "TOC4"
       },
       {
@@ -1239,7 +1239,7 @@
         "type": "paragraph",
         "index": 103,
         "level": -1,
-        "text": "AMC1 23.22 25 Component loading conditions 45",
+        "text": "AMC1 23.2225 Component loading conditions 45",
         "pStyle": "TOC4"
       },
       {
@@ -1253,7 +1253,7 @@
         "type": "paragraph",
         "index": 105,
         "level": -1,
-        "text": "AM C3 23.2225 Component loading conditions 45",
+        "text": "AMC3 23.2225 Component loading conditions 45",
         "pStyle": "TOC4"
       },
       {
@@ -1267,7 +1267,7 @@
         "type": "paragraph",
         "index": 107,
         "level": -1,
-        "text": "AMC1 23.22 30 Limit and ultimate loads 46",
+        "text": "AMC1 23.2230 Limit and ultimate loads 46",
         "pStyle": "TOC4"
       },
       {
@@ -1281,7 +1281,7 @@
         "type": "paragraph",
         "index": 109,
         "level": -1,
-        "text": "AM C3 23.2230 Limit and ultimate loads 47",
+        "text": "AMC3 23.2230 Limit and ultimate loads 47",
         "pStyle": "TOC4"
       },
       {
@@ -1302,7 +1302,7 @@
         "type": "paragraph",
         "index": 112,
         "level": -1,
-        "text": "AMC1 23.22 35 Structural strength 47",
+        "text": "AMC1 23.2235 Structural strength 47",
         "pStyle": "TOC4"
       },
       {
@@ -1316,7 +1316,7 @@
         "type": "paragraph",
         "index": 114,
         "level": -1,
-        "text": "AM C3 23.2235 Structural strength 48",
+        "text": "AMC3 23.2235 Structural strength 48",
         "pStyle": "TOC4"
       },
       {
@@ -1330,7 +1330,7 @@
         "type": "paragraph",
         "index": 116,
         "level": -1,
-        "text": "AMC1 23.22 40 Structural durability 48",
+        "text": "AMC1 23.2240 Structural durability 48",
         "pStyle": "TOC4"
       },
       {
@@ -1344,7 +1344,7 @@
         "type": "paragraph",
         "index": 118,
         "level": -1,
-        "text": "AM C3 23.2240 Structural durability 49",
+        "text": "AMC3 23.2240 Structural durability 49",
         "pStyle": "TOC4"
       },
       {
@@ -1358,7 +1358,7 @@
         "type": "paragraph",
         "index": 120,
         "level": -1,
-        "text": "AMC1 23.22 45 Aeroelasticity 49",
+        "text": "AMC1 23.2245 Aeroelasticity 49",
         "pStyle": "TOC4"
       },
       {
@@ -1372,7 +1372,7 @@
         "type": "paragraph",
         "index": 122,
         "level": -1,
-        "text": "AM C3 23.2245 Aeroelasticity 50",
+        "text": "AMC3 23.2245 Aeroelasticity 50",
         "pStyle": "TOC4"
       },
       {
@@ -1386,7 +1386,7 @@
         "type": "paragraph",
         "index": 124,
         "level": -1,
-        "text": "AMC1 23.22 50 Design and construction principles 50",
+        "text": "AMC1 23.2250 Design and construction principles 50",
         "pStyle": "TOC4"
       },
       {
@@ -1400,7 +1400,7 @@
         "type": "paragraph",
         "index": 126,
         "level": -1,
-        "text": "AM C3 23.2250 Design and construction principles 51",
+        "text": "AMC3 23.2250 Design and construction principles 51",
         "pStyle": "TOC4"
       },
       {
@@ -1414,7 +1414,7 @@
         "type": "paragraph",
         "index": 128,
         "level": -1,
-        "text": "AMC1 23.22 55 Protection of structure 51",
+        "text": "AMC1 23.2255 Protection of structure 51",
         "pStyle": "TOC4"
       },
       {
@@ -1428,7 +1428,7 @@
         "type": "paragraph",
         "index": 130,
         "level": -1,
-        "text": "AM C3 23.2255 Protection of structure 52",
+        "text": "AMC3 23.2255 Protection of structure 52",
         "pStyle": "TOC4"
       },
       {
@@ -1442,7 +1442,7 @@
         "type": "paragraph",
         "index": 132,
         "level": -1,
-        "text": "AMC1 23.22 60 Materials and processes 52",
+        "text": "AMC1 23.2260 Materials and processes 52",
         "pStyle": "TOC4"
       },
       {
@@ -1456,7 +1456,7 @@
         "type": "paragraph",
         "index": 134,
         "level": -1,
-        "text": "AM C3 23.2260 Materials and processes 53",
+        "text": "AMC3 23.2260 Materials and processes 53",
         "pStyle": "TOC4"
       },
       {
@@ -1470,7 +1470,7 @@
         "type": "paragraph",
         "index": 136,
         "level": -1,
-        "text": "AMC1 23.22 65 Special factors of safety 53",
+        "text": "AMC1 23.2265 Special factors of safety 53",
         "pStyle": "TOC4"
       },
       {
@@ -1484,7 +1484,7 @@
         "type": "paragraph",
         "index": 138,
         "level": -1,
-        "text": "AM C3 23.2265 Special factors of safety 54",
+        "text": "AMC3 23.2265 Special factors of safety 54",
         "pStyle": "TOC4"
       },
       {
@@ -1505,7 +1505,7 @@
         "type": "paragraph",
         "index": 141,
         "level": -1,
-        "text": "AMC1 23.22 70 Emergency c onditions 55",
+        "text": "AMC1 23.2270 Emergency conditions 55",
         "pStyle": "TOC4"
       },
       {
@@ -1519,7 +1519,7 @@
         "type": "paragraph",
         "index": 143,
         "level": -1,
-        "text": "AM C3 23.2270 Emergency Conditions 55",
+        "text": "AMC3 23.2270 Emergency Conditions 55",
         "pStyle": "TOC4"
       },
       {
@@ -1540,7 +1540,7 @@
         "type": "paragraph",
         "index": 146,
         "level": -1,
-        "text": "AMC1 23.2300 Flight control systems 57",
+        "text": "AMC1 23.2300 Flight control systems 57",
         "pStyle": "TOC3"
       },
       {
@@ -1554,7 +1554,7 @@
         "type": "paragraph",
         "index": 148,
         "level": -1,
-        "text": "AM C3 23.2300 Flight control systems 58",
+        "text": "AMC3 23.2300 Flight control systems 58",
         "pStyle": "TOC3"
       },
       {
@@ -1582,7 +1582,7 @@
         "type": "paragraph",
         "index": 152,
         "level": -1,
-        "text": "AM C3 23.2305 Landing gear systems 59",
+        "text": "AMC3 23.2305 Landing gear systems 59",
         "pStyle": "TOC3"
       },
       {
@@ -1596,7 +1596,7 @@
         "type": "paragraph",
         "index": 154,
         "level": -1,
-        "text": "AMC1 23.2310 Buoyancy for seaplanes and amphibians 59",
+        "text": "AMC1 23.2310 Buoyancy for seaplanes and amphibians 59",
         "pStyle": "TOC3"
       },
       {
@@ -1610,7 +1610,7 @@
         "type": "paragraph",
         "index": 156,
         "level": -1,
-        "text": "AM C3 23.2310 Buoyancy for seaplanes and amphibians 59",
+        "text": "AMC3 23.2310 Buoyancy for seaplanes and amphibians 59",
         "pStyle": "TOC3"
       },
       {
@@ -1631,7 +1631,7 @@
         "type": "paragraph",
         "index": 159,
         "level": -1,
-        "text": "AMC1 23.231 5 Means of egress and emergency exits 60",
+        "text": "AMC1 23.2315 Means of egress and emergency exits 60",
         "pStyle": "TOC4"
       },
       {
@@ -1645,7 +1645,7 @@
         "type": "paragraph",
         "index": 161,
         "level": -1,
-        "text": "AM C3 23.2315 Means of egress and emergency exits 60",
+        "text": "AMC3 23.2315 Means of egress and emergency exits 60",
         "pStyle": "TOC4"
       },
       {
@@ -1673,7 +1673,7 @@
         "type": "paragraph",
         "index": 165,
         "level": -1,
-        "text": "AM C3 23.2320 Occupant physical environment 62",
+        "text": "AMC3 23.2320 Occupant physical environment 62",
         "pStyle": "TOC4"
       },
       {
@@ -1708,7 +1708,7 @@
         "type": "paragraph",
         "index": 170,
         "level": -1,
-        "text": "AM C3 23.2325 Fire protection 63",
+        "text": "AMC3 23.2325 Fire protection 63",
         "pStyle": "TOC4"
       },
       {
@@ -1736,7 +1736,7 @@
         "type": "paragraph",
         "index": 174,
         "level": -1,
-        "text": "AM C3 23.2330 Fire protection in designated fire zones 64",
+        "text": "AMC3 23.2330 Fire protection in designated fire zones 64",
         "pStyle": "TOC4"
       },
       {
@@ -1764,7 +1764,7 @@
         "type": "paragraph",
         "index": 178,
         "level": -1,
-        "text": "AM C3 23.2335 Lightning protection 65",
+        "text": "AMC3 23.2335 Lightning protection 65",
         "pStyle": "TOC4"
       },
       {
@@ -1778,21 +1778,21 @@
         "type": "paragraph",
         "index": 180,
         "level": -1,
-        "text": "AMC1 23.234 0 Design and construction information 65",
+        "text": "AMC1 23.2340 Design and construction information 65",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 181,
         "level": -1,
-        "text": "AMC2 23.234 0 Design and construction information 65",
+        "text": "AMC2 23.2340 Design and construction information 65",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 182,
         "level": -1,
-        "text": "AM C3 23.2340 Design and construction information 65",
+        "text": "AMC3 23.2340 Design and construction information 65",
         "pStyle": "TOC4"
       },
       {
@@ -1827,7 +1827,7 @@
         "type": "paragraph",
         "index": 187,
         "level": -1,
-        "text": "AM C3 23.2400 Powerplant installation 68",
+        "text": "AMC3 23.2400 Powerplant installation 68",
         "pStyle": "TOC3"
       },
       {
@@ -1869,7 +1869,7 @@
         "type": "paragraph",
         "index": 193,
         "level": -1,
-        "text": "AMC1 23.2410 Powerplant installation hazard assessment 70",
+        "text": "AMC1 23.2410 Powerplant installation hazard assessment 70",
         "pStyle": "TOC3"
       },
       {
@@ -1883,7 +1883,7 @@
         "type": "paragraph",
         "index": 195,
         "level": -1,
-        "text": "AM C3 23.2410 Powerplant installation hazard assessment 70",
+        "text": "AMC3 23.2410 Powerplant installation hazard assessment 70",
         "pStyle": "TOC3"
       },
       {
@@ -1911,7 +1911,7 @@
         "type": "paragraph",
         "index": 199,
         "level": -1,
-        "text": "AM C3 23.2415 Powerplant installation ice protection 71",
+        "text": "AMC3 23.2415 Powerplant installation ice protection 71",
         "pStyle": "TOC3"
       },
       {
@@ -1932,7 +1932,7 @@
         "type": "paragraph",
         "index": 202,
         "level": -1,
-        "text": "AMC1 23.2425 Powerplant operational characteristics 72",
+        "text": "AMC1 23.2425 Powerplant operational characteristics 72",
         "pStyle": "TOC3"
       },
       {
@@ -1946,14 +1946,14 @@
         "type": "paragraph",
         "index": 204,
         "level": -1,
-        "text": "AM C3 23.2425 Powerplant operational characteristics 72",
+        "text": "AMC3 23.2425 Powerplant operational characteristics 72",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 205,
         "level": -1,
-        "text": "CS 23.2430 Powerplant installation, energy storage and distribution systems 73",
+        "text": "CS 23.2430 Powerplant installation, energy storage and distribution           systems 73",
         "pStyle": "TOC2"
       },
       {
@@ -1974,7 +1974,7 @@
         "type": "paragraph",
         "index": 208,
         "level": -1,
-        "text": "AM C3 23.2430 Powerplant installation, energy storage and distribution systems 75",
+        "text": "AMC3 23.2430 Powerplant installation, energy storage and distribution systems 75",
         "pStyle": "TOC3"
       },
       {
@@ -2002,7 +2002,7 @@
         "type": "paragraph",
         "index": 212,
         "level": -1,
-        "text": "AM C3 23.2435 Powerplant installation support systems 76",
+        "text": "AMC3 23.2435 Powerplant installation support systems 76",
         "pStyle": "TOC3"
       },
       {
@@ -2030,7 +2030,7 @@
         "type": "paragraph",
         "index": 216,
         "level": -1,
-        "text": "AM C3 23.2440 Powerplant installation fire protection 77",
+        "text": "AMC3 23.2440 Powerplant installation fire protection 77",
         "pStyle": "TOC3"
       },
       {
@@ -2058,7 +2058,7 @@
         "type": "paragraph",
         "index": 220,
         "level": -1,
-        "text": "AM C3 23.2445 Powerplant installation information 78",
+        "text": "AMC3 23.2445 Powerplant installation information 78",
         "pStyle": "TOC3"
       },
       {
@@ -2093,14 +2093,14 @@
         "type": "paragraph",
         "index": 225,
         "level": -1,
-        "text": "AM C3 23.2500 General requirements on systems and equipment function 80",
+        "text": "AMC3 23.2500 General requirements on systems and equipment function 80",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 226,
         "level": -1,
-        "text": "GM 23.2500(b) General requirements on systems and equipment function 81",
+        "text": "GM 23.2500(b) General requirements on systems and equipment function 81",
         "pStyle": "TOC3"
       },
       {
@@ -2128,7 +2128,7 @@
         "type": "paragraph",
         "index": 230,
         "level": -1,
-        "text": "AM C3 23.2505 General requirements on equipment installation 82",
+        "text": "AMC3 23.2505 General requirements on equipment installation 82",
         "pStyle": "TOC3"
       },
       {
@@ -2156,7 +2156,7 @@
         "type": "paragraph",
         "index": 234,
         "level": -1,
-        "text": "AM C3 23.2510 Equipment, systems, and installations 83",
+        "text": "AMC3 23.2510 Equipment, systems, and installations 83",
         "pStyle": "TOC3"
       },
       {
@@ -2170,7 +2170,7 @@
         "type": "paragraph",
         "index": 236,
         "level": -1,
-        "text": "AMC1 23.2515 Electrical and electronic system lightning protection 84",
+        "text": "AMC1 23.2515 Electrical and electronic system lightning protection 84",
         "pStyle": "TOC3"
       },
       {
@@ -2226,7 +2226,7 @@
         "type": "paragraph",
         "index": 244,
         "level": -1,
-        "text": "AMC1 23.2525 System power generation, storage, and distribution 86",
+        "text": "AMC1 23.2525 System power generation, storage, and distribution 86",
         "pStyle": "TOC3"
       },
       {
@@ -2240,7 +2240,7 @@
         "type": "paragraph",
         "index": 246,
         "level": -1,
-        "text": "AM C3 23.2525 System power generation, storage, and distribution 87",
+        "text": "AMC3 23.2525 System power generation, storage, and distribution 87",
         "pStyle": "TOC3"
       },
       {
@@ -2268,7 +2268,7 @@
         "type": "paragraph",
         "index": 250,
         "level": -1,
-        "text": "AM C3 23.2530 External and cockpit lighting 88",
+        "text": "AMC3 23.2530 External and cockpit lighting 88",
         "pStyle": "TOC3"
       },
       {
@@ -2282,7 +2282,7 @@
         "type": "paragraph",
         "index": 252,
         "level": -1,
-        "text": "AMC1 23.2535 Safety equipment 88",
+        "text": "AMC1 23.2535 Safety equipment 88",
         "pStyle": "TOC3"
       },
       {
@@ -2296,7 +2296,7 @@
         "type": "paragraph",
         "index": 254,
         "level": -1,
-        "text": "AM C3 23.2535 Safety equipment 89",
+        "text": "AMC3 23.2535 Safety equipment 89",
         "pStyle": "TOC3"
       },
       {
@@ -2310,7 +2310,7 @@
         "type": "paragraph",
         "index": 256,
         "level": -1,
-        "text": "AMC1 23.2540 Flight in icing conditions 89",
+        "text": "AMC1 23.2540 Flight in icing conditions 89",
         "pStyle": "TOC3"
       },
       {
@@ -2373,7 +2373,7 @@
         "type": "paragraph",
         "index": 265,
         "level": -1,
-        "text": "AMC1 23.2555 Installation of recorders ( e.g. cockpit voice reco rders and flight data recorders) 91",
+        "text": "AMC1 23.2555 Installation of recorders (e.g. cockpit voice recorders and flight data recorders) 91",
         "pStyle": "TOC3"
       },
       {
@@ -2422,7 +2422,7 @@
         "type": "paragraph",
         "index": 272,
         "level": -1,
-        "text": "AM C3 23.2600 Flight crew compartment 93",
+        "text": "AMC3 23.2600 Flight crew compartment 93",
         "pStyle": "TOC3"
       },
       {
@@ -2478,7 +2478,7 @@
         "type": "paragraph",
         "index": 280,
         "level": -1,
-        "text": "AM C3 23.2610 Instrument markings, control markings and placards 97",
+        "text": "AMC3 23.2610 Instrument markings, control markings and placards 97",
         "pStyle": "TOC3"
       },
       {
@@ -2506,7 +2506,7 @@
         "type": "paragraph",
         "index": 284,
         "level": -1,
-        "text": "AM C3 23.2615 Flight, navigation, and powerplant instruments 98",
+        "text": "AMC3 23.2615 Flight, navigation, and powerplant instruments 98",
         "pStyle": "TOC3"
       },
       {
@@ -2534,7 +2534,7 @@
         "type": "paragraph",
         "index": 288,
         "level": -1,
-        "text": "AM C3 23.2620 Aeroplane Flight Manual 99",
+        "text": "AMC3 23.2620 Aeroplane Flight Manual 99",
         "pStyle": "TOC3"
       },
       {
@@ -2562,7 +2562,7 @@
         "type": "paragraph",
         "index": 292,
         "level": -1,
-        "text": "AM C3 23.2625 Instructions for Continued Airworthiness 100",
+        "text": "AMC3 23.2625 Instructions for Continued Airworthiness 100",
         "pStyle": "TOC3"
       }
     ]
@@ -2588,7 +2588,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 2023/00 2/R",
+        "text": "ED Decision 2023/002/R",
         "pStyle": "Dxshortdesc",
         "pRStyle": "Bold"
       },
@@ -2603,7 +2603,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The following is a list of paragr aphs affected by this amendment:"
+        "text": "The following is a list of paragraphs affected by this amendment:"
       },
       {
         "type": "table",
@@ -2638,7 +2638,7 @@
                 },
                 {
                   "style": "Hyperlink",
-                  "text": "NPA 202 2 -103"
+                  "text": "NPA 2022-103"
                 },
                 {
                   "style": null,
@@ -2653,7 +2653,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GM2 23.2010"
+                  "text": "GM2 23.2010 "
                 }
               ],
               "width": "4490"
@@ -2673,7 +2673,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GM3 23.2010"
+                  "text": "GM3 23.2010 "
                 }
               ],
               "width": "4490"
@@ -2718,7 +2718,7 @@
                 },
                 {
                   "style": "Hyperlink",
-                  "text": "NPA 202 2 -103"
+                  "text": "NPA 2022-103"
                 },
                 {
                   "style": null,
@@ -2733,7 +2733,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.2105"
+                  "text": "AMC1 23.2105 "
                 }
               ],
               "width": "4490"
@@ -2853,7 +2853,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS 23. 2135"
+                  "text": "CS 23.2135 "
                 }
               ],
               "width": "4490"
@@ -3085,7 +3085,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.220 0"
+                  "text": "AMC1 23.2200"
                 }
               ],
               "width": "4490"
@@ -3413,7 +3413,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.230 5"
+                  "text": "AMC1 23.2305"
                 }
               ],
               "width": "4490"
@@ -3433,7 +3433,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.23 10"
+                  "text": "AMC1 23.2310"
                 }
               ],
               "width": "4490"
@@ -3453,7 +3453,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.23 15"
+                  "text": "AMC1 23.2315"
                 }
               ],
               "width": "4490"
@@ -3473,7 +3473,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.23 20"
+                  "text": "AMC1 23.2320"
                 }
               ],
               "width": "4490"
@@ -3493,7 +3493,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.23 25"
+                  "text": "AMC1 23.2325"
                 }
               ],
               "width": "4490"
@@ -3513,7 +3513,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.23 30"
+                  "text": "AMC1 23.2330"
                 }
               ],
               "width": "4490"
@@ -3533,7 +3533,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.23 35"
+                  "text": "AMC1 23.2335"
                 }
               ],
               "width": "4490"
@@ -3553,7 +3553,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.23 40"
+                  "text": "AMC1 23.2340"
                 }
               ],
               "width": "4490"
@@ -3588,7 +3588,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.240 0"
+                  "text": "AMC1 23.2400"
                 }
               ],
               "width": "4490"
@@ -3616,107 +3616,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.240 5"
-                }
-              ],
-              "width": "4490"
-            },
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "Amended (NPA 2022-103 )"
-                }
-              ],
-              "width": "4544"
-            }
-          ],
-          [
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "AMC1 23.24 10"
-                }
-              ],
-              "width": "4490"
-            },
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "Amended (NPA 2022-103 )"
-                }
-              ],
-              "width": "4544"
-            }
-          ],
-          [
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "AMC1 23.24 15"
-                }
-              ],
-              "width": "4490"
-            },
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "Amended (NPA 2022-103 )"
-                }
-              ],
-              "width": "4544"
-            }
-          ],
-          [
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "AMC 2 23.2415"
-                }
-              ],
-              "width": "4490"
-            },
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "Amended (NPA 2022-103 )"
-                }
-              ],
-              "width": "4544"
-            }
-          ],
-          [
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "AMC1 23.24 25"
-                }
-              ],
-              "width": "4490"
-            },
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "Amended (NPA 2022-103 )"
-                }
-              ],
-              "width": "4544"
-            }
-          ],
-          [
-            {
-              "content": [
-                {
-                  "style": null,
-                  "text": "CS 23.2430"
+                  "text": "AMC1 23.2405"
                 }
               ],
               "width": "4490"
@@ -3736,7 +3636,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.24 30"
+                  "text": "AMC1 23.2410"
                 }
               ],
               "width": "4490"
@@ -3745,7 +3645,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3756,7 +3656,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.24 35"
+                  "text": "AMC1 23.2415"
                 }
               ],
               "width": "4490"
@@ -3765,7 +3665,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3776,7 +3676,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.24 40"
+                  "text": "AMC2 23.2415"
                 }
               ],
               "width": "4490"
@@ -3785,7 +3685,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3796,7 +3696,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC1 23.24 45"
+                  "text": "AMC1 23.2425"
                 }
               ],
               "width": "4490"
@@ -3805,7 +3705,107 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
+                }
+              ],
+              "width": "4544"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "CS 23.2430 "
+                }
+              ],
+              "width": "4490"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Amended (NPA 2022-103)"
+                }
+              ],
+              "width": "4544"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "AMC1 23.2430"
+                }
+              ],
+              "width": "4490"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Amended (NPA 2022-103)"
+                }
+              ],
+              "width": "4544"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "AMC1 23.2435"
+                }
+              ],
+              "width": "4490"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Amended (NPA 2022-103)"
+                }
+              ],
+              "width": "4544"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "AMC1 23.2440"
+                }
+              ],
+              "width": "4490"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Amended (NPA 2022-103)"
+                }
+              ],
+              "width": "4544"
+            }
+          ],
+          [
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "AMC1 23.2445"
+                }
+              ],
+              "width": "4490"
+            },
+            {
+              "content": [
+                {
+                  "style": null,
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3865,7 +3865,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3885,7 +3885,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3925,7 +3925,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3945,7 +3945,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3965,7 +3965,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -3985,7 +3985,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4005,7 +4005,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4025,7 +4025,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4045,7 +4045,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4065,7 +4065,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4085,7 +4085,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4105,7 +4105,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4125,7 +4125,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4185,7 +4185,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4205,7 +4205,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4225,7 +4225,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4245,7 +4245,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4265,7 +4265,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4285,7 +4285,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4305,7 +4305,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Amended (NPA 2022-103 )"
+                  "text": "Amended (NPA 2022-103)"
                 }
               ],
               "width": "4544"
@@ -4332,7 +4332,7 @@
         "type": "paragraph",
         "index": 170,
         "level": -1,
-        "text": "The following is a list of paragr aphs affected by this amendment:"
+        "text": "The following is a list of paragraphs affected by this amendment:"
       },
       {
         "type": "table",
@@ -4958,7 +4958,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Appendices"
+                  "text": "Appendices "
                 }
               ],
               "colspan": "2",
@@ -5070,7 +5070,7 @@
         "type": "paragraph",
         "index": 225,
         "level": -1,
-        "text": "The following is a list of paragr aphs affected by this amendment:"
+        "text": "The following is a list of paragraphs affected by this amendment:"
       },
       {
         "type": "table",
@@ -5120,7 +5120,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS 23.130 8"
+                  "text": "CS 23.1308"
                 }
               ],
               "width": "4490"
@@ -5220,7 +5220,7 @@
         "type": "paragraph",
         "index": 237,
         "level": -1,
-        "text": "The following is a list of paragr aphs affected by this amendment:"
+        "text": "The following is a list of paragraphs affected by this amendment:"
       },
       {
         "type": "table",
@@ -5382,7 +5382,7 @@
         "type": "paragraph",
         "index": 250,
         "level": -1,
-        "text": "The following is a list of paragr aphs affected by this amendment:"
+        "text": "The following is a list of paragraphs affected by this amendment:"
       },
       {
         "type": "table",
@@ -5404,7 +5404,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS 23. 221"
+                  "text": "CS 23.221"
                 }
               ],
               "width": "4490"
@@ -5597,7 +5597,7 @@
                 },
                 {
                   "style": null,
-                  "text": "& Editorial correction)"
+                  "text": " & Editorial correction)"
                 }
               ],
               "width": "4544"
@@ -5753,7 +5753,7 @@
         "type": "paragraph",
         "index": 282,
         "level": -1,
-        "text": "E D Decision 2009/001 /R",
+        "text": "ED Decision 2009/001/R",
         "pStyle": "Dxshortdesc",
         "pRStyle": "Bold"
       },
@@ -5768,7 +5768,7 @@
         "type": "paragraph",
         "index": 284,
         "level": -1,
-        "text": "The following is a list of paragr aphs affected by this amendment:"
+        "text": "The following is a list of paragraphs affected by this amendment:"
       },
       {
         "type": "table",
@@ -5847,7 +5847,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Creat ed ("
+                  "text": "Created ("
                 },
                 {
                   "style": "Hyperlink",
@@ -6069,7 +6069,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "Level 2 — for aeroplanes with a maximum sea ting configuration of 2 to 6 passengers;",
+        "text": "Level 2 — for aeroplanes with a maximum seating configuration of 2 to 6 passengers;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6093,7 +6093,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "Aeroplane performance levels are :",
+        "text": "Aeroplane performance levels are:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -6101,7 +6101,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "Low speed — for aeroplanes with a V NO or V MO ≤ 250 knots calibrated airspeed (KCAS) or a M MO ≤ 0.6; and",
+        "text": "Low speed — for aeroplanes with a VNO or VMO ≤ 250 knots calibrated airspeed (KCAS) or a MMO ≤ 0.6; and",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6109,7 +6109,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "High speed — for aeroplanes with a V NO or V MO > 250 KCAS or an M MO > 0.6.",
+        "text": "High speed — for aeroplanes with a VNO or VMO > 250 KCAS or an MMO > 0.6.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6141,7 +6141,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 0,
-        "text": "Aeroplanes certified for aerobatics may be used to perform manoeuvre s without limitations, other than those limitations established under Subpart G.",
+        "text": "Aeroplanes certified for aerobatics may be used to perform manoeuvres without limitations, other than those limitations established under Subpart G.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       }
@@ -6219,14 +6219,14 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "This current issue, however, does not automatically invalidate the previous and later issues of the AMC & GM to CS - 23, unless this is specifically identified as such in the AMC & GM. Applicants can, therefore, agree with EASA in the certification programme to use such previous issues of the AMC & GM to demonstrate compliance with the certification basis.",
+        "text": "This current issue, however, does not automatically invalidate the previous and later issues of the AMC & GM to CS-23, unless this is specifically identified as such in the AMC & GM. Applicants can, therefore, agree with EASA in the certification programme to use such previous issues of the AMC & GM to demonstrate compliance with the certification basis.",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Whenever an earlier AMC is no longer considered to be acceptable for the demonstration of compliance, the restrictions on its use will be stated in a remark o n the specific line of that CS and the related AMC. In particular, AMC2&3 to CS-23/CS-VLA Subpart B to Subpart G (which reflect respectively CS-23 Amendment 4 and CS-VLA Amendment 1) will not be updated to cover new technologies or methods. However, they are still accepted as means of compliance. EASA will restrict their use in the AMC only when they no longer appropriately address new safety concerns or the associated safety levels.",
+        "text": "Whenever an earlier AMC is no longer considered to be acceptable for the demonstration of compliance, the restrictions on its use will be stated in a remark on the specific line of that CS and the related AMC. In particular, AMC2&3 to CS-23/CS-VLA Subpart B to Subpart G (which reflect respectively CS-23 Amendment 4 and CS-VLA Amendment 1) will not be updated to cover new technologies or methods. However, they are still accepted as means of compliance. EASA will restrict their use in the AMC only when they no longer appropriately address new safety concerns or the associated safety levels.",
         "pStyle": "Normal0"
       }
     ]
@@ -6246,7 +6246,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM2 23.2010 Accepted means of compliance",
+        "text": "GM2 23.2010 Accepted means of compliance",
         "pStyle": "Heading3GM"
       },
       {
@@ -6265,7 +6265,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Applicants may propose designs with novel or unusual feat ures for which neither AMC1 nor the EASA Certification Specifications (CS-23 Amendment 4 and CS-VLA Amendment 1) contain appropriate AMC for showing compliance with CS-23 Amendment 5 and later . Therefore, applicants proposing the use of this AMC to CS-23 as a means of complying with CS-23 Amendment 5 and later for aeroplanes with novel or unusual design features may need to gain acceptance of additional means of compliance under CS 23.2010 ."
+        "text": "Applicants may propose designs with novel or unusual features for which neither AMC1 nor the EASA Certification Specifications (CS-23 Amendment 4 and CS-VLA Amendment 1) contain appropriate AMC for showing compliance with CS-23 Amendment 5 and later. Therefore, applicants proposing the use of this AMC to CS-23 as a means of complying with CS-23 Amendment 5 and later for aeroplanes with novel or unusual design features may need to gain acceptance of additional means of compliance under CS 23.2010."
       },
       {
         "type": "paragraph",
@@ -6289,19 +6289,19 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "AMC2 CS-23 Subpart B through Subpart G contains means of compliance that refer to the previous Amendment 4 of CS-23. These AMC are included for the (administrative) convenience of both the applicant and EASA when using an existing cer tification basis. AMC2 in Sections B through G identify which CS-23 Amendment 4 requirements contain an accepted demonstration of compliance with the requirement. This AMC2 CS-23 Subpart B through Subpart G is applicable for fixed wing aeroplanes with a passenger-seating configuration of 19 or less and a maximum certificated take-off mass of 8 618 kg (19 000 pounds) or less."
+        "text": "AMC2 CS-23 Subpart B through Subpart G contains means of compliance that refer to the previous Amendment 4 of CS-23. These AMC are included for the (administrative) convenience of both the applicant and EASA when using an existing certification basis. AMC2 in Sections B through G identify which CS-23 Amendment 4 requirements contain an accepted demonstration of compliance with the requirement. This AMC2 CS-23 Subpart B through Subpart G is applicable for fixed wing aeroplanes with a passenger-seating configuration of 19 or less and a maximum certificated take-off mass of 8 618 kg (19 000 pounds) or less."
       },
       {
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "Before the entry into force of Amendment 5 of CS-23, CS-23 was included in the certification basis that often required complementing special conditions (refer to point 21.A.16B of Part 21 ) when the certification specification did not contain adequate or appropriate safety standards for the product. These special conditions can be applied to complement AMC2 when required."
+        "text": "Before the entry into force of Amendment 5 of CS-23, CS-23 was included in the certification basis that often required complementing special conditions (refer to point 21.A.16B of Part 21) when the certification specification did not contain adequate or appropriate safety standards for the product. These special conditions can be applied to complement AMC2 when required."
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "AMC3 CS-23 Subpart B through Subpart G contains means of compliance that refer to the previous Amendment 1 of CS-VLA. These AMC are included for the (administrative) convenience of both the applicant and EASA when using an existing certification basis. AMC3 that are provided in Sections B through G identify which CS-VLA Amendment 1 requirement (s) contain an accepted demonstration of compliance with the requirement. This AMC3 CS-23 Subpart B through Subpart G is applicable to aeroplanes with a single engine (spark- or compression-ignition) having not more than two seats, with a maximum certificated take-off weight of not more than 750 kg and a stalling speed in the landing configuration of not more than 83 km/h (45 knots)(CAS), to be approved for day VFR only. This AMC3 is applicable for non-aerobatic operations including:"
+        "text": "AMC3 CS-23 Subpart B through Subpart G contains means of compliance that refer to the previous Amendment 1 of CS-VLA. These AMC are included for the (administrative) convenience of both the applicant and EASA when using an existing certification basis. AMC3 that are provided in Sections B through G identify which CS-VLA Amendment 1 requirement(s) contain an accepted demonstration of compliance with the requirement. This AMC3 CS-23 Subpart B through Subpart G is applicable to aeroplanes with a single engine (spark- or compression-ignition) having not more than two seats, with a maximum certificated take-off weight of not more than 750 kg and a stalling speed in the landing configuration of not more than 83 km/h (45 knots)(CAS), to be approved for day VFR only. This AMC3 is applicable for non-aerobatic operations including:"
       },
       {
         "type": "paragraph",
@@ -6382,7 +6382,7 @@
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "(Website: www.astm.org )",
+        "text": "(Website: www.astm.org)",
         "pStyle": "TableNormal0"
       }
     ]
@@ -6423,7 +6423,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC & GM to CS-23 Issue 4 (ED Decision 2023/ 002 /R)"
+                  "text": "AMC & GM to CS-23Issue 4(ED Decision 2023/ 002 /R)"
                 }
               ],
               "width": "2452"
@@ -6432,7 +6432,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "AMC & GM to CS-23 Issue 3 (ED Decision 2020/006/R)"
+                  "text": "AMC & GM to CS-23Issue 3(ED Decision 2020/006/R)"
                 }
               ],
               "width": "2390"
@@ -7560,7 +7560,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The condition of the aeroplane at the tim e of determining its empty mass and centre of gravity must be well defined and easily repeatable.",
+        "text": "The condition of the aeroplane at the time of determining its empty mass and centre of gravity must be well defined and easily repeatable.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -7604,7 +7604,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "5.1.1 F3082/F3082M-17 S tandard Specification for Weights and Centers of Gravity of Aircraft",
+        "text": "5.1.1 F3082/F3082M-17 Standard Specification for Weights and Centers of Gravity of Aircraft",
         "pStyle": "ListLevel1"
       },
       {
@@ -7842,7 +7842,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "Unless otherwise prescribed , the applicant must develop the performance data required by this Subpart for the following conditions:",
+        "text": "Unless otherwise prescribed, the applicant must develop the performance data required by this Subpart for the following conditions:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -7858,7 +7858,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "temperatures above and below standard day temperature that are within the range of o perating limitations if those temperatures could have a negative effect on performance.",
+        "text": "temperatures above and below standard day temperature that are within the range of operating limitations if those temperatures could have a negative effect on performance.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -7866,7 +7866,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "The procedures used for determining take-off and lan ding distances must be executable consistently by pilots of average skill in atmospheric conditions expected to b e encountered in service.",
+        "text": "The procedures used for determining take-off and landing distances must be executable consistently by pilots of average skill in atmospheric conditions expected to be encountered in service.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -7902,7 +7902,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21  Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -7980,7 +7980,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC3 23.21 0 5 Performance data",
+        "text": "AMC3 23.2105 Performance data",
         "pStyle": "Heading3AMC"
       },
       {
@@ -8062,7 +8062,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -8139,7 +8139,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2110 Stall speed",
+        "text": "AMC3 23.2110 Stall speed",
         "pStyle": "Heading3AMC"
       },
       {
@@ -8227,7 +8227,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "For single-engine aeroplanes and Levels 1, 2, and 3 low-speed multi-engine aeroplanes, take-off performance includes the determination of ground roll and ini tial climb distance to 15 m (50 ft) above the take-off surface.",
+        "text": "For single-engine aeroplanes and Levels 1, 2, and 3 low-speed multi-engine aeroplanes, take-off performance includes the determination of ground roll and initial climb distance to 15 m (50 ft) above the take-off surface.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -8287,14 +8287,14 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Take - off Performance",
+        "text": "Take-off Performance",
         "marker": "5.4",
         "pRStyle": "Italic"
       },
@@ -8302,7 +8302,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "F3179/F3179M- 20 Standard Speci fication for Performance of Aircraft"
+        "text": "F3179/F3179M-20 Standard Specification for Performance of Aircraft"
       }
     ]
   },
@@ -8404,7 +8404,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23 .2115 Take-off performance",
+        "text": "AMC3 23.2115 Take-off performance",
         "pStyle": "Heading3AMC"
       },
       {
@@ -8475,7 +8475,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "for Level-1 and -2 low-speed aeroplanes, a climb gradient of 8.3 % for landplanes and 6.7 % for seaplanes and amphibians; and",
+        "text": "for Level-1 and -2 low-speed aeroplanes, a climb gradient of 8.3 % for landplanes and 6.7 % for seaplanes and amphibians; and",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -8551,7 +8551,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -8566,7 +8566,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "F3179/F3179M-20 Standard Specification for Performance of A ircraft",
+        "text": "F3179/F3179M-20 Standard Specification for Performance of Aircraft",
         "pStyle": "Normal0",
         "pRStyle": "Bold"
       }
@@ -8645,7 +8645,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 2,
-        "text": "CS - VLA Amdt 1",
+        "text": "CS-VLA Amdt 1",
         "pStyle": "bullet2",
         "pRStyle": "Bold"
       },
@@ -8653,7 +8653,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "CS- VLA 65 ‘ Climb s’ : All engines operating"
+        "text": "CS-VLA 65 ‘Climbs’: All engines operating"
       },
       {
         "type": "paragraph",
@@ -8666,7 +8666,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "To demonstrate compliance with CS 23.2120 , the climb gradient should be determined, using F3179M 20 ‘Standard Specification for Performance of Aircraft’."
+        "text": "To demonstrate compliance with CS 23.2120, the climb gradient should be determined, using F3179M 20 ‘Standard Specification for Performance of Aircraft’."
       }
     ]
   },
@@ -8751,7 +8751,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -8766,7 +8766,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "F3179/F3179M-20 Standard Specificati on for Performance of Aircraft"
+        "text": "F3179/F3179M-20 Standard Specification for Performance of Aircraft"
       }
     ]
   },
@@ -8943,7 +8943,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -8958,7 +8958,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "F3179/F3179M-20 Standard Specificati on for Performance of Aircraft",
+        "text": "F3179/F3179M-20 Standard Specification for Performance of Aircraft",
         "pRStyle": "Bold"
       }
     ]
@@ -9037,7 +9037,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2130 Landing",
+        "text": "AMC3 23.2130 Landing",
         "pStyle": "Heading3AMC"
       },
       {
@@ -9135,7 +9135,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "The aeroplane must be able to make a safe landing , using the steepest approved approach gradient procedures and providing a reasonable safe margin below V REF or above the approach angle of attack.",
+        "text": "The aeroplane must be able to make a safe landing, using the steepest approved approach gradient procedures and providing a reasonable safe margin below VREF or above the approach angle of attack.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -9143,7 +9143,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "V MC is the calibrated airspeed at which, following the sudden critical loss of thrust, it is possible to maintain control of the aeroplane. For multi-engine aeroplanes, the applicant must determine V MC , if applicable, for the most critical configurations used in take-off and landing operations.",
+        "text": "VMC is the calibrated airspeed at which, following the sudden critical loss of thrust, it is possible to maintain control of the aeroplane. For multi-engine aeroplanes, the applicant must determine VMC, if applicable, for the most critical configurations used in take-off and landing operations.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -9179,7 +9179,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -9321,7 +9321,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2135 Controllability",
+        "text": "AMC3 23.2135 Controllability",
         "pStyle": "Heading3AMC"
       },
       {
@@ -9442,7 +9442,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The aeroplane must maintain longitudinal trim with out further force upon, or movement of, the primary flight controls or corresponding trim controls by the pilot, or the flight control system, under the following conditions:",
+        "text": "The aeroplane must maintain longitudinal trim without further force upon, or movement of, the primary flight controls or corresponding trim controls by the pilot, or the flight control system, under the following conditions:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -9474,7 +9474,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "approach .",
+        "text": "approach.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -9482,7 +9482,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "Residual control forces mu st not fatigue or distract the pilot during normal operations of the aeroplane and likely abnormal or emergency operations, including a critical loss of thrust on multi-engine aeroplanes.",
+        "text": "Residual control forces must not fatigue or distract the pilot during normal operations of the aeroplane and likely abnormal or emergency operations, including a critical loss of thrust on multi-engine aeroplanes.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -9510,7 +9510,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -9588,7 +9588,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2140 Trim",
+        "text": "AMC3 23.2140 Trim",
         "pStyle": "Heading3AMC"
       },
       {
@@ -9653,7 +9653,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "have static longitudinal , lateral, and directional stability in normal operations;",
+        "text": "have static longitudinal, lateral, and directional stability in normal operations;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -9698,14 +9698,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2145 Stability",
+        "text": "AMC1 23.2145 Stability",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -9814,7 +9814,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2145 Stability",
+        "text": "AMC3 23.2145 Stability",
         "pStyle": "Heading3AMC"
       },
       {
@@ -9919,7 +9919,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Level-1 and -2 multi-engine aeroplanes, not certified for aerobatics, must not have a tendency to hazardously depart controlled flight inadvertently from t hrust asymmetry after a critical loss of thrust.",
+        "text": "Level-1 and -2 multi-engine aeroplanes, not certified for aerobatics, must not have a tendency to hazardously depart controlled flight inadvertently from thrust asymmetry after a critical loss of thrust.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -9927,7 +9927,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Aeroplanes certified for aerobatics that include spins must have controllable stall characteristics and the ability to recover within one and one-half additional turns after initiation of the first contro l action from any point in a spin, not exceeding six turns or any greater number of turns for which certification is requested, while remaining within the operating limitations of the aeroplane.",
+        "text": "Aeroplanes certified for aerobatics that include spins must have controllable stall characteristics and the ability to recover within one and one-half additional turns after initiation of the first control action from any point in a spin, not exceeding six turns or any greater number of turns for which certification is requested, while remaining within the operating limitations of the aeroplane.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -9935,7 +9935,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Aeroplanes intended for aerobatics have the ability to rec over from any approved manoeuvre, without exceeding limitations or exhibiting unsafe characteristics.",
+        "text": "Aeroplanes intended for aerobatics have the ability to recover from any approved manoeuvre, without exceeding limitations or exhibiting unsafe characteristics.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       }
@@ -9963,7 +9963,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -9992,7 +9992,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "F3180-21 should be applied instead of F3180 19 that is referenced in F3264-21 .",
+        "text": "F3180-21 should be applied instead of F3180 19 that is referenced in F3264-21.",
         "pStyle": "Normal0"
       }
     ]
@@ -10067,7 +10067,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "CS 23.2150 (b) and (c) are not covered by this AMC2. Applicants may us e the provision in ASTM F3180- 21 to show compliance with CS 23.2150 .",
+        "text": "CS 23.2150(b) and (c) are not covered by this AMC2. Applicants may use the provision in ASTM F3180-21 to show compliance with CS 23.2150.",
         "pStyle": "Normal0"
       }
     ]
@@ -10087,7 +10087,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2150 Stall characteristics, stall warning, and spins",
+        "text": "AMC3 23.2150 Stall characteristics, stall warning, and spins",
         "pStyle": "Heading3AMC"
       },
       {
@@ -10205,7 +10205,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -10315,7 +10315,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2155 Ground- and water-handling characteristics",
+        "text": "AMC3 23.2155 Ground- and water-handling characteristics",
         "pStyle": "Heading3AMC"
       },
       {
@@ -10396,7 +10396,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Vibration and buffeting, for operations up to V D /M D , must not interfere with the control of the aeroplane or cause excessive fatigue to the flight crew. Stall warning buffet within these limits is allowable.",
+        "text": "Vibration and buffeting, for operations up to VD/MD, must not interfere with the control of the aeroplane or cause excessive fatigue to the flight crew. Stall warning buffet within these limits is allowable.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -10404,7 +10404,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "For high-speed aeroplanes and all aeroplanes with a maximum operating altitu de greater than 7 625 m (25 000 ft) pressure altitude, there must be no perceptible buffeting in cruise configuration at 1 g and at any speed up to V MO /M MO , except stall buffeting.",
+        "text": "For high-speed aeroplanes and all aeroplanes with a maximum operating altitude greater than 7 625 m (25 000 ft) pressure altitude, there must be no perceptible buffeting in cruise configuration at 1 g and at any speed up to VMO/MMO, except stall buffeting.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -10420,7 +10420,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "High-speed aeroplanes must have recovery characteristics that do not result in structural damage or loss of control, beginning at any likely speed up to V MO /M MO , following:",
+        "text": "High-speed aeroplanes must have recovery characteristics that do not result in structural damage or loss of control, beginning at any likely speed up to VMO/MMO, following:",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -10457,14 +10457,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2160 Vibration, buffeting, and high-speed characteristics",
+        "text": "AMC1 23.2160 Vibration, buffeting, and high-speed characteristics",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -10549,7 +10549,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2160 Vibration, buffeting, and high-speed characteristics",
+        "text": "AMC3 23.2160 Vibration, buffeting, and high-speed characteristics",
         "pStyle": "Heading3AMC"
       },
       {
@@ -10614,7 +10614,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "comply with each requirement of this Subpart, except those applicable to spins and any that mus t be demonstrated at speeds in excess of :",
+        "text": "comply with each requirement of this Subpart, except those applicable to spins and any that must be demonstrated at speeds in excess of:",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -10630,7 +10630,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 2,
-        "text": "V MO or M MO or V NE ; or",
+        "text": "VMO or MMO or VNE; or",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -10690,7 +10690,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -10746,7 +10746,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Following the cancellation of Federal Aviation Administration (FAA) Advisory Circular (AC)-1419-2D, applicants should now use AMC1 23.2165 ."
+        "text": "Following the cancellation of Federal Aviation Administration (FAA) Advisory Circular (AC)-1419-2D, applicants should now use AMC1 23.2165."
       }
     ]
   },
@@ -10860,7 +10860,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -10993,7 +10993,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2170 Operating limitations",
+        "text": "AMC3 23.2170 Operating limitations",
         "pStyle": "Heading4AMC"
       },
       {
@@ -11082,7 +11082,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The applicant must determine the structural design envelope, which describes the range and limits of aeroplane design and operational parameters for which the applicant will show compliance with the requirements of this Subpart. The applicant must account for all aeroplane design and operational parameters that affect structural loads, strength, durability, and aeroelasticity , including:"
+        "text": "The applicant must determine the structural design envelope, which describes the range and limits of aeroplane design and operational parameters for which the applicant will show compliance with the requirements of this Subpart. The applicant must account for all aeroplane design and operational parameters that affect structural loads, strength, durability, and aeroelasticity, including:"
       },
       {
         "type": "paragraph",
@@ -11120,7 +11120,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "mass variations and distributions over the applicable mass and centre of gravity envelope, within the op erating limitations;",
+        "text": "mass variations and distributions over the applicable mass and centre of gravity envelope, within the operating limitations;",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -11164,7 +11164,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -11277,7 +11277,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2200 Structural design envelope",
+        "text": "AMC3 23.2200 Structural design envelope",
         "pStyle": "Heading3AMC"
       },
       {
@@ -11392,7 +11392,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -11589,14 +11589,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 10 Structural-design loads",
+        "text": "AMC1 23.2210 Structural-design loads",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -11666,16 +11666,14 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "(b), (c), (d) Loads ( With Appendix A )",
-        "marker": "23.301",
+        "text": "23.301(b), (c), (d) Loads (With Appendix A)",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "(a) Flight Loads - General",
-        "marker": "23.321",
+        "text": "23.321(a) Flight Loads - General",
         "pStyle": "TableNormal0"
       },
       {
@@ -11762,7 +11760,7 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "Hull and main float load factors ( With Appendix I )",
+        "text": "Hull and main float load factors (With Appendix I)",
         "marker": "23.527",
         "pStyle": "TableNormal0"
       },
@@ -11800,7 +11798,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2210 Structural-design loads",
+        "text": "AMC3 23.2210 Structural-design loads",
         "pStyle": "Heading4AMC"
       },
       {
@@ -11822,7 +11820,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "VLA.301 Loads ( With Appendix A )",
+        "text": "VLA.301 Loads (With Appendix A)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -11960,14 +11958,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 15 Flight load conditions",
+        "text": "AMC1 23.2215 Flight load conditions",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -12039,8 +12037,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "(c) Flight envelope",
-        "marker": "23.333",
+        "text": "23.333(c) Flight envelope",
         "pStyle": "TableNormal0"
       },
       {
@@ -12093,7 +12090,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2015 Flight load conditions",
+        "text": "AMC3 23.2015 Flight load conditions",
         "pStyle": "Heading4AMC"
       },
       {
@@ -12203,14 +12200,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 20 Ground and water load conditions",
+        "text": "AMC1 23.2220 Ground and water load conditions",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -12274,7 +12271,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Landing gear arrangement ( With Appendix C )",
+        "text": "Landing gear arrangement (With Appendix C)",
         "marker": "23.477",
         "pStyle": "TableNormal0"
       },
@@ -12282,7 +12279,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "level landing conditions ( With Appendix C, D )",
+        "text": "level landing conditions (With Appendix C, D)",
         "marker": "23.479",
         "pStyle": "TableNormal0"
       },
@@ -12368,7 +12365,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2220 Ground and water load conditions",
+        "text": "AMC3 23.2220 Ground and water load conditions",
         "pStyle": "Heading4AMC"
       },
       {
@@ -12390,7 +12387,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "VLA.477 Landing gear arrangement ( With Appendix C )",
+        "text": "VLA.477 Landing gear arrangement (With Appendix C)",
         "pStyle": "TableNormal0",
         "pRStyle": "Italic"
       },
@@ -12522,7 +12519,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "The complete pressurised cabin, including doors, windows, canopy and valves, is exposed as a pressure vessel for the maximum relie f valve setting multiplied by a factor of 1.33, without considering other loads.",
+        "text": "The complete pressurised cabin, including doors, windows, canopy and valves, is exposed as a pressure vessel for the maximum relief valve setting multiplied by a factor of 1.33, without considering other loads.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -12544,14 +12541,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 25 Component loading conditions",
+        "text": "AMC1 23.2225 Component loading conditions",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -12847,7 +12844,7 @@
         "type": "paragraph",
         "index": 31,
         "level": -1,
-        "text": "Hull and main float bottom pressures ( With Appendix I )",
+        "text": "Hull and main float bottom pressures (With Appendix I)",
         "marker": "23.533",
         "pStyle": "TableNormal0"
       },
@@ -12885,7 +12882,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2225 Component loading conditions",
+        "text": "AMC3 23.2225 Component loading conditions",
         "pStyle": "Heading4AMC"
       },
       {
@@ -12939,7 +12936,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "VLA.391 Control surface loads ( With Appendix B )",
+        "text": "VLA.391 Control surface loads (With Appendix B)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -13003,7 +13000,7 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "VLA.421 Balancing loads ( With Appendix B )",
+        "text": "VLA.421 Balancing loads (With Appendix B)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -13011,7 +13008,7 @@
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "VLA.423 Manoeuvring loads ( With Appendix B )",
+        "text": "VLA.423 Manoeuvring loads (With Appendix B)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -13035,7 +13032,7 @@
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "VLA.441 Manoeuvring loads ( With Appendix B )",
+        "text": "VLA.441 Manoeuvring loads (With Appendix B)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -13043,7 +13040,7 @@
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "VLA.443 Gust loads ( With Appendix B )",
+        "text": "VLA.443 Gust loads (With Appendix B)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -13075,7 +13072,7 @@
         "type": "paragraph",
         "index": 25,
         "level": -1,
-        "text": "VLA.455 Ailerons ( With Appendix B )",
+        "text": "VLA.455 Ailerons (With Appendix B)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -13167,7 +13164,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "the ultimate loads , which are equal to the limit loads multiplied by a 1.5 factor of safety, unless otherwise provided.",
+        "text": "the ultimate loads, which are equal to the limit loads multiplied by a 1.5 factor of safety, unless otherwise provided.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -13175,7 +13172,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Some strength specifications are specified in t erms of ultimate loads only, when permanent detrimental deformation is acceptable.",
+        "text": "Some strength specifications are specified in terms of ultimate loads only, when permanent detrimental deformation is acceptable.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -13197,14 +13194,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 30 Limit and ultimate loads",
+        "text": "AMC1 23.2230 Limit and ultimate loads",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -13268,8 +13265,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "(a) Loads",
-        "marker": "23.301",
+        "text": "23.301(a) Loads",
         "pStyle": "TableNormal0"
       },
       {
@@ -13298,7 +13294,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2230 Limit and ultimate loads",
+        "text": "AMC3 23.2230 Limit and ultimate loads",
         "pStyle": "Heading4AMC"
       },
       {
@@ -13416,14 +13412,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 35 Structural strength",
+        "text": "AMC1 23.2235 Structural strength",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -13567,8 +13563,7 @@
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "(a) Landing gear extension and retraction system",
-        "marker": "23.729",
+        "text": "23.729(a) Landing gear extension and retraction system",
         "pStyle": "TableNormal0"
       },
       {
@@ -13583,16 +13578,14 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "(a) Pressurization tests",
-        "marker": "23.843",
+        "text": "23.843(a) Pressurization tests",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "(a)(1) Hydraulic Systems",
-        "marker": "23.1435",
+        "text": "23.1435(a)(1) Hydraulic Systems",
         "pStyle": "TableNormal0"
       }
     ]
@@ -13613,7 +13606,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2235 Structural strength",
+        "text": "AMC3 23.2235 Structural strength",
         "pStyle": "Heading4AMC"
       },
       {
@@ -13767,7 +13760,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The applicant must develop and implement inspections or other procedures to prevent structural failures due to foreseeable causes of strength degradation, which could result in serious or fatal injuries, or extended periods of operation with reduced safety margins. Each of the inspections or other procedures developed under CS 23.2240 must be included in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness required by CS 23.2625 .",
+        "text": "The applicant must develop and implement inspections or other procedures to prevent structural failures due to foreseeable causes of strength degradation, which could result in serious or fatal injuries, or extended periods of operation with reduced safety margins. Each of the inspections or other procedures developed under CS 23.2240 must be included in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness required by CS 23.2625.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -13829,14 +13822,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 40 Structural durability",
+        "text": "AMC1 23.2240 Structural durability",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -13988,7 +13981,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2240 Structural durability",
+        "text": "AMC3 23.2240 Structural durability",
         "pStyle": "Heading4AMC"
       },
       {
@@ -14094,7 +14087,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "The applicants’ design must account for tolerances for all quant ities that affect flutter.",
+        "text": "The applicants’ design must account for tolerances for all quantities that affect flutter.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -14116,14 +14109,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 45 Aeroelasticity",
+        "text": "AMC1 23.2245 Aeroelasticity",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -14203,8 +14196,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "(c) Trim systems",
-        "marker": "23.677",
+        "text": "23.677(c) Trim systems",
         "pStyle": "TableNormal0"
       }
     ]
@@ -14225,7 +14217,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2245 Aeroelasticity",
+        "text": "AMC3 23.2245 Aeroelasticity",
         "pStyle": "Heading4AMC"
       },
       {
@@ -14315,7 +14307,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The suitability of each design detail and part having an important bearing on safety in operations must be det ermined.",
+        "text": "The suitability of each design detail and part having an important bearing on safety in operations must be determined.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -14331,7 +14323,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Doors, canopies, and exits must be protected against inadvertent opening in flight, unles s shown to create no hazard, when opened in flight.",
+        "text": "Doors, canopies, and exits must be protected against inadvertent opening in flight, unless shown to create no hazard, when opened in flight.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       }
@@ -14353,14 +14345,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 50 Design and construction principles",
+        "text": "AMC1 23.2250 Design and construction principles",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -14490,16 +14482,14 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "(a), (c) Tires",
-        "marker": "23.733",
+        "text": "23.733(a), (c) Tires",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "(b) Brakes",
-        "marker": "23.735",
+        "text": "23.735(b) Brakes",
         "pStyle": "TableNormal0"
       },
       {
@@ -14513,24 +14503,21 @@
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "(b), (c)(1), (e) Doors",
-        "marker": "23.783",
+        "text": "23.783(b), (c)(1), (e) Doors",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "(d)(2) Emergency Exits",
-        "marker": "23.807",
+        "text": "23.807(d)(2) Emergency Exits",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "(b) through (i) Combustion heater fire protecti on",
-        "marker": "23.859",
+        "text": "23.859(b) through (i) Combustion heater fire protection",
         "pStyle": "TableNormal0"
       },
       {
@@ -14552,16 +14539,14 @@
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "(a)(3), (c) Hydraulic Systems",
-        "marker": "23.1435",
+        "text": "23.1435(a)(3), (c) Hydraulic Systems",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "(a), (b) Oxygen distribution system",
-        "marker": "23.1445",
+        "text": "23.1445(a), (b) Oxygen distribution system",
         "pStyle": "TableNormal0"
       }
     ]
@@ -14582,7 +14567,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2250 Design and construction principles",
+        "text": "AMC3 23.2250 Design and construction principles",
         "pStyle": "Heading4AMC"
       },
       {
@@ -14760,7 +14745,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "For each part that requires maintenance, preventive maintenance, or servicing, t he applicant must incorporate a means into the aeroplane design to allow such actions to be accomplished.",
+        "text": "For each part that requires maintenance, preventive maintenance, or servicing, the applicant must incorporate a means into the aeroplane design to allow such actions to be accomplished.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -14782,14 +14767,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 55 Protection of structure",
+        "text": "AMC1 23.2255 Protection of structure",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -14901,8 +14886,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "(a)(3) Cable systems",
-        "marker": "23.689",
+        "text": "23.689(a)(3) Cable systems",
         "pStyle": "TableNormal0"
       }
     ]
@@ -14923,7 +14907,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2255 Protection of structure",
+        "text": "AMC3 23.2255 Protection of structure",
         "pStyle": "Heading4AMC"
       },
       {
@@ -15075,14 +15059,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 60 Materials and processes",
+        "text": "AMC1 23.2260 Materials and processes",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -15190,7 +15174,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2260 Materials and processes",
+        "text": "AMC3 23.2260 Materials and processes",
         "pStyle": "Heading4AMC"
       },
       {
@@ -15320,7 +15304,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "sampling per centage; and",
+        "text": "sampling percentage; and",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -15336,7 +15320,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 0,
-        "text": "The applicant must multiply the highest pertinent special factor of safety in the design for each part of the structure by each limit load and ultimate load, or ultimate load only, if there is no correspon ding limit load, such as occurs with emergency condition loading.",
+        "text": "The applicant must multiply the highest pertinent special factor of safety in the design for each part of the structure by each limit load and ultimate load, or ultimate load only, if there is no corresponding limit load, such as occurs with emergency condition loading.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -15358,14 +15342,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 65 Special factors of safety",
+        "text": "AMC1 23.2265 Special factors of safety",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -15475,8 +15459,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "(b) Limit load static tests - Control System",
-        "marker": "23.681",
+        "text": "23.681(b) Limit load static tests - Control System",
         "pStyle": "TableNormal0"
       },
       {
@@ -15513,7 +15496,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2265 Special factors of safety",
+        "text": "AMC3 23.2265 Special factors of safety",
         "pStyle": "Heading4AMC"
       },
       {
@@ -15667,7 +15650,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "include dynamic conditions that a re likely to occur in an emergency landing; and",
+        "text": "include dynamic conditions that are likely to occur in an emergency landing; and",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -15683,7 +15666,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "The aeroplane must provid e protection for all occupants, accounting for likely flight, ground, and emergency landing conditions.",
+        "text": "The aeroplane must provide protection for all occupants, accounting for likely flight, ground, and emergency landing conditions.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -15691,7 +15674,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "Each occupant protection system must perform its intended function and not create a hazard that could cause a secondary injury to an occupant. The o ccupant protection system must not prevent occupant egress or interfere with the operation of the aeroplane when not in use.",
+        "text": "Each occupant protection system must perform its intended function and not create a hazard that could cause a secondary injury to an occupant. The occupant protection system must not prevent occupant egress or interfere with the operation of the aeroplane when not in use.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -15745,14 +15728,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.22 70 Emergency c onditions",
+        "text": "AMC1 23.2270 Emergency conditions",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -15829,7 +15812,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Emergency Landing Conditions - General ( With Appendix J )",
+        "text": "Emergency Landing Conditions - General (With Appendix J)",
         "marker": "23.561",
         "pStyle": "TableNormal0"
       },
@@ -15861,8 +15844,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "1 (b) Safety equipment - General",
-        "marker": "23.141",
+        "text": "23.1411(b) Safety equipment - General",
         "pStyle": "TableNormal0"
       }
     ]
@@ -15883,7 +15865,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2270 Emergency Conditions",
+        "text": "AMC3 23.2270 Emergency Conditions",
         "pStyle": "Heading4AMC"
       },
       {
@@ -16025,14 +16007,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2300 Flight control systems",
+        "text": "AMC1 23.2300 Flight control systems",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -16086,14 +16068,14 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "For Level 1 single-engine aeroplanes with a stall speed in the landing configuration (V S0 ) of m ore than 45 knots, ASTM F3264- 21 , paragraph 7.1 does not include means for showing that the aeroplane is protected from loss of control when any one connecting or transmitting element in the primary flight control system fails. If applying for certification of a Level 1 single-engine aeroplane with a V S0 greater than 45 knots, applicants may use the requirements of CS 23.677(b)(1) at Amendment 4 as a means of complying with this aspect of CS 23.2300 , or may propose a different means of compliance in accordance with CS 23.2010 .",
+        "text": "For Level 1 single-engine aeroplanes with a stall speed in the landing configuration (VS0) of more than 45 knots, ASTM F3264-21, paragraph 7.1 does not include means for showing that the aeroplane is protected from loss of control when any one connecting or transmitting element in the primary flight control system fails. If applying for certification of a Level 1 single-engine aeroplane with a VS0 greater than 45 knots, applicants may use the requirements of CS 23.677(b)(1) at Amendment 4 as a means of complying with this aspect of CS 23.2300, or may propose a different means of compliance in accordance with CS 23.2010.",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "For powered trim, applicants may use the provisions of CS 23.677(d) at Amendment 4 as a means of complying with CS 23.2010 .",
+        "text": "For powered trim, applicants may use the provisions of CS 23.677(d) at Amendment 4 as a means of complying with CS 23.2010.",
         "pStyle": "Normal0"
       }
     ]
@@ -16143,16 +16125,14 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "(a) Control systems - General",
-        "marker": "23.671",
+        "text": "23.671(a) Control systems - General",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "(b), (c) Stability augmentation and automatic and power-operated systems",
-        "marker": "23.672",
+        "text": "23.672(b), (c) Stability augmentation and automatic and power-operated systems",
         "pStyle": "TableNormal0"
       },
       {
@@ -16175,16 +16155,14 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "(a), (b) Trim systems",
-        "marker": "23.677",
+        "text": "23.677(a), (b) Trim systems",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "(c) Control system locks",
-        "marker": "23.679",
+        "text": "23.679(c) Control system locks",
         "pStyle": "TableNormal0"
       },
       {
@@ -16231,8 +16209,7 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "(b) Automatic Pilot System",
-        "marker": "23.1329",
+        "text": "23.1329(b) Automatic Pilot System",
         "pStyle": "TableNormal0"
       }
     ]
@@ -16252,7 +16229,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2300 Flight control systems",
+        "text": "AMC3 23.2300 Flight control systems",
         "pStyle": "Heading3AMC"
       },
       {
@@ -16413,7 +16390,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Aeroplanes must have a reliable means of stopping the aeroplane with sufficient kinetic energy absorption to ac count for landing. Aeroplanes that are required to demonstrate aborted take-off capability must account for this additional kinetic energy.",
+        "text": "Aeroplanes must have a reliable means of stopping the aeroplane with sufficient kinetic energy absorption to account for landing. Aeroplanes that are required to demonstrate aborted take-off capability must account for this additional kinetic energy.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -16429,7 +16406,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "a positive means to keep the lan ding gear in the landing position; and",
+        "text": "a positive means to keep the landing gear in the landing position; and",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -16465,7 +16442,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -16529,16 +16506,14 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "(b), (c), (g) Landing gear extension and retraction system",
-        "marker": "23.729",
+        "text": "23.729(b), (c), (g) Landing gear extension and retraction system",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "(a), (b), (c), (e) Brakes",
-        "marker": "23.735",
+        "text": "23.735(a), (b), (c), (e) Brakes",
         "pStyle": "TableNormal0"
       },
       {
@@ -16566,7 +16541,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2305 Landing gear systems",
+        "text": "AMC3 23.2305 Landing gear systems",
         "pStyle": "Heading3AMC"
       },
       {
@@ -16666,14 +16641,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2310 Buoyancy for seaplanes and amphibians",
+        "text": "AMC1 23.2310 Buoyancy for seaplanes and amphibians",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -16766,7 +16741,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2310 Buoyancy for seaplanes and amphibians",
+        "text": "AMC3 23.2310 Buoyancy for seaplanes and amphibians",
         "pStyle": "Heading3AMC"
       },
       {
@@ -16848,7 +16823,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "Have means of egress (openings, exits or emergency exits) that can be readily locat ed and opened from the inside and outside. The means of opening must be simple and obvious.",
+        "text": "Have means of egress (openings, exits or emergency exits) that can be readily located and opened from the inside and outside. The means of opening must be simple and obvious.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -16886,14 +16861,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.231 5 Means of egress and emergency exits",
+        "text": "AMC1 23.2315 Means of egress and emergency exits",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -16957,8 +16932,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "(a), (b), (c)(2), (c)(3), (c)(4), (c)(5), (c)(6), (d), (f), (g) Doors",
-        "marker": "23.783",
+        "text": "23.783(a), (b), (c)(2), (c)(3), (c)(4), (c)(5), (c)(6), (d), (f), (g) Doors",
         "pStyle": "TableNormal0"
       },
       {
@@ -16989,8 +16963,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "(a), (b)(1), (b)(2), (b)(3), (b)(4), (b) (5), (b)(6) (d)(1), (d)(3), (d)(4), (c), (e) Emergency exits",
-        "marker": "23.807",
+        "text": "23.807(a), (b)(1), (b)(2), (b)(3), (b)(4), (b) (5), (b)(6) (d)(1), (d)(3), (d)(4), (c), (e) Emergency exits",
         "pStyle": "TableNormal0"
       },
       {
@@ -17043,7 +17016,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2315 Means of egress and emergency exits",
+        "text": "AMC3 23.2315 Means of egress and emergency exits",
         "pStyle": "Heading4AMC"
       },
       {
@@ -17149,7 +17122,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "For Level-4 aeropl anes, each windshield and its supporting structure directly in front of the pilot must withstand, without penetration, the impact equivalent to a two-pound bird when the velocity of the aeroplane is equal to the aeroplane’s maximum approach flap speed.",
+        "text": "For Level-4 aeroplanes, each windshield and its supporting structure directly in front of the pilot must withstand, without penetration, the impact equivalent to a two-pound bird when the velocity of the aeroplane is equal to the aeroplane’s maximum approach flap speed.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -17234,7 +17207,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -17316,8 +17289,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "(a), (b), (c) Ventilation",
-        "marker": "23.831",
+        "text": "23.831(a), (b), (c) Ventilation",
         "pStyle": "TableNormal0"
       },
       {
@@ -17339,16 +17311,14 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "(b), (c) Pilot compartment",
-        "marker": "23.771",
+        "text": "23.771(b), (c) Pilot compartment",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "(a), (h)(1) Windshields and windows",
-        "marker": "23.775",
+        "text": "23.775(a), (h)(1) Windshields and windows",
         "pStyle": "TableNormal0"
       },
       {
@@ -17403,8 +17373,7 @@
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "(a), (b) Chemical oxygen generators",
-        "marker": "23.1450",
+        "text": "23.1450(a), (b) Chemical oxygen generators",
         "pStyle": "TableNormal0"
       },
       {
@@ -17441,7 +17410,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2320 Occupant physical environment",
+        "text": "AMC3 23.2320 Occupant physical environment",
         "pStyle": "Heading4AMC"
       },
       {
@@ -17571,7 +17540,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "specifying and designing designated fire zones that meet the specifications of CS 23.2330 .",
+        "text": "specifying and designing designated fire zones that meet the specifications of CS 23.2330.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       }
@@ -17600,7 +17569,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -17660,7 +17629,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -17718,7 +17687,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Passenger and crew compartment interiors ( With Appendix F )",
+        "text": "Passenger and crew compartment interiors (With Appendix F)",
         "marker": "23.853",
         "pStyle": "TableNormal0"
       },
@@ -17726,7 +17695,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "Cargo and baggage compartment fire protection ( With Appendix F )",
+        "text": "Cargo and baggage compartment fire protection (With Appendix F)",
         "marker": "23.855",
         "pStyle": "TableNormal0"
       },
@@ -17734,8 +17703,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "(a) Combustion heater fire protection",
-        "marker": "23.859",
+        "text": "23.859(a) Combustion heater fire protection",
         "pStyle": "TableNormal0"
       },
       {
@@ -17750,8 +17718,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "(a) Powerplant instruments installation",
-        "marker": "23.1337",
+        "text": "23.1337(a) Powerplant instruments installation",
         "pStyle": "TableNormal0"
       },
       {
@@ -17766,24 +17733,21 @@
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "(a), (c) Electrical System fire protection",
-        "marker": "23.1359",
+        "text": "23.1359(a), (c) Electrical System fire protection",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "(d) Taxi and landing lights ( With Appendix F )",
-        "marker": "23.1383",
+        "text": "23.1383(d) Taxi and landing lights (With Appendix F)",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "(d) Position light system installation",
-        "marker": "23.1385",
+        "text": "23.1385(d) Position light system installation",
         "pStyle": "TableNormal0"
       }
     ]
@@ -17804,7 +17768,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2325 Fire protection",
+        "text": "AMC3 23.2325 Fire protection",
         "pStyle": "Heading4AMC"
       },
       {
@@ -17826,7 +17790,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "VLA.853 Passenger and crew compartment interiors ( With Appendix F )",
+        "text": "VLA.853 Passenger and crew compartment interiors (With Appendix F)",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -17947,7 +17911,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -18031,16 +17995,14 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "(a), (b) Electrical System fire protection ( With Appendix F )",
-        "marker": "23.1359",
+        "text": "23.1359(a), (b) Electrical System fire protection (With Appendix F)",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "(b) Electrical Cables and equipment",
-        "marker": "23.1365",
+        "text": "23.1365(b) Electrical Cables and equipment",
         "pStyle": "TableNormal0"
       }
     ]
@@ -18061,7 +18023,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2330 Fire protection in designated fire zones",
+        "text": "AMC3 23.2330 Fire protection in designated fire zones",
         "pStyle": "Heading4AMC"
       },
       {
@@ -18154,7 +18116,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "ListLevel0",
         "pRStyle": "Bold"
       },
@@ -18242,7 +18204,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2335 Lightning protection",
+        "text": "AMC3 23.2335 Lightning protection",
         "pStyle": "Heading4AMC"
       },
       {
@@ -18360,14 +18322,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.234 0 Design and construction information",
+        "text": "AMC1 23.2340 Design and construction information",
         "pStyle": "Heading4AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 2,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "bullet2",
         "pRStyle": "Bold"
       },
@@ -18404,7 +18366,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC2 23.234 0 Design and construction information",
+        "text": "AMC2 23.2340 Design and construction information",
         "pStyle": "Heading4AMC"
       },
       {
@@ -18442,7 +18404,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Instructions for continued airworthiness ( With Appendix G )",
+        "text": "Instructions for continued airworthiness (With Appendix G)",
         "marker": "23.1529",
         "pStyle": "TableNormal0"
       },
@@ -18472,7 +18434,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2340 Design and construction information",
+        "text": "AMC3 23.2340 Design and construction information",
         "pStyle": "Heading4AMC"
       },
       {
@@ -18553,7 +18515,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The applicant must construct and arrange e ach powerplant installation to account for:",
+        "text": "The applicant must construct and arrange each powerplant installation to account for:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -18601,7 +18563,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "Installations of powerplant components that d eviate from the component limitations or installation instructions must be shown to be safe.",
+        "text": "Installations of powerplant components that deviate from the component limitations or installation instructions must be shown to be safe.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -18637,7 +18599,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -18691,7 +18653,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -18831,14 +18793,16 @@
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "23 .975 Fuel tank vents and carburettor vapour vents",
+        "text": "Fuel tank vents and carburettor vapour vents",
+        "marker": "23.975",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "23 .979 Pressure fuelling systems",
+        "text": "Pressure fuelling systems",
+        "marker": "23.979",
         "pStyle": "TableNormal0"
       },
       {
@@ -18979,7 +18943,8 @@
         "type": "paragraph",
         "index": 36,
         "level": -1,
-        "text": "23 .1097 Carburettor de-icing fluid system capacity",
+        "text": "Carburettor de-icing fluid system capacity",
+        "marker": "23.1097",
         "pStyle": "TableNormal0"
       },
       {
@@ -19133,7 +19098,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2400 Powerplant installation",
+        "text": "AMC3 23.2400 Powerplant installation",
         "pStyle": "Heading3AMC"
       },
       {
@@ -19492,7 +19457,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Unless the failure of an automatic power or thru st control system is ‘extremely remote’, the system must:",
+        "text": "Unless the failure of an automatic power or thrust control system is ‘extremely remote’, the system must:",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -19544,7 +19509,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -19583,7 +19548,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -19624,7 +19589,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Automatic power reserve system ( With Appendix H )",
+        "text": "Automatic power reserve system (With Appendix H)",
         "marker": "23.904",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
@@ -19716,7 +19681,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "ca use serious injury that may be avoided; and",
+        "text": "cause serious injury that may be avoided; and",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -19745,14 +19710,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2410 Powerplant installation hazard assessment",
+        "text": "AMC1 23.2410 Powerplant installation hazard assessment",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -19809,7 +19774,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -19986,7 +19951,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2410 Powerplant installation hazard assessment",
+        "text": "AMC3 23.2410 Powerplant installation hazard assessment",
         "pStyle": "Heading3AMC"
       },
       {
@@ -20151,7 +20116,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -20184,7 +20149,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -20266,7 +20231,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "Following the cancellation of FAA AC-1419-2D, applicants should now use the icing conditions that are outlined in AMC1 23.2165 .",
+        "text": "Following the cancellation of FAA AC-1419-2D, applicants should now use the icing conditions that are outlined in AMC1 23.2165.",
         "pStyle": "TableNormal0"
       }
     ]
@@ -20286,7 +20251,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2415 Powerplant installation ice protection",
+        "text": "AMC3 23.2415 Powerplant installation ice protection",
         "pStyle": "Heading3AMC"
       },
       {
@@ -20359,7 +20324,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "(re served)",
+        "text": "(reserved)",
         "pStyle": "ListLevel0"
       }
     ]
@@ -20422,14 +20387,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2425 Powerplant operational characteristics",
+        "text": "AMC1 23.2425 Powerplant operational characteristics",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -20475,7 +20440,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA.",
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA.",
         "pStyle": "Normal0"
       }
     ]
@@ -20599,7 +20564,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2425 Powerplant operational characteristics",
+        "text": "AMC3 23.2425 Powerplant operational characteristics",
         "pStyle": "Heading3AMC"
       },
       {
@@ -20682,7 +20647,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 23.2430 Powerplant installation, energy storage and distribution systems",
+        "text": "CS 23.2430 Powerplant installation, energy storage and distribution           systems",
         "pStyle": "Heading2CS"
       },
       {
@@ -20737,7 +20702,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "Be designed to retain the energy under all likely operating conditions and minimise hazards to the occupants during any survivable emergency landing. For Level-4 aeroplanes , failure due to overload of the landing system must be taken into account .",
+        "text": "Be designed to retain the energy under all likely operating conditions and minimise hazards to the occupants during any survivable emergency landing. For Level-4 aeroplanes, failure due to overload of the landing system must be taken into account.",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -20861,7 +20826,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -20906,7 +20871,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -21162,7 +21127,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2430 Powerplant installation, energy storage and distribution systems",
+        "text": "AMC3 23.2430 Powerplant installation, energy storage and distribution systems",
         "pStyle": "Heading3AMC"
       },
       {
@@ -21445,7 +21410,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -21466,7 +21431,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -21588,7 +21553,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2435 Powerplant installation support systems",
+        "text": "AMC3 23.2435 Powerplant installation support systems",
         "pStyle": "Heading3AMC"
       },
       {
@@ -21726,7 +21691,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -21771,7 +21736,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electric propulsion systems. EASA has not yet accepted F3239-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -21941,7 +21906,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2440 Powerplant installation fire protection",
+        "text": "AMC3 23.2440 Powerplant installation fire protection",
         "pStyle": "Heading3AMC"
       },
       {
@@ -22084,7 +22049,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "infor mation related to the air intake configuration;",
+        "text": "information related to the air intake configuration;",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -22128,7 +22093,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 2,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pStyle": "bullet2",
         "pRStyle": "Bold"
       },
@@ -22208,7 +22173,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Instructions for continued airworthiness ( With Appendix G )",
+        "text": "Instructions for continued airworthiness (With Appendix G)",
         "marker": "23.1529",
         "pStyle": "TableNormal0",
         "pRStyle": "Underline"
@@ -22230,7 +22195,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2445 Powerplant installation information",
+        "text": "AMC3 23.2445 Powerplant installation information",
         "pStyle": "Heading3AMC"
       },
       {
@@ -22303,7 +22268,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "Equipment and systems required to comply with type certification requirements, airspace requirements or operating rules, or whos e improper functioning would lead to a hazard, must be designed and installed so that they perform their intended function throughout the operating and environmental limits for which the aeroplane is certified.",
+        "text": "Equipment and systems required to comply with type certification requirements, airspace requirements or operating rules, or whose improper functioning would lead to a hazard, must be designed and installed so that they perform their intended function throughout the operating and environmental limits for which the aeroplane is certified.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -22331,7 +22296,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -22417,13 +22382,13 @@
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       },
       {
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "EASA does not consider that F3235-17a alone provides a complete means of compliance for electrical storage batteries in small aircraft ( e.g. paragraph 4.2.1). Therefore, additional and complementary means of compliance should be developed and agreed with EASA for the specific application."
+        "text": "EASA does not consider that F3235-17a alone provides a complete means of compliance for electrical storage batteries in small aircraft (e.g. paragraph 4.2.1). Therefore, additional and complementary means of compliance should be developed and agreed with EASA for the specific application."
       }
     ]
   },
@@ -22449,7 +22414,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 2,
-        "text": "CS-23 Am dt 4",
+        "text": "CS-23 Amdt 4",
         "pStyle": "bullet2",
         "pRStyle": "Bold"
       },
@@ -22488,7 +22453,8 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "23 .1311 Electronic display instrument systems",
+        "text": "Electronic display instrument systems",
+        "marker": "23.1311",
         "pStyle": "TableNormal0"
       },
       {
@@ -22574,8 +22540,7 @@
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "(c) Instrument lights",
-        "marker": "23.1381",
+        "text": "23.1381(c) Instrument lights",
         "pStyle": "TableNormal0"
       },
       {
@@ -22655,7 +22620,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2500 General requirements on systems and equipment function",
+        "text": "AMC3 23.2500 General requirements on systems and equipment function",
         "pStyle": "Heading3AMC"
       },
       {
@@ -22819,14 +22784,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM 23.2500(b) General requirements on systems and equipment function",
+        "text": "GM 23.2500(b) General requirements on systems and equipment function",
         "pStyle": "Heading3GM"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "The improper functioning of equipment and systems may be caused by intentional unauthorised electronic interaction (IUEI). An applicant that wishes to certify an aeroplane with certification level 4 should, therefore, also consider cybersecurity threats as possible sources of ‘improper functioning’ of the equipment and systems. In showing compliance with CS 23.2500(b) for equipment and systems whose improper functioning could lead to an unacceptable threat condition, the applicant may consider AMC 20-42. This AMC provides acceptable means, guidance and methods to perform security risk assessment and mitigation for aircraft information systems."
+        "text": "The improper functioning of equipment and systems may be caused by intentional unauthorised electronic interaction (IUEI). An applicant that wishes to certify an aeroplane with certification level 4 should, therefore, also consider cybersecurity threats as possible sources of ‘improper functioning’ of the equipment and systems. In showing compliance with CS 23.2500(b) for equipment and systems whose improper functioning could lead to an unacceptable threat condition, the applicant may consider AMC 20-42. This AMC provides acceptable means, guidance and methods to perform security risk assessment and mitigation for aircraft information systems."
       }
     ]
   },
@@ -22895,7 +22860,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -22951,14 +22916,14 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA.",
+        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA.",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "EASA does not consider that F3235-17a alone provides a complete means of compliance for electrical storage batteries in small aircraft ( e.g. paragraph 4.2.1). Therefore, additional and complementary means of compliance should be developed and agreed with EASA for the specific application.",
+        "text": "EASA does not consider that F3235-17a alone provides a complete means of compliance for electrical storage batteries in small aircraft (e.g. paragraph 4.2.1). Therefore, additional and complementary means of compliance should be developed and agreed with EASA for the specific application.",
         "pStyle": "Normal0"
       }
     ]
@@ -23029,7 +22994,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2505 General requirements on equipment installation",
+        "text": "AMC3 23.2505 General requirements on equipment installation",
         "pStyle": "Heading3AMC"
       },
       {
@@ -23086,7 +23051,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The equipment and systems identified in CS 23.2500 , considered separately and in relation to other systems, must be designed and installed such that:",
+        "text": "The equipment and systems identified in CS 23.2500, considered separately and in relation to other systems, must be designed and installed such that:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -23146,7 +23111,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -23210,25 +23175,25 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "At variance with F3230-20a , paragraph 4.2.4.1, the use of service history data is limited to the fleet of an aeroplane type/ aeroplane types for which the applicant is the holder of one or more type certificates (TCs), the owner of the data, or, if accepted by EASA, has concluded with the owner of the data an agreement that permits its use by the applicant for that purpose."
+        "text": "At variance with F3230-20a, paragraph 4.2.4.1, the use of service history data is limited to the fleet of an aeroplane type/aeroplane types for which the applicant is the holder of one or more type certificates (TCs), the owner of the data, or, if accepted by EASA, has concluded with the owner of the data an agreement that permits its use by the applicant for that purpose."
       },
       {
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "At variance with the note under Table 1 of F3309/F3309M-21 , that Table 1 provides the applicable criteria for classification of a failure condition based on the severity of the effects."
+        "text": "At variance with the note under Table 1 of F3309/F3309M-21, that Table 1 provides the applicable criteria for classification of a failure condition based on the severity of the effects."
       },
       {
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "At variance with F3309/F3309M-21 , paragraph 3.2.4, the term ‘on the order of’ means that, for various reasons, the component failure rate data is not precise enough to allow accurate estimates of the probabilities of failure conditions. This inability to establish accurate estimates of the probabilities of failure conditions results in some degree of uncertainty and the expression ‘on the order of’ is included in the descriptions of the quantitative probability terms that are provided to reflect this uncertainty. When calculating the estimated probability of each failure condition, that uncertainty should be accounted for in a way that does not compromise safety. In this context, ‘on the order of’ does not mean that for instance, the quantitative assessment of a major failure condition can be exceeded by a certain percentage to be ‘on the order of’ 1E-5. It means that there is uncertainty when determining the component failure rate, and that uncertainty should be accounted for in a way that does not compromise safety."
+        "text": "At variance with F3309/F3309M-21, paragraph 3.2.4, the term ‘on the order of’ means that, for various reasons, the component failure rate data is not precise enough to allow accurate estimates of the probabilities of failure conditions. This inability to establish accurate estimates of the probabilities of failure conditions results in some degree of uncertainty and the expression ‘on the order of’ is included in the descriptions of the quantitative probability terms that are provided to reflect this uncertainty. When calculating the estimated probability of each failure condition, that uncertainty should be accounted for in a way that does not compromise safety. In this context, ‘on the order of’ does not mean that for instance, the quantitative assessment of a major failure condition can be exceeded by a certain percentage to be ‘on the order of’ 1E-5. It means that there is uncertainty when determining the component failure rate, and that uncertainty should be accounted for in a way that does not compromise safety."
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "At variance with Example 2 in paragraph 4.5.3.3 of F3309/F3309M-21 , the use of service history data is limited to the fleet of an aeroplane type/ aeroplane types for which the applicant is the holder of the TC(s), the owner of the data, or, if accepted by EASA, has concluded with the owner of the data an agreement that permits its use by the applicant for that purpose."
+        "text": "At variance with Example 2 in paragraph 4.5.3.3 of F3309/F3309M-21, the use of service history data is limited to the fleet of an aeroplane type/aeroplane types for which the applicant is the holder of the TC(s), the owner of the data, or, if accepted by EASA, has concluded with the owner of the data an agreement that permits its use by the applicant for that purpose."
       }
     ]
   },
@@ -23354,8 +23319,7 @@
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "(d) Trim systems",
-        "marker": "23.677",
+        "text": "23.677(d) Trim systems",
         "pStyle": "TableNormal0"
       },
       {
@@ -23411,7 +23375,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2510 Equipment, systems, and installations",
+        "text": "AMC3 23.2510 Equipment, systems, and installations",
         "pStyle": "Heading3AMC"
       },
       {
@@ -23600,14 +23564,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2515 Electrical and electronic system lightning protection",
+        "text": "AMC1 23.2515 Electrical and electronic system lightning protection",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -23636,13 +23600,13 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "F3367-21a Standard Practice for Simplified Methods for Addressing High Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft, as referenced in F3061/F3061M-20 , paragraph 17.3.4, is not an EASA accepted practice."
+        "text": "F3367-21a Standard Practice for Simplified Methods for Addressing High Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft, as referenced in F3061/F3061M-20, paragraph 17.3.4, is not an EASA accepted practice."
       },
       {
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "At variance with F3061-20 :"
+        "text": "At variance with F3061-20:"
       },
       {
         "type": "paragraph",
@@ -23656,7 +23620,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "each electrical or electronic system that performs a function, the failure of which would prevent the continued safe flight and landing of the aeroplane , must be designed and installed such that:",
+        "text": "each electrical or electronic system that performs a function, the failure of which would prevent the continued safe flight and landing of the aeroplane, must be designed and installed such that:",
         "pStyle": "Normal1"
       },
       {
@@ -23822,7 +23786,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "the sys tem recovers normal operation of that function in a timely manner after the aeroplane is exposed to the HIRF environment, unless the system’s recovery conflicts with other operational or functional requirements of the system.",
+        "text": "the system recovers normal operation of that function in a timely manner after the aeroplane is exposed to the HIRF environment, unless the system’s recovery conflicts with other operational or functional requirements of the system.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -23830,7 +23794,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "For aeroplanes approved fo r instrument flight rules (IFR) operations, each electrical and electronic system that performs a function, the failure of which would reduce the capability of the aeroplane or the ability of the flight crew to respond to an adverse operating condition, mu st be designed and installed such that the system recovers normal operation of that function in a timely manner after the aeroplane is exposed to the HIRF environment.",
+        "text": "For aeroplanes approved for instrument flight rules (IFR) operations, each electrical and electronic system that performs a function, the failure of which would reduce the capability of the aeroplane or the ability of the flight crew to respond to an adverse operating condition, must be designed and installed such that the system recovers normal operation of that function in a timely manner after the aeroplane is exposed to the HIRF environment.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -23858,14 +23822,14 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "High - Intensity Radiated Fields (HIRF) Protection",
+        "text": "High-Intensity Radiated Fields (HIRF) Protection",
         "marker": "9.5",
         "pRStyle": "Italic"
       },
@@ -23894,7 +23858,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "F3367-21 Standard Practice for Simplified Methods for Addressing High Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft, as referenced in F3061/F3061M-20 , paragraph 18.1, is not an EASA accepted practice.",
+        "text": "F3367-21 Standard Practice for Simplified Methods for Addressing High Intensity Radiated Fields (HIRF) and Indirect Effects of Lightning on Aircraft, as referenced in F3061/F3061M-20, paragraph 18.1, is not an EASA accepted practice.",
         "pStyle": "Normal0"
       }
     ]
@@ -24048,14 +24012,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2525 System power generation, storage, and distribution",
+        "text": "AMC1 23.2525 System power generation, storage, and distribution",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -24117,7 +24081,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "At variance with F3231-21 :"
+        "text": "At variance with F3231-21:"
       },
       {
         "type": "paragraph",
@@ -24153,7 +24117,7 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19 ; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
+        "text": "ASTM F44 published standards for showing compliance for electrical systems that are installed on aeroplanes with electric or hybrid-electric propulsion systems. EASA has not yet accepted F3316-19; however, EASA would take into consideration applications from applicants that use this standard as the basis for the development of their means of compliance subject to agreement with EASA."
       }
     ]
   },
@@ -24253,14 +24217,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2525 System power generation, storage, and distribution",
+        "text": "AMC3 23.2525 System power generation, storage, and distribution",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 2,
-        "text": "CS - VLA Amdt 1",
+        "text": "CS-VLA Amdt 1",
         "pStyle": "bullet2",
         "pRStyle": "Bold"
       },
@@ -24411,7 +24375,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -24584,7 +24548,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2530 External and cockpit lighting",
+        "text": "AMC3 23.2530 External and cockpit lighting",
         "pStyle": "Heading3AMC"
       },
       {
@@ -24660,14 +24624,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2535 Safety equipment",
+        "text": "AMC1 23.2535 Safety equipment",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -24764,7 +24728,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2535 Safety equipment",
+        "text": "AMC3 23.2535 Safety equipment",
         "pStyle": "Heading3AMC"
       },
       {
@@ -24856,14 +24820,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2540 Flight in icing conditions",
+        "text": "AMC1 23.2540 Flight in icing conditions",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -24955,7 +24919,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "Following the cancellation of FAA AC-1419-2D, applicants should now use the icing conditions that are outlined in AMC1 23.2165 .",
+        "text": "Following the cancellation of FAA AC-1419-2D, applicants should now use the icing conditions that are outlined in AMC1 23.2165.",
         "pStyle": "TableNormal0"
       }
     ]
@@ -25049,7 +25013,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -25195,7 +25159,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "(re served)",
+        "text": "(reserved)",
         "pStyle": "ListLevel0"
       }
     ]
@@ -25243,7 +25207,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "is powered by the most reliable power source and remains powered f or as long as possible without jeopardising service to essential or emergency loads and emergency operation of the aeroplane;",
+        "text": "is powered by the most reliable power source and remains powered for as long as possible without jeopardising service to essential or emergency loads and emergency operation of the aeroplane;",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -25259,7 +25223,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "is installed so that it automat ically records when the aeroplane is capable of moving under its own power.",
+        "text": "is installed so that it automatically records when the aeroplane is capable of moving under its own power.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -25280,14 +25244,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AMC1 23.2555 Installation of recorders ( e.g. cockpit voice reco rders and flight data recorders)",
+        "text": "AMC1 23.2555 Installation of recorders (e.g. cockpit voice recorders and flight data recorders)",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -25302,14 +25266,14 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "F3061/F3061M-20 S tandard Specification for Systems and Equipment in Small Aircraft",
+        "text": "F3061/F3061M-20 Standard Specification for Systems and Equipment in Small Aircraft",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "F3228-17 S tandard Specification for Flight Data and Voice Recording in Small Aircraft",
+        "text": "F3228-17 Standard Specification for Flight Data and Voice Recording in Small Aircraft",
         "pStyle": "Normal0"
       },
       {
@@ -25324,7 +25288,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "F3061/F3061M-20 S tandard Specification for Systems and Equipment in Small Aircraft"
+        "text": "F3061/F3061M-20 Standard Specification for Systems and Equipment in Small Aircraft"
       },
       {
         "type": "paragraph",
@@ -25493,7 +25457,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -25565,13 +25529,13 @@
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "ASTM F3264-17 does not contain standards that ensure that the required pilot compartment view is provided in conditions of fog or frost formation on the internal portion of the windshield and side windows. Pilot compartment view with formation of fog or frost must be addressed in showing compliance with CS 23.2600(a) . Applicants may use the provisions of CS 23.773(b) at Amendment 4 as a means of c omplying with this aspect of CS 23.2600(a) , or may propose a different means of compliance in accordance with CS 23.2010 ."
+        "text": "ASTM F3264-17 does not contain standards that ensure that the required pilot compartment view is provided in conditions of fog or frost formation on the internal portion of the windshield and side windows. Pilot compartment view with formation of fog or frost must be addressed in showing compliance with CS 23.2600(a). Applicants may use the provisions of CS 23.773(b) at Amendment 4 as a means of complying with this aspect of CS 23.2600(a), or may propose a different means of compliance in accordance with CS 23.2010."
       },
       {
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "F3117/F3117M-20 does not contain Section 4.3 on Level 4 aeroplanes , which is included in the next revision (F3117/F3117M-21a)."
+        "text": "F3117/F3117M-20 does not contain Section 4.3 on Level 4 aeroplanes, which is included in the next revision (F3117/F3117M-21a)."
       }
     ]
   },
@@ -25620,8 +25584,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "(a) Trim systems",
-        "marker": "23.677",
+        "text": "23.677(a) Trim systems",
         "pStyle": "TableNormal0"
       },
       {
@@ -25636,8 +25599,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "(e) Landing gear extension and retraction system",
-        "marker": "23.729",
+        "text": "23.729(e) Landing gear extension and retraction system",
         "pStyle": "TableNormal0"
       },
       {
@@ -25652,8 +25614,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "(a) Pilot compartment",
-        "marker": "23.771",
+        "text": "23.771(a) Pilot compartment",
         "pStyle": "TableNormal0"
       },
       {
@@ -25668,8 +25629,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "(e), (h)(2) Windshields and windows",
-        "marker": "23.775",
+        "text": "23.775(e), (h)(2) Windshields and windows",
         "pStyle": "TableNormal0"
       },
       {
@@ -25700,16 +25660,14 @@
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "(c) Ventilation",
-        "marker": "23.831",
+        "text": "23.831(c) Ventilation",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "(g) Powerplant controls: general",
-        "marker": "23.1141",
+        "text": "23.1141(g) Powerplant controls: general",
         "pStyle": "TableNormal0"
       },
       {
@@ -25724,8 +25682,7 @@
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "(a) through (f) Engine controls",
-        "marker": "23.1143",
+        "text": "23.1143(a) through (f) Engine controls",
         "pStyle": "TableNormal0"
       },
       {
@@ -25780,16 +25737,14 @@
         "type": "paragraph",
         "index": 25,
         "level": -1,
-        "text": "(d) Fire detector system",
-        "marker": "23.1203",
+        "text": "23.1203(d) Fire detector system",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "(d) Automatic pilot system",
-        "marker": "23.1329",
+        "text": "23.1329(d) Automatic pilot system",
         "pStyle": "TableNormal0"
       },
       {
@@ -25812,24 +25767,21 @@
         "type": "paragraph",
         "index": 29,
         "level": -1,
-        "text": "1381 (a), (b) Instrument lights",
-        "marker": "23.",
+        "text": "23.1381(a), (b) Instrument lights",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 30,
         "level": -1,
-        "text": "(d) Ice protection",
-        "marker": "23.1419",
+        "text": "23.1419(d) Ice protection",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 31,
         "level": -1,
-        "text": "(a)(2) Hydraulic Systems",
-        "marker": "23.1435",
+        "text": "23.1435(a)(2) Hydraulic Systems",
         "pStyle": "TableNormal0"
       },
       {
@@ -25857,7 +25809,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2600 Flight crew compartment",
+        "text": "AMC3 23.2600 Flight crew compartment",
         "pStyle": "Heading3AMC"
       },
       {
@@ -26094,7 +26046,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -26221,24 +26173,21 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "(b) Control systems - General",
-        "marker": "23.671",
+        "text": "23.671(b) Control systems - General",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "(a) Stability augmentation and automatic and power-operated systems",
-        "marker": "23.672",
+        "text": "23.672(a) Stability augmentation and automatic and power-operated systems",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "(a), (b) Control system locks",
-        "marker": "23.679",
+        "text": "23.679(a), (b) Control system locks",
         "pStyle": "TableNormal0"
       },
       {
@@ -26253,32 +26202,28 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "(f) Landing gear extension and retraction system",
-        "marker": "23.729",
+        "text": "23.729(f) Landing gear extension and retraction system",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "(e)(3) Doors",
-        "marker": "23.783",
+        "text": "23.783(e)(3) Doors",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "(b)(5), (b)(6), (d)(4), (d)(5) Pressurised cabins",
-        "marker": "23.841",
+        "text": "23.841(b)(5), (b)(6), (d)(4), (d)(5) Pressurised cabins",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "(c) Fuel pumps",
-        "marker": "23.991",
+        "text": "23.991(c) Fuel pumps",
         "pStyle": "TableNormal0"
       },
       {
@@ -26293,8 +26238,7 @@
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "(b) Function and installation",
-        "marker": "23.1301",
+        "text": "23.1301(b) Function and installation",
         "pStyle": "TableNormal0"
       },
       {
@@ -26309,8 +26253,7 @@
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "(d) Equipment, systems, and installations",
-        "marker": "23.1309",
+        "text": "23.1309(d) Equipment, systems, and installations",
         "pStyle": "TableNormal0"
       },
       {
@@ -26333,16 +26276,14 @@
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "(h) Automatic pilot system",
-        "marker": "23.1329",
+        "text": "23.1329(h) Automatic pilot system",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "(a) Instruments using a power source",
-        "marker": "23.1331",
+        "text": "23.1331(a) Instruments using a power source",
         "pStyle": "TableNormal0"
       },
       {
@@ -26357,32 +26298,28 @@
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "(b), (d) Powerplant instruments installation",
-        "marker": "23.1337",
+        "text": "23.1337(b), (d) Powerplant instruments installation",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "(c), (d) Electrical Systems - General",
-        "marker": "23.1351",
+        "text": "23.1351(c), (d) Electrical Systems - General",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "(c) Pneumatic de-icer boot system",
-        "marker": "23.1416",
+        "text": "23.1416(c) Pneumatic de-icer boot system",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 23,
         "level": -1,
-        "text": "(c) Oxygen Equipment and supply",
-        "marker": "23.1441",
+        "text": "23.1441(c) Oxygen Equipment and supply",
         "pStyle": "TableNormal0"
       },
       {
@@ -26632,7 +26569,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -26730,16 +26667,14 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "(b)(7) Pressurised cabins",
-        "marker": "23.841",
+        "text": "23.841(b)(7) Pressurised cabins",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "(g) Fuel jettisoning system",
-        "marker": "23.1001",
+        "text": "23.1001(g) Fuel jettisoning system",
         "pStyle": "TableNormal0"
       },
       {
@@ -26754,16 +26689,14 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "(d) Powerplant instruments installation",
-        "marker": "23.1337",
+        "text": "23.1337(d) Powerplant instruments installation",
         "pStyle": "TableNormal0"
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "(c) Chemical oxygen generators",
-        "marker": "23.1450",
+        "text": "23.1450(c) Chemical oxygen generators",
         "pStyle": "TableNormal0"
       },
       {
@@ -26983,7 +26916,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2610 Instrument markings, control markings and placards",
+        "text": "AMC3 23.2610 Instrument markings, control markings and placards",
         "pStyle": "Heading3AMC"
       },
       {
@@ -27216,7 +27149,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Indication systems that integrate the display of flight or powerplant parameters required to safely operate the aeroplane, or required by the operating rules, mus t:",
+        "text": "Indication systems that integrate the display of flight or powerplant parameters required to safely operate the aeroplane, or required by the operating rules, must:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -27232,7 +27165,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "in combination with other systems, be designed and installed so information essential for continued safe fli ght and landing will be available to the flight crew in a timely manner after any single failure or probable combination of failures.",
+        "text": "in combination with other systems, be designed and installed so information essential for continued safe flight and landing will be available to the flight crew in a timely manner after any single failure or probable combination of failures.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       }
@@ -27260,7 +27193,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -27347,8 +27280,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "(g) Powerplant controls: general",
-        "marker": "23.1141",
+        "text": "23.1141(g) Powerplant controls: general",
         "pStyle": "TableNormal0"
       },
       {
@@ -27448,14 +27380,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2615 Flight, navigation, and powerplant instruments",
+        "text": "AMC3 23.2615 Flight, navigation, and powerplant instruments",
         "pStyle": "Heading3AMC"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 2,
-        "text": "CS - VLA Amdt 1",
+        "text": "CS-VLA Amdt 1",
         "pStyle": "bullet2",
         "pRStyle": "Bold"
       },
@@ -27463,7 +27395,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "VLA 1141 Powerplant controls – general",
+        "text": "VLA 1141 Powerplant controls– general",
         "pStyle": "TableNormal0",
         "pRStyle": "Bold"
       },
@@ -27626,7 +27558,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -27753,7 +27685,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2620 Aeroplane Flight Manual",
+        "text": "AMC3 23.2620 Aeroplane Flight Manual",
         "pStyle": "Heading3AMC"
       },
       {
@@ -27850,7 +27782,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "If Instructions for Continued Airworthiness are not supplied by the manufacturer of an appliance or product installed in the aeroplane, the Instructions for Continued Airworthiness for the aer oplane must include the information essential to the continued airworthiness of the aeroplane.",
+        "text": "If Instructions for Continued Airworthiness are not supplied by the manufacturer of an appliance or product installed in the aeroplane, the Instructions for Continued Airworthiness for the aeroplane must include the information essential to the continued airworthiness of the aeroplane.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -27858,7 +27790,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The Instructions for Continued Airworthiness must contain a Section titled ‘Airworthiness limitations’ that is segregated and clearly distinguishable from th e rest of the document. This Section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. This Section must contain a legible statement in a prominent l ocation that reads: ‘The Airworthiness limitations Section is approved and variations must also be approved’.",
+        "text": "The Instructions for Continued Airworthiness must contain a Section titled ‘Airworthiness limitations’ that is segregated and clearly distinguishable from the rest of the document. This Section must set forth each mandatory replacement time, structural inspection interval, and related structural inspection procedure required for type certification. This Section must contain a legible statement in a prominent location that reads: ‘The Airworthiness limitations Section is approved and variations must also be approved’.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -27866,7 +27798,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The applicant must develop and implement procedures to prevent structural failures due to foreseeable causes of strength degradation, which co uld result in serious or fatal injuries, loss of the aeroplane, or extended periods of operation with reduced safety margins. The Instructions for Continued Airworthiness must include procedures developed under CS 23.2255 .",
+        "text": "The applicant must develop and implement procedures to prevent structural failures due to foreseeable causes of strength degradation, which could result in serious or fatal injuries, loss of the aeroplane, or extended periods of operation with reduced safety margins. The Instructions for Continued Airworthiness must include procedures developed under CS 23.2255.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -27894,7 +27826,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ASTM F44 F3264- 21 Standard Specification for Normal Category Aeroplanes Certification",
+        "text": "ASTM F44 F3264-21 Standard Specification for Normal Category Aeroplanes Certification",
         "pRStyle": "Bold"
       },
       {
@@ -27962,7 +27894,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Instructions for Continued Airworthiness ( With Appendix G )",
+        "text": "Instructions for Continued Airworthiness (With Appendix G)",
         "marker": "23.1529",
         "pStyle": "TableNormal0"
       }
@@ -27983,7 +27915,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AM C3 23.2625 Instructions for Continued Airworthiness",
+        "text": "AMC3 23.2625 Instructions for Continued Airworthiness",
         "pStyle": "Heading3AMC"
       },
       {

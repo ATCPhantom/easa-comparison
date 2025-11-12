@@ -19,7 +19,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "This version is issued by the European Union Aviation Safety Agency ( referred to as both ‘EASA’ and ‘the Agency’ ) in order to provide its stakeholders with an updated , consolidated, and easy-to-read publication. It has been prepared by putting together the certification specifications with the related guidance material (including the issues adopted so far ) . However, this is not an official publication and EASA accepts no liability for damage of any kind resulting from the risks inherent in the use of this document.",
+        "text": "This version is issued by the European Union Aviation Safety Agency (referred to as both ‘EASA’ and ‘the Agency’) in order to provide its stakeholders with an updated, consolidated, and easy-to-read publication. It has been prepared by putting together the certification specifications with the related guidance material (including the issues adopted so far). However, this is not an official publication and EASA accepts no liability for damage of any kind resulting from the risks inherent in the use of this document.",
         "pStyle": "Normal0"
       }
     ]
@@ -44,14 +44,14 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "The content of this document is arranged as follows: the certification specifications (CS) are followed by the related guidance material (GM) paragraph(s) .",
+        "text": "The content of this document is arranged as follows: the certification specifications (CS) are followed by the related guidance material (GM) paragraph(s).",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "All elem ents (i.e. CS and GM ) are colour -coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "text": "All elements (i.e. CS and GM) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics.",
         "pStyle": "Normal0"
       },
       {
@@ -62,7 +62,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Certification specification ED decision Guidance material ED d ecision"
+                  "text": "Certification specificationED decisionGuidance materialED decision"
                 }
               ],
               "width": "9052"
@@ -74,7 +74,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -92,14 +92,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "CS/GM ( ED decisions )",
+        "text": "CS/GM (ED decisions)",
         "pStyle": "NoTocHeading2"
       },
       {
@@ -119,7 +119,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS/AMC Issue No, Amendment No"
+                  "text": "CS/AMC Issue No,Amendment No"
                 }
               ],
               "width": "2791"
@@ -139,7 +139,7 @@
               "content": [
                 {
                   "style": "Hyperlink",
-                  "text": "ED Decision 201 4 /006/R"
+                  "text": "ED Decision 2014/006/R"
                 }
               ],
               "width": "3161"
@@ -148,7 +148,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-CCD/ Initial i ssue"
+                  "text": "CS-CCD/ Initial issue"
                 }
               ],
               "width": "2791"
@@ -168,7 +168,7 @@
               "content": [
                 {
                   "style": "Hyperlink",
-                  "text": "ED Decision 20 20/015/R"
+                  "text": "ED Decision 2020/015/R"
                 }
               ],
               "width": "3161"
@@ -177,7 +177,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-CCD / I ssue 2"
+                  "text": "CS-CCD/ Issue 2"
                 }
               ],
               "width": "2791"
@@ -186,7 +186,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1/ 3 /20 21"
+                  "text": "1/3/2021"
                 }
               ],
               "width": "3162"
@@ -198,7 +198,7 @@
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
         "pRStyle": "Italic"
       }
     ]
@@ -244,7 +244,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -279,7 +279,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "CS CCD.105 Definitions 9",
+        "text": "CS CCD.105 Definitions 9",
         "pStyle": "TOC2"
       },
       {
@@ -321,42 +321,42 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "CS CCD.205 Determination elements 20",
+        "text": "CS CCD.205 Determination elements 20",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "GM1 CCD.205(b)(2)(vi) Determination elements 21",
+        "text": "GM1 CCD.205(b)(2)(vi) Determination elements 21",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 18,
         "level": -1,
-        "text": "GM1 CCD.205(b)(4) Determination elements 21",
+        "text": "GM1 CCD.205(b)(4) Determination elements 21",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "CS CCD.210 Determination of a new type 21",
+        "text": "CS CCD.210 Determination of a new type 21",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "CS CCD.215 Determination of a variant 22",
+        "text": "CS CCD.215 Determination of a variant 22",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "GM1 CCD.215(b) Determination of a variant 22",
+        "text": "GM1 CCD.215(b) Determination of a variant 22",
         "pStyle": "TOC3"
       },
       {
@@ -377,14 +377,14 @@
         "type": "paragraph",
         "index": 24,
         "level": -1,
-        "text": "CS CCD.305 Supplementary data provided at the request of the applicant 23",
+        "text": "CS CCD.305 Supplementary data provided at the request of the applicant 23",
         "pStyle": "TOC2"
       },
       {
         "type": "paragraph",
         "index": 25,
         "level": -1,
-        "text": "GM1 CCD.305(b)(2) Supplementary data provided at the request of the applicant 23",
+        "text": "GM1 CCD.305(b)(2) Supplementary data provided at the request of the applicant 23",
         "pStyle": "TOC3"
       },
       {
@@ -398,7 +398,7 @@
         "type": "paragraph",
         "index": 27,
         "level": -1,
-        "text": "Appendix 1 to CS CCD.310 Type - specific data content 24",
+        "text": "Appendix 1 to CS CCD.310 Type-specific data content 24",
         "pStyle": "TOC3"
       },
       {
@@ -412,7 +412,7 @@
         "type": "paragraph",
         "index": 29,
         "level": -1,
-        "text": "CS CCD.400 Cabin aspects of special emphasis 31",
+        "text": "CS CCD.400 Cabin aspects of special emphasis 31",
         "pStyle": "TOC2"
       },
       {
@@ -451,7 +451,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The following is a list of paragraphs affected by this issue :"
+        "text": "The following is a list of paragraphs affected by this issue:"
       },
       {
         "type": "table",
@@ -461,7 +461,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Subpart  A"
+                  "text": "Subpart A"
                 }
               ],
               "colspan": "2",
@@ -473,7 +473,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "CS  CCD.105"
+                  "text": "CS CCD.105"
                 }
               ],
               "width": "4517"
@@ -501,7 +501,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Subpart  B"
+                  "text": "Subpart B"
                 }
               ],
               "colspan": "2",
@@ -513,7 +513,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Appendix  1  to  CS  CCD.200(b)(1)"
+                  "text": "Appendix 1 to CS CCD.200(b)(1)"
                 }
               ],
               "width": "4517"
@@ -541,7 +541,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GM2  to  Appendix  1  to  CS  CCD.200(b)(1)"
+                  "text": "GM2 to Appendix 1 to CS CCD.200(b)(1)"
                 }
               ],
               "width": "4517"
@@ -569,7 +569,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GM3  to  Appendix  1  to  CS  CCD.200(b)(1)"
+                  "text": "GM3 to Appendix 1 to CS CCD.200(b)(1)"
                 }
               ],
               "width": "4517"
@@ -597,7 +597,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS  CCD.205"
+                  "text": "CS CCD.205"
                 }
               ],
               "width": "4517"
@@ -625,7 +625,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GM1  CCD.205(b)(2)(vi)"
+                  "text": "GM1 CCD.205(b)(2)(vi)"
                 }
               ],
               "width": "4517"
@@ -653,7 +653,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GM1  CCD.205(b)(4)"
+                  "text": "GM1 CCD.205(b)(4)"
                 }
               ],
               "width": "4517"
@@ -681,7 +681,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS  CCD.210"
+                  "text": "CS CCD.210"
                 }
               ],
               "width": "4517"
@@ -709,7 +709,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS  CCD.215"
+                  "text": "CS CCD.215"
                 }
               ],
               "width": "4517"
@@ -737,7 +737,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GM1  CCD.215(b)"
+                  "text": "GM1 CCD.215(b)"
                 }
               ],
               "width": "4517"
@@ -765,7 +765,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Subpart  C"
+                  "text": "Subpart C"
                 }
               ],
               "colspan": "2",
@@ -777,7 +777,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "CS  CCD.305"
+                  "text": "CS CCD.305"
                 }
               ],
               "width": "4517"
@@ -805,7 +805,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "GM1  CCD.305(b)(2)"
+                  "text": "GM1 CCD.305(b)(2)"
                 }
               ],
               "width": "4517"
@@ -833,7 +833,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Appendix  1  to  CS  CCD.310"
+                  "text": "Appendix 1 to CS CCD.310"
                 }
               ],
               "width": "4517"
@@ -861,7 +861,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "GM1  to  Appendix  1  to  CS  CCD.310"
+                  "text": "GM1 to Appendix 1 to CS CCD.310"
                 }
               ],
               "width": "4517"
@@ -889,7 +889,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Subpart  D"
+                  "text": "Subpart D"
                 }
               ],
               "colspan": "2",
@@ -901,7 +901,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "CS  CCD.400"
+                  "text": "CS CCD.400"
                 }
               ],
               "width": "4517"
@@ -929,7 +929,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "GM1  CCD.400"
+                  "text": "GM1 CCD.400"
                 }
               ],
               "width": "4517"
@@ -999,7 +999,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "type specific data for cabin crew .",
+        "text": "type specific data for cabin crew.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -1056,7 +1056,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "any other aircraft with a passenger seating capacity of 19 seats or less if voluntarily elected by the applicant .",
+        "text": "any other aircraft with a passenger seating capacity of 19 seats or less if voluntarily elected by the applicant.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -1077,14 +1077,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS CCD.105 Definitions",
+        "text": "CS CCD.105 Definitions",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -1113,7 +1113,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Candidate aircraft means an aircraft subject to the evaluation process .",
+        "text": "Candidate aircraft means an aircraft subject to the evaluation process.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -1121,7 +1121,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "New type means an aircraft different from the base aircraft , which requir es completion by the cabin crew of aircraft type - specific training.",
+        "text": "New type means an aircraft different from the base aircraft, which requires completion by the cabin crew of aircraft type-specific training.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -1129,7 +1129,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "Passenger deck means a deck where passenger seats or cabin doors/ exits or both are installed.",
+        "text": "Passenger deck means a deck where passenger seats or cabin doors/exits or both are installed.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -1153,7 +1153,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "Type - specific data means all design - related data that are relevant to new type(s) or variant(s).",
+        "text": "Type-specific data means all design-related data that are relevant to new type(s) or variant(s).",
         "marker": "(h)",
         "pStyle": "ListLevel0"
       },
@@ -1161,7 +1161,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 0,
-        "text": "Variant means an aircraft of the same type that has differences to the base aircraft , which requir e completion of a difference training course .",
+        "text": "Variant means an aircraft of the same type that has differences to the base aircraft, which require completion of a difference training course.",
         "marker": "(i)",
         "pStyle": "ListLevel0"
       },
@@ -1202,7 +1202,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "CS-CCD specifies data required from the applicant and data provided at the request of the applicant. Data provided by the applicant is presented as mandatory or non-mandatory (recommendations) for the end user ."
+        "text": "CS-CCD specifies data required from the applicant and data provided at the request of the applicant. Data provided by the applicant is presented as mandatory or non-mandatory (recommendations) for the end user."
       },
       {
         "type": "paragraph",
@@ -1272,7 +1272,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "Data required from the applicant and non-mandatory (recommendatio ns) for the end user (Box 2):",
+        "text": "Data required from the applicant and non-mandatory (recommendations) for the end user (Box 2):",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1316,7 +1316,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 0,
-        "text": "Data at request of the applicant and non-mandatory (recomme ndations) for the end user (Box 4):",
+        "text": "Data at request of the applicant and non-mandatory (recommendations) for the end user (Box 4):",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -1377,7 +1377,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Box 3: at request of the applicant; mandatory for end user s"
+        "text": "Box 3: at request of the applicant; mandatory for end users"
       },
       {
         "type": "paragraph",
@@ -1422,7 +1422,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "identifies differences by comparing the type specific elements specified in CS CCD.205 ; and",
+        "text": "identifies differences by comparing the type specific elements specified in CS CCD.205; and",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1438,7 +1438,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "the form specified in Appendix 1 to CS CCD.200(b)(1) ; or",
+        "text": "the form specified in Appendix 1 to CS CCD.200(b)(1); or",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -1446,7 +1446,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "the applicant’s form provided it contains the elements specified in Appendix 1 to CS CCD.200(b)(1) as applicable to the candidate aircraft, and the form is acceptable to the Agency .",
+        "text": "the applicant’s form provided it contains the elements specified in Appendix 1 to CS CCD.200(b)(1) as applicable to the candidate aircraft, and the form is acceptable to the Agency.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       }
@@ -1481,13 +1481,13 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "For the purpose of filling in the aircraft difference table, the applicant selects the base and the candidate aircraft ."
+        "text": "For the purpose of filling in the aircraft difference table, the applicant selects the base and the candidate aircraft."
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The aircraft difference table complies with the following format, or equivalent in accordance with CS CCD.200(b)(2) ."
+        "text": "The aircraft difference table complies with the following format, or equivalent in accordance with CS CCD.200(b)(2)."
       }
     ]
   },
@@ -1512,7 +1512,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -1653,7 +1653,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1. Impact on description of the element"
+                  "text": "1.Impact on description of the element"
                 }
               ],
               "vMerge": "restart",
@@ -1664,7 +1664,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "2. Impact on operation of the element"
+                  "text": "2.Impact on operation of the element"
                 }
               ],
               "vMerge": "restart",
@@ -1675,7 +1675,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1. Potential impact on procedures"
+                  "text": "1.Potential impact on procedures"
                 }
               ],
               "vMerge": "restart",
@@ -1686,7 +1686,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "2. Combined impact on operation of the element and potentially on procedures"
+                  "text": "2.Combined impact on operation of the element and potentially on procedures"
                 }
               ],
               "vMerge": "restart",
@@ -1780,7 +1780,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Single - aisle d"
+                  "text": "Single-aisled"
                 }
               ],
               "width": "3401"
@@ -1818,7 +1818,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Multi - aisle d"
+                  "text": "Multi-aisled"
                 }
               ],
               "width": "3401"
@@ -1894,7 +1894,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Wide-bodied"
+                  "text": "Wide-bodied "
                 }
               ],
               "width": "3401"
@@ -1932,7 +1932,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Single - passenger deck"
+                  "text": "Single-passenger deck"
                 }
               ],
               "width": "3401"
@@ -1970,7 +1970,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Multi - passenger deck"
+                  "text": "Multi-passenger deck"
                 }
               ],
               "width": "3401"
@@ -2046,7 +2046,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Numbe r"
+                  "text": "Number"
                 }
               ],
               "width": "3401"
@@ -2122,7 +2122,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Features ( e.g. door/exit assist handles)"
+                  "text": "Features (e.g. door/exit assist handles)"
                 }
               ],
               "width": "3401"
@@ -2160,7 +2160,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Controls ( e.g. door/exit locking indicators)"
+                  "text": "Controls (e.g. door/exit locking indicators)"
                 }
               ],
               "width": "3401"
@@ -2388,7 +2388,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Door/exit electrical warning system"
+                  "text": "Door/exit electrical warning system "
                 }
               ],
               "width": "3401"
@@ -2426,7 +2426,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Operation from inside in normal mode"
+                  "text": "Operation from inside in normal mode "
                 }
               ],
               "width": "3401"
@@ -2464,7 +2464,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Operation from inside in emergency mode"
+                  "text": "Operation from inside in emergency mode "
                 }
               ],
               "width": "3401"
@@ -2578,7 +2578,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "Means a ssisting evacuation"
+                  "text": "Means assisting evacuation"
                 }
               ],
               "width": "3401"
@@ -2616,7 +2616,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Type, number and location of units ( e.g. escape slide/slide raft/ramp slide)"
+                  "text": "Type, number and location of units (e.g. escape slide/slide raft/ramp slide)"
                 }
               ],
               "width": "3401"
@@ -2654,7 +2654,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Type and number of additional floatation means ( e.g. life raft)"
+                  "text": "Type and number of additional floatation means (e.g. life raft)"
                 }
               ],
               "width": "3401"
@@ -2766,7 +2766,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Operation (automatic/manual/ electrical) and inflation time"
+                  "text": "Operation (automatic/manual/electrical) and inflation time"
                 }
               ],
               "width": "3401"
@@ -2840,7 +2840,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Mean s of s ignalling slide readiness ( e.g. stop sign/barber pole)"
+                  "text": "Means of signalling slide readiness (e.g. stop sign/barber pole)"
                 }
               ],
               "width": "3401"
@@ -3025,7 +3025,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Em ergency signalling system ( e.g. attached ELT , built-in radio locator beacon (RLB)) and activation on land/in water"
+                  "text": "Emergency signalling system (e.g. attached ELT, built-in radio locator beacon (RLB)) and activation on land/in water"
                 }
               ],
               "width": "3401"
@@ -3506,7 +3506,7 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "automatic fire e xtinguishing system:"
+                  "text": "automatic fireextinguishing system:"
                 }
               ],
               "width": "3401"
@@ -3543,7 +3543,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Function of the built-in fire extinguishing system"
+                  "text": "Function of the built-in fireextinguishing system"
                 }
               ],
               "width": "3401"
@@ -3617,7 +3617,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Type ( e.g. gaseous, chemical)"
+                  "text": "Type (e.g. gaseous, chemical)"
                 }
               ],
               "width": "3401"
@@ -3728,7 +3728,15 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "(f) communication system:"
+                  "text": "(f)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "Bold",
+                  "text": "communication system:"
                 }
               ],
               "width": "3401"
@@ -3802,7 +3810,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Possibility of interphone calls in normal and emergency circumstances between the different cabin compartments and between the cabin and flight crew compartment s"
+                  "text": "Possibility of interphone calls in normal and emergency circumstances between the different cabin compartments and between the cabin and flight crew compartments"
                 }
               ],
               "width": "3401"
@@ -3913,7 +3921,15 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "(g) public address system:"
+                  "text": "(g)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "Bold",
+                  "text": "public address system:"
                 }
               ],
               "width": "3401"
@@ -3987,7 +4003,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Priority order of the public announcement system (flight crew handset /senior cabin crew member ( SCCM ) handset/any other cabin crew handset/evacuation signal alarm)"
+                  "text": "Priority order of the public announcement system (flight crew handset/senior cabin crew member (SCCM) handset/any other cabin crew handset/evacuation signal alarm)"
                 }
               ],
               "width": "3401"
@@ -4024,7 +4040,15 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "(h) control panels:"
+                  "text": "(h)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "Bold",
+                  "text": "control panels:"
                 }
               ],
               "width": "3401"
@@ -4061,7 +4085,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Cabin crew panel(s) — controls related to evacuation, lavatory smoke, emergency lights"
+                  "text": "Cabin crew panel(s) — controls related to evacuation, lavatory smoke, emergency lights "
                 }
               ],
               "width": "3401"
@@ -4098,7 +4122,15 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "( i ) water system:"
+                  "text": "(i)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "Bold",
+                  "text": "water system:"
                 }
               ],
               "width": "3401"
@@ -4172,7 +4204,15 @@
               "content": [
                 {
                   "style": "Bold",
-                  "text": "(j) other systems as applicable:"
+                  "text": "(j)"
+                },
+                {
+                  "style": null,
+                  "text": " "
+                },
+                {
+                  "style": "Bold",
+                  "text": "other systems as applicable:"
                 }
               ],
               "width": "3401"
@@ -4346,7 +4386,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "The corresponding sub-column(s) should be marked in the part ‘Impact assessment’, as relevant to the assessed element .",
+        "text": "The corresponding sub-column(s) should be marked in the part ‘Impact assessment’, as relevant to the assessed element.",
         "marker": "3.",
         "pStyle": "ListLevel0"
       }
@@ -4367,14 +4407,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM2 to Appendix 1 to CS CCD.200(b)(1) Aircraft difference table",
+        "text": "GM2 to Appendix 1 to CS CCD.200(b)(1) Aircraft difference table",
         "pStyle": "Heading4GM"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -4395,7 +4435,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The c olumn ‘Impact on description of the element’ should be marked when there is an identified difference information — such difference needs to be provided to the user (cabin crew), e.g. the location of the manual water shut-off valve, or the location of the emergency lighting control button on the cabin management system panel. The column implies a knowledge requirement.",
+        "text": "The column ‘Impact on description of the element’ should be marked when there is an identified difference information — such difference needs to be provided to the user (cabin crew), e.g. the location of the manual water shut-off valve, or the location of the emergency lighting control button on the cabin management system panel. The column implies a knowledge requirement.",
         "marker": "1.",
         "pStyle": "ListLevel0"
       },
@@ -4403,7 +4443,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The c olumn ‘Impact on operation of the element’ should be marked if the identified difference affects the operation of the element, e.g. the power assist mechanism on a door/exit, a detaching and separating slide raft from the aircraft, the installation of a canopy, the controls related to evacuation, smoke, or emergency lights on the cabin crew control panel. The column implies a knowledge requirement and may imply a hands-on training requirement .",
+        "text": "The column ‘Impact on operation of the element’ should be marked if the identified difference affects the operation of the element, e.g. the power assist mechanism on a door/exit, a detaching and separating slide raft from the aircraft, the installation of a canopy, the controls related to evacuation, smoke, or emergency lights on the cabin crew control panel. The column implies a knowledge requirement and may imply a hands-on training requirement.",
         "marker": "2.",
         "pStyle": "ListLevel0"
       },
@@ -4430,14 +4470,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM3 to Appendix 1 to CS CCD.200(b)(1) Aircraft difference table",
+        "text": "GM3 to Appendix 1 to CS CCD.200(b)(1) Aircraft difference table",
         "pStyle": "Heading4GM"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -4457,14 +4497,14 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "The c olumn ‘Potential impact on procedures’ should be marked to indicate that operators, in relation to the identified difference, may need to assess whether their procedures need to be amended, or new procedures need to be developed, e.g. for a built-in fire - extinguishing system, evacuation alarm alert indications, or the capacity and overload of a slide raft. The column implies a knowledge requirement attained by aided instruction.",
+        "text": "The column ‘Potential impact on procedures’ should be marked to indicate that operators, in relation to the identified difference, may need to assess whether their procedures need to be amended, or new procedures need to be developed, e.g. for a built-in fire-extinguishing system, evacuation alarm alert indications, or the capacity and overload of a slide raft. The column implies a knowledge requirement attained by aided instruction.",
         "marker": "1."
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "The c olumn ‘Combined impact on operation of the element and potentially on procedures’ should be marked to indicate that the identified difference affects the operation of the element and may require the operators to assess whether their procedures need to be amended or new procedures need to be developed, e.g. the function of a smoke detection system, a door/exit electrical warning system, or a communication system. The column implies a knowledge requirement attained by aided instruction and may imply a hands-on training requirement .",
+        "text": "The column ‘Combined impact on operation of the element and potentially on procedures’ should be marked to indicate that the identified difference affects the operation of the element and may require the operators to assess whether their procedures need to be amended or new procedures need to be developed, e.g. the function of a smoke detection system, a door/exit electrical warning system, or a communication system. The column implies a knowledge requirement attained by aided instruction and may imply a hands-on training requirement.",
         "marker": "2."
       },
       {
@@ -4490,21 +4530,21 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS CCD.205 Determination elements",
+        "text": "CS CCD.205 Determination elements",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "At least the following type - specific elements, as specified in Appendix 1 to CS CCD.200(b)(1) , are assessed to determine whether a candidate aircraft is a new type or a variant of the base aircraft:",
+        "text": "At least the following type-specific elements, as specified in Appendix 1 to CS CCD.200(b)(1), are assessed to determine whether a candidate aircraft is a new type or a variant of the base aircraft:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -4536,7 +4576,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "the normal and emergency procedures .",
+        "text": "the normal and emergency procedures.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -4560,7 +4600,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 2,
-        "text": "the number of aisles — single - /multi - ; narrow/wide-bodied; and",
+        "text": "the number of aisles — single-/multi-; narrow/wide-bodied; and",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -4656,7 +4696,7 @@
         "type": "paragraph",
         "index": 22,
         "level": 2,
-        "text": "their location s ; and",
+        "text": "their locations; and",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -4664,7 +4704,7 @@
         "type": "paragraph",
         "index": 23,
         "level": 1,
-        "text": "in normal and emergency procedures , any design-related element that would impact either on normal procedures or on emergency procedures or on both normal and emergency procedures .",
+        "text": "in normal and emergency procedures, any design-related element that would impact either on normal procedures or on emergency procedures or on both normal and emergency procedures.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -4691,14 +4731,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 CCD.205(b)(2)(vi) Determination elements",
+        "text": "GM1 CCD.205(b)(2)(vi) Determination elements",
         "pStyle": "Heading3GM"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -4712,7 +4752,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Assisting evacuation means include, but are not limited to, escape slide s , slide raft s , ramp slide s , life raft s , life lines , the means of signalling slide readiness, e.g. a barber pole or stop sign ."
+        "text": "Assisting evacuation means include, but are not limited to, escape slides, slide rafts, ramp slides, life rafts, life lines, the means of signalling slide readiness, e.g. a barber pole or stop sign."
       },
       {
         "type": "paragraph",
@@ -4737,14 +4777,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 CCD.205(b)(4) Determination elements",
+        "text": "GM1 CCD.205(b)(4) Determination elements",
         "pStyle": "Heading3GM"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -4758,7 +4798,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Design-related elements that could impact on normal procedures ( e.g. cabin preparation for the critical phases of flight, etc.) and/or emergency procedures (e.g. in-flight firefighting; decompression; emergency evacuation on ground; ditching, etc.) that would require additional knowledge, new roles and/or tasks by the cabin crew."
+        "text": "Design-related elements that could impact on normal procedures (e.g. cabin preparation for the critical phases of flight, etc.) and/or emergency procedures (e.g. in-flight firefighting; decompression; emergency evacuation on ground; ditching, etc.) that would require additional knowledge, new roles and/or tasks by the cabin crew."
       },
       {
         "type": "paragraph",
@@ -4789,14 +4829,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS CCD.210 Determination of a new type",
+        "text": "CS CCD.210 Determination of a new type",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -4811,7 +4851,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "if so substantiated in the compliance demonstration and approved by the Agency ; or",
+        "text": "if so substantiated in the compliance demonstration and approved by the Agency; or",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -4819,7 +4859,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "as a result of the determination process required by CS CCD.200 .",
+        "text": "as a result of the determination process required by CS CCD.200.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -4827,7 +4867,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The candidate aircraft is determined to be a new type if t he type - specific elements of CS CCD.205(b)(1) and (b)(2) are different from those of the base aircraft .",
+        "text": "The candidate aircraft is determined to be a new type if the type-specific elements of CS CCD.205(b)(1) and (b)(2) are different from those of the base aircraft.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -4843,7 +4883,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "one or several doors/exits of the same operation as any door/exit that is installed on the base aircraft are added or removed ; or",
+        "text": "one or several doors/exits of the same operation as any door/exit that is installed on the base aircraft are added or removed; or",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -4859,7 +4899,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "self-help exits (such as Type lll and Type lV , as per CS-25).",
+        "text": "self-help exits (such as Type lll and Type lV, as per CS-25).",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -4867,7 +4907,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "If no differences are identified in the type - specific elements of CS CCD.205(b)(1) and (b)(2) , but differences are identified in the type - specific elements of CS CCD.205(b)(3) or (b)(4) , or in both , and are combined with one or more of the differences specified in (c), the impact of those differences is assessed and the determination of the candidate aircraft as a new type is considered.",
+        "text": "If no differences are identified in the type-specific elements of CS CCD.205(b)(1) and (b)(2), but differences are identified in the type-specific elements of CS CCD.205(b)(3) or (b)(4), or in both, and are combined with one or more of the differences specified in (c), the impact of those differences is assessed and the determination of the candidate aircraft as a new type is considered.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -4875,7 +4915,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 0,
-        "text": "When identifying differences in accordance with CS CCD.205(b)(2)(i) , if the number, location and operation of doors/exits is the same but the type (as per CS-25) of the i nstalled door/exit is different from that of the base aircraft, the candidate aircraft need not be determined as a new type.",
+        "text": "When identifying differences in accordance with CS CCD.205(b)(2)(i), if the number, location and operation of doors/exits is the same but the type (as per CS-25) of the installed door/exit is different from that of the base aircraft, the candidate aircraft need not be determined as a new type.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -4883,7 +4923,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "If differences are identified in CS CCD.205(b)(3) only, the candidate aircraft need not be determined as a new type.",
+        "text": "If differences are identified in CS CCD.205(b)(3) only, the candidate aircraft need not be determined as a new type.",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -4911,14 +4951,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS CCD.215 Determination of a variant",
+        "text": "CS CCD.215 Determination of a variant",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -4941,7 +4981,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "as a result of the determination process required by CS CCD.200 .",
+        "text": "as a result of the determination process required by CS CCD.200.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -4957,7 +4997,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Existing differences and their assessed impact are compiled in the Aircraft difference table in accordance with CS CCD.200 (b)(1), or using the applicant’s standard form in accordance with CS CCD.200 (b)(2), to support the development of the difference training by the end user(s).",
+        "text": "Existing differences and their assessed impact are compiled in the Aircraft difference table in accordance with CS CCD.200(b)(1), or using the applicant’s standard form in accordance with CS CCD.200(b)(2), to support the development of the difference training by the end user(s).",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -4984,7 +5024,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 CCD.215(b) Determination of a variant",
+        "text": "GM1 CCD.215(b) Determination of a variant",
         "pStyle": "Heading3GM"
       },
       {
@@ -5005,7 +5045,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "types of fixed oxygen systems ( e.g. chemical or gaseous; continuous or pulse);",
+        "text": "types of fixed oxygen systems (e.g. chemical or gaseous; continuous or pulse);",
         "pStyle": "bullet0"
       },
       {
@@ -5019,7 +5059,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "types of installed crew seats ( e.g. swivel, high-comfort, folding), cabin signs, etc.",
+        "text": "types of installed crew seats (e.g. swivel, high-comfort, folding), cabin signs, etc.",
         "pStyle": "bullet0"
       },
       {
@@ -5076,7 +5116,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "all necessary data in accordance with CS CCD.205 to support the development of differences training programmes .",
+        "text": "all necessary data in accordance with CS CCD.205 to support the development of differences training programmes.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       }
@@ -5097,27 +5137,27 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS CCD.305 Supplementary data provided at the request of the applicant",
+        "text": "CS CCD.305 Supplementary data provided at the request of the applicant",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "In addition to CS CCD.300 , the applicant may elect to provide supplementary data to support the development of relevant training programmes by the end users, such as:"
+        "text": "In addition to CS CCD.300, the applicant may elect to provide supplementary data to support the development of relevant training programmes by the end users, such as:"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "data which can include, but is not limited to, additional equipment and components, when supplied by the applicant , such as :",
+        "text": "data which can include, but is not limited to, additional equipment and components, when supplied by the applicant, such as:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5133,7 +5173,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "passenger seat s (seat belt s , seat operation , passenger control unit s (PCU s ) , body support floatation equipment , where relevant );",
+        "text": "passenger seats (seat belts, seat operation, passenger control units (PCUs), body support floatation equipment, where relevant);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5141,7 +5181,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "overhead stowage compartment s (direction of opening/closing , weight limit );",
+        "text": "overhead stowage compartments (direction of opening/closing, weight limit);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -5149,7 +5189,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "galley components (steam/microwave oven s, bakery warmer s, freezer s, supplemental cooling system s, hot beverage brewers/steamers , or trash compactor s ); and",
+        "text": "galley components (steam/microwave ovens, bakery warmers, freezers, supplemental cooling systems, hot beverage brewers/steamers, or trash compactors); and",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -5165,7 +5205,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "data used on a non-mandatory (recommendations) basis by the end users, such as information that may be based on the training provided to cabin crew members participating in the emergency evacuation demonstration required by CS 25.803:",
+        "text": "data used on a non-mandatory (recommendations) basis by the end users, such as information that may be based on the training provided to cabin crew members participating in the emergency evacuation demonstration required by CS 25.803:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -5181,7 +5221,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "delivery methods of the relevant training elements , including training levels; or",
+        "text": "delivery methods of the relevant training elements, including training levels; or",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5189,7 +5229,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 1,
-        "text": "the duration of the training to ensure the attainment of the required knowledge and skills .",
+        "text": "the duration of the training to ensure the attainment of the required knowledge and skills.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -5216,7 +5256,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 CCD.305(b)(2) Supplementary data provided at the request of the applicant",
+        "text": "GM1 CCD.305(b)(2) Supplementary data provided at the request of the applicant",
         "pStyle": "Heading3GM"
       },
       {
@@ -5231,14 +5271,14 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The cabin crew training needs that are required for a new type, a variant, or the same variant specified by CS CCD.215 (b), may be addressed through training levels, such as levels 1 to 4 below:",
+        "text": "The cabin crew training needs that are required for a new type, a variant, or the same variant specified by CS CCD.215(b), may be addressed through training levels, such as levels 1 to 4 below:",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Level 1: Applicable to aircraft with differences that can be adequately addressed through self instruction. Level 1 training requires a certain level of knowledge of the cabin crew such that, once appropriate information is provided, their understanding and compliance can be assumed to take place. Compliance with Level 1 training is typically achieved by methods such as the issuance of page revisions to the operating manual, and the dissemination of operating bulletins for cabin crew or difference handouts to describe minor differences between aircraft.",
+        "text": "Level 1: Applicable to aircraft with differences that can be adequately addressed through selfinstruction. Level 1 training requires a certain level of knowledge of the cabin crew such that, once appropriate information is provided, their understanding and compliance can be assumed to take place. Compliance with Level 1 training is typically achieved by methods such as the issuance of page revisions to the operating manual, and the dissemination of operating bulletins for cabin crew or difference handouts to describe minor differences between aircraft.",
         "pStyle": "Normal0"
       },
       {
@@ -5252,7 +5292,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Level 3: Applicable to aircraft with differences that can only be addressed through the use of devices capable of providing system training ( i.e. hands-on training). Training devices are required to supplement the aided instruction to ensure the attainment or retention of skills and abilities to accomplish more complex tasks, which are usually related to the operation of particular aircraft systems. Training devices for Level 3 training include emergency evacuation procedure trainers, fire and smoke trainers, cabin crew panel trainers, etc. When dedicated trainers are not available, Level 3 training requires hands-on training using the aircraft.",
+        "text": "Level 3: Applicable to aircraft with differences that can only be addressed through the use of devices capable of providing system training (i.e. hands-on training). Training devices are required to supplement the aided instruction to ensure the attainment or retention of skills and abilities to accomplish more complex tasks, which are usually related to the operation of particular aircraft systems. Training devices for Level 3 training include emergency evacuation procedure trainers, fire and smoke trainers, cabin crew panel trainers, etc. When dedicated trainers are not available, Level 3 training requires hands-on training using the aircraft.",
         "pStyle": "Normal0"
       },
       {
@@ -5300,13 +5340,13 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The applicant includes in the type specific data for cabin crew at least the following elements in accordance with Appendix 1 to CS CCD.310 , as applicable:"
+        "text": "The applicant includes in the type specific data for cabin crew at least the following elements in accordance with Appendix 1 to CS CCD.310, as applicable:"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "aircraft description , including:",
+        "text": "aircraft description, including:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5338,7 +5378,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "aircraft systems including associated equipment .",
+        "text": "aircraft systems including associated equipment.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -5359,21 +5399,21 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Appendix 1 to CS CCD.310 Type - specific data content",
+        "text": "Appendix 1 to CS CCD.310 Type-specific data content",
         "pStyle": "Heading3CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Type - specific data content",
+        "text": "Type-specific data content",
         "pStyle": "Normal0",
         "pRStyle": "Bold"
       },
@@ -5381,7 +5421,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The type - specific data for cabin crew include the following, as rele vant to the candidate aircraft:"
+        "text": "The type-specific data for cabin crew include the following, as relevant to the candidate aircraft:"
       },
       {
         "type": "paragraph",
@@ -5419,7 +5459,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "principal dimensions (length , height , width , wing span );",
+        "text": "principal dimensions (length, height, width, wing span);",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -5427,7 +5467,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "main characteristics (engines , landing gear , fuel tanks , flight controls , speed ) ;",
+        "text": "main characteristics (engines, landing gear, fuel tanks, flight controls, speed);",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -5443,7 +5483,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 0,
-        "text": "general information (air conditioning , pressurisation system , electrical power , auxiliary power unit (APU) , slats , flaps );",
+        "text": "general information (air conditioning, pressurisation system, electrical power, auxiliary power unit (APU), slats, flaps);",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -5459,7 +5499,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 0,
-        "text": "doors and emergency exits ( doors and service doors , emergency exits , flight crew compartment window , flight crew compartment emergency hatch , avionics compartment);",
+        "text": "doors and emergency exits (doors and service doors, emergency exits, flight crew compartment window, flight crew compartment emergency hatch, avionics compartment);",
         "marker": "(h)",
         "pStyle": "ListLevel0"
       },
@@ -5467,7 +5507,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 0,
-        "text": "passenger seating capacity (as determined during the relevant TC, change to TC or STC process );",
+        "text": "passenger seating capacity (as determined during the relevant TC, change to TC or STC process);",
         "marker": "(i)",
         "pStyle": "ListLevel0"
       },
@@ -5475,7 +5515,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 0,
-        "text": "required number of flight crew, number and location of cabin crew stations (required and additional );",
+        "text": "required number of flight crew, number and location of cabin crew stations (required and additional);",
         "marker": "(j)",
         "pStyle": "ListLevel0"
       },
@@ -5483,7 +5523,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 0,
-        "text": "aircraft crash estimated attitudes ( e.g. nose or main landing gear retracted , afloat following a ditching) .",
+        "text": "aircraft crash estimated attitudes (e.g. nose or main landing gear retracted, afloat following a ditching).",
         "marker": "(k)",
         "pStyle": "ListLevel0"
       },
@@ -5499,7 +5539,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 0,
-        "text": "layout — number and type of the installed seats ( e.g. column mounted , comfort seat , folding seat);",
+        "text": "layout — number and type of the installed seats (e.g. column mounted, comfort seat, folding seat);",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5507,7 +5547,7 @@
         "type": "paragraph",
         "index": 20,
         "level": 0,
-        "text": "description and operation of the installed seat type (electrical/manual , vertical/horizontal/recline/rotating movement , restraint system s , i.e. seat belt/crotch strap/shoulder harness and locking mechanism s );",
+        "text": "description and operation of the installed seat type (electrical/manual, vertical/horizontal/recline/rotating movement, restraint systems, i.e. seat belt/crotch strap/shoulder harness and locking mechanisms);",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -5515,7 +5555,7 @@
         "type": "paragraph",
         "index": 21,
         "level": 0,
-        "text": "oxygen system (stowage , type and description of mask s, smoke goggles , N/100 % and e mergency pressure selector s, its operation );",
+        "text": "oxygen system (stowage, type and description of masks, smoke goggles, N/100 % and emergency pressure selectors, its operation);",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -5531,7 +5571,7 @@
         "type": "paragraph",
         "index": 23,
         "level": 1,
-        "text": "door type ( e.g. intrusion/penetration resistant);",
+        "text": "door type (e.g. intrusion/penetration resistant);",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5539,7 +5579,7 @@
         "type": "paragraph",
         "index": 24,
         "level": 1,
-        "text": "door components ( e.g. locking latches , mortise lock s, escape/decompression panel s, viewing lens es );",
+        "text": "door components (e.g. locking latches, mortise locks, escape/decompression panels, viewing lenses);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5547,7 +5587,7 @@
         "type": "paragraph",
         "index": 25,
         "level": 1,
-        "text": "door access control panel s (in the case of installed security bulletproof door s );",
+        "text": "door access control panels (in the case of installed security bulletproof doors);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -5563,7 +5603,7 @@
         "type": "paragraph",
         "index": 27,
         "level": 1,
-        "text": "means of monitoring ( a viewing lens , a CCTV system );",
+        "text": "means of monitoring (a viewing lens, a CCTV system);",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -5571,7 +5611,7 @@
         "type": "paragraph",
         "index": 28,
         "level": 0,
-        "text": "exits and escape routes (primary/secondary , sliding window s, emergency exit hatch es, door escape panel s ) and escape devices (escape rope s, inertia reels );",
+        "text": "exits and escape routes (primary/secondary, sliding windows, emergency exit hatches, door escape panels) and escape devices (escape ropes, inertia reels);",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -5579,7 +5619,7 @@
         "type": "paragraph",
         "index": 29,
         "level": 0,
-        "text": "avionics compartment if certified as an evacuation route ( its location , purpose , operation of avionics access hatch , access from inside/outside).",
+        "text": "avionics compartment if certified as an evacuation route (its location, purpose, operation of avionics access hatch, access from inside/outside).",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -5603,7 +5643,7 @@
         "type": "paragraph",
         "index": 32,
         "level": 1,
-        "text": "number and type of the installed crew seats ( e.g. swivel/high-comfort/folding seat);",
+        "text": "number and type of the installed crew seats (e.g. swivel/high-comfort/folding seat);",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5611,7 +5651,7 @@
         "type": "paragraph",
         "index": 33,
         "level": 1,
-        "text": "description and operation of the installed crew seats (restraint system, i.e. seat belt/shoulder harness es, quick release buckle s, shoulder harness inertial mechanism s );",
+        "text": "description and operation of the installed crew seats (restraint system, i.e. seat belt/shoulder harnesses, quick release buckles, shoulder harness inertial mechanisms);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5619,7 +5659,7 @@
         "type": "paragraph",
         "index": 34,
         "level": 0,
-        "text": "doors and exits — doors /service doors/emergency exits:",
+        "text": "doors and exits — doors/service doors/emergency exits:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -5627,7 +5667,7 @@
         "type": "paragraph",
         "index": 35,
         "level": 1,
-        "text": "the number of door(s)/exit(s)/location s /sill height s ;",
+        "text": "the number of door(s)/exit(s)/locations/sill heights;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5635,7 +5675,7 @@
         "type": "paragraph",
         "index": 36,
         "level": 1,
-        "text": "description of features/controls/operation — manual/electrical and malfunction s ;",
+        "text": "description of features/controls/operation — manual/electrical and malfunctions;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5667,7 +5707,7 @@
         "type": "paragraph",
         "index": 40,
         "level": 1,
-        "text": "power assist system and malfunction s ;",
+        "text": "power assist system and malfunctions;",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -5675,7 +5715,7 @@
         "type": "paragraph",
         "index": 41,
         "level": 1,
-        "text": "integral stair s ;",
+        "text": "integral stairs;",
         "marker": "(7)",
         "pStyle": "ListLevel1"
       },
@@ -5683,7 +5723,7 @@
         "type": "paragraph",
         "index": 42,
         "level": 1,
-        "text": "crew assist space s ;",
+        "text": "crew assist spaces;",
         "marker": "(8)",
         "pStyle": "ListLevel1"
       },
@@ -5699,7 +5739,7 @@
         "type": "paragraph",
         "index": 44,
         "level": 1,
-        "text": "access door s /opening port s to the cargo compartment from the cabin compartment;",
+        "text": "access doors/opening ports to the cargo compartment from the cabin compartment;",
         "marker": "(10)",
         "pStyle": "ListLevel1"
       },
@@ -5723,7 +5763,7 @@
         "type": "paragraph",
         "index": 47,
         "level": 0,
-        "text": "escape slide s /slide raft s /ramp slide s /life raft s :",
+        "text": "escape slides/slide rafts/ramp slides/life rafts:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -5739,7 +5779,7 @@
         "type": "paragraph",
         "index": 49,
         "level": 1,
-        "text": "type and number of units (single/multi lane , single/multi buoyancy chamber , length and width );",
+        "text": "type and number of units (single/multi lane, single/multi buoyancy chamber, length and width);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5755,7 +5795,7 @@
         "type": "paragraph",
         "index": 51,
         "level": 1,
-        "text": "slide arm/ disarm;",
+        "text": "slide arm/disarm;",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -5763,7 +5803,7 @@
         "type": "paragraph",
         "index": 52,
         "level": 1,
-        "text": "deployment and duration (automatic/manual );",
+        "text": "deployment and duration (automatic/manual);",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -5771,7 +5811,7 @@
         "type": "paragraph",
         "index": 53,
         "level": 1,
-        "text": "means of signalling slide readiness ( e.g. stop sign/barber pole);",
+        "text": "means of signalling slide readiness (e.g. stop sign/barber pole);",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -5803,7 +5843,7 @@
         "type": "paragraph",
         "index": 57,
         "level": 1,
-        "text": "limitation/operation of inverted slide s /life raft s ;",
+        "text": "limitation/operation of inverted slides/life rafts;",
         "marker": "(10)",
         "pStyle": "ListLevel1"
       },
@@ -5811,7 +5851,7 @@
         "type": "paragraph",
         "index": 58,
         "level": 1,
-        "text": "slide/life raft equipment (description/operation/use );",
+        "text": "slide/life raft equipment (description/operation/use);",
         "marker": "(11)",
         "pStyle": "ListLevel1"
       },
@@ -5819,7 +5859,7 @@
         "type": "paragraph",
         "index": 59,
         "level": 1,
-        "text": "attached survival kit (location/content/operation );",
+        "text": "attached survival kit (location/content/operation);",
         "marker": "(12)",
         "pStyle": "ListLevel1"
       },
@@ -5827,7 +5867,7 @@
         "type": "paragraph",
         "index": 60,
         "level": 1,
-        "text": "malfunction (transfer of slide/raft to another door , use as a handheld chute );",
+        "text": "malfunction (transfer of slide/raft to another door, use as a handheld chute);",
         "marker": "(13)",
         "pStyle": "ListLevel1"
       },
@@ -5835,7 +5875,7 @@
         "type": "paragraph",
         "index": 61,
         "level": 1,
-        "text": "emergency signalling system ( e.g. attached ELT, built-in radio locator beacon (RLB) — operation on land/in water);",
+        "text": "emergency signalling system (e.g. attached ELT, built-in radio locator beacon (RLB) — operation on land/in water);",
         "marker": "(14)",
         "pStyle": "ListLevel1"
       },
@@ -5875,7 +5915,7 @@
         "type": "paragraph",
         "index": 66,
         "level": 1,
-        "text": "systems (fire/smoke detection and prevention , oxygen , communication , lighting , and air conditioning );",
+        "text": "systems (fire/smoke detection and prevention, oxygen, communication, lighting, and air conditioning);",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -5923,7 +5963,7 @@
         "type": "paragraph",
         "index": 72,
         "level": 1,
-        "text": "water system (water supply/water shut-off/water heater );",
+        "text": "water system (water supply/water shut-off/water heater);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -5963,7 +6003,7 @@
         "type": "paragraph",
         "index": 77,
         "level": 1,
-        "text": "lavatory door — lock/unlock system from inside/ outside;",
+        "text": "lavatory door — lock/unlock system from inside/outside;",
         "marker": "(8)",
         "pStyle": "ListLevel1"
       },
@@ -5979,7 +6019,7 @@
         "type": "paragraph",
         "index": 79,
         "level": 0,
-        "text": "passenger service unit (PSU) (oxygen container , pictogram(s) , loudspeaker , reading light , call light , seat row identifier , air vent );",
+        "text": "passenger service unit (PSU) (oxygen container, pictogram(s), loudspeaker, reading light, call light, seat row identifier, air vent);",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -5987,7 +6027,7 @@
         "type": "paragraph",
         "index": 80,
         "level": 0,
-        "text": "lift — location , description and operation , control panel , malfunction;",
+        "text": "lift — location, description and operation, control panel, malfunction;",
         "marker": "(g)",
         "pStyle": "ListLevel0"
       },
@@ -6027,7 +6067,7 @@
         "type": "paragraph",
         "index": 85,
         "level": 1,
-        "text": "interior normal and emergency lighting (ceiling , door sill , over wing exit handle light , exit location/marking sign s, floor proximity escape path marking s );",
+        "text": "interior normal and emergency lighting (ceiling, door sill, over wing exit handle light, exit location/marking signs, floor proximity escape path markings);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6035,7 +6075,7 @@
         "type": "paragraph",
         "index": 86,
         "level": 1,
-        "text": "exterior emergency lighting (slide/raft - integrated emergency lights , over wing lights );",
+        "text": "exterior emergency lighting (slide/raft-integrated emergency lights, over wing lights);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6050,7 +6090,7 @@
         "type": "paragraph",
         "index": 88,
         "level": 1,
-        "text": "description, location and operation of activation/signal panel(s) (flight crew/cabin compartment );",
+        "text": "description, location and operation of activation/signal panel(s) (flight crew/cabin compartment);",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6081,7 +6121,7 @@
         "type": "paragraph",
         "index": 92,
         "level": 1,
-        "text": "location , panels and function (passenger cabin/lavatory/crew rest compartment(s)/cargo compartment );",
+        "text": "location, panels and function (passenger cabin/lavatory/crew rest compartment(s)/cargo compartment);",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6089,7 +6129,7 @@
         "type": "paragraph",
         "index": 93,
         "level": 1,
-        "text": "location and description of aural/visual indications (warning chime/light , signalling means , reset );",
+        "text": "location and description of aural/visual indications (warning chime/light, signalling means, reset);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6097,7 +6137,7 @@
         "type": "paragraph",
         "index": 94,
         "level": 1,
-        "text": "potential cause s of smoke alarm activation;",
+        "text": "potential causes of smoke alarm activation;",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6105,7 +6145,7 @@
         "type": "paragraph",
         "index": 95,
         "level": 1,
-        "text": "smoke barrier/removal ( e.g. crew rest compartment staircase hatch , smoke curtain — description/operation/preflight check);",
+        "text": "smoke barrier/removal (e.g. crew rest compartment staircase hatch, smoke curtain — description/operation/preflight check);",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -6121,7 +6161,7 @@
         "type": "paragraph",
         "index": 97,
         "level": 1,
-        "text": "type — automatic/manual ( e.g. temperature sensor s, fire-extinguishing services (FES) d ischarge switch (fire - extinguishing system));",
+        "text": "type — automatic/manual (e.g. temperature sensors, fire-extinguishing services (FES) discharge switch (fire-extinguishing system));",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6129,7 +6169,7 @@
         "type": "paragraph",
         "index": 98,
         "level": 1,
-        "text": "location and function of the built-in fire - extinguishing system (crew rest compartment(s) , lavatory/cargo compartment/engines );",
+        "text": "location and function of the built-in fire-extinguishing system (crew rest compartment(s), lavatory/cargo compartment/engines);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6137,7 +6177,7 @@
         "type": "paragraph",
         "index": 99,
         "level": 1,
-        "text": "built-in fire extinguishers — type of agent/content/operation/ duration;",
+        "text": "built-in fire extinguishers — type of agent/content/operation/duration;",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6153,7 +6193,7 @@
         "type": "paragraph",
         "index": 101,
         "level": 1,
-        "text": "location (passenger cabin/crew station/crew rest compartment(s)/lavatory/galley );",
+        "text": "location (passenger cabin/crew station/crew rest compartment(s)/lavatory/galley);",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6169,7 +6209,7 @@
         "type": "paragraph",
         "index": 103,
         "level": 1,
-        "text": "activation/operation/duration of oxygen system and malfunction s ;",
+        "text": "activation/operation/duration of oxygen system and malfunctions;",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6201,7 +6241,7 @@
         "type": "paragraph",
         "index": 107,
         "level": 1,
-        "text": "galley — hot water container , control panel , control switches , circuit breaker s, galley emergency power - off switch;",
+        "text": "galley — hot water container, control panel, control switches, circuit breakers, galley emergency power-off switch;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6209,7 +6249,7 @@
         "type": "paragraph",
         "index": 108,
         "level": 1,
-        "text": "lift (unit operation , control panel , circuit breakers systems );",
+        "text": "lift (unit operation, control panel, circuit breakers systems);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6217,7 +6257,7 @@
         "type": "paragraph",
         "index": 109,
         "level": 1,
-        "text": "door electrical warning system (cabin pressure/slide armed/safeguard sensor );",
+        "text": "door electrical warning system (cabin pressure/slide armed/safeguard sensor);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6225,7 +6265,7 @@
         "type": "paragraph",
         "index": 110,
         "level": 1,
-        "text": "power socket (flight crew/cabin compartment );",
+        "text": "power socket (flight crew/cabin compartment);",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -6233,7 +6273,7 @@
         "type": "paragraph",
         "index": 111,
         "level": 1,
-        "text": "lavatory (razor outlet , built-in hairdryer , water - heating system );",
+        "text": "lavatory (razor outlet, built-in hairdryer, water-heating system);",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -6241,7 +6281,7 @@
         "type": "paragraph",
         "index": 112,
         "level": 1,
-        "text": "passenger seat (electrical operation , seat power outlet );",
+        "text": "passenger seat (electrical operation, seat power outlet);",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -6249,7 +6289,7 @@
         "type": "paragraph",
         "index": 113,
         "level": 1,
-        "text": "video control centre /passenger individual screen/cabin main screen;",
+        "text": "video control centre/passenger individual screen/cabin main screen;",
         "marker": "(7)",
         "pStyle": "ListLevel1"
       },
@@ -6273,7 +6313,7 @@
         "type": "paragraph",
         "index": 116,
         "level": 1,
-        "text": "location of handset unit(s) (crew station/flight crew/crew rest compartment(s) );",
+        "text": "location of handset unit(s) (crew station/flight crew/crew rest compartment(s));",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6289,7 +6329,7 @@
         "type": "paragraph",
         "index": 118,
         "level": 1,
-        "text": "operation of interphone and initiating calls in normal and emergency circumstances (calls: cabin to flight crew compartment , cabin crew to cabin crew station , cabin/flight crew compartment to crew rest compartment(s) , cabin crew/flight crew to purser and vice versa );",
+        "text": "operation of interphone and initiating calls in normal and emergency circumstances (calls: cabin to flight crew compartment, cabin crew to cabin crew station, cabin/flight crew compartment to crew rest compartment(s), cabin crew/flight crew to purser and vice versa);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6329,7 +6369,7 @@
         "type": "paragraph",
         "index": 123,
         "level": 1,
-        "text": "location/description/operation of handset unit(s) (crew station/flight crew compartment/crew rest compartment(s) );",
+        "text": "location/description/operation of handset unit(s) (crew station/flight crew compartment/crew rest compartment(s));",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6361,7 +6401,7 @@
         "type": "paragraph",
         "index": 127,
         "level": 1,
-        "text": "description of the priority order of public announcement system ( e.g. flight crew handset/purser handset/any other cabin crew handset/evacuation signal alarm);",
+        "text": "description of the priority order of public announcement system (e.g. flight crew handset/purser handset/any other cabin crew handset/evacuation signal alarm);",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -6369,7 +6409,7 @@
         "type": "paragraph",
         "index": 128,
         "level": 1,
-        "text": "automatic broadcast of public announcements (description/operation );",
+        "text": "automatic broadcast of public announcements (description/operation);",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -6385,7 +6425,7 @@
         "type": "paragraph",
         "index": 130,
         "level": 1,
-        "text": "location of activation (passenger seat/lavatory );",
+        "text": "location of activation (passenger seat/lavatory);",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6401,7 +6441,7 @@
         "type": "paragraph",
         "index": 132,
         "level": 1,
-        "text": "signalling system (indication (aural/visual) , control panels );",
+        "text": "signalling system (indication (aural/visual), control panels);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6425,7 +6465,7 @@
         "type": "paragraph",
         "index": 135,
         "level": 1,
-        "text": "location and operation of water supply manual shut-off valve (galley/lavatory , partial or entire cabin supply );",
+        "text": "location and operation of water supply manual shut-off valve (galley/lavatory, partial or entire cabin supply);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6433,7 +6473,7 @@
         "type": "paragraph",
         "index": 136,
         "level": 1,
-        "text": "water tanks (location of checking water tanks status );",
+        "text": "water tanks (location of checking water tanks status);",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6449,7 +6489,7 @@
         "type": "paragraph",
         "index": 138,
         "level": 1,
-        "text": "location (galley/lavatory );",
+        "text": "location (galley/lavatory);",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6457,7 +6497,7 @@
         "type": "paragraph",
         "index": 139,
         "level": 1,
-        "text": "waste tanks (location of checking waste tanks status );",
+        "text": "waste tanks (location of checking waste tanks status);",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6465,7 +6505,7 @@
         "type": "paragraph",
         "index": 140,
         "level": 0,
-        "text": "air conditioning/ventilation/pressurisation — source of supply (engines/external ground power (EGP)/APU) , control management );",
+        "text": "air conditioning/ventilation/pressurisation — source of supply (engines/external ground power (EGP)/APU), control management);",
         "marker": "(l)",
         "pStyle": "ListLevel0"
       },
@@ -6481,7 +6521,7 @@
         "type": "paragraph",
         "index": 142,
         "level": 1,
-        "text": "cabin crew panel (cabin management system) — main/additional panel(s) , location , description of installed functions , operation , malfunction;",
+        "text": "cabin crew panel (cabin management system) — main/additional panel(s), location, description of installed functions, operation, malfunction;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6489,7 +6529,7 @@
         "type": "paragraph",
         "index": 143,
         "level": 1,
-        "text": "cabin crew indication panel — type ( i.e. area indication panel/area call panel) , location (crew station/galley/crew rest compartment(s)) , description of functions;",
+        "text": "cabin crew indication panel — type (i.e. area indication panel/area call panel), location (crew station/galley/crew rest compartment(s)), description of functions;",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6497,7 +6537,7 @@
         "type": "paragraph",
         "index": 144,
         "level": 1,
-        "text": "cabin air/floor temperature control panel — location and operation , areas of effect;",
+        "text": "cabin air/floor temperature control panel — location and operation, areas of effect;",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -6505,7 +6545,7 @@
         "type": "paragraph",
         "index": 145,
         "level": 1,
-        "text": "cabin signs — location (door/exit area , passenger cabin , crew station , crew rest compartment(s) , galley , LSU) , type ( e.g. fasten seat belt/no smoking/return to seat/lavatory occupied/exit sign) , aural/visual indication;",
+        "text": "cabin signs — location (door/exit area, passenger cabin, crew station, crew rest compartment(s), galley, LSU), type (e.g. fasten seat belt/no smoking/return to seat/lavatory occupied/exit sign), aural/visual indication;",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -6513,7 +6553,7 @@
         "type": "paragraph",
         "index": 146,
         "level": 0,
-        "text": "other systems — fixed ELT, etc .",
+        "text": "other systems — fixed ELT, etc.",
         "marker": "(n)",
         "pStyle": "ListLevel0"
       },
@@ -6541,41 +6581,41 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 to Appendix 1 to CS CCD.310 Type - specific data content",
+        "text": "GM1 to Appendix 1 to CS CCD.310 Type-specific data content",
         "pStyle": "Heading4GM"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 / 015 /R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "SOURCE DOCUMENTS FOR TYPE - SPECIFIC DATA",
+        "text": "SOURCE DOCUMENTS FOR TYPE-SPECIFIC DATA",
         "pStyle": "Heading5OrgManual"
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Type - specific data for cabin crew need not be developed new by the applicant. They may originate from any technical documentation issued by the original manufacturer of the aircraft, aeronautical products, parts or appliances ( e.g. aircraft flight manual (AFM), aircraft operating manual (AOM), aircraft maintenance manual (AMM), component maintenance manual (CMM), design documentation) ."
+        "text": "Type-specific data for cabin crew need not be developed new by the applicant. They may originate from any technical documentation issued by the original manufacturer of the aircraft, aeronautical products, parts or appliances (e.g. aircraft flight manual (AFM), aircraft operating manual (AOM), aircraft maintenance manual (AMM), component maintenance manual (CMM), design documentation)."
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "TYPE - SPECIFIC DATA",
+        "text": "TYPE-SPECIFIC DATA",
         "pStyle": "Heading5OrgManual"
       },
       {
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Type - specific data required by this Appendix contain detailed technical information useful for cabin crew to obtain general knowledge on the type of aircraft they are to be qualified on."
+        "text": "Type-specific data required by this Appendix contain detailed technical information useful for cabin crew to obtain general knowledge on the type of aircraft they are to be qualified on."
       },
       {
         "type": "paragraph",
@@ -6600,14 +6640,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS CCD.400 Cabin aspects of special emphasis",
+        "text": "CS CCD.400 Cabin aspects of special emphasis",
         "pStyle": "Heading2CS"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 20 /0 15 / R",
+        "text": "ED Decision 2020/015/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -6620,7 +6660,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "information identified during the emergency evacuation demonstration required by CS 25.803, such as information on :",
+        "text": "information identified during the emergency evacuation demonstration required by CS 25.803, such as information on:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -6628,7 +6668,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "passenger movement during evacuation including door/exit overload s ,",
+        "text": "passenger movement during evacuation including door/exit overloads,",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6636,7 +6676,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "dried - up door (s) /exit (s) and subsequent redirection,",
+        "text": "dried-up door(s)/exit(s) and subsequent redirection,",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6660,7 +6700,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "seating location of cabin crew members ; and",
+        "text": "seating location of cabin crew members; and",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -6668,7 +6708,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "other unique elements identified during the certification process that may impact on normal and/or emergency procedures , e.g. direct view, trolley lift barrier s , external viewing means, remote cabin areas, etc .",
+        "text": "other unique elements identified during the certification process that may impact on normal and/or emergency procedures, e.g. direct view, trolley lift barriers, external viewing means, remote cabin areas, etc.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -6703,7 +6743,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Cabin aspects of special emphasis (CASE) pertain to elements that are specific to a given aircraft type, variant or aircraft modification. Such elements have a potential impact on safety and must, in accordance with CS CC D .400 , be properly emphasised during training to prevent knowledge-based misunderstandings or skill-based errors."
+        "text": "Cabin aspects of special emphasis (CASE) pertain to elements that are specific to a given aircraft type, variant or aircraft modification. Such elements have a potential impact on safety and must, in accordance with CS CCD.400, be properly emphasised during training to prevent knowledge-based misunderstandings or skill-based errors."
       },
       {
         "type": "paragraph",

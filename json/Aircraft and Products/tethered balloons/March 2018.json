@@ -50,7 +50,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "All elem ents (i.e. CS and AMC ) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics .",
+        "text": "All elements (i.e. CS and AMC) are colour-coded and can be identified according to the illustration below. The EASA Executive Director (ED) decision through which the point or paragraph was introduced or last amended is indicated below the paragraph title(s) in italics.",
         "pStyle": "Normal0"
       },
       {
@@ -61,7 +61,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Certification specification ED decision Acceptable means of compliance ED d ecision"
+                  "text": "Certification specificationED decisionAcceptable means of complianceED decision"
                 }
               ],
               "width": "9052"
@@ -73,7 +73,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this document has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -91,14 +91,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "CS/AMC ( ED decisions )",
+        "text": "CS/AMC (ED decisions)",
         "pStyle": "NoTocHeading2"
       },
       {
@@ -118,7 +118,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS/AMC Issue No, Amendment No"
+                  "text": "CS/AMC Issue No,Amendment No"
                 }
               ],
               "width": "2791"
@@ -147,7 +147,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS-31 T GB/ Initial i ssue"
+                  "text": "CS-31TGB/ Initial issue "
                 }
               ],
               "width": "2791"
@@ -168,7 +168,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "Note: To access the official versions , please click on the hyper links provided above.",
+        "text": "Note: To access the official versions, please click on the hyperlinks provided above.",
         "pRStyle": "Italic"
       }
     ]
@@ -214,7 +214,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -466,7 +466,7 @@
         "type": "paragraph",
         "index": 41,
         "level": -1,
-        "text": "CS 31TGB.45 Protect ion of envelope against tearing 32",
+        "text": "CS 31TGB.45 Protection of envelope against tearing 32",
         "pStyle": "TOC2"
       },
       {
@@ -904,7 +904,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "Note: Lift* Dynamic is disregarded for load case s of spherical envelope shapes."
+        "text": "Note: Lift*Dynamic is disregarded for load cases of spherical envelope shapes."
       }
     ]
   },
@@ -951,7 +951,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Systematic investigation of each mass and lift combination if co mpliance cannot be reasonably inferred from the masses investigated.",
+        "text": "Systematic investigation of each mass and lift combination if compliance cannot be reasonably inferred from the masses investigated.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -1038,7 +1038,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "Mass limitation information related to safe operation of the balloon are included in the Flight Manual. (See CS 31TGB.81(b)(2) )",
+        "text": "Mass limitation information related to safe operation of the balloon are included in the Flight Manual. (See CS 31TGB.81(b)(2))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -1092,7 +1092,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "The m aximum design mass of the product is the least of the maximum masses established for the load cases or a lower maximum mass if so selected by the applicant."
+        "text": "The maximum design mass of the product is the least of the maximum masses established for the load cases or a lower maximum mass if so selected by the applicant."
       },
       {
         "type": "paragraph",
@@ -1132,7 +1132,7 @@
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "Since the mass increases with the extension of the tether cab le, the critical case for the minimum mass is reached at the beginning of the ascent."
+        "text": "Since the mass increases with the extension of the tether cable, the critical case for the minimum mass is reached at the beginning of the ascent."
       },
       {
         "type": "paragraph",
@@ -1171,7 +1171,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The balloon is safely controllable and manoeuvrable without requiring exceptional skill. Associated operational limitations are established and include d in the Flight Manual. (See CS 31TGB.81(b)(2) )",
+        "text": "The balloon is safely controllable and manoeuvrable without requiring exceptional skill. Associated operational limitations are established and included in the Flight Manual. (See CS 31TGB.81(b)(2))",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1179,7 +1179,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "The continuing controllability of the balloon or other mitigations are provided to give each occupant every reasonable chance of escaping serious injury in the following emergency c onditions :",
+        "text": "The continuing controllability of the balloon or other mitigations are provided to give each occupant every reasonable chance of escaping serious injury in the following emergency conditions:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1195,7 +1195,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "Terminating operation in wind conditions exceeding the operating limitations by 50 %.",
+        "text": "Terminating operation in wind conditions exceeding the operating limitations by 50 %.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -1203,7 +1203,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "Tether system failure that prevents descent from the maximum operating height or any other height if considered more c ritical.",
+        "text": "Tether system failure that prevents descent from the maximum operating height or any other height if considered more critical.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       }
@@ -1295,7 +1295,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "limit loads that are the maximum loads to be expected in service, taking into account the load factors of CS 31TGB.23 ; and",
+        "text": "limit loads that are the maximum loads to be expected in service, taking into account the load factors of CS 31TGB.23; and",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1303,7 +1303,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "ultimate loads that are limit loads multiplied by factors of safety defined in CS 31TGB.25 .",
+        "text": "ultimate loads that are limit loads multiplied by factors of safety defined in CS 31TGB.25.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -1358,7 +1358,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "mooring .",
+        "text": "mooring.",
         "pStyle": "bullet0"
       },
       {
@@ -1411,7 +1411,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "When the balloon is moored in the parking position (low mooring) the maximum gas pressure in the envelope is normally identical to the ‘maximum gas pressur e’ established for any of the flight conditions. If the low mooring operation, however, allows for a precautionary increased pressure of the gas in the envelope this load case is also considered."
+        "text": "When the balloon is moored in the parking position (low mooring) the maximum gas pressure in the envelope is normally identical to the ‘maximum gas pressure’ established for any of the flight conditions. If the low mooring operation, however, allows for a precautionary increased pressure of the gas in the envelope this load case is also considered."
       },
       {
         "type": "paragraph",
@@ -1424,7 +1424,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "Flight load cases cover the operation within the esta blished limitations (temperature, wind speed, mass, and ascent/descent speed limitations). A dynamic lift component is considered in the load cases for the sudden deceleration of the ascent/descent unit and when the envelope shape is not spherical and gene rates lift in wind conditions. When a dynamic lift component is applicable, gust loads are considered as well as potential oscillation behaviour of the balloon and the tether caused by airflow and from variations in the lift component and its centre of pre ssure."
+        "text": "Flight load cases cover the operation within the established limitations (temperature, wind speed, mass, and ascent/descent speed limitations). A dynamic lift component is considered in the load cases for the sudden deceleration of the ascent/descent unit and when the envelope shape is not spherical and generates lift in wind conditions. When a dynamic lift component is applicable, gust loads are considered as well as potential oscillation behaviour of the balloon and the tether caused by airflow and from variations in the lift component and its centre of pressure."
       }
     ]
   },
@@ -1465,7 +1465,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "Ascent load factor. In determining limit load on the tether system, the ascent load factor appropriate for the type of operation is established and applied to the static l oad cases on the tether system.",
+        "text": "Ascent load factor. In determining limit load on the tether system, the ascent load factor appropriate for the type of operation is established and applied to the static load cases on the tether system.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1688,7 +1688,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "Regardless of the materials used, the load-bearing components of the suspension and tethering system is designed so that failure of any single component will not jeopardise safety of flight, and that total failure is extremely remote. Account is taken of any reasonably foreseeable dynamic or asymmetric loading affects associated with the initi al element's failure.",
+        "text": "Regardless of the materials used, the load-bearing components of the suspension and tethering system is designed so that failure of any single component will not jeopardise safety of flight, and that total failure is extremely remote. Account is taken of any reasonably foreseeable dynamic or asymmetric loading affects associated with the initial element's failure.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1806,7 +1806,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Proof of strength of the envelope material and other critical d esign features are tested.",
+        "text": "Proof of strength of the envelope material and other critical design features are tested.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -1978,7 +1978,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "meet approved specifications that ensure that the materials have the strength and other propert ies assumed in the design data.",
+        "text": "meet approved specifications that ensure that the materials have the strength and other properties assumed in the design data.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -2145,7 +2145,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Fasteners (e.g. bolts, pins, screws, karabiners) used in the structure confo rm to approved specifications.",
+        "text": "Fasteners (e.g. bolts, pins, screws, karabiners) used in the structure conform to approved specifications.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2204,7 +2204,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC1 31TGB.33(b) ."
+        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC1 31TGB.33(b)."
       }
     ]
   },
@@ -2282,7 +2282,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "In cases where deterioration or loss of strength is unavoidable during the life of the product, details of appropriate mandatory replacement lives or in-service testing are provided in the maintenance programme ( CS 31TGB.82 )."
+        "text": "In cases where deterioration or loss of strength is unavoidable during the life of the product, details of appropriate mandatory replacement lives or in-service testing are provided in the maintenance programme (CS 31TGB.82)."
       }
     ]
   },
@@ -2473,7 +2473,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 31TGB.45 Protect ion of envelope against tearing",
+        "text": "CS 31TGB.45 Protection of envelope against tearing",
         "pStyle": "Heading2CS"
       },
       {
@@ -2695,7 +2695,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "These balloon systems ensure envelope tautness by a ballonet or other means of feeding/discharging gas into the envelope when moored on the ground in parking position to withstand the dynamic pressure of considerably high wind speeds. Here the maximum operating pressure is the maximum pressure established by the designer for high wind speeds whilst moored in parking condition to the ground. Under this con dition the safety factors in CS 31TGB.25 are applicable. The ascent factor in CS 31TGB.23(b) is however not applicable in the parking position. The response pressure of the automatic lifting gas release valve usually is higher than the maximum operating pressure to prevent the envelope from getting pumped out below dynamic pressure of the wind by unexpected gusts. A factor of not less than 1·4 times the maximum operating pressure during mooring has been shown by practical experience to be applicable.",
+        "text": "These balloon systems ensure envelope tautness by a ballonet or other means of feeding/discharging gas into the envelope when moored on the ground in parking position to withstand the dynamic pressure of considerably high wind speeds. Here the maximum operating pressure is the maximum pressure established by the designer for high wind speeds whilst moored in parking condition to the ground. Under this condition the safety factors in CS 31TGB.25 are applicable. The ascent factor in CS 31TGB.23(b) is however not applicable in the parking position. The response pressure of the automatic lifting gas release valve usually is higher than the maximum operating pressure to prevent the envelope from getting pumped out below dynamic pressure of the wind by unexpected gusts. A factor of not less than 1·4 times the maximum operating pressure during mooring has been shown by practical experience to be applicable.",
         "pStyle": "Normal1"
       },
       {
@@ -2844,7 +2844,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The suitability, durability, and reliability of the tether system is establish ed for all phases of operating.",
+        "text": "The suitability, durability, and reliability of the tether system is established for all phases of operating.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2860,7 +2860,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Precautions are to be taken to mitigate the risks due to the effect of wind exceeding the maximum wind speed stated in the Flight Manual on the ballo on when moored to the ground.",
+        "text": "Precautions are to be taken to mitigate the risks due to the effect of wind exceeding the maximum wind speed stated in the Flight Manual on the balloon when moored to the ground.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -2997,7 +2997,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "An automatic rapid deflation (See CS 31TGB.51 ) of the balloon in case it breaks away from its low mooring position or any other system that will prevent uncontrolled free flight is an acceptable risk mitigation."
+        "text": "An automatic rapid deflation (See CS 31TGB.51) of the balloon in case it breaks away from its low mooring position or any other system that will prevent uncontrolled free flight is an acceptable risk mitigation."
       }
     ]
   },
@@ -3178,7 +3178,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "A holding grip provides an obvious means for the occupants of the gondola to stabilise themselves during flight. The location or design of occupant securing devices (refer to CS 31TGB.59(f)(1) ) is such that they do not invite occupants to use them as holding grip."
+        "text": "A holding grip provides an obvious means for the occupants of the gondola to stabilise themselves during flight. The location or design of occupant securing devices (refer to CS 31TGB.59(f)(1)) is such that they do not invite occupants to use them as holding grip."
       }
     ]
   },
@@ -3252,7 +3252,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "An Anti-Collision light system is installed which compli es with the following :",
+        "text": "An Anti-Collision light system is installed which complies with the following:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -3284,7 +3284,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "At least one Anti-Collision light is visible from a distan ce between 100 m and 3 700 m (2 NM) at night under clear atmospheric conditions.",
+        "text": "At least one Anti-Collision light is visible from a distance between 100 m and 3 700 m (2 NM) at night under clear atmospheric conditions.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -3300,7 +3300,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "The night lighting will not impair the crews’ vision or performa nce during operation.",
+        "text": "The night lighting will not impair the crews’ vision or performance during operation.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -3374,13 +3374,13 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The following two schematics illustrations for anti-collision light arrangements show vertical coverage and positions that meet the requirements of CS 31TGB.65(b)(2) and (3) ."
+        "text": "The following two schematics illustrations for anti-collision light arrangements show vertical coverage and positions that meet the requirements of CS 31TGB.65(b)(2) and (3)."
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The horizontal 360° coverage requirement is applicable to a distan ce between 100 m and 3 700 m (2 NM). It is acceptable that the light from the anti-collision lights is not visible from positions closer than 100 m horizontally from the balloon."
+        "text": "The horizontal 360° coverage requirement is applicable to a distance between 100 m and 3 700 m (2 NM). It is acceptable that the light from the anti-collision lights is not visible from positions closer than 100 m horizontally from the balloon."
       }
     ]
   },
@@ -3452,7 +3452,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "I f an on-board power unit is used to provide electrical power during operation, the system is designed and installed so as not to create a fire hazard or cause an electrical shock to the occupants."
+        "text": "If an on-board power unit is used to provide electrical power during operation, the system is designed and installed so as not to create a fire hazard or cause an electrical shock to the occupants."
       }
     ]
   },
@@ -3512,7 +3512,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Ventila tion",
+        "text": "Ventilation",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -3551,7 +3551,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "Unless the power unit has a fi re extinguishing system by itself, there is at least one manual fire extinguisher within reach of an occupant.",
+        "text": "Unless the power unit has a fire extinguishing system by itself, there is at least one manual fire extinguisher within reach of an occupant.",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -3559,7 +3559,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 1,
-        "text": "The following applies to manual fire extinguishers. The type and quantity of the fire extinguishing substance is appropriate to the fire extin guisher's application area. Fire extinguishers:",
+        "text": "The following applies to manual fire extinguishers. The type and quantity of the fire extinguishing substance is appropriate to the fire extinguisher's application area. Fire extinguishers:",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -3607,7 +3607,7 @@
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "Th e following applies to the gondola when an on-board power unit is carried:",
+        "text": "The following applies to the gondola when an on-board power unit is carried:",
         "pStyle": "Normal1"
       },
       {
@@ -3685,7 +3685,7 @@
         "type": "paragraph",
         "index": 29,
         "level": 1,
-        "text": "Areas in which combustible liquids can accumulate as a result of a leaking tank have an adequate drain pipe. Collected lea king liquids cannot reach other locations in and under the craft which pose a potential risk of fire.",
+        "text": "Areas in which combustible liquids can accumulate as a result of a leaking tank have an adequate drain pipe. Collected leaking liquids cannot reach other locations in and under the craft which pose a potential risk of fire.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -3701,7 +3701,7 @@
         "type": "paragraph",
         "index": 31,
         "level": 0,
-        "text": "Power unit instal lation",
+        "text": "Power unit installation",
         "marker": "(h)",
         "pStyle": "ListLevel0"
       },
@@ -3725,7 +3725,7 @@
         "type": "paragraph",
         "index": 34,
         "level": 1,
-        "text": "Materials employed for supporting the unit or pa dding the supporting members are non-absorbent or treated to prevent the absorption of fuel.",
+        "text": "Materials employed for supporting the unit or padding the supporting members are non-absorbent or treated to prevent the absorption of fuel.",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -3749,7 +3749,7 @@
         "type": "paragraph",
         "index": 37,
         "level": 1,
-        "text": "Each external fuel tank add ed to the design by the applicant has an expansion space of sufficient capacity, but of not less than 2 % of the tank capacity, to prevent spillage of fuel onto the surfaces of the power unit and the balloon's structure due to thermal expansion or manoeuvr e unless the design of the venting system precludes such spillage.",
+        "text": "Each external fuel tank added to the design by the applicant has an expansion space of sufficient capacity, but of not less than 2 % of the tank capacity, to prevent spillage of fuel onto the surfaces of the power unit and the balloon's structure due to thermal expansion or manoeuvre unless the design of the venting system precludes such spillage.",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -3781,7 +3781,7 @@
         "type": "paragraph",
         "index": 41,
         "level": 1,
-        "text": "Each exhaust system part with a surface hot enough to ignite flammable fluids or vapours is located or shielded so that leakage from any system carrying fla mmable fluids or vapours will not result in a fire caused by impingement of the fluids or vapours on any part of the exhaust system, including shields for the exhaust system.",
+        "text": "Each exhaust system part with a surface hot enough to ignite flammable fluids or vapours is located or shielded so that leakage from any system carrying flammable fluids or vapours will not result in a fire caused by impingement of the fluids or vapours on any part of the exhaust system, including shields for the exhaust system.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -3829,7 +3829,7 @@
         "type": "paragraph",
         "index": 47,
         "level": 1,
-        "text": "The firewall or shroud is constructed so that no hazardous quantity of liquid, gas or flame c an pass from the power unit compartment to other parts of the balloon.",
+        "text": "The firewall or shroud is constructed so that no hazardous quantity of liquid, gas or flame can pass from the power unit compartment to other parts of the balloon.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -4085,7 +4085,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "The following instruments are installed if required to mo nitor the operating limitations :",
+        "text": "The following instruments are installed if required to monitor the operating limitations:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -4125,7 +4125,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 1,
-        "text": "Device(s) to provide the operational or design limitatio ns information to the operator.",
+        "text": "Device(s) to provide the operational or design limitations information to the operator.",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -4174,7 +4174,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "The 'most appropriate place' for the instruments required by subparagraph CS 31TGB.71(c)(2) and (c)(3) shall be established in view of accuracy fo r measuring the values."
+        "text": "The 'most appropriate place' for the instruments required by subparagraph CS 31TGB.71(c)(2) and (c)(3) shall be established in view of accuracy for measuring the values."
       }
     ]
   },
@@ -4274,7 +4274,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The ranges for analogue indicator s are identified as follows:",
+        "text": "The ranges for analogue indicators are identified as follows:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -4306,7 +4306,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "For digital indicators, the limits of use are displayed close to the indicator or a red sig nal is showing when the permissible limits are exceeded.",
+        "text": "For digital indicators, the limits of use are displayed close to the indicator or a red signal is showing when the permissible limits are exceeded.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -4462,7 +4462,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "site preparation instructions and installation information required for safe operation .",
+        "text": "site preparation instructions and installation information required for safe operation.",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -4470,7 +4470,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe oper ation are provided to the crew.",
+        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation are provided to the crew.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -4543,7 +4543,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "any additional safety are a required by the emergency descent procedure, if applicable.",
+        "text": "any additional safety area required by the emergency descent procedure, if applicable.",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -4567,7 +4567,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "a checklist of the necessary tools and devices for installing/de-installing; a nd",
+        "text": "a checklist of the necessary tools and devices for installing/de-installing; and",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -4753,7 +4753,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "If instructions for continued airworthiness are not supplied by the manufacturer or designer of parts and appliances installed in the balloon, the instructions for continued airworthiness for the balloon need to include the information essential to the contin ued airworthiness of the balloon.",
+        "text": "If instructions for continued airworthiness are not supplied by the manufacturer or designer of parts and appliances installed in the balloon, the instructions for continued airworthiness for the balloon need to include the information essential to the continued airworthiness of the balloon.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -4775,7 +4775,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "a description of the sy stems including the assembly and disassembly instructions;",
+        "text": "a description of the systems including the assembly and disassembly instructions;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -4806,7 +4806,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 0,
-        "text": "(d)(6) The maintenance an d inspection instructions need to provide information for removal and installation, cleaning, inspecting, adjusting, testing and lubrication of systems, parts and appliances of the balloon as required for continued airworthiness. Reference may be made to i nformation from an accessory, instrument or equipment manufacturer as the source of this information if it is shown that the item has an exceptionally high degree of complexity requiring specialised maintenance techniques, test equipment or expertise.",
+        "text": "(d)(6) The maintenance and inspection instructions need to provide information for removal and installation, cleaning, inspecting, adjusting, testing and lubrication of systems, parts and appliances of the balloon as required for continued airworthiness. Reference may be made to information from an accessory, instrument or equipment manufacturer as the source of this information if it is shown that the item has an exceptionally high degree of complexity requiring specialised maintenance techniques, test equipment or expertise.",
         "pStyle": "ListLevel0"
       },
       {
@@ -4853,7 +4853,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "Operating instructions and information as required by CS 31TGB.81 ;",
+        "text": "Operating instructions and information as required by CS 31TGB.81;",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -4877,7 +4877,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "A method to show proof of successfully comple ting the training; and",
+        "text": "A method to show proof of successfully completing the training; and",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },

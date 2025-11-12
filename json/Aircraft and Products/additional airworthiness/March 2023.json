@@ -50,7 +50,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The introductory section provides general information on the EAR book. The table of the incorporated amendments indicates the applicability dates of each element of the regulatory material. The table of contents reflects the content of the EAR book. It is not the officially published table of contents of Annex I (Part 26).",
+        "text": "The introductory section provides general information on the EAR book. The table of the incorporated amendments indicates the applicability dates of each element of the regulatory material. The table of contents reflects the content of the EAR book. It is not the officially published table of contents of Annex I (Part26).",
         "pStyle": "Normal0"
       },
       {
@@ -71,28 +71,28 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "the points of and appendices to Annex I (Part 26) of Regulation (EU) No 2015/640;",
+        "text": "the points of and appendices to Annex I (Part26) of Regulation (EU) No 2015/640;",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "the related certification specifications (CS-26 ) and guidance material (GM) .",
+        "text": "the related certification specifications (CS-26) and guidance material (GM).",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "Annex II of Regulation (EU) No 2015/640 amends Regulation (EU) No 965/2012 and is included in the consolidated version of the Air O perations EAR.",
+        "text": "Annex II of Regulation (EU) No 2015/640 amends Regulation (EU) No 965/2012 and is included in the consolidated version of the Air Operations EAR.",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "All elements of the regulatory material are colour -coded and can be identified according to the illustration below. The Commission regulation or EASA Executive Director (ED) decision through which the element was introduced or last amended is indicated below the element title(s) in italics .",
+        "text": "All elements of the regulatory material are colour-coded and can be identified according to the illustration below. The Commission regulation or EASA Executive Director (ED) decision through which the element was introduced or last amended is indicated below the element title(s) in italics.",
         "pStyle": "Normal0"
       },
       {
@@ -103,7 +103,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Cover regulation article Commission regulation Point/Appendix (annex to the regulation) Commission regulation Certificati on specification ED decision Guidance material ED decision"
+                  "text": "Cover regulation articleCommission regulationPoint/Appendix (annex to the regulation)Commission regulationCertification specificationED decisionGuidance materialED decision"
                 }
               ],
               "width": "9019"
@@ -122,7 +122,7 @@
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "The format of this EAR book has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu .",
+        "text": "The format of this EAR book has been adjusted to make it user-friendly and for reference purposes. Any comments should be sent to erules@easa.europa.eu.",
         "pStyle": "Normal0"
       }
     ]
@@ -140,7 +140,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "I ncorporated a mendments",
+        "text": "Incorporated amendments",
         "pStyle": "Heading1"
       },
       {
@@ -197,7 +197,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Cover regulation Article 1 Article 2 Article 3 Article 4 Article 5"
+                  "text": "Cover regulationArticle 1Article 2Article 3Article 4Article 5"
                 }
               ],
               "width": "4242"
@@ -222,7 +222,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Points: 26.10, 26.20, 26.30, 26.100"
+                  "text": "Annex I (Part-26)Points: 26.10, 26.20, 26.30, 26.100"
                 }
               ],
               "width": "4242"
@@ -247,7 +247,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Points: 26.50, 26.105, 26.110, 26.120, 26.150, 26.155, 26.160, 26.200, 26.250"
+                  "text": "Annex I (Part-26)Points: 26.50, 26.105, 26.110, 26.120, 26.150, 26.155, 26.160, 26.200, 26.250"
                 }
               ],
               "width": "4242"
@@ -272,7 +272,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex II Point ORO.AOC.100(c)(1) in Part-ORO to Regulation (EU) No 965/2012"
+                  "text": "Annex IIPoint ORO.AOC.100(c)(1) in Part-ORO to Regulation (EU) No 965/2012"
                 }
               ],
               "width": "4242"
@@ -292,7 +292,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Regulation (EU) 2019/133"
+                  "text": "Regulation (EU) 2019/133 "
                 }
               ],
               "vMerge": "restart",
@@ -302,7 +302,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Cover regulation Article 2(b), (c) and (d)"
+                  "text": "Cover regulationArticle 2(b), (c) and (d)"
                 }
               ],
               "width": "4242"
@@ -327,7 +327,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Points: 26.60, 26.156, 26.170, 26.400"
+                  "text": "Annex I (Part-26)Points: 26.60, 26.156, 26.170, 26.400"
                 }
               ],
               "width": "4242"
@@ -336,7 +336,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "18/2/2019"
+                  "text": "18/2/2019 "
                 }
               ],
               "width": "2126"
@@ -357,7 +357,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Cover regulation Article 1 Article 2(e) to (o)"
+                  "text": "Cover regulationArticle 1Article 2(e) to (o)"
                 }
               ],
               "width": "4242"
@@ -382,7 +382,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Points: 26.10, 26.30, 26.205, 26.300, 26.301, 26.302, 26.303, 26.304, 26.305, 26.306, 26.307, 26.308, 26.309, 26.330, 26.331, 26.332, 26.333, 26.334, 26.370"
+                  "text": "Annex I (Part-26)Points: 26.10, 26.30, 26.205, 26.300, 26.301, 26.302, 26.303, 26.304, 26.305, 26.306, 26.307, 26.308, 26.309, 26.330, 26.331, 26.332, 26.333, 26.334, 26.370"
                 }
               ],
               "width": "4242"
@@ -407,7 +407,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Point 26.157"
+                  "text": "Annex I (Part-26)Point 26.157"
                 }
               ],
               "width": "4242"
@@ -416,7 +416,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "26/ 8/2023"
+                  "text": "26/8/2023"
                 }
               ],
               "width": "2126"
@@ -432,7 +432,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Appendix 1"
+                  "text": "Annex I (Part-26)Appendix 1"
                 }
               ],
               "width": "4242"
@@ -462,7 +462,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Point 26.60"
+                  "text": "Annex I (Part-26)Point 26.60"
                 }
               ],
               "width": "4242"
@@ -487,7 +487,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Point 26.334(a) and (b)"
+                  "text": "Annex I (Part-26)Point 26.334(a) and (b)"
                 }
               ],
               "width": "4242"
@@ -512,7 +512,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Appendix 1"
+                  "text": "Annex I (Part-26)Appendix 1"
                 }
               ],
               "width": "4242"
@@ -542,7 +542,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Cover regulation Article 2(ca), ( cb ) and (cc)"
+                  "text": "Cover regulationArticle 2(ca), (cb) and (cc)"
                 }
               ],
               "width": "4242"
@@ -567,7 +567,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Points: 26.201, 26.430, 26.431"
+                  "text": "Annex I (Part-26)Points: 26.201, 26.430, 26.431"
                 }
               ],
               "width": "4242"
@@ -592,7 +592,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Points: 26.410, 26.415, 26.420(a) and (b), 26.425"
+                  "text": "Annex I (Part-26)Points: 26.410, 26.415, 26.420(a) and (b), 26.425"
                 }
               ],
               "width": "4242"
@@ -617,7 +617,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Point 26.157"
+                  "text": "Annex I (Part-26)Point 26.157"
                 }
               ],
               "width": "4242"
@@ -642,7 +642,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Points: 26.420(c), 26.435(a)"
+                  "text": "Annex I (Part-26)Points: 26.420(c), 26.435(a)"
                 }
               ],
               "width": "4242"
@@ -667,7 +667,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Point 26.435(b)"
+                  "text": "Annex I (Part-26)Point 26.435(b)"
                 }
               ],
               "width": "4242"
@@ -692,7 +692,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Annex I (Part-26) Appendix 1"
+                  "text": "Annex I (Part-26)Appendix 1"
                 }
               ],
               "width": "4242"
@@ -781,7 +781,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "Initial issue"
+                  "text": "Initial issue "
                 }
               ],
               "vMerge": "restart",
@@ -1031,7 +1031,7 @@
         "type": "paragraph",
         "index": 101,
         "level": -1,
-        "text": "Note: To access the official source documents, plea se use the links provided above.",
+        "text": "Note: To access the official source documents, please use the links provided above.",
         "pStyle": "Normal0",
         "pRStyle": "Italic"
       }
@@ -1085,7 +1085,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "Certificati on specification 5",
+        "text": "Certification specification 5",
         "pStyle": "TOC1"
       },
       {
@@ -1099,7 +1099,7 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "I ncorporated a mendments 6",
+        "text": "Incorporated amendments 6",
         "pStyle": "TOC1"
       },
       {
@@ -1120,7 +1120,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "Article 1 Subject matter and s cope 13",
+        "text": "Article 1 Subject matter and scope 13",
         "pStyle": "TOC1"
       },
       {
@@ -1141,7 +1141,7 @@
         "type": "paragraph",
         "index": 14,
         "level": -1,
-        "text": "Article 4 Amendm ent to Regulation (EU) 965/2012 15",
+        "text": "Article 4 Amendment to Regulation (EU) 965/2012 15",
         "pStyle": "TOC1"
       },
       {
@@ -1176,21 +1176,21 @@
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "CS 26.1 Purpose and scope 18",
+        "text": "CS 26.1 Purpose and scope 18",
         "pStyle": "TOC3"
       },
       {
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "GM1 26.1 JAR -26 / JAR/CS-25 / FAR-25+121 / OPS / Part-26 / CS-26 / GM-26 cross-reference table 18",
+        "text": "GM1 26.1  JAR-26 / JAR/CS-25 / FAR-25+121 / OPS / Part-26 / CS-26 / GM-26 cross-reference table 18",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "GM 2 26. 1 Demonstration of compliance 21",
+        "text": "GM2 26.1 Demonstration of compliance 21",
         "pStyle": "TOC4"
       },
       {
@@ -1236,14 +1236,14 @@
         "type": "paragraph",
         "index": 27,
         "level": -1,
-        "text": "CS 26.50 Seats, berths, safety belts, and harnesses 23",
+        "text": "CS 26.50 Seats, berths, safety belts, and harnesses 23",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 28,
         "level": -1,
-        "text": "GM1 26.50(c) Cabin crew seat location with respect to injury risk 24",
+        "text": "GM1 26.50(c) Cabin crew seat location with respect to injury risk 24",
         "pStyle": "TOC5"
       },
       {
@@ -1280,7 +1280,7 @@
         "type": "paragraph",
         "index": 33,
         "level": -1,
-        "text": "CS 26.100 Location of emergency exits 27",
+        "text": "CS 26.100 Location of emergency exits 27",
         "pStyle": "TOC4"
       },
       {
@@ -1295,7 +1295,7 @@
         "type": "paragraph",
         "index": 35,
         "level": -1,
-        "text": "CS 26.105 Emergency exit access 28",
+        "text": "CS 26.105 Emergency exit access 28",
         "pStyle": "TOC4"
       },
       {
@@ -1310,21 +1310,21 @@
         "type": "paragraph",
         "index": 37,
         "level": -1,
-        "text": "CS 26.110 Emergency exit markings 29",
+        "text": "CS 26.110 Emergency exit markings 29",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 38,
         "level": -1,
-        "text": "GM1 26.110(d) Universal symbolic exit signs 30",
+        "text": "GM1 26.110(d) Universal symbolic exit signs 30",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 39,
         "level": -1,
-        "text": "GM1 26.110(e)(4) Emergency Exit Markings 30",
+        "text": "GM1 26.110(e)(4) Emergency Exit Markings 30",
         "pStyle": "TOC5"
       },
       {
@@ -1339,7 +1339,7 @@
         "type": "paragraph",
         "index": 41,
         "level": -1,
-        "text": "CS 26.120 Interior emergency lighting and emergency light operation 33",
+        "text": "CS 26.120 Interior emergency lighting and emergency light operation 33",
         "pStyle": "TOC4"
       },
       {
@@ -1354,28 +1354,28 @@
         "type": "paragraph",
         "index": 43,
         "level": -1,
-        "text": "CS 26.150 Compartment interiors 36",
+        "text": "CS 26.150 Compartment interiors 36",
         "pStyle": "TOC4"
       },
       {
         "type": "paragraph",
         "index": 44,
         "level": -1,
-        "text": "GM1 26.150(a) Compartment interiors 37",
+        "text": "GM1 26.150(a) Compartment interiors 37",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 45,
         "level": -1,
-        "text": "GM1 26.150(c) Compartment interiors 37",
+        "text": "GM1 26.150(c) Compartment interiors 37",
         "pStyle": "TOC5"
       },
       {
         "type": "paragraph",
         "index": 46,
         "level": -1,
-        "text": "GM1 26.150(d) Compartment interiors 37",
+        "text": "GM1 26.150(d) Compartment interiors 37",
         "pStyle": "TOC5"
       },
       {
@@ -1390,7 +1390,7 @@
         "type": "paragraph",
         "index": 48,
         "level": -1,
-        "text": "CS 26.155 Flammability of cargo compartment liners 38",
+        "text": "CS 26.155 Flammability of cargo compartment liners 38",
         "pStyle": "TOC4"
       },
       {
@@ -1442,7 +1442,7 @@
         "type": "paragraph",
         "index": 55,
         "level": -1,
-        "text": "CS 26.160 Lavatory fire protection 41",
+        "text": "CS 26.160 Lavatory fire protection 41",
         "pStyle": "TOC4"
       },
       {
@@ -1464,7 +1464,7 @@
         "type": "paragraph",
         "index": 58,
         "level": -1,
-        "text": "GM1 26.170(b) Fire extinguishe r s 42",
+        "text": "GM1 26.170(b) Fire extinguishers 42",
         "pStyle": "TOC5"
       },
       {
@@ -1479,7 +1479,7 @@
         "type": "paragraph",
         "index": 60,
         "level": -1,
-        "text": "CS 26.200 Landing gear aural warning 43",
+        "text": "CS 26.200 Landing gear aural warning 43",
         "pStyle": "TOC4"
       },
       {
@@ -1531,7 +1531,7 @@
         "type": "paragraph",
         "index": 67,
         "level": -1,
-        "text": "Continuing structural integrity programme fo r ageing aeroplanes structures — general requirements 47",
+        "text": "Continuing structural integrity programme for ageing aeroplanes structures — general requirements 47",
         "marker": "26.300",
         "pStyle": "TOC3"
       },
@@ -1806,7 +1806,7 @@
         "type": "paragraph",
         "index": 104,
         "level": -1,
-        "text": "SUBPART C — HELICOPTERS 72",
+        "text": "SUBPART C —  HELICOPTERS 72",
         "pStyle": "TOC2"
       },
       {
@@ -1996,7 +1996,7 @@
         "type": "paragraph",
         "index": 130,
         "level": -1,
-        "text": "List of aeroplane models not subject to certain provisions of Annex I (Part-26) 85",
+        "text": "List of aeroplane models not subject to certain provisions of Annex I (Part-26) 85",
         "pStyle": "TOC3"
       },
       {
@@ -2074,14 +2074,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Article 1 Subject matter and s cope",
+        "text": "Article 1 Subject matter and scope",
         "pStyle": "Heading1CR"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "This Regulation lays down common additional airworthiness specifica tions related to the continuing airworthiness and safety improvements of aircraft.",
+        "text": "This Regulation lays down common additional airworthiness specifications related to the continuing airworthiness and safety improvements of aircraft.",
         "marker": "1.",
         "pStyle": "ListLevel0"
       },
@@ -2113,7 +2113,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 2,
-        "text": "aircraft registered in a third country and used by an operator for which a Member State ensures oversig ht;",
+        "text": "aircraft registered in a third country and used by an operator for which a Member State ensures oversight;",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -2121,7 +2121,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "h olders of a type-certificate, restricted type-certificate, supplemental type-certificate or a change and repair design approval approved by the Agency in accordance with Commission Regulation (EU) No 748/2012 or deemed to have been issued in accordance wit h Article 3 of that Regulation;",
+        "text": "holders of a type-certificate, restricted type-certificate, supplemental type-certificate or a change and repair design approval approved by the Agency in accordance with Commission Regulation (EU) No 748/2012 or deemed to have been issued in accordance with Article 3 of that Regulation;",
         "marker": "(b)",
         "pStyle": "ListLevel1"
       },
@@ -2162,7 +2162,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "“ m aximum operational passenger seating configuration “ shall mean the maximum passenger seating capacity of an individual aircraft, excluding crew seats, established for operational purposes and specified in the operations manual .",
+        "text": "“maximum operational passenger seating configuration“ shall mean the maximum passenger seating capacity of an individual aircraft, excluding crew seats, established for operational purposes and specified in the operations manual.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2170,7 +2170,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "“large aeroplane ” means an aeroplane that has the Certification Specifications for large aeroplanes “CS-25” or equival ent in its certification basis;",
+        "text": "“large aeroplane” means an aeroplane that has the Certification Specifications for large aeroplanes “CS-25” or equivalent in its certification basis;",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -2178,7 +2178,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "“large helicopter” means a helicopter that has the Certification Specifications for large rotorcraft “CS-29” or equival ent in its certification basis;",
+        "text": "“large helicopter” means a helicopter that has the Certification Specifications for large rotorcraft “CS-29” or equivalent in its certification basis;",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -2202,7 +2202,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "“ Substantiated sea conditions” means those sea conditions which were selected by the applicant for a type certificate or supplemental type certificate against which the resistance of the rotorcraft to capsize has been demonstrated and subsequently certified for ditching or emergency flotation provisions.",
+        "text": "“Substantiated sea conditions” means those sea conditions which were selected by the applicant for a type certificate or supplemental type certificate against which the resistance of the rotorcraft to capsize has been demonstrated and subsequently certified for ditching or emergency flotation provisions.",
         "marker": "(cc)",
         "pStyle": "ListLevel0"
       },
@@ -2210,7 +2210,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "“low-occupancy aeroplane ” means an aeroplane that has a maximum operational pass enger seating configuration of:",
+        "text": "“low-occupancy aeroplane” means an aeroplane that has a maximum operational passenger seating configuration of:",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -2226,7 +2226,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "up to and including one third of the maximum passenger seating capacity of the type-certified aeroplane , as indicated in the aeroplane type-certificate data sheet (TCDS), provided that both of th e following conditions are met:",
+        "text": "up to and including one third of the maximum passenger seating capacity of the type-certified aeroplane, as indicated in the aeroplane type-certificate data sheet (TCDS), provided that both of the following conditions are met:",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -2234,7 +2234,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 2,
-        "text": "the total number of passenger seats approved for occupancy during taxiing, take-off or landin g does not exceed 100 per deck;",
+        "text": "the total number of passenger seats approved for occupancy during taxiing, take-off or landing does not exceed 100 per deck;",
         "marker": "(a)",
         "pStyle": "ListLevel2"
       },
@@ -2242,7 +2242,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 2,
-        "text": "the maximum operational passenger seating configuration during taxiing, take-off or landing in any individual zone between pairs of emergency exits (or any dead-end zone) does not exceed one third of the sum of the passenger seat allowances for the emergency exit pairs bounding that zone (using the passenger seat allowance for each emergency exit pairs as defined by the applicable certification basis of the aeroplane ). For the purpose of determining compliance with this zonal limitation, in the case of an aeroplane that has deactivated emergency exits, it shall be assumed that all emergency exits are functional.",
+        "text": "the maximum operational passenger seating configuration during taxiing, take-off or landing in any individual zone between pairs of emergency exits (or any dead-end zone) does not exceed one third of the sum of the passenger seat allowances for the emergency exit pairs bounding that zone (using the passenger seat allowance for each emergency exit pairs as defined by the applicable certification basis of the aeroplane). For the purpose of determining compliance with this zonal limitation, in the case of an aeroplane that has deactivated emergency exits, it shall be assumed that all emergency exits are functional.",
         "marker": "(b)",
         "pStyle": "ListLevel2"
       },
@@ -2250,7 +2250,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 0,
-        "text": "“limit of validity” (LOV) means, in the context of the engineering data that supports the structural maintenance programme , a period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the aeroplane ;",
+        "text": "“limit of validity” (LOV) means, in the context of the engineering data that supports the structural maintenance programme, a period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the aeroplane;",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -2258,7 +2258,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 0,
-        "text": "“airworthiness limitation section” (ALS) means a section in the instructions for continued airworthiness, as required by points 21.A.61, 21.A.107 and 21.A.120A of Annex I (Part 21) to Regulation (EU) No 748/2012, that contains airworthiness limitations that set out each mandatory replacement time, inspection interval an d related inspection procedure;",
+        "text": "“airworthiness limitation section” (ALS) means a section in the instructions for continued airworthiness, as required by points 21.A.61, 21.A.107 and 21.A.120A of Annex I (Part 21) to Regulation (EU) No 748/2012, that contains airworthiness limitations that set out each mandatory replacement time, inspection interval and related inspection procedure;",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -2266,7 +2266,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 0,
-        "text": "“corrosion prevention and control programme ” (CPCP) means a document reflecting a systematic approach to prevent and to control corrosion in an aeroplane’s primary structure, consisting of basic corrosion tasks, including inspections, areas subject to those tasks, defined corrosion levels and compliance times (implementation thresholds and repeat intervals). A baseline CPCP is established by the type certificate holder, which can be adapted by operators to create a CPCP in their maintenance programm e specific to their operations;",
+        "text": "“corrosion prevention and control programme” (CPCP) means a document reflecting a systematic approach to prevent and to control corrosion in an aeroplane’s primary structure, consisting of basic corrosion tasks, including inspections, areas subject to those tasks, defined corrosion levels and compliance times (implementation thresholds and repeat intervals). A baseline CPCP is established by the type certificate holder, which can be adapted by operators to create a CPCP in their maintenance programme specific to their operations;",
         "marker": "(g)",
         "pStyle": "ListLevel0"
       },
@@ -2274,7 +2274,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 0,
-        "text": "“widespread fatigue damage” (WFD) means a simultaneous presence of cracks at multiple locations in the structure of an aeroplane that are of such size and number that the structure will no longer meet the fail-safe strength or residual strength used for certifica tion of that structure;",
+        "text": "“widespread fatigue damage” (WFD) means a simultaneous presence of cracks at multiple locations in the structure of an aeroplane that are of such size and number that the structure will no longer meet the fail-safe strength or residual strength used for certification of that structure;",
         "marker": "(h)",
         "pStyle": "ListLevel0"
       },
@@ -2282,7 +2282,7 @@
         "type": "paragraph",
         "index": 18,
         "level": 0,
-        "text": "“baseline structure” refers to the structure that is designed under the type certificate for that aeroplane model (that is, the ‘as delivered a eroplane model configuration’ );",
+        "text": "“baseline structure” refers to the structure that is designed under the type certificate for that aeroplane model (that is, the ‘as delivered aeroplane model configuration’);",
         "marker": "(i)",
         "pStyle": "ListLevel0"
       },
@@ -2290,7 +2290,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 0,
-        "text": "“fatigue-critical baseline structure” (FCBS) means the baseline structure of an aeroplane that is classified by the type certificate holder a s a fatigue-critical structure;",
+        "text": "“fatigue-critical baseline structure” (FCBS) means the baseline structure of an aeroplane that is classified by the type certificate holder as a fatigue-critical structure;",
         "marker": "(j)",
         "pStyle": "ListLevel0"
       },
@@ -2298,7 +2298,7 @@
         "type": "paragraph",
         "index": 20,
         "level": 0,
-        "text": "“fatigue-critical modified structure” (FCMS) means any fatigue critical structure of an aeroplane introduced or affected by a change to its type design and that is not already listed as part of the fatig ue-critical baseline structure;",
+        "text": "“fatigue-critical modified structure” (FCMS) means any fatigue critical structure of an aeroplane introduced or affected by a change to its type design and that is not already listed as part of the fatigue-critical baseline structure;",
         "marker": "(k)",
         "pStyle": "ListLevel0"
       },
@@ -2306,7 +2306,7 @@
         "type": "paragraph",
         "index": 21,
         "level": 0,
-        "text": "“damage tolerance evaluation” (DTE) is a process that leads to a determination of maintenance actions necessary to detect or preclude fatigue cracking that could contribute to a catastrophic failure. When applied to repairs and changes, a DTE includes the evaluation of the repair or change and the fatigue critical structure affected by the repair o r change;",
+        "text": "“damage tolerance evaluation” (DTE) is a process that leads to a determination of maintenance actions necessary to detect or preclude fatigue cracking that could contribute to a catastrophic failure. When applied to repairs and changes, a DTE includes the evaluation of the repair or change and the fatigue critical structure affected by the repair or change;",
         "marker": "(l)",
         "pStyle": "ListLevel0"
       },
@@ -2330,7 +2330,7 @@
         "type": "paragraph",
         "index": 24,
         "level": 0,
-        "text": "“fatigue-critical structure” (FCS) means a structure of an aeroplane that is susceptible to fatigue cracking that could lead to a catastrophic fa ilure of the aeroplane .",
+        "text": "“fatigue-critical structure” (FCS) means a structure of an aeroplane that is susceptible to fatigue cracking that could lead to a catastrophic failure of the aeroplane.",
         "marker": "(o)",
         "pStyle": "ListLevel0"
       }
@@ -2363,7 +2363,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "O perator s for which a Member State ensures oversight shall , when operating the aircraft referred to in Article 1 , comply with the provisions of Annex I .",
+        "text": "Operators for which a Member State ensures oversight shall, when operating the aircraft referred to in Article 1, comply with the provisions of Annex I.",
         "pStyle": "Normal0"
       }
     ]
@@ -2381,7 +2381,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Article 4 Amendm ent to Regulation (EU) 965/2012",
+        "text": "Article 4 Amendment to Regulation (EU) 965/2012",
         "pStyle": "Heading1CR"
       },
       {
@@ -2395,7 +2395,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Annex I II to Regulation (EU) No 965/2012 is amended in accordance with Annex II to this Regulation, in order to contain a reference to this Regulation."
+        "text": "Annex III to Regulation (EU) No 965/2012 is amended in accordance with Annex II to this Regulation, in order to contain a reference to this Regulation."
       }
     ]
   },
@@ -2426,13 +2426,13 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Aircraft for which operators demonstrated to their competent authority compliance with JAR-26 'Additional Airworthiness Requirements for Operations' (hereinafter 'JAR-26 requirements') , issued by the Joint Aviation Authorities on 13 July 1998, as amended by the Amendment 3 of 1 December 2005 , before the dates of application referred to in Article 6 shall be deemed to comply with the equivalent specifications set out in Annex I to this Regulation."
+        "text": "Aircraft for which operators demonstrated to their competent authority compliance with JAR-26 'Additional Airworthiness Requirements for Operations' (hereinafter 'JAR-26 requirements'), issued by the Joint Aviation Authorities on 13 July 1998, as amended by the Amendment 3 of 1 December 2005, before the dates of application referred to in Article 6 shall be deemed to comply with the equivalent specifications set out in Annex I to this Regulation."
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Aircraft for which compliance with the JAR-26 requirements equivalent to the specifications set out in points 26.50 , 26.105 , 26.110 , 26.120 , 26.150 , 26.155 , 26.160 , 26.200 , 26.250 of Annex I to this Regulation has been demonstrated in accordance with the first subparagraph shall subsequently not be modified in a way that would affect its compliance with the JAR-26 requirements concerned ."
+        "text": "Aircraft for which compliance with the JAR-26 requirements equivalent to the specifications set out in points 26.50, 26.105, 26.110, 26.120, 26.150, 26.155, 26.160, 26.200, 26.250 of Annex I to this Regulation has been demonstrated in accordance with the first subparagraph shall subsequently not be modified in a way that would affect its compliance with the JAR-26 requirements concerned."
       }
     ]
   },
@@ -2463,19 +2463,19 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union ."
+        "text": "This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union."
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "I t shall apply from 14 May 2015."
+        "text": "It shall apply from 14 May 2015."
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "However, points 26.50 , 26.105 , 26.110 , 26.120 , 26.150 , 26.155 , 26.160 , 26.200 and 26.250 of Annex I shall apply from 14 May 2017.",
+        "text": "However, points 26.50, 26.105, 26.110, 26.120, 26.150, 26.155, 26.160, 26.200 and 26.250 of Annex I shall apply from 14 May 2017.",
         "pStyle": "Normal0"
       },
       {
@@ -2502,7 +2502,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.1 Purpose and scope",
+        "text": "CS 26.1 Purpose and scope",
         "pStyle": "Heading3CS"
       },
       {
@@ -2516,7 +2516,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "This CS is the standard means to show compliance of products with the requirements of Annex I ( Part-26 ) to Commission Regulation (EU) 2015/640 . (See GM1 26.1 and GM2 26.1 )",
+        "text": "This CS is the standard means to show compliance of products with the requirements of Annex I(Part-26) to Commission Regulation (EU) 2015/640. (See GM1 26.1 and GM2 26.1)",
         "pStyle": "Normal0"
       }
     ]
@@ -2537,7 +2537,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.1 JAR -26 / JAR/CS-25 / FAR-25+121 / OPS / Part-26 / CS-26 / GM-26 cross-reference table",
+        "text": "GM1 26.1  JAR-26 / JAR/CS-25 / FAR-25+121 / OPS / Part-26 / CS-26 / GM-26 cross-reference table",
         "pStyle": "Heading4GM"
       },
       {
@@ -2551,7 +2551,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "This table is intended to be a quick cross-reference table between those requirements that are contained on the one hand in Part-26 , CS-26 and GM 26, and on the other hand their ‘parent’ airworthiness code, if one exists, i.e. JAR-26, the FAA’s FAR-25 and/or FAR Part 121, as well as the related EU-OPS and the new EASA O perational requirements. This table is only indicative , and it does not pre-empt compliance with the applicable requirements, which shall be assessed by the competent authority."
+        "text": "This table is intended to be a quick cross-reference table between those requirements that are contained on the one hand in Part-26, CS-26 and GM 26, and on the other hand their ‘parent’ airworthiness code, if one exists, i.e. JAR-26, the FAA’s FAR-25 and/or FAR Part 121, as well as the related EU-OPS and the new EASA Operational requirements. This table is only indicative, and it does not pre-empt compliance with the applicable requirements, which shall be assessed by the competent authority."
       },
       {
         "type": "table",
@@ -2579,7 +2579,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "FAR-25/ Part 121"
+                  "text": "FAR-25/Part 121"
                 }
               ],
               "width": "1559"
@@ -2960,7 +2960,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "JAR 25.562 CS 25.562"
+                  "text": "JAR 25.562CS 25.562"
                 }
               ],
               "width": "1604"
@@ -2969,7 +2969,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "FAR 25.562 FAR 121.311(j) Amdt 121-315"
+                  "text": "FAR 25.562FAR 121.311(j) Amdt 121-315"
                 }
               ],
               "width": "1559"
@@ -2978,7 +2978,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CAT.IDE.A. 205"
+                  "text": "CAT.IDE.A.205"
                 }
               ],
               "width": "1276"
@@ -3074,7 +3074,7 @@
                 },
                 {
                   "style": null,
-                  "text": ";"
+                  "text": "; "
                 },
                 {
                   "style": "Hyperlink",
@@ -3163,7 +3163,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "CS 25.571 at Amendment 19"
+                  "text": "CS 25.571 at Amendment 19 "
                 }
               ],
               "width": "1604"
@@ -3273,7 +3273,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "n/a"
+                  "text": "n/a "
                 }
               ],
               "width": "1440"
@@ -3394,11 +3394,11 @@
               "content": [
                 {
                   "style": "Hyperlink",
-                  "text": "CS 26.307 (a)( i ),(ii), and (b)"
+                  "text": "CS 26.307 (a)(i),(ii), and (b)"
                 },
                 {
                   "style": null,
-                  "text": ";"
+                  "text": "; "
                 },
                 {
                   "style": "Hyperlink",
@@ -3610,7 +3610,7 @@
                 },
                 {
                   "style": null,
-                  "text": ";"
+                  "text": "; "
                 },
                 {
                   "style": "Hyperlink",
@@ -3683,7 +3683,7 @@
                 },
                 {
                   "style": null,
-                  "text": ";"
+                  "text": "; "
                 },
                 {
                   "style": "Hyperlink",
@@ -3976,7 +3976,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "FAR 25.856 121.312(e)"
+                  "text": "FAR 25.856121.312(e)"
                 }
               ],
               "width": "1559"
@@ -4041,7 +4041,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "FAR 857(c) & (e) FAR 25.858 FAR 121.314(c)"
+                  "text": "FAR 857(c) & (e)FAR 25.858FAR 121.314(c)"
                 }
               ],
               "width": "1559"
@@ -4375,7 +4375,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.730 CAT.IDE.A. 205"
+                  "text": "OPS 1.730CAT.IDE.A.205"
                 }
               ],
               "width": "1276"
@@ -4422,7 +4422,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "JAR 25.807(d)(7) at Change 13 and Amdt 93/1 08/03/93 CS 25.807"
+                  "text": "JAR 25.807(d)(7) at Change 13 and Amdt 93/1 08/03/93CS 25.807"
                 }
               ],
               "width": "1604"
@@ -4505,7 +4505,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.735 CAT.IDE.A. 215"
+                  "text": "OPS 1.735CAT.IDE.A.215"
                 }
               ],
               "width": "1276"
@@ -4570,7 +4570,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.815 CAT.IDE.A. 275"
+                  "text": "OPS 1.815CAT.IDE.A.275"
                 }
               ],
               "width": "1276"
@@ -4625,7 +4625,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "JAR 25.812 (b ),( c),(d) & (h) at Change 8, 30/11/81 JAR 25.812 (a) & (e) at Change 12, 16/06/86 CS 25.812"
+                  "text": "JAR 25.812 (b),(c),(d) & (h) at Change 8, 30/11/81 JAR 25.812 (a) & (e) at Change 12, 16/06/86 CS 25.812"
                 }
               ],
               "width": "1604"
@@ -4634,7 +4634,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "FAR 121.310 (b ),( c) & (d) at Change 21, 17/02/98"
+                  "text": "FAR 121.310 (b),(c) & (d) at Change 21, 17/02/98"
                 }
               ],
               "width": "1559"
@@ -4643,7 +4643,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.815(a)(1) CAT.IDE.A. 275(b)"
+                  "text": "OPS 1.815(a)(1)CAT.IDE.A.275(b)"
                 }
               ],
               "width": "1276"
@@ -4708,7 +4708,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.185(a)(1)(iv) and (v) CAT.IDE.A. 275(b)(4) and (5)"
+                  "text": "OPS 1.185(a)(1)(iv) and (v)CAT.IDE.A.275(b)(4) and (5)"
                 }
               ],
               "width": "1276"
@@ -4764,7 +4764,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "FAR 25.2 (a) at Amdt 25-72, 20/08/90 FAR 121.310 (a) & (h)(2) at Change 21, 17/02/98"
+                  "text": "FAR 25.2 (a) at Amdt 25-72, 20/08/90FAR 121.310 (a) & (h)(2) at Change 21, 17/02/98"
                 }
               ],
               "width": "1559"
@@ -4773,7 +4773,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.805 CAT.IDE.A. 265"
+                  "text": "OPS 1.805CAT.IDE.A.265"
                 }
               ],
               "width": "1276"
@@ -4820,7 +4820,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "JAR 25.791 at Change 8, 20/11/81 JAR 25.853(a) to (d) at Change 14, 27/05/94 JAR 25.853(e) at Change 13 plus Amdt 91/1, 12/04/91 JAR 25.853(f) and Appendix F at Change 14, 27/05/94 Appendix F, Part I, at Amdt 93/1, 08/03/93 Appendix F, Part II, III, IV, V at Change 13 05/10/89 CS 25.853"
+                  "text": "JAR 25.791 at Change 8, 20/11/81JAR 25.853(a) to (d) at Change 14, 27/05/94JAR 25.853(e) at Change 13 plus Amdt 91/1, 12/04/91 JAR 25.853(f) and Appendix F at Change 14, 27/05/94Appendix F, Part I, at Amdt 93/1, 08/03/93Appendix F, Part II, III, IV, V at Change 13 05/10/89 CS 25.853"
                 }
               ],
               "width": "1604"
@@ -4838,7 +4838,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.731 CAT.IDE.A. 210"
+                  "text": "OPS 1.731CAT.IDE.A.210"
                 }
               ],
               "width": "1276"
@@ -5187,7 +5187,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "OPS 1.1255 ORO.SEC.100.A"
+                  "text": "OPS 1.1255ORO.SEC.100.A"
                 }
               ],
               "width": "1276"
@@ -5247,7 +5247,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM 2 26. 1 Demonstration of compliance",
+        "text": "GM2 26.1 Demonstration of compliance",
         "pStyle": "Heading4GM"
       },
       {
@@ -5261,7 +5261,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "For the initial issue of Part-26 , which is a transposition of existing JAR-26 requirements, the operators will be responsible for showing compliance. In most cases this can be done by referring to the certification basis of the aircraft or the approved changes in which the amendment level of the certification specification will indicate compliance. In any case, the JAR-26 requirements should have been implemented already by EU operators and since the CS-26 text is equivalent to the JAR-26 text, compliance with JAR-26 means also compliance with Part-26 . See also Article 5 of the Commission Regulation (EU) 2015/640 In the rare case where the above possibilities are not sufficient, showing compliance by the operator directly to the NAA will be difficult. They will need to involve the design approval holder of the aircraft or the approved change as relevant. This design approval holder should then apply to the EASA for certification that the design complies with the relevant CS-26 or CS-25 paragraph, special condition or equivalent safety case. With that approval information the operator can show compliance t o the NAA.",
+        "text": "For the initial issue of Part-26, which is a transposition of existing JAR-26 requirements, the operators will be responsible for showing compliance. In most cases this can be done by referring to the certification basis of the aircraft or the approved changes in which the amendment level of the certification specification will indicate compliance. In any case, the JAR-26 requirements should have been implemented already by EU operators and since the CS-26 text is equivalent to the JAR-26 text, compliance with JAR-26 means also compliance with Part-26. See also Article 5 of the Commission Regulation (EU) 2015/640 In the rare case where the above possibilities are not sufficient, showing compliance by the operator directly to the NAA will be difficult. They will need to involve the design approval holder of the aircraft or the approved change as relevant. This design approval holder should then apply to the EASA for certification that the design complies with the relevant CS-26 or CS-25 paragraph, special condition or equivalent safety case. With that approval information the operator can show compliance to the NAA.",
         "pStyle": "Normal0"
       },
       {
@@ -5304,7 +5304,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "For the purposes of this Annex, the competent authority to which operators need to demonstrate compliance of aircraft, the design of which has already been certified, with the requirements of this Annex shall be the authority designated by the Member State in which the operator has i ts principal place of business.",
+        "text": "For the purposes of this Annex, the competent authority to which operators need to demonstrate compliance of aircraft, the design of which has already been certified, with the requirements of this Annex shall be the authority designated by the Member State in which the operator has its principal place of business.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5312,7 +5312,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "For the purposes of this Annex, the competent authority to which holders of type-certificates (TC), restricted TC, supplemental type-certificates (STC), changes and repair design approvals need to demonstrate compliance of the existing type-certificates (TC), restricted TC, supplemental type-certificates (STC), changes and repair design with the requirements of t his Annex shall be the Agency.",
+        "text": "For the purposes of this Annex, the competent authority to which holders of type-certificates (TC), restricted TC, supplemental type-certificates (STC), changes and repair design approvals need to demonstrate compliance of the existing type-certificates (TC), restricted TC, supplemental type-certificates (STC), changes and repair design with the requirements of this Annex shall be the Agency.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -5444,7 +5444,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "technical standards offering an equivalent level of safety to those included in those certific ation specifications.",
+        "text": "technical standards offering an equivalent level of safety to those included in those certification specifications.",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -5510,7 +5510,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.50 Seats, berths, safety belts, and harnesses",
+        "text": "CS 26.50 Seats, berths, safety belts, and harnesses",
         "pStyle": "Heading4CS"
       },
       {
@@ -5531,7 +5531,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Each seat at a flight deck station is equipped with a combined safety belt and shoulder harness with a single-point release that permits the flight deck occupant, when seated with safety belt and shoulder harness fastened, to perform all of the occupant’s necessary flight deck functions. There must be a means to secure each combined safety belt and shoulder harness, when not in use, to prevent interference with the operation of the aeroplane and with rapid egress in an emergency. Shoulder harness and combined safety belt and shoulder harness that were approved and installed prior to 6 March 1980 may continue to be used. Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the aeroplane .",
+        "text": "Each seat at a flight deck station is equipped with a combined safety belt and shoulder harness with a single-point release that permits the flight deck occupant, when seated with safety belt and shoulder harness fastened, to perform all of the occupant’s necessary flight deck functions. There must be a means to secure each combined safety belt and shoulder harness, when not in use, to prevent interference with the operation of the aeroplane and with rapid egress in an emergency. Shoulder harness and combined safety belt and shoulder harness that were approved and installed prior to 6 March 1980 may continue to be used. Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the aeroplane.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5587,14 +5587,14 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "Combined safety belt and shoulder harness that were approved and installed prior to 6 March 1980 may continue to be used. Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the aeroplane .",
+        "text": "Combined safety belt and shoulder harness that were approved and installed prior to 6 March 1980 may continue to be used. Safety belt and shoulder harness restraint systems may be designed to the inertia load factors established under the certification basis of the aeroplane.",
         "pStyle": "Normal3"
       },
       {
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "Each seat for a cabin crew member required by Part-ORO.CC.100, is located to minimise the probability of its occupant suffering injury by being struck by items dislodged in a galley, or from a stowage compartment or serving cart. All items expected in these locations in service are considered. (See GM1 26.50(c) )",
+        "text": "Each seat for a cabin crew member required by Part-ORO.CC.100, is located to minimise the probability of its occupant suffering injury by being struck by items dislodged in a galley, or from a stowage compartment or serving cart. All items expected in these locations in service are considered. (See GM1 26.50(c))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -5655,7 +5655,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.50(c) Cabin crew seat location with respect to injury risk",
+        "text": "GM1 26.50(c) Cabin crew seat location with respect to injury risk",
         "pStyle": "Heading5GM"
       },
       {
@@ -5669,7 +5669,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AC 25.785-1B, Section 8 is applicable when showing compliance with CS 26.50(c) .",
+        "text": "AC 25.785-1B, Section 8 is applicable when showing compliance with CS 26.50(c).",
         "pStyle": "Normal0"
       }
     ]
@@ -5787,14 +5787,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Compliance with point 26.60 of Part-26 is demonstrated by complying with CS 25.562 of CS-25, or its equivalent, or with the following (see GM1 26.60 ):",
+        "text": "Compliance with point 26.60 of Part-26 is demonstrated by complying with CS 25.562 of CS-25, or its equivalent, or with the following (see GM1 26.60):",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Each seat type design that is approved for occupancy during taxiing, take-off, or landing must successfully complete dynamic tests or be demonstrated by rational analysis based on dynamic tests of a similar type seat, in accordance with each of the following emergency landing conditions. The tests must be conducted with an occ upant simulated by a 77 kg (170 lb) anthropomorphic test dummy sitting in the normal upright position. The tests must include:",
+        "text": "Each seat type design that is approved for occupancy during taxiing, take-off, or landing must successfully complete dynamic tests or be demonstrated by rational analysis based on dynamic tests of a similar type seat, in accordance with each of the following emergency landing conditions. The tests must be conducted with an occupant simulated by a 77 kg (170 lb) anthropomorphic test dummy sitting in the normal upright position. The tests must include:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -5802,7 +5802,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "A change in the downward vertical velocity ( [Symbol:F044] v) of not less than 10.7 m/s (35 ft/s), with the aeroplane’s longitudinal axis canted downward at 30 degrees with respect to the horizontal plane, and with the wings level. The peak floor deceleration must occur in not more than 0.08 seconds after the impact, and reach a minimum of 14 g.",
+        "text": "A change in the downward vertical velocity ([Symbol:F044]v) of not less than 10.7 m/s (35 ft/s), with the aeroplane’s longitudinal axis canted downward at 30 degrees with respect to the horizontal plane, and with the wings level. The peak floor deceleration must occur in not more than 0.08 seconds after the impact, and reach a minimum of 14 g.",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5810,7 +5810,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "A change in the forward longitudinal velocity ( [Symbol:F044] v) of not less than 13.4 m/s (44 ft/s), with the aeroplane’s longitudinal axis horizontal and yawed by 10 degrees either to the right or the left, whichever would cause the greatest likelihood of the upper torso restraint system (if one is installed) moving off the occupant’s shoulder, and with the wings level. The peak floor deceleration must occur in not more than 0.09 seconds after the impact, and it must reach a minimum of 16 g. If floor rails or floor fittings are used to attach the seating devices to the test fixture, the rails or fittings must be misaligned with respect to the adjacent set of rails or fittings by at least 10 degrees vertically (i.e. away from being parallel), with one rolled by 10 degrees.",
+        "text": "A change in the forward longitudinal velocity ([Symbol:F044]v) of not less than 13.4 m/s (44 ft/s), with the aeroplane’s longitudinal axis horizontal and yawed by 10 degrees either to the right or the left, whichever would cause the greatest likelihood of the upper torso restraint system (if one is installed) moving off the occupant’s shoulder, and with the wings level. The peak floor deceleration must occur in not more than 0.09 seconds after the impact, and it must reach a minimum of 16 g. If floor rails or floor fittings are used to attach the seating devices to the test fixture, the rails or fittings must be misaligned with respect to the adjacent set of rails or fittings by at least 10 degrees vertically (i.e. away from being parallel), with one rolled by 10 degrees.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5826,7 +5826,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "If upper torso straps are used, the tension loads in the indivi dual straps must not exceed 794 kg (1 750 lb ). If dual straps are used to restrain the upper torso, the total strap tension loads must not exceed 907 kg ( 2 000 lb ).",
+        "text": "If upper torso straps are used, the tension loads in the individual straps must not exceed 794 kg (1 750 lb). If dual straps are used to restrain the upper torso, the total strap tension loads must not exceed 907 kg (2 000 lb).",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -5834,7 +5834,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "The maximum compressive load that is measured between the pelvis and the lumbar column of the anthropomorphic dummy must not exceed 680 kg (1 500 lb ).",
+        "text": "The maximum compressive load that is measured between the pelvis and the lumbar column of the anthropomorphic dummy must not exceed 680 kg (1 500 lb).",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -5858,7 +5858,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "Each occupant must be protected from serious head injury under the conditions that are prescribed in sub-paragraph (a) of this paragraph. Where head contact with seats or other structure can occur, protection must be provided so that the head impact does not exceed a H ead Injury Criterion (HIC) of 1 000 units. The level of HIC is defined by the equation —",
+        "text": "Each occupant must be protected from serious head injury under the conditions that are prescribed in sub-paragraph (a) of this paragraph. Where head contact with seats or other structure can occur, protection must be provided so that the head impact does not exceed a Head Injury Criterion (HIC) of 1 000 units. The level of HIC is defined by the equation —",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -5901,7 +5901,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 1,
-        "text": "Where leg injuries may result from contact with seats or other structures, protection must be provided to prevent axially compressiv e loads that exceed 1 021 kg (2 250 lb ) in each femur.",
+        "text": "Where leg injuries may result from contact with seats or other structures, protection must be provided to prevent axially compressive loads that exceed 1 021 kg (2 250 lb) in each femur.",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -5917,7 +5917,7 @@
         "type": "paragraph",
         "index": 18,
         "level": 1,
-        "text": "Seats must not yield under the tests that are specified in sub-paragraphs (a)(1) and (a)(2) of this paragraph to the extent that they would impede the rapid evacuation of the occupants of the aeroplane .",
+        "text": "Seats must not yield under the tests that are specified in sub-paragraphs (a)(1) and (a)(2) of this paragraph to the extent that they would impede the rapid evacuation of the occupants of the aeroplane.",
         "marker": "(8)",
         "pStyle": "ListLevel1"
       },
@@ -5925,7 +5925,7 @@
         "type": "paragraph",
         "index": 19,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -5960,7 +5960,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "AC 25.562-1B (dated 10 January 2006) may be used for showing compliance with CS 26.60 .",
+        "text": "AC 25.562-1B (dated 10 January 2006) may be used for showing compliance with CS 26.60.",
         "pStyle": "Normal0"
       },
       {
@@ -6003,7 +6003,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Except for aeroplanes having an emergency exit configuration installe d and approved prior to 1 April 1999, operators of large aeroplanes used in commercial air transport having a maximum operational passenger seating configuration of more than nineteen with one or more emergency exits deactivated shall ensure that the distance(s) between the remaining exits remains (remain) compatible with effective evacuation."
+        "text": "Except for aeroplanes having an emergency exit configuration installed and approved prior to 1 April 1999, operators of large aeroplanes used in commercial air transport having a maximum operational passenger seating configuration of more than nineteen with one or more emergency exits deactivated shall ensure that the distance(s) between the remaining exits remains (remain) compatible with effective evacuation."
       }
     ]
   },
@@ -6023,7 +6023,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.100 Location of emergency exits",
+        "text": "CS 26.100 Location of emergency exits",
         "pStyle": "Heading4CS"
       },
       {
@@ -6051,7 +6051,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "Normal0"
       }
     ]
@@ -6107,7 +6107,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.105 Emergency exit access",
+        "text": "CS 26.105 Emergency exit access",
         "pStyle": "Heading4CS"
       },
       {
@@ -6152,7 +6152,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "If it is necessary to pass through a doorway separating the passenger cabin from other areas to reach any required emergency exit from any passenger seat, the door has a means to latch it in the open position. The latching means withstands the loads imposed upon it when the door is subjected to the ultimate inertia forces, relative to the surround ing structure, prescribed in CS 25.561(b), or equivalent, at the amendment level specified in the relevant Type Certificate Data Sheet, or equivalent document.",
+        "text": "If it is necessary to pass through a doorway separating the passenger cabin from other areas to reach any required emergency exit from any passenger seat, the door has a means to latch it in the open position. The latching means withstands the loads imposed upon it when the door is subjected to the ultimate inertia forces, relative to the surrounding structure, prescribed in CS 25.561(b), or equivalent, at the amendment level specified in the relevant Type Certificate Data Sheet, or equivalent document.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -6160,7 +6160,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "Normal0"
       }
     ]
@@ -6232,7 +6232,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.110 Emergency exit markings",
+        "text": "CS 26.110 Emergency exit markings",
         "pStyle": "Heading4CS"
       },
       {
@@ -6309,7 +6309,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "Each sign listed in this sub-paragraph may use the word ‘exit’ in its legend in place of the term ‘emergency exit’ or a universal symbolic exit sign. The design of the exit signs is chosen to provide a consistent set throughout the cabin. (See GM1 26.110(d) )",
+        "text": "Each sign listed in this sub-paragraph may use the word ‘exit’ in its legend in place of the term ‘emergency exit’ or a universal symbolic exit sign. The design of the exit signs is chosen to provide a consistent set throughout the cabin. (See GM1 26.110(d))",
         "pStyle": "Normal1"
       },
       {
@@ -6340,7 +6340,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 2,
-        "text": "self-illuminated with an initial brightness of at least 0.51 candela/m 2 (160 micro-lamberts); or",
+        "text": "self-illuminated with an initial brightness of at least 0.51 candela/m2 (160 micro-lamberts); or",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -6364,7 +6364,7 @@
         "type": "paragraph",
         "index": 16,
         "level": 1,
-        "text": "All Type II and larger passenger emergency exits with a locking mechanism released by motion of a handle, are marked by a red arrow with a shaft at least 19 mm (0.75 inch) wide, adjacent to the handle, that indicates the full extent and direction of the unlocking motion required. The word OPEN is horizontally situated adjacent to the arrow head and is in red capital letters at least 25 mm (1 inch) high. The arrow and word OPEN are located on a background which provides adequate contrast. (See GM1 26.110(e)(4) )",
+        "text": "All Type II and larger passenger emergency exits with a locking mechanism released by motion of a handle, are marked by a red arrow with a shaft at least 19 mm (0.75 inch) wide, adjacent to the handle, that indicates the full extent and direction of the unlocking motion required. The word OPEN is horizontally situated adjacent to the arrow head and is in red capital letters at least 25 mm (1 inch) high. The arrow and word OPEN are located on a background which provides adequate contrast. (See GM1 26.110(e)(4))",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -6372,7 +6372,7 @@
         "type": "paragraph",
         "index": 17,
         "level": 0,
-        "text": "Each emergency exit that is openable from the outside, and its means of opening is marked on the outside of the aeroplane . In addition, the following apply:",
+        "text": "Each emergency exit that is openable from the outside, and its means of opening is marked on the outside of the aeroplane. In addition, the following apply:",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -6404,7 +6404,7 @@
         "type": "paragraph",
         "index": 21,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -6425,7 +6425,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.110(d) Universal symbolic exit signs",
+        "text": "GM1 26.110(d) Universal symbolic exit signs",
         "pStyle": "Heading5GM"
       },
       {
@@ -6459,7 +6459,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.110(e)(4) Emergency Exit Markings",
+        "text": "GM1 26.110(e)(4) Emergency Exit Markings",
         "pStyle": "Heading5GM"
       },
       {
@@ -6479,7 +6479,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "NOTE: As far as is practicable the markings should be located to avoid obscuring viewing windows located on or alongside the exits, or coincidence with any other required marking or safety feature.",
+        "text": "NOTE:  As far as is practicable the markings should be located to avoid obscuring viewing windows located on or alongside the exits, or coincidence with any other required marking or safety feature.",
         "pStyle": "ListLevel0"
       },
       {
@@ -6659,7 +6659,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.120 Interior emergency lighting and emergency light operation",
+        "text": "CS 26.120 Interior emergency lighting and emergency light operation",
         "pStyle": "Heading4CS"
       },
       {
@@ -6673,7 +6673,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Compliance with point 26.120 of Part-26 is demonstra ted by complying with CS 25.812 (b),(c),(d) and (h) of CS-25 or equivalent and CS 25.8 12 (a) and (e) of CS-25 or equivalent, or with the following:",
+        "text": "Compliance with point 26.120 of Part-26 is demonstrated by complying with CS 25.812 (b),(c),(d) and (h) of CS-25 or equivalent and CS 25.812 (a) and (e) of CS-25 or equivalent, or with the following:",
         "pStyle": "Normal0"
       },
       {
@@ -6696,7 +6696,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "for aeroplanes that have a maximum approved passenger seating configuration of more than 19, a floor proximity emergency escape path marking provides emergency evacuation guidance for passengers when all sources of i llumination more than 1.22 m (4 feet) above the cabin aisle floor are totally obscured. In the dark of the night, the floor proximity emergency escape path marking enables each passenger to:",
+        "text": "for aeroplanes that have a maximum approved passenger seating configuration of more than 19, a floor proximity emergency escape path marking provides emergency evacuation guidance for passengers when all sources of illumination more than 1.22 m (4 feet) above the cabin aisle floor are totally obscured. In the dark of the night, the floor proximity emergency escape path marking enables each passenger to:",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6776,7 +6776,7 @@
         "type": "paragraph",
         "index": 14,
         "level": 1,
-        "text": "For an aeroplane for which the application for the type certi ficate was filed prior to 1 May 1972:",
+        "text": "For an aeroplane for which the application for the type certificate was filed prior to 1 May 1972:",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -6784,7 +6784,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 2,
-        "text": "Each passenger emergency exit marking and each locating sign has white letters at least 25 mm (1 inch) high on a red background at least 5 cm (2 inches) high. These signs may be internally electrically illuminated, or self-illuminated by other than electrical means, with an initi al brightness of at least 0.509 cd/m 2 (160 microlamberts). The colours may be reversed in the case of internally electrically illuminated signs if this will increase the illumination of the exit. On these aeroplanes , no sign may continue to be used if its luminescence (brightness) decreases to below 0.318 cd/m 2 (100 microlamberts).",
+        "text": "Each passenger emergency exit marking and each locating sign has white letters at least 25 mm (1 inch) high on a red background at least 5 cm (2 inches) high. These signs may be internally electrically illuminated, or self-illuminated by other than electrical means, with an initial brightness of at least 0.509 cd/m2 (160 microlamberts). The colours may be reversed in the case of internally electrically illuminated signs if this will increase the illumination of the exit. On these aeroplanes, no sign may continue to be used if its luminescence (brightness) decreases to below 0.318 cd/m2 (100 microlamberts).",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -6808,7 +6808,7 @@
         "type": "paragraph",
         "index": 18,
         "level": 1,
-        "text": "For an aeroplane for which the application for the type cert ificate was filed on or after 1 May 1972, the interior emergency lighting specifications under which the aeroplane was type certificated. On these aeroplanes , no sign may continue to be used if its luminescence (brightness) decreases to below 0.796 cd/m 2 (250 microlamberts).",
+        "text": "For an aeroplane for which the application for the type certificate was filed on or after 1 May 1972, the interior emergency lighting specifications under which the aeroplane was type certificated. On these aeroplanes, no sign may continue to be used if its luminescence (brightness) decreases to below 0.796 cd/m2 (250 microlamberts).",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -6832,7 +6832,7 @@
         "type": "paragraph",
         "index": 21,
         "level": 2,
-        "text": "10 seats or more, each passenger emergency exit locator sign and marking sign required by point 26.110(d) of Part-26 has red letters at least 38 mm (1 ½ inches) high on an illuminated white background, and has an area of at least 135 cm 2 (21 square inches) excluding the letters. The lighted background-to-letter contrast is at least 10:1. The letter height to stroke-width ratio is not more than 7:1 nor less than 6:1. These signs are internally electrically illuminated with a background brightness of at least 86 cd/m 2 (25 foot-lamberts) and a high-to-low background contrast no greater than 3:1. Other passenger emergency exit signs required by point 26.110(d) of Part-26 have red letters at least 38 mm (1 ½ inches) high on a white background having an area of at least 135 cm 2 (21 square inches) excluding the letters. These signs are internally, electrically illuminated or self-illuminated by other than electrical means and have an initial brightness of at least 1.27 cd/m 2 (400 microlamberts). The colours are reversed in the case of a sign that is self-illuminated by other than electrical means. On these aeroplanes , no sign continues to be used if its luminescence (brightness) decreases to below 0.796 cd/m 2 (250 microlamberts).",
+        "text": "10 seats or more, each passenger emergency exit locator sign and marking sign required by point 26.110(d) of Part-26 has red letters at least 38 mm (1 ½ inches) high on an illuminated white background, and has an area of at least 135 cm2 (21 square inches) excluding the letters. The lighted background-to-letter contrast is at least 10:1. The letter height to stroke-width ratio is not more than 7:1 nor less than 6:1. These signs are internally electrically illuminated with a background brightness of at least 86 cd/m2 (25 foot-lamberts) and a high-to-low background contrast no greater than 3:1. Other passenger emergency exit signs required by point 26.110(d) of Part-26 have red letters at least 38 mm (1 ½ inches) high on a white background having an area of at least 135 cm2 (21 square inches) excluding the letters. These signs are internally, electrically illuminated or self-illuminated by other than electrical means and have an initial brightness of at least 1.27 cd/m2 (400 microlamberts). The colours are reversed in the case of a sign that is self-illuminated by other than electrical means. On these aeroplanes, no sign continues to be used if its luminescence (brightness) decreases to below 0.796 cd/m2 (250 microlamberts).",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -6840,7 +6840,7 @@
         "type": "paragraph",
         "index": 22,
         "level": 2,
-        "text": "9 seats or less, passenger emergency exit signs that are required by point 26.110(d) of Part-26 , have red letters at least 25 mm (1 inch) high o n a white background at least 5 cm (2 inches) high. These signs may be internally electrically illuminated or self-illuminated by other than electrical means, with an initial brightness of at least 0.509 cd/m 2 (160 microlamberts). The colours may be reversed in the case of a sign that is self-illuminated by other than electrical means. On these aeroplanes , no sign continues to be used if its luminescence (brigh tness) decreases to below 0.318 cd/m 2 (100 microlamberts).",
+        "text": "9 seats or less, passenger emergency exit signs that are required by point 26.110(d) of Part-26, have red letters at least 25 mm (1 inch) high on a white background at least 5 cm (2 inches) high. These signs may be internally electrically illuminated or self-illuminated by other than electrical means, with an initial brightness of at least 0.509 cd/m2 (160 microlamberts). The colours may be reversed in the case of a sign that is self-illuminated by other than electrical means. On these aeroplanes, no sign continues to be used if its luminescence (brightness) decreases to below 0.318 cd/m2 (100 microlamberts).",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -6864,7 +6864,7 @@
         "type": "paragraph",
         "index": 25,
         "level": 0,
-        "text": "Each sign required by point 26.120 of Part-26 may use a universal symbolic exit sign. The design of the signs is chosen to provide a consistent set throughout the cabin. (See GM1 26.110(d) )",
+        "text": "Each sign required by point 26.120 of Part-26 may use a universal symbolic exit sign. The design of the signs is chosen to provide a consistent set throughout the cabin. (See GM1 26.110(d))",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -6872,7 +6872,7 @@
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -6952,7 +6952,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.150 Compartment interiors",
+        "text": "CS 26.150 Compartment interiors",
         "pStyle": "Heading4CS"
       },
       {
@@ -6980,7 +6980,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Upon any major replacement of any individual group of components as specified in Appendix F, Part I , sub-paragraph (a)(1)(i), such as interior ceiling panels, wall panels, etc., this individual group of components complies with Appendix F, Part I , of this CS - 26. (See GM1 26.150(a) )",
+        "text": "Upon any major replacement of any individual group of components as specified in Appendix F, Part I, sub-paragraph (a)(1)(i), such as interior ceiling panels, wall panels, etc., this individual group of components complies with Appendix F, Part I, of this CS-26. (See GM1 26.150(a))",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -6988,7 +6988,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "Seat cushions, except those on flight crew member seats, on large aeroplanes, type certificated after 1 January 1958, comply with the fire protection specifications of Appendix F, Part II .",
+        "text": "Seat cushions, except those on flight crew member seats, on large aeroplanes, type certificated after 1 January 1958, comply with the fire protection specifications of Appendix F, Part II.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -6996,7 +6996,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "(1) Heat release (other than for lavatory interiors or flight deck), for interior ceiling and wall panels (other than lighting lenses), partitions, and the outer surfaces of galleys, large cabinets and stowage compartments (other than underseat stowage compartments and compartments for stowing small items, such as magazines and maps), in large aeroplanes which had their initial Certificate of Airworthiness issued on or after 20 August 1988, but prior to 20 August 1990, and having a MOPSC of more than 19, comply with the heat release rate testing provisions of Appendix F Part IV , except that the total heat release over the first two minutes of sample exposure does not exceed 100 kilowatt-minutes per square metre, and the peak heat release rate does not exceed 100 kilowatts per square metre.",
+        "text": "(1) Heat release (other than for lavatory interiors or flight deck), for interior ceiling and wall panels (other than lighting lenses), partitions, and the outer surfaces of galleys, large cabinets and stowage compartments (other than underseat stowage compartments and compartments for stowing small items, such as magazines and maps), in large aeroplanes which had their initial Certificate of Airworthiness issued on or after 20 August 1988, but prior to 20 August 1990, and having a MOPSC of more than 19, comply with the heat release rate testing provisions of Appendix F Part IV, except that the total heat release over the first two minutes of sample exposure does not exceed 100 kilowatt-minutes per square metre, and the peak heat release rate does not exceed 100 kilowatts per square metre.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -7004,7 +7004,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "Heat release and smoke density (other than for lavatory interiors or flight deck) for interior ceiling and wall panels (other than lighting lenses), partitions, and the outer surfaces of galleys, large cabinets and stowage compartments (other than underseat stowage compartments and compartments for stowing small items, such as magazines and maps), in large aeroplanes, having a MOPSC of more than 19, which had their initial Certificate of Airworthiness issued on or after 20 August 1990, comply with the heat release and smoke density specifications of Appendix F Parts IV and V . (See GM1 26.150(c) )",
+        "text": "Heat release and smoke density (other than for lavatory interiors or flight deck) for interior ceiling and wall panels (other than lighting lenses), partitions, and the outer surfaces of galleys, large cabinets and stowage compartments (other than underseat stowage compartments and compartments for stowing small items, such as magazines and maps), in large aeroplanes, having a MOPSC of more than 19, which had their initial Certificate of Airworthiness issued on or after 20 August 1990, comply with the heat release and smoke density specifications of Appendix F Parts IV and V. (See GM1 26.150(c))",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -7012,7 +7012,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Large aeroplanes having a MOPSC of more than 19, Type Certificated after 1 January 1958 upon the first substantially complete replacement of the cabin interior components, (i.e. interior ceiling and wall panels (other than lighting lenses), partitions, and the outer surfaces of galleys, large cabinets and stowage compartments (other than underseat stowage compartments and compartments for stowing small items, such as magazines and maps)), comply with the heat release and smoke density specifications of Appendix F Parts IV and V . (See GM1 26.150(d) )",
+        "text": "Large aeroplanes having a MOPSC of more than 19, Type Certificated after 1 January 1958 upon the first substantially complete replacement of the cabin interior components, (i.e. interior ceiling and wall panels (other than lighting lenses), partitions, and the outer surfaces of galleys, large cabinets and stowage compartments (other than underseat stowage compartments and compartments for stowing small items, such as magazines and maps)), comply with the heat release and smoke density specifications of Appendix F Parts IV and V. (See GM1 26.150(d))",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -7036,7 +7036,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -7057,7 +7057,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.150(a) Compartment interiors",
+        "text": "GM1 26.150(a) Compartment interiors",
         "pStyle": "Heading5GM"
       },
       {
@@ -7091,7 +7091,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.150(c) Compartment interiors",
+        "text": "GM1 26.150(c) Compartment interiors",
         "pStyle": "Heading5GM"
       },
       {
@@ -7105,7 +7105,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Galley carts and containers are considered as ‘open galley surfaces’ and therefore are subject to the same requirements as galleys in this respect, namely CS 26.150(c) . However, because of the rotatable nature of these components, and their limited lifespan, it is permissible to use galley carts and containers manufactured prior to 20/08/1990."
+        "text": "Galley carts and containers are considered as ‘open galley surfaces’ and therefore are subject to the same requirements as galleys in this respect, namely CS 26.150(c). However, because of the rotatable nature of these components, and their limited lifespan, it is permissible to use galley carts and containers manufactured prior to 20/08/1990."
       }
     ]
   },
@@ -7125,7 +7125,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.150(d) Compartment interiors",
+        "text": "GM1 26.150(d) Compartment interiors",
         "pStyle": "Heading5GM"
       },
       {
@@ -7152,7 +7152,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "2 The definition does, therefore, permit individual replacement of cabin interior components without the mandatory replacement of all components at the same time. It should also be noted that removing components for refinishing and reinstalling them in the same aeroplane , or in a different aeroplane not subject to more stringent requirements, is considered ‘refurb ishment’ and not ‘replacement’.",
+        "text": "2 The definition does, therefore, permit individual replacement of cabin interior components without the mandatory replacement of all components at the same time. It should also be noted that removing components for refinishing and reinstalling them in the same aeroplane, or in a different aeroplane not subject to more stringent requirements, is considered ‘refurbishment’ and not ‘replacement’.",
         "pStyle": "ListLevel0"
       }
     ]
@@ -7208,7 +7208,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.155 Flammability of cargo compartment liners",
+        "text": "CS 26.155 Flammability of cargo compartment liners",
         "pStyle": "Heading4CS"
       },
       {
@@ -7222,14 +7222,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Compliance with point 26.155 of Part-26 is demonstrated by complying with CS 25.855 & Appendix F Part III , or equivalent or with the following:",
+        "text": "Compliance with point 26.155 of Part-26 is demonstrated by complying with CS 25.855 & Appendix F Part III, or equivalent or with the following:",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Large aeroplanes , Type Certificated after 1 January 1958, with Class C or D compartment, greater than 5.66 m 3 (200 cubic feet) have ceiling and sidewall liner panels which are constructed of:",
+        "text": "Large aeroplanes, Type Certificated after 1 January 1958, with Class C or D compartment, greater than 5.66 m3 (200 cubic feet) have ceiling and sidewall liner panels which are constructed of:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -7245,7 +7245,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "materials which meet the flame penetration test specifications of Appendix F Part III , or other equivalent methods, or",
+        "text": "materials which meet the flame penetration test specifications of Appendix F Part III, or other equivalent methods, or",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -7261,7 +7261,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "For compliance with this paragraph, the term ‘liner’ includes any design features, such as a joint or fastener which would affect the capability of the liner to safely contain a f ire.",
+        "text": "For compliance with this paragraph, the term ‘liner’ includes any design features, such as a joint or fastener which would affect the capability of the liner to safely contain a fire.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -7269,7 +7269,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -7304,7 +7304,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "for aeroplanes for which the first individual certificate of airworthiness is issued before 18 February 2021, when new thermal or acoustic insulation materials are installed as replacements on or after 18 February 2021, those new materials have flame propagation resistance characteristics which prevent or reduce the risk of flame propagation in the aeroplane ;",
+        "text": "for aeroplanes for which the first individual certificate of airworthiness is issued before 18 February 2021, when new thermal or acoustic insulation materials are installed as replacements on or after 18 February 2021, those new materials have flame propagation resistance characteristics which prevent or reduce the risk of flame propagation in the aeroplane;",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -7312,7 +7312,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "f or aeroplanes for which the first individual certificate of airworthiness is issued on or after 18 February 2021, thermal and acoustic insulation materials have flame propagation resistance characteristics which prevent or reduce the risk of flame propagation in the aeroplane ;",
+        "text": "for aeroplanes for which the first individual certificate of airworthiness is issued on or after 18 February 2021, thermal and acoustic insulation materials have flame propagation resistance characteristics which prevent or reduce the risk of flame propagation in the aeroplane;",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -7320,7 +7320,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "for aeroplanes for which the first individual certificate of airworthiness is issued on or after 18 February 2021 and with a passenger capacity of 20 or more, thermal and acoustic insulation materials (including the means of fastening the materials to the fuselage) installed in the lower half of the aeroplane have flame penetration resistance characteristics which prevent or reduce the risk of flame penetration into the aeroplane after an accident and which ensure survivable conditions in the cabin for a time needed to evacuate the aeroplane .",
+        "text": "for aeroplanes for which the first individual certificate of airworthiness is issued on or after 18 February 2021 and with a passenger capacity of 20 or more, thermal and acoustic insulation materials (including the means of fastening the materials to the fuselage) installed in the lower half of the aeroplane have flame penetration resistance characteristics which prevent or reduce the risk of flame penetration into the aeroplane after an accident and which ensure survivable conditions in the cabin for a time needed to evacuate the aeroplane.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -7380,7 +7380,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -7438,7 +7438,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -7481,7 +7481,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "for aeroplanes , the operation of which involves the transport of passengers, each Class D cargo or baggage compartment, regardless of its volume, complies with the certification specifications applicable to a Class C compartment;",
+        "text": "for aeroplanes, the operation of which involves the transport of passengers, each Class D cargo or baggage compartment, regardless of its volume, complies with the certification specifications applicable to a Class C compartment;",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -7489,7 +7489,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "for aeroplanes , the operation of which involves the transport of cargo only, each Class D cargo compartment, regardless of its volume, complies with the certification specifications applicable to either a Class C or a Class E compartment.",
+        "text": "for aeroplanes, the operation of which involves the transport of cargo only, each Class D cargo compartment, regardless of its volume, complies with the certification specifications applicable to either a Class C or a Class E compartment.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -7634,7 +7634,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.160 Lavatory fire protection",
+        "text": "CS 26.160 Lavatory fire protection",
         "pStyle": "Heading4CS"
       },
       {
@@ -7671,7 +7671,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -7750,7 +7750,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Compliance with point 26.170 of Part-26 is demonstrated by complying with the following (see also GM1 26.170(b) ):",
+        "text": "Compliance with point 26.170 of Part-26 is demonstrated by complying with the following (see also GM1 26.170(b)):",
         "pStyle": "Normal0"
       },
       {
@@ -7789,7 +7789,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -7810,7 +7810,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "GM1 26.170(b) Fire extinguishe r s",
+        "text": "GM1 26.170(b) Fire extinguishers",
         "pStyle": "Heading5GM"
       },
       {
@@ -7831,7 +7831,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Appendix D to Report DOT/FAA/AR-96/122 ‘Development of a Minimum Performance Standard for Lavatory Trash Receptacle Automatic Fire Extinguishers’ of February 1997 may be used for showin g compliance with CS 26.170(b) .",
+        "text": "Appendix D to Report DOT/FAA/AR-96/122 ‘Development of a Minimum Performance Standard for Lavatory Trash Receptacle Automatic Fire Extinguishers’ of February 1997 may be used for showing compliance with CS 26.170(b).",
         "pStyle": "Normal1"
       },
       {
@@ -7852,7 +7852,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "Society of Automotive Engineers (SAE) Aerospace Standard (AS) 6271 ‘Halocarbon Clean Agent Hand-Held Fire Extinguisher’ or European Technical Standard Order (ETSO) 2C515 ‘Aircraft Halocarbon Clean Agent — Handheld Fire Extinguisher’ may be used for showing com pliance with CS 26.170(b) .",
+        "text": "Society of Automotive Engineers (SAE) Aerospace Standard (AS) 6271 ‘Halocarbon Clean Agent Hand-Held Fire Extinguisher’ or European Technical Standard Order (ETSO) 2C515 ‘Aircraft Halocarbon Clean Agent — Handheld Fire Extinguisher’ may be used for showing compliance with CS 26.170(b).",
         "pStyle": "Normal1"
       },
       {
@@ -7922,7 +7922,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 26.200 Landing gear aural warning",
+        "text": "CS 26.200 Landing gear aural warning",
         "pStyle": "Heading4CS"
       },
       {
@@ -7999,7 +7999,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "The flap position sensing unit may be installed at any suitable place in the aeroplane .",
+        "text": "The flap position sensing unit may be installed at any suitable place in the aeroplane.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -8007,7 +8007,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "[Issue: 26/ 3 ]",
+        "text": "[Issue: 26/3]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -8036,7 +8036,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Operators of large aeroplanes shall minimise the risk of a tyre being below its minimum serviceable inflation pressure during operation .",
+        "text": "Operators of large aeroplanes shall minimise the risk of a tyre being below its minimum serviceable inflation pressure during operation.",
         "pStyle": "Normal0"
       }
     ]
@@ -8070,7 +8070,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "‘Minimum serviceable inflation pressure’ means a tyre inflation pressure specified by the aeroplane type certificate holder below which damage to the tyre , potentially leading to a tyre failure, may occur.",
+        "text": "‘Minimum serviceable inflation pressure’ means a tyre inflation pressure specified by the aeroplane type certificate holder below which damage to the tyre, potentially leading to a tyre failure, may occur.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -8110,7 +8110,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 2,
-        "text": "allows the tyres inflation pressures to be checked prior to the dispatch of the aeroplane , and a tyre inflation pressure check task is included in the pre-flight procedures of the operations manual.",
+        "text": "allows the tyres inflation pressures to be checked prior to the dispatch of the aeroplane, and a tyre inflation pressure check task is included in the pre-flight procedures of the operations manual.",
         "marker": "(ii)",
         "pStyle": "ListLevel2"
       },
@@ -8140,7 +8140,7 @@
         "type": "paragraph",
         "index": 12,
         "level": -1,
-        "text": "Time intervals longer than 48 hours may be used if they are substantiated and agreed by the competent authority. This substantiation includes at least an analysis of the expected loss of tyre pressure during operation, taking into account environmental and operational factors, including the potential for pressure loss at a rate that exceeds the normal diffusion resulting from damage to or degradation of the tyre /wheel assembly. If available, statistical data related to pressure losses gathered from the service experience of aeroplanes equipped with equivalent wheel designs may also be used. The substantiation is made in cooperation with the tyre manufacturer(s). In addition, the operator may take credit from an installed system monitoring the tyre inflation pressures.",
+        "text": "Time intervals longer than 48 hours may be used if they are substantiated and agreed by the competent authority. This substantiation includes at least an analysis of the expected loss of tyre pressure during operation, taking into account environmental and operational factors, including the potential for pressure loss at a rate that exceeds the normal diffusion resulting from damage to or degradation of the tyre/wheel assembly. If available, statistical data related to pressure losses gathered from the service experience of aeroplanes equipped with equivalent wheel designs may also be used. The substantiation is made in cooperation with the tyre manufacturer(s). In addition, the operator may take credit from an installed system monitoring the tyre inflation pressures.",
         "pStyle": "Normal1"
       },
       {
@@ -8162,21 +8162,21 @@
         "type": "paragraph",
         "index": 15,
         "level": -1,
-        "text": "If a tyre pressure monitoring system is installed, its development assurance level is commensurate with the potential consequences of an alert not being provided, as well as with the consequences of false alerts. If the system includes the indication of tyre pressure levels, the consequences of a false indication are also taken into account . The assessment of these consequences includes the effects of the failure of one or more tyres (including simultaneous tyre failures) that may be caused by the operation of the aeroplane with under-inflated tyres .",
+        "text": "If a tyre pressure monitoring system is installed, its development assurance level is commensurate with the potential consequences of an alert not being provided, as well as with the consequences of false alerts. If the system includes the indication of tyre pressure levels, the consequences of a false indication are also taken into account. The assessment of these consequences includes the effects of the failure of one or more tyres (including simultaneous tyre failures) that may be caused by the operation of the aeroplane with under-inflated tyres.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "Tasks are included as necessary in the AMP ( taking into account the instructions for continued airworthiness provided by the design approval holder) to ensure that the calibration of the tyre pressure monitoring system is maintained.",
+        "text": "Tasks are included as necessary in the AMP (taking into account the instructions for continued airworthiness provided by the design approval holder) to ensure that the calibration of the tyre pressure monitoring system is maintained.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -8212,7 +8212,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "Operators of large aeroplanes used in commercial air transport shall ensure that every aeroplane for which the first individual certificate of airworthiness was issued on or after 1 January 2025, is equipped with a runway overrun awareness and alerting sys tem.",
+        "text": "Operators of large aeroplanes used in commercial air transport shall ensure that every aeroplane for which the first individual certificate of airworthiness was issued on or after 1 January 2025, is equipped with a runway overrun awareness and alerting system.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -8220,7 +8220,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "This system shall be designed in a manner allowing to reduce the risk of a longitudinal runway excursion during landing by providing an alert, in-flight and on the ground, to the flight crew when the aeroplane is at risk of not being able to stop within the available distance to the end of the runway .",
+        "text": "This system shall be designed in a manner allowing to reduce the risk of a longitudinal runway excursion during landing by providing an alert, in-flight and on the ground, to the flight crew when the aeroplane is at risk of not being able to stop within the available distance to the end of the runway.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -8287,7 +8287,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The ROAAS must at least accommodate dry and wet runway conditions for normal landing configurations .",
+        "text": "The ROAAS must at least accommodate dry and wet runway conditions for normal landing configurations.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -8330,7 +8330,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "When demonstrating compliance with CS 26.205 , the applicant should take account of EUROCAE Document ED-250 ‘Minimum Operational Performance Standard for a Runway Overrun Awareness and Alerting System’ dated December 2017.",
+        "text": "When demonstrating compliance with CS 26.205, the applicant should take account of EUROCAE Document ED-250 ‘Minimum Operational Performance Standard for a Runway Overrun Awareness and Alerting System’ dated December 2017.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -8426,7 +8426,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Continuing structural integrity programme fo r ageing aeroplanes structures — general requirements",
+        "text": "Continuing structural integrity programme for ageing aeroplanes structures — general requirements",
         "marker": "26.300",
         "pStyle": "Heading3IR"
       },
@@ -8441,7 +8441,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the applicatio n for TC was submitted before 1 January 2019, shall establish a continuing structural integrity programme for ageing aeroplane structures, which shall comply with the requirements set out in points 26.301 to 26.309.",
+        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, shall establish a continuing structural integrity programme for ageing aeroplane structures, which shall comply with the requirements set out in points 26.301 to 26.309.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -8449,7 +8449,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Paragraph (a) shall not apply to an aeroplane model, which was issued with a type-certificate before 26 February 2021 and which meets a ny of the following conditions:",
+        "text": "Paragraph (a) shall not apply to an aeroplane model, which was issued with a type-certificate before 26 February 2021 and which meets any of the following conditions:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -8457,7 +8457,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "it is listed in Table A .1 of Appendix 1 of this Annex;",
+        "text": "it is listed in Table A.1 of Appendix 1 of this Annex;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -8473,7 +8473,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "it has not been certified to conduct civil operatio n with a payload or passengers;",
+        "text": "it has not been certified to conduct civil operation with a payload or passengers;",
         "marker": "(iii)",
         "pStyle": "ListLevel1"
       },
@@ -8481,7 +8481,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "it has a restricted TC issued before 26 February 2021 in accordance with damage tolerance requirements, provided that it is not operated beyond 75 % of its design service goal and is primarily operated in support of the approval holders manufacturing operati on;",
+        "text": "it has a restricted TC issued before 26 February 2021 in accordance with damage tolerance requirements, provided that it is not operated beyond 75 % of its design service goal and is primarily operated in support of the approval holders manufacturing operation;",
         "marker": "(iv)",
         "pStyle": "ListLevel1"
       },
@@ -8489,7 +8489,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "it is certified with a restricted TC and is desig ned primarily for firefighting.",
+        "text": "it is certified with a restricted TC and is designed primarily for firefighting.",
         "marker": "(v)",
         "pStyle": "ListLevel1"
       },
@@ -8579,7 +8579,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "and it is demonstrated that such change or repair will not be incorporated into any other aeroplanes .",
+        "text": "and it is demonstrated that such change or repair will not be incorporated into any other aeroplanes.",
         "pStyle": "Normal1"
       },
       {
@@ -8621,7 +8621,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Any product for which the TC has been surrendered is not subject to points 26.300 to 26.334 of Part - 26.",
+        "text": "Any product for which the TC has been surrendered is not subject to points 26.300 to 26.334 of Part-26.",
         "pStyle": "Normal0"
       },
       {
@@ -8649,7 +8649,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "— Provide evidence that all the remaining examples of that aeroplane model are no longer in airworthy condition and are not expected to return to service in the future ( e.g. permanent storage for the purpose of being transferred to a museum or scrapped).",
+        "text": "— Provide evidence that all the remaining examples of that aeroplane model are no longer in airworthy condition and are not expected to return to service in the future (e.g. permanent storage for the purpose of being transferred to a museum or scrapped).",
         "pStyle": "ListLevel0"
       },
       {
@@ -8766,7 +8766,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certifi ed on or after 1 January 1958, for which the applicatio n for TC was submitted before 1 January 2019 , shall:",
+        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, shall:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -8782,7 +8782,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "submit the compliance plan for continuing structural integrity referred in paragraph (i) to the Agency b efore 27 May 2021 for approval.",
+        "text": "submit the compliance plan for continuing structural integrity referred in paragraph (i) to the Agency before 27 May 2021 for approval.",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -8835,7 +8835,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 2020/023/R /R",
+        "text": "ED Decision 2020/023/R/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -8904,7 +8904,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "establishing a limit of validity (LOV) and plans for distribution upon approval (including incorporation of the LOV into the (airworthiness limitation section) ALS );",
+        "text": "establishing a limit of validity (LOV) and plans for distribution upon approval (including incorporation of the LOV into the (airworthiness limitation section) ALS);",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -8996,7 +8996,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or a restricted TC, for a turbine-powered large aeroplane certified to carry 30 passengers or more, or with a payload capacity of 3 402 kg (7 500 lbs) or more, certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, shall carry out a fatigue and damage tolerance evaluation of the aeroplane structure and develop the DTI that will avoid catastrophic failures due to fatigue throughout the ope rational life of the aeroplane.",
+        "text": "A holder of a type-certificate (TC) or a restricted TC, for a turbine-powered large aeroplane certified to carry 30 passengers or more, or with a payload capacity of 3 402 kg (7 500 lbs) or more, certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, shall carry out a fatigue and damage tolerance evaluation of the aeroplane structure and develop the DTI that will avoid catastrophic failures due to fatigue throughout the operational life of the aeroplane.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9122,7 +9122,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or a restricted TC, for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the applicatio n for TC was submitted before 1 January 2019, certified with a maximum take-off weight (MTOW) greater than 34 019 kg (75 000 lbs), shall:",
+        "text": "A holder of a type-certificate (TC) or a restricted TC, for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, certified with a maximum take-off weight (MTOW) greater than 34 019 kg (75 000 lbs), shall:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9130,7 +9130,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 1,
-        "text": "establish a limit of validity (LOV) and incl ude that LOV in an amended ALS;",
+        "text": "establish a limit of validity (LOV) and include that LOV in an amended ALS;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -9153,7 +9153,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "By way of derogation from paragraph (a)(ii), a holder of a type-certificate (TC) or a restricted TC for a turbine- powered large aeroplane shall not be required to develop and submit to the Agency the service information for a maintenance action applicable to an aeroplane model which will not be operated anymore after the scheduled point of submittal for the service information of that maintenance action. For this exception to take effect, the holder of a type-certificate (TC) or a restricted TC shall inform the Agency not later than the date at which the ae roplane model ceases operation.",
+        "text": "By way of derogation from paragraph (a)(ii), a holder of a type-certificate (TC) or a restricted TC for a turbine- powered large aeroplane shall not be required to develop and submit to the Agency the service information for a maintenance action applicable to an aeroplane model which will not be operated anymore after the scheduled point of submittal for the service information of that maintenance action. For this exception to take effect, the holder of a type-certificate (TC) or a restricted TC shall inform the Agency not later than the date at which the aeroplane model ceases operation.",
         "pStyle": "Normal1"
       },
       {
@@ -9176,7 +9176,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "26 February 2026 for aeroplane structure subject to ongoing full-scale fatigue testing at the date of the applicabili ty of this amending Regulation;",
+        "text": "26 February 2026 for aeroplane structure subject to ongoing full-scale fatigue testing at the date of the applicability of this amending Regulation;",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -9192,7 +9192,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "An applicant for a TC or rest ricted TC as referred in letter (c) of Article 1 paragraph 2, for a turbine-powered large aeroplane with a maximum take-off weight (MTOW) greater than 34 019 kg (75 000 lbs), shall:",
+        "text": "An applicant for a TC or restricted TC as referred in letter (c) of Article 1 paragraph 2, for a turbine-powered large aeroplane with a maximum take-off weight (MTOW) greater than 34 019 kg (75 000 lbs), shall:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -9200,7 +9200,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "establish a limit of validity (LOV) a nd include that LOV in the ALS;",
+        "text": "establish a limit of validity (LOV) and include that LOV in the ALS;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -9208,7 +9208,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "identify existing and new maintenance actions upon which the LOV depends, and develop service information necessary for operators to implement those maintenance actions and submit the service information for the maintenance actions to the Agency in accordance with a binding s chedule agreed with the Agency.",
+        "text": "identify existing and new maintenance actions upon which the LOV depends, and develop service information necessary for operators to implement those maintenance actions and submit the service information for the maintenance actions to the Agency in accordance with a binding schedule agreed with the Agency.",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -9216,7 +9216,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "The applicant for a TC or restricted TC as referred in letter (c) of Article 1 paragraph 2 shall submit the LOV established in accordance with paragraph (c) and the ALS referred to in that paragraph together with the binding schedu le to the Agency, for approval.",
+        "text": "The applicant for a TC or restricted TC as referred in letter (c) of Article 1 paragraph 2 shall submit the LOV established in accordance with paragraph (c) and the ALS referred to in that paragraph together with the binding schedule to the Agency, for approval.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -9232,7 +9232,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 1,
-        "text": "before the date approved by the Agency in the plan of the applicant for completing tests and analyses of any aeroplane structure requiring new full-scale fatigue testing to su pport establishment of the LOV;",
+        "text": "before the date approved by the Agency in the plan of the applicant for completing tests and analyses of any aeroplane structure requiring new full-scale fatigue testing to support establishment of the LOV;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -9413,7 +9413,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, shall establish a baseline corrosion preventio n and control programme (CPCP).",
+        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, shall establish a baseline corrosion prevention and control programme (CPCP).",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9532,7 +9532,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "The holder of a type-certificate (TC) or a restricted TC shall submit a description of the process referred to in p aragraph (a) to the Agency before 26 February 2023 for approval. The holder of a type-certificate (TC) or a restricted TC shall implement the process within 6 months af ter its approval by the Agency.",
+        "text": "The holder of a type-certificate (TC) or a restricted TC shall submit a description of the process referred to in paragraph (a) to the Agency before 26 February 2023 for approval. The holder of a type-certificate (TC) or a restricted TC shall implement the process within 6 months after its approval by the Agency.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -9540,7 +9540,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "An applicant for a TC or restric ted TC as referred to in letter (c) of Article 1 paragraph 2 for a turbine-powered large aeroplane, shall establish and implement a process that ensures that the continuing structural integrity programme remains valid throughout the operational life of the aeroplane, taking into account service experience and current operations. It shall submit a description of the process to the Agency before 26 February 2023, or before the issuance of the certificate, whichever occurs later, for approval and shall implement the process within 6 months after its approval by the Agency.",
+        "text": "An applicant for a TC or restricted TC as referred to in letter (c) of Article 1 paragraph 2 for a turbine-powered large aeroplane, shall establish and implement a process that ensures that the continuing structural integrity programme remains valid throughout the operational life of the aeroplane, taking into account service experience and current operations. It shall submit a description of the process to the Agency before 26 February 2023, or before the issuance of the certificate, whichever occurs later, for approval and shall implement the process within 6 months after its approval by the Agency.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -9599,7 +9599,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "The process includes a plan to audit and report to EASA the effectiveness of the continuing structural integrity programme , including the continuing validity of the assumptions upon which it is based, prior to reaching any significant point in the life of the aeroplane ;",
+        "text": "The process includes a plan to audit and report to EASA the effectiveness of the continuing structural integrity programme, including the continuing validity of the assumptions upon which it is based, prior to reaching any significant point in the life of the aeroplane;",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -9691,7 +9691,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the applicatio n for TC was submitted before 1 January 2019, and certified to carry 30 passengers or more, or w ith a payload capacity of 3 402 kg (7 500 lbs) or more shall identify and list the fatigue- critical baseline structures (FCBS) for all aeroplane model variations and derivatives inclu ded in the TC or restricted TC.",
+        "text": "A holder of a type-certificate (TC) or a restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958, for which the application for TC was submitted before 1 January 2019, and certified to carry 30 passengers or more, or with a payload capacity of 3 402 kg (7 500 lbs) or more shall identify and list the fatigue- critical baseline structures (FCBS) for all aeroplane model variations and derivatives included in the TC or restricted TC.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9699,7 +9699,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "The holder of a type-certificate (TC) or a restricted TC shall submit the list of the structures referred to in paragraph (a) to the Agency befo re 26 August 2021 for approval.",
+        "text": "The holder of a type-certificate (TC) or a restricted TC shall submit the list of the structures referred to in paragraph (a) to the Agency before 26 August 2021 for approval.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -9707,7 +9707,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Upon approval of the list referred to in paragraph (a) by the Agency, the holder of a type- certificate (TC) or a restricted TC shall make it available to operators and persons required to comply with points 26.330 and 26.370 .",
+        "text": "Upon approval of the list referred to in paragraph (a) by the Agency, the holder of a type-certificate (TC) or a restricted TC shall make it available to operators and persons required to comply with points 26.330 and 26.370.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -9723,7 +9723,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Upon approval of the list referred to in paragraph (d) by the Agency, the applicant for a TC or restricted TC as referred to letter (c) of Article 1 paragraph 2 shall make it available to operators and persons required to comply with point 26.370 .",
+        "text": "Upon approval of the list referred to in paragraph (d) by the Agency, the applicant for a TC or restricted TC as referred to letter (c) of Article 1 paragraph 2 shall make it available to operators and persons required to comply with point 26.370.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       }
@@ -9802,7 +9802,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958 certified to carry 30 passengers or more, or with a payload capacity of 3 402 kg (7 500 lbs) or more, for changes and fatigue-critical modified structure (FCMS) exis ting on 26 February 2021 shall:",
+        "text": "A holder of a type-certificate (TC) or restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958 certified to carry 30 passengers or more, or with a payload capacity of 3 402 kg (7 500 lbs) or more, for changes and fatigue-critical modified structure (FCMS) existing on 26 February 2021 shall:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9810,7 +9810,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 1,
-        "text": "review existing design changes (design modifications) and identify all changes that affect FCBS identified in accordance with point 26.306 ;",
+        "text": "review existing design changes (design modifications) and identify all changes that affect FCBS identified in accordance with point 26.306;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -9818,7 +9818,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "for each change identified in accordance with paragraph (a)(i), identify any associated fatigue-crit ical modified structure (FCMS);",
+        "text": "for each change identified in accordance with paragraph (a)(i), identify any associated fatigue-critical modified structure (FCMS);",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -9826,7 +9826,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "for each change identified in accordance with paragraph (a)(i), perform a damage tolerance evaluation and establish and document the associate d damage tolerance inspections;",
+        "text": "for each change identified in accordance with paragraph (a)(i), perform a damage tolerance evaluation and establish and document the associated damage tolerance inspections;",
         "marker": "(iii)",
         "pStyle": "ListLevel1"
       },
@@ -9842,7 +9842,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The holder of a type-certificate (TC) or a restricted TC shall submit the damage tolerance data, including DTI, resulting from the evaluation performed in accordance with paragraph (a)(iii) to the Agency befor e 26 August 2022, for approval.",
+        "text": "The holder of a type-certificate (TC) or a restricted TC shall submit the damage tolerance data, including DTI, resulting from the evaluation performed in accordance with paragraph (a)(iii) to the Agency before 26 August 2022, for approval.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -9850,7 +9850,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Upon approval by the Agency of the FCMS list submitted in accordance with paragraph (b), the holder of a type- certificate (TC) or restricted shall make that list available to operators and persons required to comply with points 26.330 and 26.370 .",
+        "text": "Upon approval by the Agency of the FCMS list submitted in accordance with paragraph (b), the holder of a type- certificate (TC) or restricted shall make that list available to operators and persons required to comply with points 26.330 and 26.370.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -9987,7 +9987,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a type-certificate (TC) or restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958 certified to carry 30 passengers or more, or with a payload capacity of 3 402 kg (7 500 lbs) or more, for published repairs exis ting on 26 February 2021 shall:",
+        "text": "A holder of a type-certificate (TC) or restricted TC for a turbine-powered large aeroplane certified on or after 1 January 1958 certified to carry 30 passengers or more, or with a payload capacity of 3 402 kg (7 500 lbs) or more, for published repairs existing on 26 February 2021 shall:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -9995,7 +9995,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 1,
-        "text": "review the repair data and identify each repair specified in the data that affects the fatigue-critical baseline structure and the fatigue-critical modified structure identified in accordance with paragraph (a) of point 26.306 and par agraph (a)(ii) of point 26.307 ;",
+        "text": "review the repair data and identify each repair specified in the data that affects the fatigue-critical baseline structure and the fatigue-critical modified structure identified in accordance with paragraph (a) of point 26.306 and paragraph (a)(ii) of point 26.307;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10047,7 +10047,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Compliance with point 26.308(a) of Part-26 is demonstrated when damage tolerance data is developed in accordance with AMC 20-20A Paragraph 7 and Appendix 3 for each existing published repair to the fatigue-critical structure (FCS) identified in accordance with points 26.306 and 26.307 of Part 26.",
+        "text": "Compliance with point 26.308(a) of Part-26 is demonstrated when damage tolerance data is developed in accordance with AMC 20-20A Paragraph 7 and Appendix 3 for each existing published repair to the fatigue-critical structure (FCS) identified in accordance with points 26.306 and 26.307 of Part26.",
         "pStyle": "Normal0"
       },
       {
@@ -10098,7 +10098,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 1,
-        "text": "a process for conducting surveys of affected aeroplane that enables the identification and documentation of all existing repairs affecting the fatigue-critical structure identified in accordance with paragraph (a) of point 26.306 and paragraph (a) (ii) of point 26.307 ;",
+        "text": "a process for conducting surveys of affected aeroplane that enables the identification and documentation of all existing repairs affecting the fatigue-critical structure identified in accordance with paragraph (a) of point 26.306 and paragraph (a)(ii) of point 26.307;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10106,7 +10106,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "a process that enables operators to obtain a DTI for repairs identified in ac cordance with paragraph (a)(i);",
+        "text": "a process that enables operators to obtain a DTI for repairs identified in accordance with paragraph (a)(i);",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -10122,7 +10122,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The holder of a TC or a restricted TC shall submit the repair evaluation guidelines developed in accordance w i th paragraph (a) to the Agency before 26 February 2023, for approval.",
+        "text": "The holder of a TC or a restricted TC shall submit the repair evaluation guidelines developed in accordance with paragraph (a) to the Agency before 26 February 2023, for approval.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -10201,7 +10201,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a STC issued before 26 February 2021 for a major change, or a holder of a major change that has been deemed approved in accordance with Article 4 of Regulation (EU) No 748/2012, for large aeroplanes certified on or after 1 January 1958 to carry 30 or more passengers or that have a payload capacity of 3 402 kg (7 500 lbs) or more, shall support operators required to comply with point 26.370(a)(ii) by addressing the adverse effects of those changes and repairs to those changes on the aeroplane structure and shall comply with the requirements set o ut in points 26.331 to 26.334 .",
+        "text": "A holder of a STC issued before 26 February 2021 for a major change, or a holder of a major change that has been deemed approved in accordance with Article 4 of Regulation (EU) No 748/2012, for large aeroplanes certified on or after 1 January 1958 to carry 30 or more passengers or that have a payload capacity of 3 402 kg (7 500 lbs) or more, shall support operators required to comply with point 26.370(a)(ii) by addressing the adverse effects of those changes and repairs to those changes on the aeroplane structure and shall comply with the requirements set out in points 26.331 to 26.334.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -10209,7 +10209,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Paragraph (a) shall not apply to major changes and repairs to an aeroplane model first certified prior to 26 February 2021 when that aeroplane model meets a ny of the following conditions:",
+        "text": "Paragraph (a) shall not apply to major changes and repairs to an aeroplane model first certified prior to 26 February 2021 when that aeroplane model meets any of the following conditions:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -10217,7 +10217,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "it is lis ted in Table A.1 of Appendix 1 ;",
+        "text": "it is listed in Table A.1 of Appendix 1;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10233,7 +10233,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "it has not been certified to conduct civil operatio n with a payload or passengers;",
+        "text": "it has not been certified to conduct civil operation with a payload or passengers;",
         "marker": "(iii)",
         "pStyle": "ListLevel1"
       },
@@ -10249,7 +10249,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "it is certified with a restricted TC and is desig ned primarily for firefighting;",
+        "text": "it is certified with a restricted TC and is designed primarily for firefighting;",
         "marker": "(v)",
         "pStyle": "ListLevel1"
       },
@@ -10257,7 +10257,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "Paragraph (a) shall not apply to major changes and repairs to an aeroplane first certified prior to 26 February 2021 when the changes or repairs are not, and will not be, embodied on any aeroplane in operat ion on or after 26 August 2022.",
+        "text": "Paragraph (a) shall not apply to major changes and repairs to an aeroplane first certified prior to 26 February 2021 when the changes or repairs are not, and will not be, embodied on any aeroplane in operation on or after 26 August 2022.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -10265,7 +10265,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "The exceptions provided for in paragraph (b)(ii) to (b)(v) and (c) shall apply only after the change approval hold er submits a list of changes that affect fatigue-critical baseline structure, together with information supporting the reasons why each change has been included in the list, to the Agency before 26 February 2022 for approval.",
+        "text": "The exceptions provided for in paragraph (b)(ii) to (b)(v) and (c) shall apply only after the change approval holder submits a list of changes that affect fatigue-critical baseline structure, together with information supporting the reasons why each change has been included in the list, to the Agency before 26 February 2022 for approval.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -10302,14 +10302,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "A hol der of a change approval shall:",
+        "text": "A holder of a change approval shall:",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "establish a compliance plan that addresses the requireme nts of points 26.332 to 26.334 ;",
+        "text": "establish a compliance plan that addresses the requirements of points 26.332 to 26.334;",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -10428,7 +10428,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A hol der of a change approval shall:",
+        "text": "A holder of a change approval shall:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -10436,7 +10436,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 1,
-        "text": "review the changes and shall identify those changes that affect fatig ue-critical baseline structure;",
+        "text": "review the changes and shall identify those changes that affect fatigue-critical baseline structure;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10444,7 +10444,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "for each change identified in accordance with paragraph (a)(i) , identify any associated FCMS;",
+        "text": "for each change identified in accordance with paragraph (a)(i), identify any associated FCMS;",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -10452,7 +10452,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "identify the published repairs affecting each change identified in ac cordance with paragraph (a)(i).",
+        "text": "identify the published repairs affecting each change identified in accordance with paragraph (a)(i).",
         "marker": "(iii)",
         "pStyle": "ListLevel1"
       },
@@ -10460,7 +10460,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The holder of a change approval that was issued on or after 1 September 2003, shall develop and submit a list of the changes and FCMS identified in accordance with paragraphs (a)(i) and (a)(ii) to the Agency before 26 February 2022, for approval, and, upon approval by the Agency, make the list available to persons and operators required to comply with par agraph (b)(ii) of point 26.370 .",
+        "text": "The holder of a change approval that was issued on or after 1 September 2003, shall develop and submit a list of the changes and FCMS identified in accordance with paragraphs (a)(i) and (a)(ii) to the Agency before 26 February 2022, for approval, and, upon approval by the Agency, make the list available to persons and operators required to comply with paragraph (b)(ii) of point 26.370.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -10484,7 +10484,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "upon request of an operator required to comply with point 26.370(a)(ii) for a change, identify and list any FCMS associated with the change and submit this data to the Agency within 12 months from the o perators request, for approval;",
+        "text": "upon request of an operator required to comply with point 26.370(a)(ii) for a change, identify and list any FCMS associated with the change and submit this data to the Agency within 12 months from the operators request, for approval;",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -10492,7 +10492,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "upon approval of any data submitted according to paragraphs (c)(i) and (c)(ii), make that data available to persons and operators required to comply with paragraph (b)(ii) of point 26.370 .",
+        "text": "upon approval of any data submitted according to paragraphs (c)(i) and (c)(ii), make that data available to persons and operators required to comply with paragraph (b)(ii) of point 26.370.",
         "marker": "(iii)",
         "pStyle": "ListLevel1"
       }
@@ -10628,7 +10628,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "The design approval holder should normally receive a request from an operator for FCMS lists and a DTI within 13 months of the date of applicability of the Regulation following the operator’s review of records to identify modifications affecting the FCBS, (see CS 26.370(b)(ii) ). The request should result in the design approval holder listing the FCMSs, performing a DTE and making the approved FCMS list and a DTI available to the operator.",
+        "text": "The design approval holder should normally receive a request from an operator for FCMS lists and a DTI within 13 months of the date of applicability of the Regulation following the operator’s review of records to identify modifications affecting the FCBS, (see CS 26.370(b)(ii)). The request should result in the design approval holder listing the FCMSs, performing a DTE and making the approved FCMS list and a DTI available to the operator.",
         "pStyle": "Normal0"
       },
       {
@@ -10706,7 +10706,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "A holder of a change approval that was issued on or after 1 September 2 003 shall:",
+        "text": "A holder of a change approval that was issued on or after 1 September 2003 shall:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -10714,7 +10714,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 1,
-        "text": "for changes and published repairs identified in accordance with paragraph (a)(i) of point 26.332 and paragraph (a)(iii) of point 26.332 , perform a damage tolerance evaluation;",
+        "text": "for changes and published repairs identified in accordance with paragraph (a)(i) of point 26.332 and paragraph (a)(iii) of point 26.332, perform a damage tolerance evaluation;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10746,7 +10746,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "prior to an aeroplane with that change embodied being operated in accordance with Annex IV (Part-CAT) to Regulation (EU) No 965/2012 ; or",
+        "text": "prior to an aeroplane with that change embodied being operated in accordance with Annex IV (Part-CAT) to Regulation (EU) No 965/2012; or",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10934,7 +10934,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 1,
-        "text": "for aeroplanes certified to carry 30 passengers or more, or with a payload capacity greater than 3 402 kg (7 500 lbs), an approved damage-tolera nce-based inspection programme;",
+        "text": "for aeroplanes certified to carry 30 passengers or more, or with a payload capacity greater than 3 402 kg (7 500 lbs), an approved damage-tolerance-based inspection programme;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10942,7 +10942,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 1,
-        "text": "for aeroplanes operated in accordance with Annex IV (Part-CAT) to Regulation (EU) No 965/2012 and certified to carry 30 passengers or more or with a payload capacity greater than 3 402 kg (7 500 lbs), a means for addressing the adverse effects that repairs and modifications may have on fatigue-critical structure and on inspection s provided for in point (a)(i);",
+        "text": "for aeroplanes operated in accordance with Annex IV (Part-CAT) to Regulation (EU) No 965/2012 and certified to carry 30 passengers or more or with a payload capacity greater than 3 402 kg (7 500 lbs), a means for addressing the adverse effects that repairs and modifications may have on fatigue-critical structure and on inspections provided for in point (a)(i);",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -10950,7 +10950,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "for aeroplanes certified with a maximum take-off weight (MTOW) greater than 34 019 k g (75 000 lbs) an approved LOV;",
+        "text": "for aeroplanes certified with a maximum take-off weight (MTOW) greater than 34 019 kg (75 000 lbs) an approved LOV;",
         "marker": "(iii)",
         "pStyle": "ListLevel1"
       },
@@ -10966,7 +10966,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The following deadlines shall apply to the obligatio n referred to in paragraph (a):",
+        "text": "The following deadlines shall apply to the obligation referred to in paragraph (a):",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -10974,7 +10974,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "the aircraft maintenance programme shall be revised to address the requirements of points (a)(i), (a)(ii) and (a) (iv) before 26 February 2024 or before operating the aer oplane, whichever occurs later;",
+        "text": "the aircraft maintenance programme shall be revised to address the requirements of points (a)(i), (a)(ii) and (a) (iv) before 26 February 2024 or before operating the aeroplane, whichever occurs later;",
         "marker": "(i)",
         "pStyle": "ListLevel1"
       },
@@ -10982,7 +10982,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "the aircraft maintenance programme shall be revised to address the requirements of point (a)(iii) before 26 August 2021, or 6 months after the publication of the LOV, or before operating the aer oplane, whichever occurs later;",
+        "text": "the aircraft maintenance programme shall be revised to address the requirements of point (a)(iii) before 26 August 2021, or 6 months after the publication of the LOV, or before operating the aeroplane, whichever occurs later;",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -10990,7 +10990,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "For an aeroplane model first certifi ed before 26 February 2021 and:",
+        "text": "For an aeroplane model first certified before 26 February 2021 and:",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -11006,7 +11006,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "that does not operate anymore after 26 August 2021 p oint (a)(iii) shall not apply;",
+        "text": "that does not operate anymore after 26 August 2021 point (a)(iii) shall not apply;",
         "marker": "(ii)",
         "pStyle": "ListLevel1"
       },
@@ -11014,7 +11014,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "with a restricted TC issued before 26 February 2021 in accordance with damage tolerance requirements, provided that it is not operated beyond 75 % of its design service goal and is primarily operated in support of the approval holders manufacturing operation points (a)(i), (a)(i i) and (a)(iv) shall not apply;",
+        "text": "with a restricted TC issued before 26 February 2021 in accordance with damage tolerance requirements, provided that it is not operated beyond 75 % of its design service goal and is primarily operated in support of the approval holders manufacturing operation points (a)(i), (a)(ii) and (a)(iv) shall not apply;",
         "marker": "(iii)",
         "pStyle": "ListLevel1"
       },
@@ -11058,7 +11058,7 @@
         "type": "paragraph",
         "index": 1,
         "level": 0,
-        "text": "Compliance with point 26.370(a)(i) of Part-26 is demonstrated by incorporating into the aircraft maintenance programme (AMP) the approved damage-tolerance-based inspection programme developed by the design approval holders in accordance with CS 26.302 .",
+        "text": "Compliance with point 26.370(a)(i) of Part-26 is demonstrated by incorporating into the aircraft maintenance programme (AMP) the approved damage-tolerance-based inspection programme developed by the design approval holders in accordance with CS 26.302.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -11138,7 +11138,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "A review has been conducted by the continuing airworthiness management organisation of the applicable documents supplied by type certificate (TC) holders and STC holders in compliance with points 26.302 , 26.306 to 26.309 and 26.332 to 26.334 of Part-26, which supports the identification of the available FCS and DTIs relevant to each aeroplane.",
+        "text": "A review has been conducted by the continuing airworthiness management organisation of the applicable documents supplied by type certificate (TC) holders and STC holders in compliance with points 26.302, 26.306 to 26.309 and 26.332 to 26.334 of Part-26, which supports the identification of the available FCS and DTIs relevant to each aeroplane.",
         "pStyle": "Normal1"
       },
       {
@@ -11277,7 +11277,7 @@
         "type": "paragraph",
         "index": 29,
         "level": 2,
-        "text": "conducting aeroplane surveys, obtaining DT data for repairs and incorporating all approved DTIs into the AMP considering the applicable REGs. Additional means of compliance may be found in Appendix 3 to AMC 20- 20A;",
+        "text": "conducting aeroplane surveys, obtaining DT data for repairs and incorporating all approved DTIs into the AMP considering the applicable REGs. Additional means of compliance may be found in Appendix 3 to AMC 20-20A;",
         "marker": "(i)",
         "pStyle": "ListLevel2"
       },
@@ -11437,7 +11437,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "50 000 FC/50 000 FH"
+                  "text": "50 000 FC/50 000 FH "
                 }
               ],
               "width": "4252"
@@ -11457,7 +11457,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "100 000 FC/100 000 FH"
+                  "text": "100 000 FC/100 000 FH "
                 }
               ],
               "width": "4252"
@@ -11679,14 +11679,14 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Unless an operator or owner complies with CS 26.370(i) and in order to comply in a timely manner with point 26.370(a)(ii) of Part-26, it is necessary to accomplish specific actions beforehand, to identify changes affecting the FCS, request the DT data, and review the design approval holder documentation, in accordance with CS 26.370 (c) and (d) .",
+        "text": "Unless an operator or owner complies with CS 26.370(i) and in order to comply in a timely manner with point 26.370(a)(ii) of Part-26, it is necessary to accomplish specific actions beforehand, to identify changes affecting the FCS, request the DT data, and review the design approval holder documentation, in accordance with CS 26.370 (c) and (d).",
         "pStyle": "Normal0"
       },
       {
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "DTIs that should be available and incorporated into the AMP before 26 February 2024 are those DTIs that have been developed by the TC holder and STC holders in compliance with points 26.302 , 26.307 and 26.333 of Part-26. The timescales for those requirements should mean that the DT data is submitted to EASA for approval by 26 February 2023, and following approval, the design approval holder has to make the DTIs available to operators, allowing them to incorporate the data prior to 26 February 2024. The operator will need to identify and contact the design approval holder for the applicable modification and request DT data for the modification. If the design approval holder for a modification installed on an operator’s aeroplane no longer exists or does not make the DTI available for some reason that is out of the operator’s control, the DTI may be obtained and incorporated according to the schedules outlined in CS 26.370(h) . In these cases, the plan used in accordance with CS 26.370(g) should show the course of action for that modification, including the agreements by which the DTIs will be obtained.",
+        "text": "DTIs that should be available and incorporated into the AMP before 26 February 2024 are those DTIs that have been developed by the TC holder and STC holders in compliance with points 26.302, 26.307 and 26.333 of Part-26. The timescales for those requirements should mean that the DT data is submitted to EASA for approval by 26 February 2023, and following approval, the design approval holder has to make the DTIs available to operators, allowing them to incorporate the data prior to 26 February 2024. The operator will need to identify and contact the design approval holder for the applicable modification and request DT data for the modification. If the design approval holder for a modification installed on an operator’s aeroplane no longer exists or does not make the DTI available for some reason that is out of the operator’s control, the DTI may be obtained and incorporated according to the schedules outlined in CS 26.370(h). In these cases, the plan used in accordance with CS 26.370(g) should show the course of action for that modification, including the agreements by which the DTIs will be obtained.",
         "pStyle": "Normal0"
       },
       {
@@ -11700,7 +11700,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "For the DTIs of modifications where the TC holder is not the approval holder and the approval was issued prior to 1 September 2003, the operator will have to make a request for that data to the approval holder, who would then have to comply with point 26.334 of Part-26 and make the DTIs available, or the operator may arrange with a third party to perform the DTE and provide approved DTIs. The DT data should be obtained, and the DTIs incorporated into the AMP according to the schedules outlined in CS 26.370(h) , and this should be part of the plan used in accordance with CS 26.370(g) .",
+        "text": "For the DTIs of modifications where the TC holder is not the approval holder and the approval was issued prior to 1 September 2003, the operator will have to make a request for that data to the approval holder, who would then have to comply with point 26.334 of Part-26 and make the DTIs available, or the operator may arrange with a third party to perform the DTE and provide approved DTIs. The DT data should be obtained, and the DTIs incorporated into the AMP according to the schedules outlined in CS 26.370(h), and this should be part of the plan used in accordance with CS 26.370(g).",
         "pStyle": "Normal0"
       },
       {
@@ -11714,7 +11714,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "For each modification identified in the review of records as per CS 26.370(c) , when the DTI for a modification is not already incorporated into the AMP, the operator should ensure that it will be obtained. This means that the design approval holders of all modifications for which the operator has identified a potential need for DTIs should be approached in a timely manner.",
+        "text": "For each modification identified in the review of records as per CS 26.370(c), when the DTI for a modification is not already incorporated into the AMP, the operator should ensure that it will be obtained. This means that the design approval holders of all modifications for which the operator has identified a potential need for DTIs should be approached in a timely manner.",
         "pStyle": "Normal0"
       },
       {
@@ -11808,7 +11808,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "Compliance with point 26.400 of Part-26 is demonstrated by complying with the following (see also GM1 26.400(b) ):",
+        "text": "Compliance with point 26.400 of Part-26 is demonstrated by complying with the following (see also GM1 26.400(b)):",
         "pStyle": "Normal0"
       },
       {
@@ -11890,7 +11890,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Appendix D to Report DOT/FAA/AR-96/122 ‘Development of a Minimum Performance Standard for Lavatory Trash Receptacle Automatic Fire Extinguishers’ of February 1997 may be used for showing compliance with CS 26.400(b) .",
+        "text": "Appendix D to Report DOT/FAA/AR-96/122 ‘Development of a Minimum Performance Standard for Lavatory Trash Receptacle Automatic Fire Extinguishers’ of February 1997 may be used for showing compliance with CS 26.400(b).",
         "pStyle": "Normal1"
       },
       {
@@ -11912,7 +11912,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "Society of Automotive Engineers (SAE) Aerospace Standard (AS) 6271 ‘Halocarbon Clean Agent Hand Held Fire Extinguisher’ or European Technical Standard Order (ETSO) 2C515 ‘Aircraft Halocarbon Clean Agent — Handheld Fire Extinguisher’ may be used for showing compliance with CS 26.400(b) .",
+        "text": "Society of Automotive Engineers (SAE) Aerospace Standard (AS) 6271 ‘Halocarbon Clean Agent Hand Held Fire Extinguisher’ or European Technical Standard Order (ETSO) 2C515 ‘Aircraft Halocarbon Clean Agent — Handheld Fire Extinguisher’ may be used for showing compliance with CS 26.400(b).",
         "pStyle": "Normal1"
       },
       {
@@ -11955,7 +11955,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Operators of small helicopters and large helicopters that are required, in accordance with point CAT.IDE.H. 320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that all the emergency controls that need to be operated underwater are marked with the method of operation as well as with yellow and black stripes .",
+        "text": "Operators of small helicopters and large helicopters that are required, in accordance with point CAT.IDE.H.320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that all the emergency controls that need to be operated underwater are marked with the method of operation as well as with yellow and black stripes.",
         "pStyle": "Normal0"
       }
     ]
@@ -11990,7 +11990,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12019,7 +12019,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Operators of small helicopters and large helicopters that are required, in accordance with point CAT.IDE.H. 320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that:",
+        "text": "Operators of small helicopters and large helicopters that are required, in accordance with point CAT.IDE.H.320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -12051,7 +12051,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Operators of small category A helicopters and large helicopters that are required, in accordance with point CAT.IDE.H. 320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that:",
+        "text": "Operators of small category A helicopters and large helicopters that are required, in accordance with point CAT.IDE.H.320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -12156,7 +12156,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 3,
-        "text": "a rectangular opening no smaller than 356 mm (14 inches) wide, with a diagonal between corner radii no smaller than 559 mm (22 in );",
+        "text": "a rectangular opening no smaller than 356 mm (14 inches) wide, with a diagonal between corner radii no smaller than 559 mm (22 in);",
         "marker": "(A)",
         "pStyle": "ListLevel3"
       },
@@ -12164,7 +12164,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 3,
-        "text": "a non-rectangular or partially obstructed opening ( e.g. by a seat back) that is capable of admitting an ellipse of 559 mm x 356 mm (22 inches x 14 inches).",
+        "text": "a non-rectangular or partially obstructed opening (e.g. by a seat back) that is capable of admitting an ellipse of 559 mm x 356 mm (22 inches x 14 inches).",
         "marker": "(B)",
         "pStyle": "ListLevel3"
       },
@@ -12203,14 +12203,14 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "Underwater emergency exits for flight crew and passengers must be provided with highly conspicuous illuminated markings that are provided along the periphery (but not necessarily continuously) of each underwater emergency exit that illuminate automatically and give a clear indication of the aperture and are designed to remain visible with the helicopter capsized and the cabin or cockpit flooded. The markings must be sufficient to highlight the full periphery. The additional illuminated markings must remain visible for at least 10 minutes following rotorcraft flooding. The method chosen to automatically activate the system ( e.g. water immersion switch(es), tilt switch(es), etc.) must illuminate the markings immediately, or be already illuminated, when a capsize of the helicopter is inevitable.",
+        "text": "Underwater emergency exits for flight crew and passengers must be provided with highly conspicuous illuminated markings that are provided along the periphery (but not necessarily continuously) of each underwater emergency exit that illuminate automatically and give a clear indication of the aperture and are designed to remain visible with the helicopter capsized and the cabin or cockpit flooded. The markings must be sufficient to highlight the full periphery. The additional illuminated markings must remain visible for at least 10 minutes following rotorcraft flooding. The method chosen to automatically activate the system (e.g. water immersion switch(es), tilt switch(es), etc.) must illuminate the markings immediately, or be already illuminated, when a capsize of the helicopter is inevitable.",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 17,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12250,7 +12250,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12284,7 +12284,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Exit designs with the following characteristics, when operated in an upright or any foreseeable floating attitude, would be considered to be compliant with point 26.415(b)(1) of Part-26 and CS 26.415(c) :"
+        "text": "Exit designs with the following characteristics, when operated in an upright or any foreseeable floating attitude, would be considered to be compliant with point 26.415(b)(1) of Part-26 and CS 26.415(c):"
       },
       {
         "type": "paragraph",
@@ -12297,7 +12297,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "no part of the opening means ( e.g. an operating handle or control) is located remotely from the exit (that requires the person to move away from the immediate vicinity of the exit in order to reach it);",
+        "text": "no part of the opening means (e.g. an operating handle or control) is located remotely from the exit (that requires the person to move away from the immediate vicinity of the exit in order to reach it);",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -12319,13 +12319,13 @@
         "type": "paragraph",
         "index": 8,
         "level": -1,
-        "text": "The required test, demonstration or analysis may be conducted in a non-capsized attitude ( i.e. dry) but considering obstructions that may be present when capsized."
+        "text": "The required test, demonstration or analysis may be conducted in a non-capsized attitude (i.e. dry) but considering obstructions that may be present when capsized."
       },
       {
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12359,13 +12359,13 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The additional markings of underwater emergency exits may be in the form of illuminated strips that give clear indications in all environments ( e.g. at night, underwater) of the location of the underwater emergency exits."
+        "text": "The additional markings of underwater emergency exits may be in the form of illuminated strips that give clear indications in all environments (e.g. at night, underwater) of the location of the underwater emergency exits."
       },
       {
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12455,7 +12455,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Compliance with point 26.420(a)(1) of Part-26 is demonstrated by complying with CS 27.1415(b)(2) of CS-27 at Amendment 5 or later, or the equivalent, or CS 29.1415(b)(2) of CS 29 at Amendment 5 or later, or the equivalent respectively, or with the following:",
+        "text": "Compliance with point 26.420(a)(1) of Part-26 is demonstrated by complying with CS 27.1415(b)(2) of CS-27 at Amendment 5 or later, or the equivalent, or CS 29.1415(b)(2) of CS29 at Amendment 5 or later, or the equivalent respectively, or with the following:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -12525,7 +12525,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "Automatic life raft activation is permitted ( e.g. triggered by water immersion); however, this capability must be provided in addition to the required manual activation controls. Mitigation must be provided to address inadvertent deployment in flight and the potential for damage to the life raft from turning rotors during deployment on the water.",
+        "text": "Automatic life raft activation is permitted (e.g. triggered by water immersion); however, this capability must be provided in addition to the required manual activation controls. Mitigation must be provided to address inadvertent deployment in flight and the potential for damage to the life raft from turning rotors during deployment on the water.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -12541,7 +12541,7 @@
         "type": "paragraph",
         "index": 13,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12569,7 +12569,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "In accordance with CS 26.420 , each life raft must be equipped with two retaining lines to be used for securing the life raft to the helicopter. The short retaining line should be of such a length as to hold the raft at a point next to an upright floating helicopter such that the occupants can enter the life raft directly without entering the water. If the design of the helicopter is such that the flight crew cannot enter the passenger cabin, it is acceptable for them to take a more indirect route when boarding the life raft. After life raft boarding is completed, the short retaining line may be cut, and the life raft then remains attached to the rotorcraft by means of the long retaining line."
+        "text": "In accordance with CS 26.420, each life raft must be equipped with two retaining lines to be used for securing the life raft to the helicopter. The short retaining line should be of such a length as to hold the raft at a point next to an upright floating helicopter such that the occupants can enter the life raft directly without entering the water. If the design of the helicopter is such that the flight crew cannot enter the passenger cabin, it is acceptable for them to take a more indirect route when boarding the life raft. After life raft boarding is completed, the short retaining line may be cut, and the life raft then remains attached to the rotorcraft by means of the long retaining line."
       },
       {
         "type": "paragraph",
@@ -12581,7 +12581,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12615,7 +12615,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12681,13 +12681,13 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "Compliance with point 26.425 of Part-26 is demonstrated by complying with CS 27.1587(b)(3) of CS 27 at Amendment 5 or later, or the equivalent, or CS 29.1587(c) of CS-29 at Amendment 5 or later or the equivalent respectively."
+        "text": "Compliance with point 26.425 of Part-26 is demonstrated by complying with CS 27.1587(b)(3) of CS27 at Amendment 5 or later, or the equivalent, or CS 29.1587(c) of CS-29 at Amendment 5 or later or the equivalent respectively."
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12775,7 +12775,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12804,7 +12804,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "An operator of a small helicopter or a large helicopter that is required, in accordance with point CAT.IDE.H. 320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, may request the person referred to in point (b) to provide the services referred to in point (c), where both the following conditions are met:",
+        "text": "An operator of a small helicopter or a large helicopter that is required, in accordance with point CAT.IDE.H.320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, may request the person referred to in point (b) to provide the services referred to in point (c), where both the following conditions are met:",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -12860,7 +12860,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 1,
-        "text": "determine that the effects on the successful deployment and retention of the emergency flotation system as a result of possible damage from a water impact are minimised , as far as practicable;",
+        "text": "determine that the effects on the successful deployment and retention of the emergency flotation system as a result of possible damage from a water impact are minimised, as far as practicable;",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -12935,7 +12935,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "maximise the use of flexible pipes/ hoses;",
+        "text": "maximise the use of flexible pipes/hoses;",
         "marker": "(2)",
         "pStyle": "Normal1"
       },
@@ -12959,7 +12959,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "Th e evaluation must be documented and subsequently provided to the Agency. Design changes that are identified by the type certificate holder of the helicopter or the supplemental type certificate holder of the emergency flotation system as providing an improvement in the likelihood of a successful deployment and retention of the emergency flotation system following a water impact must be specified in this evaluation. Suitable justification for not incorporating a design change in the design must be provided. A schedule for the incorporation of any design changes must also be provided to the Agency. The evaluation is subject to review and agreement by the Agency.",
+        "text": "The evaluation must be documented and subsequently provided to the Agency. Design changes that are identified by the type certificate holder of the helicopter or the supplemental type certificate holder of the emergency flotation system as providing an improvement in the likelihood of a successful deployment and retention of the emergency flotation system following a water impact must be specified in this evaluation. Suitable justification for not incorporating a design change in the design must be provided. A schedule for the incorporation of any design changes must also be provided to the Agency. The evaluation is subject to review and agreement by the Agency.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -12967,7 +12967,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -12995,13 +12995,13 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "T he design changes that are identified after the evaluation are to be proposed to the Agency. Design changes that are not proposed for incorporation into the design are to be accompanied by a suitable justification for not doing so. The concepts contained in Appendix E to GM 21.A.101 ‘Procedure for evaluating material contribution to safety or impracticality of applying latest certification specifications to a changed product’ to Regulation (EU) 748/2012 Annex I (Part 21) may be used as a suitable methodology to determine those design changes that are not proposed for incorporation or alternatively other suitable criteria may be proposed to the Agency."
+        "text": "The design changes that are identified after the evaluation are to be proposed to the Agency. Design changes that are not proposed for incorporation into the design are to be accompanied by a suitable justification for not doing so. The concepts contained in Appendix E to GM 21.A.101 ‘Procedure for evaluating material contribution to safety or impracticality of applying latest certification specifications to a changed product’ to Regulation (EU) 748/2012 Annex I (Part 21) may be used as a suitable methodology to determine those design changes that are not proposed for incorporation or alternatively other suitable criteria may be proposed to the Agency."
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -13030,7 +13030,7 @@
         "type": "paragraph",
         "index": 2,
         "level": 0,
-        "text": "Operators of small helicopters that are required, in accordance with point CAT.IDE.H. 320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that if an emergency flotation system is installed and is stowed during flight, then it shall automatically deploy as a result of entry into water.",
+        "text": "Operators of small helicopters that are required, in accordance with point CAT.IDE.H.320(a) of Annex IV to Regulation (EU) No 965/2012, to be designed for landing on water or certified for ditching, shall ensure that if an emergency flotation system is installed and is stowed during flight, then it shall automatically deploy as a result of entry into water.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -13106,7 +13106,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -13140,7 +13140,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "[Issue: 26/ 4 ]",
+        "text": "[Issue: 26/4]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -13161,7 +13161,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "List of aeroplane models not subject to certain provisions of Annex I (Part-26)",
+        "text": "List of aeroplane models not subject to certain provisions of Annex I (Part-26)",
         "pStyle": "Heading3IR"
       },
       {
@@ -13277,7 +13277,7 @@
                 },
                 {
                   "style": null,
-                  "text": "to"
+                  "text": " to "
                 },
                 {
                   "style": "Hyperlink",
@@ -13352,7 +13352,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "DC-10-10 DC-10-30 DC-10-30F"
+                  "text": "DC-10-10DC-10-30DC-10-30F"
                 }
               ],
               "width": "2548"
@@ -13441,7 +13441,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "DC-9-11, DC-9-12, DC-9-13, DC-9-14, DC-9-15, DC-9-15F, DC-9-21, DC-9-31, DC-9-32, DC-9-32 (VC-9C), DC-9-32F, DC-9-32F (C-9A, C-9B), DC-9-33F, DC-9-34, DC-9-34F, DC-9-41, DC-9-51"
+                  "text": "DC-9-11,DC-9-12,DC-9-13,DC-9-14,DC-9-15,DC-9-15F,DC-9-21,DC-9-31,DC-9-32,DC-9-32 (VC-9C),DC-9-32F,DC-9-32F (C-9A, C-9B),DC-9-33F,DC-9-34,DC-9-34F,DC-9-41,DC-9-51"
                 }
               ],
               "width": "2548"
@@ -13676,7 +13676,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "G-1159A (GIII) G-1159B (GIIB) G-1159 (GII)"
+                  "text": "G-1159A (GIII)G-1159B (GIIB)G-1159 (GII)"
                 }
               ],
               "width": "2548"
@@ -13826,7 +13826,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": ""
+                  "text": " "
                 }
               ],
               "width": "1796"
@@ -13873,7 +13873,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": ""
+                  "text": " "
                 }
               ],
               "width": "1796"
@@ -13967,7 +13967,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": ""
+                  "text": " "
                 }
               ],
               "width": "1796"
@@ -14014,7 +14014,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": ""
+                  "text": " "
                 }
               ],
               "width": "1796"
@@ -14099,7 +14099,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "SD3-30 Sherpa SD3 Sherpa"
+                  "text": "SD3-30SherpaSD3 Sherpa"
                 }
               ],
               "width": "2548"
@@ -14155,7 +14155,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": ""
+                  "text": " "
                 }
               ],
               "width": "1796"
@@ -14484,7 +14484,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "43299, 43304, 43305, 43310, 43321, 43322, 43332, 43334, 43344, 43348, 43391, 43579, 43797, 43798, 43799, 43917, 43918, 43919, 43921, 43925, 43927, 43928, 43957, 43973, 43974, 43975, 43976, 44867, 44868, 44873, 60009, 60010, 60040, 60042, 60056, 60057, 60058, 60059, 60060, 60061, 60063, 60064, 60065, 60066, 60068, 60194, 60195, 60389, 60434, 60444, 60455, 61857, 61859, 61862, 61864, 62451, 62452, 62453, 62454, 62533, 63358, 63359, 63360, 64610, 64611, 64612, 62613, 64614, 65899, 66147, 66148, 66150"
+                  "text": "43299, 43304, 43305, 43310, 43321, 43322, 43332, 43334, 43344, 43348, 43391, 43579, 43797, 43798, 43799, 43917,43918, 43919, 43921, 43925, 43927, 43928, 43957, 43973,43974, 43975, 43976, 44867, 44868, 44873, 60009, 60010, 60040, 60042, 60056, 60057,60058, 60059, 60060, 60061, 60063, 60064, 60065, 60066, 60068, 60194, 60195, 60389, 60434, 60444, 60455, 61857, 61859, 61862, 61864, 62451, 62452, 62453, 62454, 62533, 63358, 63359, 63360, 64610, 64611, 64612, 62613, 64614, 65899, 66147, 66148, 66150"
                 }
               ],
               "width": "1796"
@@ -14522,7 +14522,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1125 Astra 1125 Astra SP G100/Astra SPX"
+                  "text": "1125 Astra1125 Astra SPG100/Astra SPX"
                 }
               ],
               "width": "2548"
@@ -14607,7 +14607,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "GALAXY G20 0 series"
+                  "text": "GALAXY G200 series"
                 }
               ],
               "width": "1044"
@@ -14710,7 +14710,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "500 550 560 560XL S550"
+                  "text": "500550560560XLS550"
                 }
               ],
               "width": "2548"
@@ -14757,7 +14757,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "BAe.125 Series Hawker 750 Hawker 800XP"
+                  "text": "BAe.125 SeriesHawker 750Hawker 800XP"
                 }
               ],
               "width": "2548"

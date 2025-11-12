@@ -22,14 +22,14 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 2011/013 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "These Certification Specifications (CS s) are applicable to manned free balloons that derive their lift from:"
+        "text": "These Certification Specifications (CSs) are applicable to manned free balloons that derive their lift from:"
       },
       {
         "type": "paragraph",
@@ -51,7 +51,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -79,7 +79,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11 /0 13 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -92,7 +92,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "The ' envelope ' contains the medium which provides the lift.",
+        "text": "The 'envelope' contains the medium which provides the lift.",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -108,7 +108,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "A ' Heater System ' is the system used to heat the air to provide the lifting means of the balloon. The system includes the heat source (e.g. burner), controls, fuel lines, fuel cells, regulator, control valves and other related elements.",
+        "text": "A 'Heater System' is the system used to heat the air to provide the lifting means of the balloon. The system includes the heat source (e.g. burner), controls, fuel lines, fuel cells, regulator, control valves and other related elements.",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -132,7 +132,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "' Launch Restraint ' is the temporary restraint of a free balloon for the purpose of initiating a free flight.",
+        "text": "'Launch Restraint' is the temporary restraint of a free balloon for the purpose of initiating a free flight.",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -140,7 +140,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "[ Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -189,7 +189,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Systematic investigation of each mass if compliance cannot be r easonably inferred from the masses investigated.",
+        "text": "Systematic investigation of each mass if compliance cannot be reasonably inferred from the masses investigated.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -239,7 +239,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "The maximum mass is the highest mass at which compliance with each applicable requirement of CS-31HB is shown. The maximum mass must be established so that it is not more than the least of: (See AMC 31HB.14(a) )",
+        "text": "The maximum mass is the highest mass at which compliance with each applicable requirement of CS-31HB is shown. The maximum mass must be established so that it is not more than the least of: (See AMC 31HB.14(a))",
         "pStyle": "Normal1"
       },
       {
@@ -278,14 +278,14 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "The minimum mass is the lowest mass at which compliance with each applicable flight requirement is shown. (See AMC 31HB.14(b) )",
+        "text": "The minimum mass is the lowest mass at which compliance with each applicable flight requirement is shown. (See AMC 31HB.14(b))",
         "pStyle": "Normal1"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "Mass limitations between which the balloon may be safely operated must be included in the Flight Manual. (See CS 31HB.81(b)(2) )",
+        "text": "Mass limitations between which the balloon may be safely operated must be included in the Flight Manual. (See CS 31HB.81(b)(2))",
         "pStyle": "Normal1"
       }
     ]
@@ -320,7 +320,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The empty mass must be determined by weighing the balloon with installed equipment but without lifting gas. (See AMC 31HB.16 )"
+        "text": "The empty mass must be determined by weighing the balloon with installed equipment but without lifting gas. (See AMC 31HB.16)"
       }
     ]
   },
@@ -354,7 +354,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The balloon must be capable of climbing at least 90 metres in the first minute from a start in equilibrium at ground level. Compliance must be shown at the maximum mass appropriate to the conditions of the test. (See AMC 31HB.17 )"
+        "text": "The balloon must be capable of climbing at least 90 metres in the first minute from a start in equilibrium at ground level. Compliance must be shown at the maximum mass appropriate to the conditions of the test. (See AMC 31HB.17)"
       }
     ]
   },
@@ -388,7 +388,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The balloon must be safely controllable and manoeuvrable without requiring exceptional piloting skill. Associated operational limitations must be established and included in the Flight Manual. (See CS 31HB.81(b)(2) )"
+        "text": "The balloon must be safely controllable and manoeuvrable without requiring exceptional piloting skill. Associated operational limitations must be established and included in the Flight Manual. (See CS 31HB.81(b)(2))"
       }
     ]
   },
@@ -436,7 +436,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "ultimate loads that are limit loads multiplied by factors of safety of CS 31HB.25 .",
+        "text": "ultimate loads that are limit loads multiplied by factors of safety of CS 31HB.25.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -509,7 +509,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11 /0 13 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -552,7 +552,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "5 . 00"
+                  "text": "5.00"
                 }
               ],
               "width": "2393"
@@ -572,7 +572,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "2 . 25"
+                  "text": "2.25"
                 }
               ],
               "width": "2393"
@@ -592,7 +592,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1 . 50"
+                  "text": "1.50"
                 }
               ],
               "width": "2393"
@@ -612,7 +612,7 @@
               "content": [
                 {
                   "style": null,
-                  "text": "1 . 50"
+                  "text": "1.50"
                 }
               ],
               "width": "2393"
@@ -648,7 +648,7 @@
         "type": "paragraph",
         "index": 16,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -676,7 +676,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11 /0 13 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -699,7 +699,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "For the balloon envelope, proof of strength must also make allowance for tear growth after damage of the envelope in order to prevent propagation of a tear to a hazardous size. (See AMC 31HB.27(c) )",
+        "text": "For the balloon envelope, proof of strength must also make allowance for tear growth after damage of the envelope in order to prevent propagation of a tear to a hazardous size. (See AMC 31HB.27(c))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -707,7 +707,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "The basket must be of a generally robust design and afford the occupants adequate protection during a hard or fast landing. There must be no design feature that by reasonably envisaged distortion or failure would be likely to cause s erious injury to the occupants. (See AMC 31HB.27(d) )",
+        "text": "The basket must be of a generally robust design and afford the occupants adequate protection during a hard or fast landing. There must be no design feature that by reasonably envisaged distortion or failure would be likely to cause serious injury to the occupants. (See AMC 31HB.27(d))",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -715,7 +715,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "The design and strength of components (particularly the burner frame/load frame) must also consider the effects of recurrent and other loads experienced during ground handling and transportation. (See AMC 31HB.27(e) )",
+        "text": "The design and strength of components (particularly the burner frame/load frame) must also consider the effects of recurrent and other loads experienced during ground handling and transportation. (See AMC 31HB.27(e))",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -731,7 +731,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "Each item of mass that could cause an unsafe condition if it broke loose must be restrained under all loads up to the ultimate loads specified in this paragraph. The local attachments in the load path between the restrains and the structure sh ould be designed to withstand 1 . 33 times the specified ultimate loads (See AMC 31HB.27(g) ):",
+        "text": "Each item of mass that could cause an unsafe condition if it broke loose must be restrained under all loads up to the ultimate loads specified in this paragraph. The local attachments in the load path between the restrains and the structure should be designed to withstand 1.33 times the specified ultimate loads (See AMC 31HB.27(g)):",
         "marker": "(g)",
         "pStyle": "ListLevel0"
       },
@@ -739,21 +739,21 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "Horizontal 6 . 0g,",
+        "text": "Horizontal 6.0g,",
         "pStyle": "bullet1"
       },
       {
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "Downward 6 . 0g,",
+        "text": "Downward 6.0g,",
         "pStyle": "bullet1"
       },
       {
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "Upward 2 . 0g.",
+        "text": "Upward 2.0g.",
         "pStyle": "bullet1"
       },
       {
@@ -795,7 +795,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The effects of the loads associated with tethered flight on the balloon’s components (particularly the burner frame/load frame) and any additional equipment (if required) must be considered in the design. (See AMC 31HB.28(a) )",
+        "text": "The effects of the loads associated with tethered flight on the balloon’s components (particularly the burner frame/load frame) and any additional equipment (if required) must be considered in the design. (See AMC 31HB.28(a))",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -811,7 +811,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The landing load factor and factor of safety for suspension components must be used for tethering-specific components forming part of the primary load path (e.g. forged rings, v-bridles). (See AMC 31HB.28(c) )",
+        "text": "The landing load factor and factor of safety for suspension components must be used for tethering-specific components forming part of the primary load path (e.g. forged rings, v-bridles). (See AMC 31HB.28(c))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -819,7 +819,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Operational limitations, associated to tethered flight, must be established and recorded in the Flight Manual. (See CS 31HB.81(b)(2) )",
+        "text": "Operational limitations, associated to tethered flight, must be established and recorded in the Flight Manual. (See CS 31HB.81(b)(2))",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       }
@@ -863,7 +863,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 1,
-        "text": "2. 0g Upwards",
+        "text": "2.0g Upwards",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -871,7 +871,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "3. 0g Horizontally in all directions.",
+        "text": "3.0g Horizontally in all directions.",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -894,7 +894,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 0,
-        "text": "Local attachments in the load path between the safety belt or harness and the main structure of the basket, restraining the occupant, must be shown to be able to withstand the loads prescribed in CS 31HB.30(a) mult iplied by a fitting factor of 1. 33.",
+        "text": "Local attachments in the load path between the safety belt or harness and the main structure of the basket, restraining the occupant, must be shown to be able to withstand the loads prescribed in CS 31HB.30(a) multiplied by a fitting factor of 1.33.",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -980,7 +980,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 1,
-        "text": "meet approved specifications that ensure their having the strength and other properties assumed in the design data. (See AMC 31HB.33(a)(2) )",
+        "text": "meet approved specifications that ensure their having the strength and other properties assumed in the design data. (See          AMC 31HB.33(a)(2))",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -1024,7 +1024,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The methods of fabrication used must produce a consistently sound structure. If a fabrication process requires close control to reach this objective, the process must be performed in accordance with an approved process specification. (See AMC 31HB.35 )"
+        "text": "The methods of fabrication used must produce a consistently sound structure. If a fabrication process requires close control to reach this objective, the process must be performed in accordance with an approved process specification. (See AMC 31HB.35)"
       }
     ]
   },
@@ -1058,7 +1058,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "Fasteners (e.g. bolts, pins, screws, karabiners, fuel cell straps) used in the structure must conform to approved specifications. (See AMC 31HB.37 )",
+        "text": "Fasteners (e.g. bolts, pins, screws, karabiners, fuel cell straps) used in the structure must conform to approved specifications. (See          AMC 31HB.37)",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1118,7 +1118,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Parts the failure of which could adversely affect safety must be suitably protected against deterioration or loss of strength in service due to weathering, corrosion, heat, abrasion, ground handling, ground transport, flight conditions or other causes. (See AMC 31HB.39 )"
+        "text": "Parts the failure of which could adversely affect safety must be suitably protected against deterioration or loss of strength in service due to weathering, corrosion, heat, abrasion, ground handling, ground transport, flight conditions or other causes. (See AMC 31HB.39)"
       }
     ]
   },
@@ -1202,7 +1202,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The fitting factor need not be used if the joint design is made in accordance with approved practices and the safety of which is based on comprehensive test data. (See AMC 31HB.43(c) )",
+        "text": "The fitting factor need not be used if the joint design is made in accordance with approved practices and the safety of which is based on comprehensive test data. (See AMC 31HB.43(c))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -1231,7 +1231,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11 /0 13 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -1244,7 +1244,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -1279,7 +1279,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "It must be demonstrated by test or analysis or both that fuel cell’s have sufficient strength margins to withstand all conditions of internal and external pressures, temperatures and loads likely to be encountered in operation, including during ground handling and ground transport. (See AMC 31HB.45(a) )",
+        "text": "It must be demonstrated by test or analysis or both that fuel cell’s have sufficient strength margins to withstand all conditions of internal and external pressures, temperatures and loads likely to be encountered in operation, including during ground handling and ground transport. (See AMC 31HB.45(a))",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1295,7 +1295,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "Fuel cells, their attachments and related supporting structure must be shown by tests to be capable of withstanding, without detrimental distortion or failure, any inertia loads to which the installation may be subjected in operation. (See AMC 31HB.45(c) )",
+        "text": "Fuel cells, their attachments and related supporting structure must be shown by tests to be capable of withstanding, without detrimental distortion or failure, any inertia loads to which the installation may be subjected in operation. (See AMC 31HB.45(c))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -1311,7 +1311,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "A shut-off valve. This valve must be equipped with a self-sealing coupling, or other means to avoid the release of hazardous quantities of fuel should the control be inadvertently operated without a fuel line connected. (See AMC 31HB.45(d)(1) )",
+        "text": "A shut-off valve. This valve must be equipped with a self-sealing coupling, or other means to avoid the release of hazardous quantities of fuel should the control be inadvertently operated without a fuel line connected. (See AMC 31HB.45(d)(1))",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -1335,7 +1335,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "A means to assess the fuel quantity. (See also CS 31HB.47(c)(2) )",
+        "text": "A means to assess the fuel quantity. (See also CS 31HB.47(c)(2))",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -1343,7 +1343,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "A data plate containing information necessary for safe operation. (See AMC 31HB.45(d)(5) )",
+        "text": "A data plate containing information necessary for safe operation. (See AMC 31HB.45(d)(5))",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -1375,7 +1375,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 0,
-        "text": "Rigid extensions must not be fitted directly to fuel cell valves or fittings due to the likelihood of overload or fracture occurring in the case of a hard or fast landing. (See also CS 31HB.46 )",
+        "text": "Rigid extensions must not be fitted directly to fuel cell valves or fittings due to the likelihood of overload or fracture occurring in the case of a hard or fast landing. (See also CS 31HB.46)",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       }
@@ -1419,7 +1419,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "All parts of a pressurised fuel system must be generally robust and capable of withstanding impact and abuse loads and related deformation that are likely to occur in service. (See AMC 31HB.46(b) )",
+        "text": "All parts of a pressurised fuel system must be generally robust and capable of withstanding impact and abuse loads and related deformation that are likely to occur in service. (See AMC 31HB.46(b))",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -1435,7 +1435,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "No part of the system may have an unprotected rigid extension that could be broken in any likely impact situation. (See also CS 31HB.45(f) ).",
+        "text": "No part of the system may have an unprotected rigid extension that could be broken in any likely impact situation. (See also CS 31HB.45(f)).",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -1443,7 +1443,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "Where fuel systems include demountable fuel lines, a self-sealing coupling, or other means must be fitted to each outlet of each line to avoid the release of hazardous quantities of fuel should a fuel cell valve be inadvertently operated without a fuel line o utlet connected.",
+        "text": "Where fuel systems include demountable fuel lines, a self-sealing coupling, or other means must be fitted to each outlet of each line to avoid the release of hazardous quantities of fuel should a fuel cell valve be inadvertently operated without a fuel line outlet connected.",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       }
@@ -1503,7 +1503,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "Where a heater system has more than one fuel supply or more than one control on each fuel supply, there must be unambiguous means to differentiate between each control, its source of supply and its function. (See AMC 31HB.47(c)(1) )",
+        "text": "Where a heater system has more than one fuel supply or more than one control on each fuel supply, there must be unambiguous means to differentiate between each control, its source of supply and its function. (See AMC 31HB.47(c)(1))",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -1511,7 +1511,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "The heater system must have a device or other means to indicate the quantity of fuel available. (See AMC 31HB.47(c)(2) )",
+        "text": "The heater system must have a device or other means to indicate the quantity of fuel available. (See AMC 31HB.47(c)(2))",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -1519,7 +1519,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "For a burner, each control system must have a device that indicates whether the heat output is high, normal or low. (See AMC 31HB.47(c)(3) )",
+        "text": "For a burner, each control system must have a device that indicates whether the heat output is high, normal or low. (See AMC 31HB.47(c)(3))",
         "marker": "(3)",
         "pStyle": "ListLevel1"
       },
@@ -1559,7 +1559,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "Except in single-occupant balloons, the heater system must be designed so that in the event of any single failure, it will retain sufficient heat output to maintain level flight. (See AMC 31HB.47(f) )",
+        "text": "Except in single-occupant balloons, the heater system must be designed so that in the event of any single failure, it will retain sufficient heat output to maintain level flight. (See AMC 31HB.47(f))",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       }
@@ -1619,7 +1619,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "Each Hot Air Balloon must ha ve a means to allow the controlled release of hot air during flight unless the balloon complies with CS 31HB.20 without it.",
+        "text": "Each Hot Air Balloon must have a means to allow the controlled release of hot air during flight unless the balloon complies with CS 31HB.20 without it.",
         "marker": "(d)",
         "pStyle": "ListLevel0"
       },
@@ -1627,7 +1627,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "For the purpose of envelope material protection, each Hot Air Balloon must have a means to indicate the maximum envelope skin tem perature or maximum internal air temperature during operation. (See AMC 31HB.49(e) )",
+        "text": "For the purpose of envelope material protection, each Hot Air Balloon must have a means to indicate the maximum envelope skin temperature or maximum internal air temperature during operation. (See AMC 31HB.49(e))",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       }
@@ -1663,7 +1663,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Each mixed balloon using disposable ballast must have means for safe storage and release of the disposable ballast. (See AMC 31HB.51 )"
+        "text": "Each mixed balloon using disposable ballast must have means for safe storage and release of the disposable ballast. (See AMC 31HB.51)"
       }
     ]
   },
@@ -1731,7 +1731,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "The envelope must have means to allow for rapid deflation after landing. The system must be designed to minimize the possibility of inadvertent operation. If a system other than a manual system is used, the reliability of the system used must be substantiated. (See AMC 31HB.55(a) ).",
+        "text": "The envelope must have means to allow for rapid deflation after landing. The system must be designed to minimize the possibility of inadvertent operation. If a system other than a manual system is used, the reliability of the system used must be substantiated. (See AMC 31HB.55(a)).",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -1739,7 +1739,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "If a mixed balloon is equipped with a lateral rapid deflation means, a device must be i nstalled to align the balloon during landing in order to turn the rapid deflation means into its designated position. (See AMC 31HB.55(b) )",
+        "text": "If a mixed balloon is equipped with a lateral rapid deflation means, a device must be installed to align the balloon during landing in order to turn the rapid deflation means into its designated position. (See AMC 31HB.55(b))",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       }
@@ -1830,7 +1830,7 @@
         "type": "paragraph",
         "index": 10,
         "level": -1,
-        "text": "If turning vent cords are used to orient the balloon for landing, the part of cords to be handled by the pilot for turning to the left must be coloured black and the corresponding part of the cord used for turning to the right must be coloured green. (See AMC 31HB.57(c) ).",
+        "text": "If turning vent cords are used to orient the balloon for landing, the part of cords to be handled by the pilot for turning to the left must be coloured black and the corresponding part of the cord used for turning to the right must be coloured green. (See AMC 31HB.57(c)).",
         "pStyle": "Normal1"
       },
       {
@@ -1906,7 +1906,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11/ 0 13/ R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -1937,7 +1937,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "(See AMC 31HB.59(a) )",
+        "text": "(See AMC 31HB.59(a))",
         "pStyle": "Normal1"
       },
       {
@@ -1968,7 +1968,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 1,
-        "text": "serious injuries. (See AMC 31HB.59(c) )",
+        "text": "serious injuries. (See AMC 31HB.59(c))",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -1984,7 +1984,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 0,
-        "text": "Where basket proportions and compartmentation are such that more than one occupant may fall on top of another during landing, there must be means to minimise this possibility. (See AMC 31HB.59(e) )",
+        "text": "Where basket proportions and compartmentation are such that more than one occupant may fall on top of another during landing, there must be means to minimise this possibility. (See AMC 31HB.59(e))",
         "marker": "(e)",
         "pStyle": "ListLevel0"
       },
@@ -1992,7 +1992,7 @@
         "type": "paragraph",
         "index": 13,
         "level": 0,
-        "text": "Reasonable space must be provided for all occupants, with regard to both comfort during the flight and to safety during the landing. (See AMC 31HB.59(f) )",
+        "text": "Reasonable space must be provided for all occupants, with regard to both comfort during the flight and to safety during the landing. (See AMC 31HB.59(f))",
         "marker": "(f)",
         "pStyle": "ListLevel0"
       },
@@ -2008,7 +2008,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 0,
-        "text": "There must be hand holds for each occupant. (See AMC 31HB.59(h) )",
+        "text": "There must be hand holds for each occupant. (See AMC 31HB.59(h))",
         "marker": "(h)",
         "pStyle": "ListLevel0"
       },
@@ -2040,7 +2040,7 @@
         "type": "paragraph",
         "index": 19,
         "level": 0,
-        "text": "Limitations on the occupancy and configuration of a basket must be provided in the Flight Manual. ( See CS 31HB.81 and AMC 31HB.59(l) )",
+        "text": "Limitations on the occupancy and configuration of a basket must be provided in the Flight Manual. (See CS 31HB.81 and AMC 31HB.59(l))",
         "marker": "(l)",
         "pStyle": "ListLevel0"
       },
@@ -2048,7 +2048,7 @@
         "type": "paragraph",
         "index": 20,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -2083,7 +2083,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "There must be a restraining means for all occupants, which can take the form of hand holds. (See CS 31HB.59(h) )",
+        "text": "There must be a restraining means for all occupants, which can take the form of hand holds. (See CS 31HB.59(h))",
         "marker": "(a)",
         "pStyle": "ListLevel0"
       },
@@ -2091,7 +2091,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "For baskets having a separate pilot compartment, there must be a suitable restraint for the pilot which must meet the strength requirements of CS 31HB.30 . Additionally, the restraint must be designed so that:",
+        "text": "For baskets having a separate pilot compartment, there must be a suitable restraint for the pilot which must meet the strength requirements of CS 31HB.30. Additionally, the restraint must be designed so that:",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -2151,7 +2151,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The pilot must be provided with an indication that any applicable limitations for tethered flight are being, or have been reached. (See AMC 31HB.67 )"
+        "text": "The pilot must be provided with an indication that any applicable limitations for tethered flight are being, or have been reached. (See AMC 31HB.67)"
       }
     ]
   },
@@ -2217,7 +2217,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "function properly when installed. (See AMC 31HB.71(a)(4) )",
+        "text": "function properly when installed. (See AMC 31HB.71(a)(4))",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -2254,7 +2254,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11/013 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -2283,7 +2283,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 1,
-        "text": "An envelope temperature indicator, which may either be of the continuous reading type or a type that gives a warning signal. (See also CS 31HB.49(e) )",
+        "text": "An envelope temperature indicator, which may either be of the continuous reading type or a type that gives a warning signal. (See also CS 31HB.49(e))",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -2299,7 +2299,7 @@
         "type": "paragraph",
         "index": 8,
         "level": 1,
-        "text": "A fire extinguisher. (See AMC 31HB.72(a)(4) )",
+        "text": "A fire extinguisher. (See AMC 31HB.72(a)(4))",
         "marker": "(4)",
         "pStyle": "ListLevel1"
       },
@@ -2307,7 +2307,7 @@
         "type": "paragraph",
         "index": 9,
         "level": 0,
-        "text": "A 'kit' of tethering components, if the balloon is specifically approved for tethered operations. (See CS 31HB.28 )",
+        "text": "A 'kit' of tethering components, if the balloon is specifically approved for tethered operations. (See CS 31HB.28)",
         "marker": "(b)",
         "pStyle": "ListLevel0"
       },
@@ -2323,7 +2323,7 @@
         "type": "paragraph",
         "index": 11,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -2358,7 +2358,7 @@
         "type": "paragraph",
         "index": 3,
         "level": 0,
-        "text": "(See AMC 31HB.81 )",
+        "text": "(See AMC 31HB.81)",
         "pStyle": "ListLevel0"
       },
       {
@@ -2389,7 +2389,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "Operating limitations, normal procedures (including rigging, inflation and deflation), emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation. This section of the manual requires approval (See AMC 31HB.81(b)(2) );",
+        "text": "Operating limitations, normal procedures (including rigging, inflation and deflation), emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation. This section of the manual requires approval (See AMC 31HB.81(b)(2));",
         "marker": "(2)",
         "pStyle": "ListLevel1"
       },
@@ -2413,7 +2413,7 @@
         "type": "paragraph",
         "index": 10,
         "level": 0,
-        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation must be provided to the pilot. (See AMC 31HB.81(c) )",
+        "text": "The operating limitations, normal and emergency procedures, and other relevant information specific to the balloon’s operating characteristics and necessary for safe operation must be provided to the pilot. (See AMC 31HB.81(c))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       }
@@ -2435,7 +2435,7 @@
         "type": "paragraph",
         "index": 1,
         "level": -1,
-        "text": "CS 31HB.82 Instructi ons for continued airworthiness",
+        "text": "CS 31HB.82 Instructions for continued airworthiness",
         "pStyle": "Heading3CS"
       },
       {
@@ -2465,7 +2465,7 @@
         "type": "paragraph",
         "index": 5,
         "level": 0,
-        "text": "The format of the manual or manuals must provide for a practical arrangement. (See AMC 31HB.82(c) )",
+        "text": "The format of the manual or manuals must provide for a practical arrangement. (See AMC 31HB.82(c))",
         "marker": "(c)",
         "pStyle": "ListLevel0"
       },
@@ -2481,7 +2481,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 1,
-        "text": "a detailed description of the balloon and its components, systems and installations; (See AMC 31HB.82(d)(1) )",
+        "text": "a detailed description of the balloon and its components, systems and installations; (See AMC 31HB.82(d)(1))",
         "marker": "(1)",
         "pStyle": "ListLevel1"
       },
@@ -2513,7 +2513,7 @@
         "type": "paragraph",
         "index": 11,
         "level": 1,
-        "text": "a maintenance schedule against which the balloon must be inspected and maintained; (See AMC 31HB.82(d)(5) )",
+        "text": "a maintenance schedule against which the balloon must be inspected and maintained; (See AMC 31HB.82(d)(5))",
         "marker": "(5)",
         "pStyle": "ListLevel1"
       },
@@ -2521,7 +2521,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "maintenance and inspection instructions; (See AMC 31HB.82(d)(6) )",
+        "text": "maintenance and inspection instructions; (See AMC 31HB.82(d)(6))",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       },
@@ -2545,7 +2545,7 @@
         "type": "paragraph",
         "index": 15,
         "level": 1,
-        "text": "airworthiness limitations that set forth each mandatory replacement time, inspection interval and related inspection procedure. This section of the manual requires approval. (See AMC 31HB.82(d)(9) )",
+        "text": "airworthiness limitations that set forth each mandatory replacement time, inspection interval and related inspection procedure. This section of the manual requires approval. (See AMC 31HB.82(d)(9))",
         "marker": "(9)",
         "pStyle": "ListLevel1"
       }
@@ -2649,7 +2649,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The equipment and configuration that is included in the empty mass should be specified. Refer also to AMC 31HB.81(b)(2) ."
+        "text": "The equipment and configuration that is included in the empty mass should be specified. Refer also to AMC 31HB.81(b)(2)."
       }
     ]
   },
@@ -2710,7 +2710,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11 /0 13 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -2741,7 +2741,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -2936,7 +2936,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -3113,7 +3113,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC 31HB.33(a) ."
+        "text": "Approved specifications in the sense of these requirements are the standards described in the AMC 31HB.33(a)."
       }
     ]
   },
@@ -3153,7 +3153,7 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "To ensure the suitable protection of parts against deterioration or loss of strength, it is permissible to rely on instructions for continued airworthiness (e.g. recommended inspections or mandatory replacement of parts) (See also CS 31HB.82 )."
+        "text": "To ensure the suitable protection of parts against deterioration or loss of strength, it is permissible to rely on instructions for continued airworthiness (e.g. recommended inspections or mandatory replacement of parts) (See also CS 31HB.82)."
       }
     ]
   },
@@ -3343,7 +3343,7 @@
         "type": "paragraph",
         "index": 22,
         "level": -1,
-        "text": "The design of the envelope and pre-flight Inspection method should be such that visible damage considerably smaller in length than the critical damage length can be detected during a pre-flight inspection. The impact of ageing and operating circumstances should be considered when establishing the margin between critical damage and detectable damage length (refer to CS 31HB.27(f) )."
+        "text": "The design of the envelope and pre-flight Inspection method should be such that visible damage considerably smaller in length than the critical damage length can be detected during a pre-flight inspection. The impact of ageing and operating circumstances should be considered when establishing the margin between critical damage and detectable damage length (refer to CS 31HB.27(f))."
       },
       {
         "type": "paragraph",
@@ -3355,7 +3355,7 @@
         "type": "paragraph",
         "index": 24,
         "level": -1,
-        "text": "Note 1: It is assumed that a visual pre-flight inspect ion will detect damage above 10 cm."
+        "text": "Note 1: It is assumed that a visual pre-flight inspection will detect damage above 10 cm."
       },
       {
         "type": "paragraph",
@@ -3367,7 +3367,7 @@
         "type": "paragraph",
         "index": 26,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -3448,13 +3448,13 @@
         "type": "paragraph",
         "index": 4,
         "level": -1,
-        "text": "In case of fuel cells supported at the lower end by the basket floor or other structure, the straps and buckle restraining a fuel cell shall be designed as applicable to a horizontal limit load of 6 . 0g and upward limit load of 2 . 0g. The factor of safety of 1 . 50 is applicable to these fuel cell straps."
+        "text": "In case of fuel cells supported at the lower end by the basket floor or other structure, the straps and buckle restraining a fuel cell shall be designed as applicable to a horizontal limit load of 6.0g and upward limit load of 2.0g. The factor of safety of 1.50 is applicable to these fuel cell straps."
       },
       {
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "The strap and buckle design should be shown to maintain sufficient pre-tensioned after a flight to withs tand the upward limit load of 2 . 0g. The handling of the strap and buckle shall allow proper pre-tension, reliable locking, but also easy release e.g. for emergency fuel cell removal. Industry standards like EN 12195-2, ASTM D3950 or equivalent using the appropriate strap type and grade are co nsidered appropriate standards."
+        "text": "The strap and buckle design should be shown to maintain sufficient pre-tensioned after a flight to withstand the upward limit load of 2.0g. The handling of the strap and buckle shall allow proper pre-tension, reliable locking, but also easy release e.g. for emergency fuel cell removal. Industry standards like EN 12195-2, ASTM D3950 or equivalent using the appropriate strap type and grade are considered appropriate standards."
       },
       {
         "type": "paragraph",
@@ -3466,7 +3466,7 @@
         "type": "paragraph",
         "index": 7,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -3576,7 +3576,7 @@
         "type": "paragraph",
         "index": 9,
         "level": -1,
-        "text": "Note: T he data plate should include, where applicable, information to allow safe filling by commercial facilities (e.g. filling by weight). Where a fuel cell has been designed to a standard which is not compatible with comparable industrial standards, the data pl ate should include the statement “For use in Hot Air Balloons only”."
+        "text": "Note: The data plate should include, where applicable, information to allow safe filling by commercial facilities (e.g. filling by weight). Where a fuel cell has been designed to a standard which is not compatible with comparable industrial standards, the data plate should include the statement “For use in Hot Air Balloons only”."
       }
     ]
   },
@@ -3637,7 +3637,7 @@
         "type": "paragraph",
         "index": 7,
         "level": 0,
-        "text": "fittings .",
+        "text": "fittings.",
         "pStyle": "bullet0"
       }
     ]
@@ -3684,7 +3684,7 @@
         "type": "paragraph",
         "index": 5,
         "level": -1,
-        "text": "Note : Commercially available brass fittings for LPG systems should not be used as they have been shown not to have the required level of robustness."
+        "text": "Note: Commercially available brass fittings for LPG systems should not be used as they have been shown not to have the required level of robustness."
       },
       {
         "type": "paragraph",
@@ -4298,7 +4298,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "Note : Operational legislation may also require pilot restraint to be fitted to balloons which have a single compartment basket."
+        "text": "Note: Operational legislation may also require pilot restraint to be fitted to balloons which have a single compartment basket."
       }
     ]
   },
@@ -4332,7 +4332,7 @@
         "type": "paragraph",
         "index": 3,
         "level": -1,
-        "text": "The inclusion of an appropriate device or instrument (rated \"weak link\", hand held anemometer, windsock etc.) to provide the pilot with an attention-getting indication of the balloon’s tethering limitation, is considered compliant with CS 31HB.67 ."
+        "text": "The inclusion of an appropriate device or instrument (rated \"weak link\", hand held anemometer, windsock etc.) to provide the pilot with an attention-getting indication of the balloon’s tethering limitation, is considered compliant with CS 31HB.67."
       }
     ]
   },
@@ -4399,7 +4399,7 @@
         "type": "paragraph",
         "index": 2,
         "level": -1,
-        "text": "ED Decision 20 11 /0 13 /R",
+        "text": "ED Decision 2011/013/R",
         "pStyle": "Dxshortdesc"
       },
       {
@@ -4428,7 +4428,7 @@
         "type": "paragraph",
         "index": 6,
         "level": -1,
-        "text": "[Amdt No . : 31HB/1]",
+        "text": "[Amdt No.: 31HB/1]",
         "pStyle": "TableNormal0"
       }
     ]
@@ -4487,7 +4487,7 @@
         "type": "paragraph",
         "index": 6,
         "level": 0,
-        "text": "If applicable, the operating limitations, normal and emergency procedures should include procedures and limitations for tethered flig ht. These procedures and limitations should include:",
+        "text": "If applicable, the operating limitations, normal and emergency procedures should include procedures and limitations for tethered flight. These procedures and limitations should include:",
         "marker": "(iv)",
         "pStyle": "ListLevel0"
       },
@@ -4535,7 +4535,7 @@
         "type": "paragraph",
         "index": 12,
         "level": 1,
-        "text": "limitations on occupancy (if applicable ).",
+        "text": "limitations on occupancy (if applicable).",
         "marker": "(6)",
         "pStyle": "ListLevel1"
       }
@@ -4647,7 +4647,7 @@
         "type": "paragraph",
         "index": 4,
         "level": 0,
-        "text": "If manuals from different manufacturers are used they should p rovide a practical arrangement.",
+        "text": "If manuals from different manufacturers are used they should provide a practical arrangement.",
         "marker": "(ii)",
         "pStyle": "ListLevel0"
       }
