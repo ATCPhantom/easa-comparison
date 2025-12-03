@@ -74,7 +74,8 @@
       "March 2018.json"
     ],
     "Initial airworthiness": [
-      "July 2024.json"
+      "July 2024.json",
+      "November 2025.json"
     ],
     "large aeroplane": [
       "January 2023.json"
@@ -114,7 +115,8 @@
       "July 2020.json"
     ],
     "aircrew": [
-      "December 2024.json"
+      "December 2024.json",
+      "November 2025.json"
     ],
     "flight crew data": [
       "June 2023.json"
