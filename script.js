@@ -5,6 +5,8 @@ let currentRegulation = null;
 let globalNewTopics = [];
 let globalChangedTopics = [];
 let globalRemovedTopics = [];
+let updateNewTopicIds = new Set();
+let updateChangedTopicIds = new Set();
 let currentMode = 'view' // or 'export'
 
 const titleOverrides = {
@@ -148,10 +150,13 @@ async function handleMatrixUploadClick() {
       return;
     }
 
-    // Set current state for export
+    // Set current state
     currentCategory = category;
     currentRegulation = regulation;
-    //currentMode = 'export';
+
+    // Compute regulation-level differences
+    await computeUpdateDifferences(meta.version, latestVersion);
+    
     selectedVersions = [latestVersion];
 
     // Close modal
@@ -456,6 +461,10 @@ async function compareVersions() {
 }
 
 async function startExportMatrix() {
+  if (currentMode === "export" && !window.previousMatrixMap) {
+    updateNewTopicIds.clear();
+  }
+  
   if (currentMode === "export"){
     if (!selectedVersions.length) return;
 
@@ -957,40 +966,119 @@ function showExportModal(topics) {
     const sectionId = getSectionId(groupIndex, 'export')
     const sectionLines = [...group.sections].reverse().map((sec, i, arr) => {
       const isMostSpecific = i === arr.length - 1;
-      const fontWeight = isMostSpecific ? 700 : 600;
-      const fontSize = isMostSpecific ? '1.05rem' : '0.9rem';
 
       if (isMostSpecific) {
         return `
-          <div class="form-check">
-            <input class="form-check-input" type="checkbox" id="${sectionId}-check" onclick="toggleSectionCheckbox('${sectionId}')">
-            <label class="form-check-label fw-bold" for="${sectionId}-check" style="font-weight: ${fontWeight}; font-size: ${fontSize};">
-              ${sec}
-            </label>
+          <div class="export-section-main">
+            <div class="form-check">
+              <input class="form-check-input"
+                     type="checkbox"
+                     id="${sectionId}-check"
+                     onclick="toggleSectionCheckbox('${sectionId}')">
+              <label class="form-check-label"
+                     for="${sectionId}-check">
+                ${sec}
+              </label>
+            </div>
           </div>
         `;
       } else {
-        return `<div style="font-weight: ${fontWeight}; font-size: ${fontSize};">${sec}</div>`;
+        return `
+          <div class="export-section-parent">
+            ${sec}
+          </div>
+        `;
       }
     }).join('');
 
     html += `
       <div class="mb-3">
         <div class="export-section-group">
-          <div class="subject-header d-flex justify-content-between align-items-center" onclick="toggleSection(event, '${sectionId}')">
-            <div>
-              ${sectionLines}
+          <div class="subject-header">
+            
+            <!-- Title row -->
+            <div class="subpart-title d-flex justify-content-between align-items-start"
+                 onclick="toggleSection(event, '${sectionId}')">
+              <div>
+                ${sectionLines}
+              </div>
+              <span id="${sectionId}-arrow">▾</span>
             </div>
-            <span id="${sectionId}-arrow">▾</span>
+
+            <!-- Subpart selection controls -->
+            <div class="subpart-controls">
+              <div class="subpart-select-buttons">
+                <button type="button"
+                        class="subpart-chip chip-ir"
+                        onclick="handleExportSubpartSelection('${sectionId}', 'IR')">IR</button>
+
+                <button type="button"
+                        class="subpart-chip chip-amc"
+                        onclick="handleExportSubpartSelection('${sectionId}', 'AMC')">AMC</button>
+
+                <button type="button"
+                        class="subpart-chip chip-gm"
+                        onclick="handleExportSubpartSelection('${sectionId}', 'GM')">GM</button>
+
+                <button type="button"
+                        class="subpart-chip chip-all"
+                        onclick="handleExportSubpartSelection('${sectionId}', 'ALL')">ALL</button>
+              </div>
+            </div>
           </div>
           <div id="${sectionId}" class="ms-3">
             ${group.topics.map((t, i) => {
               const id = `${sectionId}-topic-${i}`;
               const title = titleOverrides[t.erulesId] || t.title || '[Untitled]';
+              const topicType = (t.type || '').trim();
+              
+              const isNewTopic = updateNewTopicIds.has(t.erulesId);
+              const isChangedTopic = updateChangedTopicIds.has(t.erulesId);
+
+              let shortType = "MISC";
+              let pillClass = "pill-misc";
+              let bgClass = "export-misc-bg";
+
+              if (
+                topicType === "IR (Implementing rule);" ||
+                topicType === "DR (Delegated rule);"
+              ) {
+                shortType = topicType.includes("Delegated") ? "DR" : "IR";
+                pillClass = "pill-ir";
+                bgClass = "export-ir-bg";
+              } else if (topicType === "CS (Certification specification);") {
+                shortType = "CS";
+                pillClass = "pill-cs";
+                bgClass = "export-cs-bg";
+              } else if (topicType.startsWith("AMC to ")) {
+                shortType = "AMC";
+                pillClass = "pill-amc";
+                bgClass = "export-amc-bg";
+              } else if (topicType.startsWith("GM to ")) {
+                shortType = "GM";
+                pillClass = "pill-gm";
+                bgClass = "export-gm-bg";
+              }
+
               return `
-                <div class="form-check">
-                  <input class="form-check-input" type="checkbox" style="border: 2px solid #333;" id="${id}" data-erulesid="${t.erulesId}" ${window.previousMatrixMap?.[t.erulesId] ? 'checked' : ''}>
-                  <label class="form-check-label" for="${id}">${title}</label>
+                <div class="form-check export-row ${bgClass}">
+                  <input class="form-check-input"
+                         type="checkbox"
+                         style="border: 2px solid #333;"
+                         id="${id}"
+                         data-erulesid="${t.erulesId}"
+                         ${window.previousMatrixMap?.[t.erulesId] ? 'checked' : ''}>
+
+                  <label class="form-check-label d-flex align-items-start gap-2" for="${id}">
+                    <span class="type-pill ${pillClass}">${shortType}</span>
+
+                    <span class="flex-grow-1">
+                      ${title}
+                    </span>
+
+                    ${isNewTopic ? `<span class="new-badge">NEW</span>` : ''}
+                    ${!isNewTopic && isChangedTopic ? `<span class="updated-badge">UPDATED</span>` : ''}
+                  </label>
                 </div>
               `;
             }).join('')}
@@ -1006,6 +1094,44 @@ function showExportModal(topics) {
   modal.show();
 }
 
+async function computeUpdateDifferences(oldVersionLabel, latestVersionFile) {
+
+  updateNewTopicIds.clear();
+  updateChangedTopicIds.clear();
+
+  if (!oldVersionLabel || !latestVersionFile) return;
+
+  const oldFile = `json/${currentCategory}/${currentRegulation}/${oldVersionLabel}.json`;
+  const newFile = `json/${currentCategory}/${currentRegulation}/${latestVersionFile}`;
+
+  try {
+    const [oldData, newData] = await Promise.all([
+      fetch(oldFile).then(res => res.json()),
+      fetch(newFile).then(res => res.json())
+    ]);
+
+    const oldMap = Object.fromEntries(oldData.map(t => [t.erulesId, t]));
+
+    newData.forEach(topic => {
+
+      // Completely new topic
+      if (!oldMap[topic.erulesId]) {
+        updateNewTopicIds.add(topic.erulesId);
+        return;
+      }
+
+      // Existing topic with added content
+      if (topic.content?.some(p => p.change === 'added')) {
+        updateChangedTopicIds.add(topic.erulesId);
+      }
+
+    });
+
+  } catch (err) {
+    console.warn("Could not compute update differences:", err);
+  }
+}
+
 function exportToExcel() {
   const topics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
   showExportModal(topics);
@@ -1015,6 +1141,47 @@ function toggleSectionCheckbox(sectionId) {
   const groupChecked = document.getElementById(`${sectionId}-check`)?.checked;
   const checkboxes = document.querySelectorAll(`#${sectionId} input[type="checkbox"]`)
   checkboxes.forEach(cb => cb.checked = groupChecked);
+}
+
+function handleExportSubpartSelection(sectionId, type) {
+  const container = document.getElementById(sectionId);
+  if (!container) return;
+
+  const checkboxes = Array.from(
+    container.querySelectorAll('input[type="checkbox"][data-erulesid]')
+  );
+
+  const allTopics = [...globalNewTopics, ...globalChangedTopics, ...globalRemovedTopics];
+
+  const matchesType = (topicType, checkType) => {
+    if (checkType === "IR") {
+      return (
+        topicType === "IR (Implementing rule);" ||
+        topicType === "DR (Delegated rule);" ||
+        topicType === "CS (Certification specification);"
+      );
+    }
+    if (checkType === "AMC") return topicType.startsWith("AMC to ");
+    if (checkType === "GM") return topicType.startsWith("GM to ");
+    return true; // ALL
+  };
+
+  if (type === "ALL") {
+    const allChecked = checkboxes.every(cb => cb.checked);
+    checkboxes.forEach(cb => cb.checked = !allChecked);
+    return;
+  }
+
+  const matchingCheckboxes = checkboxes.filter(cb => {
+    const topic = allTopics.find(t => t.erulesId === cb.dataset.erulesid);
+    return topic && matchesType(topic.type || "", type);
+  });
+
+  const allChecked = matchingCheckboxes.every(cb => cb.checked);
+
+  matchingCheckboxes.forEach(cb => {
+    cb.checked = !allChecked;
+  });
 }
 
 function getSectionId(index, mode = 'view') {

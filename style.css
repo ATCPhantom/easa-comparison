@@ -277,20 +277,143 @@ body {
   background-color: #ead9f2;
 }
 
+
+/*
+################################
+#####  EXPORT MODAL START  #####
+################################
+*/
+
 .subject-header {
   cursor: pointer;
   padding: 8px 12px;
-  background-color: #9299a0;
+  background-color: #bac2cc;
   border: 1px solid #dee2e6;
   border-radius: 0.375rem;
   margin-bottom: 6px;
+}
+
+/* Subpart header layout */
+.subpart-title {
+  cursor: pointer;
+}
+
+/* Selection controls row */
+.subpart-controls {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+
+/* Button styling */
+.subpart-select-buttons button {
+  padding: 2px 8px;
+  font-size: 11px;
+  margin-right: 6px;
+}
+
+/* Parent levels General section */
+.export-section-parent {
+  font-size: 0.82rem;
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+/* Most specific subpart */
+.export-section-main {
+  font-size: 0.9rem;
   font-weight: 600;
 }
 
-.subject-header span.arrow {
-  font-size: 2rem;
-  color: #333;
+/* Checkbox label inside main section */
+.export-section-main .form-check-label {
+  font-weight: 600;
 }
+
+/* Base chip style */
+.subpart-chip {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  border: 1.5px solid;
+  background-color: rgba(255,255,255,0.15);
+}
+
+/* IR */
+.chip-ir {
+  color: #007fc2;
+  border-color: #007fc2;
+  background-color: rgba(0,127,194,0.12);
+}
+
+.chip-ir:hover {
+  background-color: rgba(0,127,194,0.25);
+}
+
+/* AMC */
+.chip-amc {
+  color: #7a5a00;
+  border-color: #fbbc39;
+  background-color: rgba(251,188,57,0.18);
+}
+
+.chip-amc:hover {
+  background-color: rgba(251,188,57,0.30);
+}
+
+/* GM */
+.chip-gm {
+  color: #0f7d4a;
+  border-color: #16cc7f;
+  background-color: rgba(22,204,127,0.18);
+}
+
+.chip-gm:hover {
+  background-color: rgba(22,204,127,0.30);
+}
+
+/* ALL */
+.chip-all {
+  color: #333;
+  border-color: #777;
+  background-color: rgba(255,255,255,0.25);
+}
+
+.chip-all:hover {
+  background-color: rgba(255,255,255,0.40);
+}
+
+/* NEW badge for update flow */
+.new-badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background-color: #dc3545;  /* bootstrap danger red */
+  color: white;
+  align-self: flex-start;
+}
+
+.updated-badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background-color: #ffc107;
+  color: #222;
+  align-self: flex-start;
+}
+
+
+/*
+##############################
+#####  EXPORT MODAL END  #####
+##############################
+*/
+
 
 .subject-topic-list.d-none {
   display: none;
@@ -402,4 +525,109 @@ table.table td {
   background-color: #000 !important;
   color: white !important;
   border-color: #000 !important;
+}
+
+/* Export modal topic type styling */
+.export-topic {
+  border-left: 18px solid transparent;
+  padding-left: 8px;
+  border-radius: 4px;
+  transition: background-color 0.15s ease;
+}
+
+.export-topic:hover {
+  background-color: #f1f1f1;
+}
+
+.export-ir {
+  border-left-color: #007fc2;
+}
+
+.export-cs {
+  border-left-color: #222f64;
+}
+
+.export-amc {
+  border-left-color: #fbbc39;
+}
+
+.export-gm {
+  border-left-color: #16cc7f;
+}
+
+.export-misc {
+  border-left-color: #b3b3cc;
+}
+
+/* Export modal type pill */
+.type-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 48px;
+  height: 20px;
+  
+  font-size: 10px;
+  font-weight: 700;
+  border-radius: 4px;
+
+  color: white;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+/* Individual type colors */
+.pill-ir {
+  background-color: #007fc2;
+}
+
+.pill-cs {
+  background-color: #222f64;
+}
+
+.pill-amc {
+  background-color: #fbbc39;
+  color: #222; /* better contrast for yellow */
+}
+
+.pill-gm {
+  background-color: #16cc7f;
+}
+
+.pill-misc {
+  background-color: #b3b3cc;
+}
+
+/* Subtle background tint for export rows */
+.export-row {
+  padding: 4px 6px;
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
+}
+
+/* Very light tints (10–15% opacity effect) */
+.export-ir-bg {
+  background-color: rgba(0, 127, 194, 0.25);
+}
+
+.export-cs-bg {
+  background-color: rgba(34, 47, 100, 0.25);
+}
+
+.export-amc-bg {
+  background-color: rgba(251, 188, 57, 0.25);
+}
+
+.export-gm-bg {
+  background-color: rgba(22, 204, 127, 0.28);
+}
+
+.export-misc-bg {
+  background-color: rgba(179, 179, 204, 0.28);
+}
+
+/* Slight hover intensification */
+.export-row:hover {
+  filter: brightness(0.8);
 }
