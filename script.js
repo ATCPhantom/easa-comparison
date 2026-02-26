@@ -494,6 +494,13 @@ async function handleMatrixUpload(event) {
     const sheet = workbook.worksheets[0];
     const lastRow = sheet.lastRow ? sheet.lastRow.number : 0;
 
+    // Store user-set column widths
+    window.previousColumnWidths = {
+      L: sheet.getColumn(12).width,
+      M: sheet.getColumn(13).width,
+      N: sheet.getColumn(14).width
+    };
+
     // Helper to get text from ExcelJS cell value
     function getCellText(cell) {
       if (!cell) return '';
@@ -522,11 +529,17 @@ async function handleMatrixUpload(event) {
         if (text && !parts.includes(text)) parts.push(text); // avoid duplicates
       }
       const rowText = parts.join(' ').trim();
+      
+      const rowHeight = row.height;
 
       // User-input columns
-      const compliance = getCellText(row.getCell(12));
-      const reference = getCellText(row.getCell(13));
-      const comment = getCellText(row.getCell(14));
+      const complianceCell = row.getCell(12);
+      const referenceCell = row.getCell(13);
+      const commentCell = row.getCell(14);
+
+      const compliance = getCellText(complianceCell);
+      const reference = getCellText(referenceCell);
+      const comment = getCellText(commentCell);
 
       // When we encounter a new topic (title row)
       if (erulesId) {
@@ -541,9 +554,31 @@ async function handleMatrixUpload(event) {
       if (currentId && (rowText || compliance || reference || comment)) {
         parsedMap[currentId].rows.push({
           key: rowText,
-          compliance,
-          reference,
-          comment
+          rowHeight: row.height,
+
+          compliance: {
+            value: complianceCell.value,
+            font: complianceCell.font,
+            fill: complianceCell.fill,
+            alignment: complianceCell.alignment,
+            border: complianceCell.border
+          },
+
+          reference: {
+            value: referenceCell.value,
+            font: referenceCell.font,
+            fill: referenceCell.fill,
+            alignment: referenceCell.alignment,
+            border: referenceCell.border
+          },
+
+          comment: {
+            value: commentCell.value,
+            font: commentCell.font,
+            fill: commentCell.fill,
+            alignment: commentCell.alignment,
+            border: commentCell.border
+          }
         });
       }
     }
@@ -1283,6 +1318,18 @@ async function exportExcelJS() {
   ];
   sheet.mergeCells(`A1:K1`);
 
+  // store user  column-widths if they exist
+  if (window.previousColumnWidths) {
+    if (window.previousColumnWidths.L)
+      sheet.getColumn(12).width = window.previousColumnWidths.L;
+
+    if (window.previousColumnWidths.M)
+      sheet.getColumn(13).width = window.previousColumnWidths.M;
+
+    if (window.previousColumnWidths.N)
+      sheet.getColumn(14).width = window.previousColumnWidths.N;
+  }
+
   // Style header row
   const headerRow = sheet.getRow(1);
   headerRow.eachCell(cell => {
@@ -1503,6 +1550,7 @@ async function exportExcelJS() {
             }
 
             row.height = maxHeight;
+
             row.commit();
             rowIndex++;
           });
@@ -1577,28 +1625,39 @@ async function exportExcelJS() {
           }
         }
 
+        let match = null;
+
         const topicData = window.previousMatrixMap?.[topic.erulesId];
         if (topicData?.rows?.length) {
-          const lineMarker = line.marker
-          const lineText = line.text
-          let content = ''
-          
-          if (lineMarker){
-            content = lineMarker + ' ' + lineText
-          } else {
-            content = lineText
-          };
 
-          //console.log(content)
-          
-          const match = topicData.rows.find(r => r.key === content);
+          const lineMarker = line.marker;
+          const lineText = line.text;
+
+          let content = lineMarker ? lineMarker + ' ' + lineText : lineText;
+
+          match = topicData.rows.find(r => r.key === content);
+
           if (match) {
-            sheet.getCell(`L${rowIndex}`).value = match.compliance || '';
-            sheet.getCell(`M${rowIndex}`).value = match.reference || '';
-            sheet.getCell(`N${rowIndex}`).value = match.comment || '';
+            const applyCell = (targetCell, sourceData) => {
+              if (!sourceData) return;
+
+              targetCell.value = sourceData.value;
+              if (sourceData.font) targetCell.font = { ...sourceData.font };
+              if (sourceData.fill) targetCell.fill = { ...sourceData.fill };
+              if (sourceData.alignment) targetCell.alignment = { ...sourceData.alignment };
+              if (sourceData.border) targetCell.border = { ...sourceData.border };
+            };
+
+            applyCell(sheet.getCell(`L${rowIndex}`), match.compliance);
+            applyCell(sheet.getCell(`M${rowIndex}`), match.reference);
+            applyCell(sheet.getCell(`N${rowIndex}`), match.comment);
           }
         }
 
+        // Override height if custome height is set
+        if (match?.rowHeight != null) {
+          row.height = match.rowHeight;
+        }
 
         row.commit();
         rowIndex++;
@@ -1708,8 +1767,8 @@ function estimateRowHeight(text, colWidth, fontSize = 11) {
 
   // Approximate max chars per line based on column width (rough estimate)
   // 1 Excel column width unit ~ 7 pixels, 1 char ~ 7 pixels wide (variable font, but close enough)
-  const approxCharPerLine = colWidth * 7 / 7; // simplify to colWidth in chars
-  const heightMultipler = 1
+  const approxCharPerLine = colWidth * 0.9;
+  const heightMultipler = 1.1
 
   // Split text by line breaks
   const lines = text.split('\n');
@@ -1720,12 +1779,12 @@ function estimateRowHeight(text, colWidth, fontSize = 11) {
     wrappedLines += Math.ceil(line.length / approxCharPerLine);
   }
 
-  const lineHeight = fontSize + 4
+  const lineHeight = fontSize * 1.35
 
-  const height = wrappedLines * lineHeight;
+  const height = wrappedLines * lineHeight * heightMultipler;
 
   // Minimum height to avoid too small rows
-  return Math.max(height, 16);
+  return Math.max(height, 18);
 }
 
 function sortVersionsByDate(v1, v2) {
